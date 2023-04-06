@@ -5,9 +5,9 @@ solution: Target
 role: Developer
 badge: label="Test AD0-E406" type="positive"
 mini-toc-levels: 1
-source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '1420'
+source-wordcount: '1422'
 ht-degree: 0%
 
 ---
@@ -218,4 +218,4 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Weitere Fragen? Email `certif@adobe.com`.
+Weitere Fragen? [Kontakt](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

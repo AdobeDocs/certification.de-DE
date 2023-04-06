@@ -3,9 +3,9 @@ title: Zertifikat bei Adobe erhalten
 description: Erfahren Sie, wie Sie bei der Adobe zertifiziert werden. Finden Sie alle Ressourcen, die Sie vor, während und nach der Zertifizierung benötigen.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1466'
 ht-degree: 1%
 
 ---
@@ -213,4 +213,4 @@ Ihr Abzeichen dient als greifbarer Beweis für Ihre Kompetenz mit Adobe Experien
 
 Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Weitere Fragen? Email `certif@adobe.com`.
+Weitere Fragen? [Kontakt](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
