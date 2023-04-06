@@ -3,9 +3,9 @@ title: Zertifikat bei Adobe erhalten
 description: Erfahren Sie, wie Sie bei der Adobe zertifiziert werden. Finden Sie alle Ressourcen, die Sie vor, während und nach der Zertifizierung benötigen.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1464'
 ht-degree: 1%
 
 ---
@@ -182,7 +182,7 @@ Die folgenden Abschnitte und Links funktionieren erst nach erfolgreicher Anmeldu
 | Schnelllinks | Beschreibung |
 | ------- | ------- | 
 | Adobe Credential Management System | [Erste Anmeldung bei der Adobe Credential Management](https://www.certmetrics.com/adobe){target="_blank"} |
-| Profil | [Seite mit demografischen Informationen mit Kontonamen, Adresse, Unternehmen usw. Namen können nur von einem Adobe-Administrator aktualisiert werden](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
+| Profil | [Seite mit demografischen Informationen mit dem Speicherort des Kontonamens, der Adresse, des Unternehmens usw. Namen können nur von einem Adobe-Administrator aktualisiert werden](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
 | Bezeichnung | [Speicherort der Adobe/Anmelde-ID. Normalerweise beginnt mit ADB](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
 | Verlauf | [Anzeigen des Bewertungsberichts und des Prüfungsverlaufs](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 | Zertifizierungen | [Alle Ihre aktuellen und abgelaufenen Zertifikate anzeigen](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |

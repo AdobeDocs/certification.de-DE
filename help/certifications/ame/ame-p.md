@@ -5,9 +5,9 @@ solution: Marketo Engage
 role: Developer
 badge: label="Test AD0-E555" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
@@ -111,7 +111,7 @@ Abschnitt 3: Zielgruppenbestimmung (33%)
 
 Abschnitt 4: Analyse und Erstellung von Berichten (9 %)
 
-* Die standardmäßige Adobe erläutern [!DNL Marketo Engage] und wann sie verwendet werden sollten (E-Mail-Link-Leistung, E-Mail-Leistung, Leistung von Landingpages, Leistung von Personen, Programmleistung, Web-Seitenaktivität usw.)
+* Die standardmäßige Adobe erläutern [!DNL Marketo Engage] und wann sie verwendet werden sollten (E-Mail-Link-Leistung, E-Mail-Leistung, Landingpage-Leistung, Personenleistung, Programmleistung, Web-Seitenaktivität usw.)
 * Vergleichen von Dashboard-Informationen und -Metriken (E-Mail-Programm-Dashboard, Interaktionsprogramm-Dashboard)
 * Vergleichen von E-Mail-Insights-Metriken
 

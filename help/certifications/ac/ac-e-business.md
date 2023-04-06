@@ -5,9 +5,9 @@ solution: Commerce
 role: Developer
 badge: label="Test AD0-E708" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1605'
+source-wordcount: '1607'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 
 * Adobe [!DNL Commerce] - Version 2.4
 * Analytics- und Leistungs-Tools: Google Analytics, Tag-Manager, SWAT, New Relic, Fastly, Google Lighthouse
-* Sicherheitstools: PCI-Compliance, ADA, DSGVO usw.
+* Sicherheitstools: PCI compliance, ADA, DSGVO usw.
 * Cloud- oder On-Premise-Architektur
 
 >[!NOTE]

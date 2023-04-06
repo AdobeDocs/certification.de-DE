@@ -4,9 +4,9 @@ description: Erhalten Sie Antworten auf Fragen zum Zertifizierungsprogramm für 
 role: Developer
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 76a3cea2c92ac32fc20031c32e13d7b88999363c
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1884'
+source-wordcount: '1889'
 ht-degree: 0%
 
 ---
@@ -98,7 +98,7 @@ Sie können Ihren Zertifizierungsstatus verfolgen, indem Sie [Adobe Credential M
 
 +++ Was erhalte ich, nachdem ich die Zertifizierungsprüfung bestanden habe?
 
-Nach Abschluss der Prüfung werden Ihre Ergebnisse sofort auf dem Bildschirm angezeigt. Innerhalb von 72 Stunden erhalten Sie eine E-Mail-Bestätigung Ihrer Punktzahl von CertMetrics mit einer PDF Ihres Zertifikats. Sie können über Ihr CertMetrics-Konto auf Logos zugreifen, die Ihren Zertifizierungsstatus anzeigen und auf Ihrer Website, in Ihrer E-Mail, Ihrer Signatur, Ihrer Visitenkarte, Ihren sozialen Profilen usw. verwendet werden können.
+Nach Abschluss der Prüfung werden Ihre Ergebnisse sofort auf dem Bildschirm angezeigt. Innerhalb von 72 Stunden erhalten Sie eine E-Mail-Bestätigung Ihrer Punktzahl von CertMetrics mit einer PDF Ihres Zertifikats. Sie können über Ihr CertMetrics-Konto auf Logos zugreifen, die Ihren Zertifizierungsstatus zeigen und auf Ihrer Website, in Ihrer E-Mail, Ihrer Signatur, Ihrer Visitenkarte, Ihren sozialen Profilen usw. verwendet werden können.
 
 +++
 
@@ -169,7 +169,7 @@ Weitere Informationen zum Verlängern der Zertifizierung finden Sie unter [here]
 
 Anmelden bei [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}. Dort können Sie sehen, wann Sie Ihre Berechtigung erhalten haben und wann sie abläuft. Sie sollten auch Ihr Profil überprüfen und bestätigen, dass Ihre Kontakt-, sekundäre E-Mail- und Auftragsinformationen korrekt sind.
 
-Einen Monat vor Ablauf der Zertifizierung erhalten Sie eine E-Mail-Benachrichtigung. Wenn Sie jedoch Aufträge geändert haben und Ihre E-Mail nicht aktualisiert haben, werden Sie möglicherweise nicht benachrichtigt. Fügen Sie eine sekundäre E-Mail hinzu (z. B. Gmail, Hotmail, Yahoo etc.) in Ihrem CertMetrics -Konto, damit Sie eine Erinnerungsmail mit einem Zertifizierungsablauf erhalten, selbst wenn Sie ein Unternehmen wechseln.
+Einen Monat vor Ablauf der Zertifizierung erhalten Sie eine E-Mail-Benachrichtigung. Wenn Sie jedoch Aufträge geändert haben und Ihre E-Mail nicht aktualisiert haben, werden Sie möglicherweise nicht benachrichtigt. Fügen Sie eine sekundäre E-Mail (z. B. Gmail, Hotmail, Yahoo usw.) in Ihr CertMetrics-Konto ein, damit Sie eine Erinnerungsmail erhalten, an die Sie erinnert werden, wenn Sie ein Unternehmen wechseln.
 
 +++
 
