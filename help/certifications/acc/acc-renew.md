@@ -5,10 +5,10 @@ solution: Campaign Classic
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '888'
-ht-degree: 16%
+source-wordcount: '914'
+ht-degree: 15%
 
 ---
 
@@ -48,15 +48,13 @@ Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
 **Prüfungsdetails**
 
-```
-Passing Score: 42/55
-Time: 110 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Classic] expert and/or master certification
-Exam ID: AD5-E823
-```
+* Übergeben der Punktzahl: 55.04.55
+* Zeit: 110 Minuten
+* Kosten: KOSTENLOS/NICHT VERARBEITET
+* Versand: On-Demand
+* Verfügbare Sprachen: englisch
+* Voraussetzung: aktuelle (nicht abgelaufene) Adobe [!DNL Campaign Classic] fachliche und/oder Übergeordnete Zertifizierung
+* Test-ID: AD5-E823
 
 **Anwendungsbereich und Ziele**
 

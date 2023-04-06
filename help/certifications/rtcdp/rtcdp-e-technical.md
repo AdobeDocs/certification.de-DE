@@ -6,9 +6,9 @@ role: Developer
 recommendations: disable, exclude
 badge: label="Test AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1899'
+source-wordcount: '1953'
 ht-degree: 8%
 
 ---
@@ -61,15 +61,13 @@ Die Prüfung AD0-E600 validiert Fähigkeiten und Kenntnisse, die die Grundfunkti
 
 **Prüfungsdetails:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 35/50
-Time: 105 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Language: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E600
-```
+* Ebene: Expert (1-3 Jahre Erfahrung)
+* Übergeben der Punktzahl: 50.35.50
+* Zeit: 105 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
+* Sprache: englisch
+* Kosten: 225 $ (global) / 150 $ (Indien)
+* Test-ID: AD0-E600
 
 **Prüfungsziele und -bereich**
 
@@ -180,15 +178,13 @@ Die Prüfung AD7-E601 umfasst die Erstellung, Verwaltung und das Verständnis vo
 
 **Prüfungsdetails:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 25/34
-Time: 51 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Language: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD7-E601
-```
+* Ebene: Expert (1-3 Jahre Erfahrung)
+* Übergeben der Punktzahl: 34.25.
+* Zeit: 51 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
+* Sprache: englisch
+* Kosten: 225 $ (global) / 150 $ (Indien)
+* Test-ID: AD7-E601
 
 **Eigenbewertung der Bereitschaft**
 

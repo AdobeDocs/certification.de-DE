@@ -5,9 +5,9 @@ solution: Marketo Engage
 role: Architect
 badge: label="Test AD0-E556" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: '1069'
 ht-degree: 1%
 
 ---
@@ -63,17 +63,15 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 
 **Prüfungsdetails:**
 
-```
-Pre requisite: Adobe Certified Expert – [!DNL Marketo Engage] Business Practitioner expert
-Level: Master (3-5 years' experience)
-Practitioner certification
-Passing Score: 30/50
-Time: 150 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E556
-```
+* Voraussetzung: Adobe Certified Expert - [!DNL Marketo Engage] Geschäftspraktiker
+* Ebene: Übergeordnet (3-5 Jahre Erfahrung)
+* Praktische Zertifizierung
+* Übergeben der Punktzahl: 50.30 Uhr
+* Zeit: 150 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
+* Verfügbare Sprachen: englisch
+* Kosten: 225 $ (global) / 150 $ (Indien)
+* Test-ID: AD0-E556
 
 **Selbstbewertung der Bereitschaft**
 

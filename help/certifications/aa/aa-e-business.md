@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Test AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1164'
+source-wordcount: '1192'
 ht-degree: 11%
 
 ---
@@ -67,15 +67,13 @@ Sie sollten über Folgendes verfügen:
 
 **Prüfungsdetails:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E208
-```
+* Ebene: Expert (1-3 Jahre Erfahrung)
+* Übergeben der Punktzahl: 50.31.50
+* Zeit: 120 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
+* Verfügbare Sprachen: englisch
+* Kosten: 225 $ (global) / 150 $ (Indien)
+* Test-ID: AD0-E208
 
 **Eigenbewertung der Bereitschaft**
 
@@ -112,16 +110,16 @@ Abschnitt 3: Segmentierung und berechnete Metriken (22%)
 Abschnitt 4: Allgemeine Kenntnisse über Tools und Fehlerbehebung (12 %)
 
 * Berichte analysieren und Probleme mit der Datenqualität identifizieren
-* Definieren verschiedener Typen von Dimensionen und Parametern, die in vorhanden sind [!DNL Adobe Analytics] (eVars, Eigenschaften und Ereignisse)
+* Definieren verschiedener Typen von Dimensionen und Parametern, die in vorhanden sind [!DNL Adobe Analytics] (eVars, Props und Ereignisse)
 * Ermitteln, wie Daten in und aus [!DNL Adobe Analytics]
 * Informationen aus Marketing-URLs identifizieren
 
 Abschnitt 5: Verwaltung (10%)
 
-* Wenden Sie den Prozess an, um die Marketingkanalberichte mit Marketingkanal-Verarbeitungsregeln zu konfigurieren
+* Wenden Sie den Prozess an, um die [!UICONTROL Marketingkanal] Berichte mit [!UICONTROL Marketingkanal] Verarbeitungsregeln
 * Anwenden des Prozesses zum Konfigurieren von Classification Importer und Rule Builder
 * Anwenden des Prozesses zum Konfigurieren einer Virtual Report Suite auf der Basis eines vorhandenen Segments
-* Verwenden der Data Feed Manager Admin-Benutzeroberfläche
+* Verwenden Sie die [!UICONTROL Daten-Feed] Administrator-Benutzeroberfläche
 * Grundlagen zur Data Governance
 
 >[!TAB Vorab abrufen]

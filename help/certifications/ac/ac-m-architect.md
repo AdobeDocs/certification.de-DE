@@ -5,9 +5,9 @@ solution: Commerce
 role: Developer
 badge: label="Test AD0-E718" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '961'
+source-wordcount: '985'
 ht-degree: 1%
 
 ---
@@ -72,15 +72,13 @@ Darüber hinaus sollten Sie sich mit den folgenden Aktivitäten und Technologien
 
 **Prüfungsdetails:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 29/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E718
-```
+* Ebene: Übergeordnet (3-5 Jahre Erfahrung)
+* Übergeben der Punktzahl: 29.05.50
+* Zeit: 120 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: englisch
+* Kosten: 225 $ (global) / 150 $ (Indien)
+* Test-ID: AD0-E718
 
 **Eigenbewertung der Bereitschaft**
 

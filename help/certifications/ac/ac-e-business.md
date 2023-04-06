@@ -5,9 +5,9 @@ solution: Commerce
 role: Developer
 badge: label="Test AD0-E708" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1577'
+source-wordcount: '1605'
 ht-degree: 0%
 
 ---
@@ -57,15 +57,13 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 
 **Prüfungsdetails:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E708
-```
+* Ebene: Expert (1-3 Jahre Erfahrung)
+* Übergeben der Punktzahl: 50.31.50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
+* Verfügbare Sprachen: englisch
+* Kosten: 225 $ (global) / 150 $ (Indien)
+* Test-ID: AD0-E708
 
 **Eigenbewertung der Bereitschaft**
 

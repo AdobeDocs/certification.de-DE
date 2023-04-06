@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie Ihre Adobe verlängern können [!DNL Campaign
 solution: Campaign Standard
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1442'
+source-wordcount: '1491'
 ht-degree: 12%
 
 ---
@@ -47,15 +47,13 @@ Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
 **Prüfungsdetails:**
 
-```
-Passing Score: 23/30
-Time: 110 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Business Practitioner expert certification
-Exam ID: AD5-E822
-```
+* Übergeben der Punktzahl: 30.23.30
+* Zeit: 110 Minuten
+* Kosten: KOSTENLOS/NICHT VERARBEITET
+* Versand: On-Demand
+* Verfügbare Sprachen: englisch
+* Voraussetzung: aktuelle (nicht abgelaufene) Adobe [!DNL Campaign Standard] fachkundige Zertifizierung durch Business Practice
+* Test-ID: AD5-E822
 
 **Anwendungsbereich und Ziele**
 
@@ -133,15 +131,13 @@ Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
 **Prüfungsdetails:**
 
-```
-Passing Score: 23/30
-Time: 60 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Developer Expert certification
-Exam ID: AD5-E821
-```
+* Übergeben der Punktzahl: 30.23.30
+* Zeit: 60 Minuten
+* Kosten: KOSTENLOS/NICHT VERARBEITET
+* Versand: On-Demand
+* Verfügbare Sprachen: englisch
+* Voraussetzung: aktuelle (nicht abgelaufene) Adobe [!DNL Campaign Standard] Zertifizierung durch Entwickler
+* Test-ID: AD5-E821
 
 **Anwendungsbereich und Ziele**
 

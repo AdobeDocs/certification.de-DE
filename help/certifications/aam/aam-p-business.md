@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 badge: label="Test AD0-E458" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1049'
+source-wordcount: '1073'
 ht-degree: 11%
 
 ---
@@ -36,15 +36,13 @@ Sie sollten über grundlegende Kenntnisse der Datenflüsse, Geschäftsziele und 
 
 **Prüfungsdetails:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E458
-```
+* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
+* Übergeben der Punktzahl: 50.31.50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: englisch
+* Kosten: 125 $ (global) / 95 $ (Indien)
+* Test-ID: AD0-E458
 
 **Prüfungsziele und -umfang**
 

@@ -5,9 +5,9 @@ solution: Experience Manager as a Cloud Service
 role: Developer
 badge: label="Test AD0-E136" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '875'
+source-wordcount: '903'
 ht-degree: 11%
 
 ---
@@ -64,15 +64,13 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 **Prüfungsdetails**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E136
-```
+* Ebene: Expert (1-3 Jahre Erfahrung)
+* Übergeben der Punktzahl: 50.31.50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
+* Verfügbare Sprachen: englisch
+* Kosten: 125 $ (global) / 95 $ (Indien)
+* Test-ID: AD0-E136
 
 **Prüfungsziele und -umfang**
 

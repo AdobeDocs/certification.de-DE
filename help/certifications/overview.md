@@ -2,9 +2,9 @@
 title: Zertifizierungs-Homepage
 description: Informationen zu [!DNL Experience Cloud] Zertifizierung bei Adobe. Finden Sie heraus, was die Zertifizierung für Sie tun kann.
 mini-toc-levels: 1
-source-git-commit: 2dee616ff2304a6a92ba3edeae5e11da637bb235
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Abrufen einer Adobe [!DNL Experience Cloud] Die Zertifizierung kann aus verschie
 * **Validierung Ihrer Fähigkeiten:** Die Zertifizierung der Adobe zeigt potenziellen Kunden oder Arbeitgebern, dass Sie über die erforderlichen Fertigkeiten und Kenntnisse verfügen [!DNL Experience Cloud] Produkte effektiv.
 * **Laufbahnentwicklung:** Die Zertifizierung von Adoben kann Ihnen dabei helfen, sich in einem überfüllten Arbeitsmarkt zu behaupten und Ihre Chancen auf eine Anstellung oder Förderung in Ihrem aktuellen Arbeitsplatz zu erhöhen.
 * **Erhöhen des Ertragspotenzials:** Zertifizierte Personen verdienen häufig mehr als ihre nicht zertifizierten Kollegen, da ihre Qualifikationen ihre Fähigkeiten und Kenntnisse bestätigen.
-* **Zugriff auf exklusive Ressourcen:** Nach der Zertifizierung Ihrer Adobe erhalten Sie Zugang zu exklusiven Ressourcen wie Schulungsmaterialien, Beta-Softwareversionen und Support-Foren, die Ihnen helfen, sich über die neuesten Softwareentwicklungen und Trends der Branche auf dem Laufenden zu halten.
+* **Zugriff auf exklusive Ressourcen:** Wenn Sie Adobe zertifiziert werden, erhalten Sie Zugriff auf exklusive Ressourcen. Diese Ressourcen umfassen Schulungsmaterialien, Beta-Software-Versionen und Support-Foren, die Ihnen helfen, sich über die neuesten Entwicklungen und Trends der Software in der Branche auf dem Laufenden zu halten.
 * **Freie Praxistests:** Adobe bietet kostenlose Praxisprüfungen, die Sie bei der Vorbereitung auf Ihre Zertifizierungsprüfung unterstützen und sicherstellen, dass Sie vollständig auf die Prüfung vorbereitet sind.
 * **Erneute Zertifizierungen:** Die Adobe-Zertifizierungen sind zwei Jahre gültig und Sie können Ihre Zertifizierung verlängern, indem Sie entweder eine On-Demand-Prüfung ohne Verarbeitung durchführen oder eine Reihe kontinuierlicher Lernaktivitäten abschließen.
 
