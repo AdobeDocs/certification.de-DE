@@ -5,9 +5,9 @@ solution: Analytics
 role: User
 badge: label="Test AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1194'
 ht-degree: 11%
 
 ---
@@ -67,14 +67,13 @@ Sie sollten über Folgendes verfügen:
 
 **Prüfungsdetails:**
 
->* **Ebene:** Expert (1-3 Jahre Erfahrung)
->* **Übergeben der Punktzahl:** 50.31.50
->* **Zeit:** 120 Minuten
->* **Versand:** Online verarbeitet (Kamerazugriff erforderlich) oder > Testcenter bearbeitet
->* **Verfügbare Sprachen:** englisch
->* **Kosten:** 225 $ (global) / 150 $ (Indien)
->* **Test-ID:** AD0-E208
-
+* **Ebene:** Expert (1-3 Jahre Erfahrung)
+* **Übergeben der Punktzahl:** 50.31.50
+* **Zeit:** 120 Minuten
+* **Versand:** Online verarbeitet (Kamerazugriff erforderlich) oder > Testcenter bearbeitet
+* **Verfügbare Sprachen:** englisch
+* **Kosten:** 225 $ (global) / 150 $ (Indien)
+* **Test-ID:** AD0-E208
 
 **Eigenbewertung der Bereitschaft**
 
@@ -202,4 +201,4 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

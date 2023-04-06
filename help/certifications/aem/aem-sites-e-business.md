@@ -5,9 +5,9 @@ solution: Experience Manager Sites
 role: User
 badge: label="Test AD0-E121" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1336'
+source-wordcount: '1334'
 ht-degree: 13%
 
 ---
@@ -206,4 +206,4 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
