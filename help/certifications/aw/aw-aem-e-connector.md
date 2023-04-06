@@ -1,11 +1,11 @@
 ---
 title: Verbesserte Connector-Expertenzertifizierung
-description: Erfahren Sie, wie Sie zu einem zertifizierten Experten für Adobe werden. [!DNL Workfront] für [!DNL Experience Manager]
+description: Erfahren Sie, wie Sie zertifizierter Adobe-Experte für Adobe werden. [!DNL Workfront] für [!DNL Experience Manager]
 solution: Workfront
 role: Developer
 badge: label="Test AD0-E906" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
 source-wordcount: '974'
 ht-degree: 4%
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 # Zertifizierungs-Journey zur Adobe [!DNL Workfront] für [!DNL Experience Manager] Verbesserter Connector-Experte
 
-Erfahren Sie, wie Sie ein zertifizierter Experte für Adoben werden.
+Erfahren Sie, wie Sie zertifizierter Experte für Adoben werden.
 
 ## Minimales Erlebnis
 
