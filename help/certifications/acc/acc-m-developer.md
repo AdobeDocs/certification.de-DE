@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Architect
 badge: label="Test AD0-E328" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1119'
 ht-degree: 13%
 
 ---
@@ -34,7 +34,7 @@ Sie sollten über Folgendes verfügen:
 * Die Fähigkeit, Produktfunktionen und -funktionen zu beschreiben und zu demonstrieren
 * Die Möglichkeit, Produktfunktionen Anwendungsfällen mit hohem Anwendungsfall zuzuordnen
 * Erfahrung, die das Pre-Sales-Team unterstützt
-* Möglichkeit, Vor-Ort-Coaching anzubieten (z. B. Best Practice für Produkte, Berichtsmetriken usw.)
+* Möglichkeit, Desktop-Coaching anzubieten (Best Practice für Produkte, Berichtsmetriken usw.)
 * Erlebnisse, die die Unterschiede zwischen den Implementierungsmodellen beschreiben
 
 >[!NOTE]

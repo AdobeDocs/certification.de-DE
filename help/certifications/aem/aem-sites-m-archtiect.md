@@ -5,9 +5,9 @@ solution: Experience Manager Sites
 role: Developer
 badge: label="Test AD0-E117" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1593'
+source-wordcount: '1594'
 ht-degree: 22%
 
 ---
@@ -41,7 +41,7 @@ Darüber hinaus sollten Sie die folgenden Aufgaben ausführen können:
 * Infrastruktur-/Bereitstellungsdiagramme erstellen und bereitstellen
 * Ermitteln von Informationsmodellen für AEM Anwendungen
 * Sicherheitsmodelle für Authentifizierung und Autorisierung definieren
-* Bestimmen Sie Persistenzmodelle basierend auf den Anforderungen der Kunden (z. B. Binärspeicher, Bereitstellungsszenario usw.).
+* Bestimmen Sie Persistenzmodelle basierend auf den Anforderungen der Kunden (binärer Speicher, Bereitstellungsszenario usw.).
 * Entwerfen von Workflow-Modellen für Geschäftsprozesse
 * Strategien für Plattformleistung und Penetration/Sicherheitstests festlegen
 * Wiederverwenden von Inhalten über mehrere Kanäle hinweg

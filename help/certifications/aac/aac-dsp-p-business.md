@@ -5,9 +5,9 @@ solution: Advertising
 role: Developer
 badge: label="Test AD0-E502" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Sie sollten über Folgendes verfügen:
 
 Kenntnis der folgenden Tools und Technologien:
 
-* Ad-Test-/Debugging-Software (z. B. VAST INSPECTOR, Chrome-Entwicklertools)
-* Analytics-Tools (z. B. Adobe Analytics, Google Analytics)
-* Tagging-Software von Drittanbietern (z. B. Sizmek, Google-Tag-Manager)
-* Tools zur Medienqualität von Drittanbietern (z. B. IAS, MOAT)
+* Ad-Test-/Debugging-Software (VAST INSPECTOR, Chrome-Entwicklertools)
+* Analytics-Tools (Adobe Analytics, Google Analytics)
+* Tagging-Software von Drittanbietern (Sizmek, Google Tag Manager)
+* Tools zur Medienqualität von Drittanbietern (IAS, MOAT)
 * Wichtige Browser
 * Anzeigenaustausch, SSPs und DMPs
 

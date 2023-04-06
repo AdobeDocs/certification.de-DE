@@ -5,9 +5,9 @@ solution: Target
 role: Developer
 badge: label="Test AD0-E406" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1420'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Sie sollten über Folgendes verfügen:
 * Das Wissen über statistische Konzepte und Datenanalysen, wie sie für die Optimierung gelten
 * Detaillierte Kenntnisse des dreistufigen Workflows (Erlebnisse, Targeting, Ziele und Einstellungen, einschließlich aller Berichtsquellen)
 * Die Fähigkeit, die Ergebnisse der Aktivitätsberichte in umsetzbare Einblicke und Vorschläge zu übersetzen
-* Ein Verständnis der Auswirkungen von Technologieänderungen auf Target (z. B. ITP, DSGVO/CCPA, SPA)
+* Einblick in die Auswirkungen von Technologieänderungen auf Target (ITP, DSGVO/CCPA, SPA)
 * Ein Verständnis dafür, wie Recommendations-Aktivitäten als Lösung verwendet werden können
 
 Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sein:

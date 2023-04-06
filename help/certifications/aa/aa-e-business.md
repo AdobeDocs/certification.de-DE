@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Test AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: '1194'
 ht-degree: 11%
 
 ---
@@ -27,7 +27,7 @@ Sie sollten über Folgendes verfügen:
 * Die Fähigkeit, Berichte zu erstellen und zu interpretieren
 * Möglichkeit der Übermittlung von Ergebnissen und der Vorschlagen einer auf der Auswertung von Berichten basierenden Vorgehensweise
 * Hilft Kunden zu verstehen, wie sie die gewünschten Informationen extrahieren/abrufen (z. B. bei der Definition ihrer Geschäftsfragen)
-* Ein Verständnis, wie die Technologie funktioniert und die Implementierung eines Kunden (z. B. wo sich die Daten befinden, wie sie erfasst werden können, wie sie verfolgt werden) aus funktionaler Sicht versteht.
+* Ein Verständnis, wie die Technologie funktioniert und wie sie die Implementierung eines Kunden versteht (z. B. wo sich die Daten befinden, wie sie erfasst werden können, wie sie verfolgt werden), und zwar aus funktionaler Sicht
 * Mindestens ein Jahr [!DNL Adobe Analytics] Praktisches Erlebnis
 * Grundlegendes dazu, wie digitale Analysen Daten filtern/strukturieren
 * Ein Bewusstsein für die Integration von [!DNL Adobe Analytics] mit anderen Adobe-Lösungen
@@ -67,13 +67,14 @@ Sie sollten über Folgendes verfügen:
 
 **Prüfungsdetails:**
 
-* Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 50.31.50
-* Zeit: 120 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E208
+>* **Ebene:** Expert (1-3 Jahre Erfahrung)
+>* **Übergeben der Punktzahl:** 50.31.50
+>* **Zeit:** 120 Minuten
+>* **Versand:** Online verarbeitet (Kamerazugriff erforderlich) oder > Testcenter bearbeitet
+>* **Verfügbare Sprachen:** englisch
+>* **Kosten:** 225 $ (global) / 150 $ (Indien)
+>* **Test-ID:** AD0-E208
+
 
 **Eigenbewertung der Bereitschaft**
 
