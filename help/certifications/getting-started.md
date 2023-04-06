@@ -1,11 +1,11 @@
 ---
 title: Erste Schritte mit Adobe-Zertifikaten
-description: Erste Schritte mit [!DNL Experience Cloud] Zertifizierungen. Erfahren Sie mehr über das Programm und wie Sie durch unsere Seiten navigieren.
+description: Erste Schritte mit [!DNL Experience Cloud] Zertifizierungen. Erfahren Sie mehr über das Programm und diese Website.
 solution: Experience Cloud
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: 529ac3568da1f1cc35c93022b87c8e765205b267
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Erste Schritte   {#getting-started}
 
-Die Zertifizierungen der Adobe dienen dazu, die Kenntnisse und Fertigkeiten von Fachleuten zu überprüfen, die mit unseren digitalen Marketinglösungen arbeiten.
-
-Erste Schritte mit technischen Zertifizierungen. Erfahren Sie mehr über das Programm und wie Sie durch unsere Seiten navigieren.
+Die Zertifizierungen der Adobe dienen dazu, die Kenntnisse und Fertigkeiten von Fachleuten zu überprüfen, die mit unseren digitalen Marketinglösungen arbeiten. Verwenden Sie die folgenden Tabs, um sich mit dem Zertifizierungsprogramm vertraut zu machen.
 
 >[!BEGINTABS]
 
@@ -32,6 +30,7 @@ Hier erfahren Sie mehr über die Art von Prüfungen, die Sie auf Ihrer Zertifizi
 | Beispielfragen | Bei einigen Zertifizierungsprüfungen gibt es in Adobe noch keine vollständigen Übungstests. Für diese Prüfungen wird ein repräsentativer Satz von Beispielfragen bereitgestellt. |
 | Bereitschaftsfragebogen | Ein Bereitschaftsfragebogen ist ein weiteres Tool, mit dem Sie Ihre Bereitschaft zur Durchführung Ihrer Zertifizierungsprüfung bewerten können. Der Bereitschaftsfragebogen umfasst bestätigende Aussagen, die auf den Prüfungszielen basieren. Durch Beantwortung von &quot;Ja&quot; oder &quot;Nein&quot; zu jeder Aussage können Sie Ihre Bereitschaft in Bezug auf die wichtigsten in der Prüfung behandelten Inhaltsbereiche bestimmen. |
 
+{style="table-layout:auto"}
 
 >[!TAB Zertifizierungsstufen]
 
@@ -42,14 +41,17 @@ Diese Stufen spiegeln einen Fortgang von Kompetenz und Wissen wider, wobei das B
 | ![Berufsabzeichen](/help/certifications/assets/professional-badge-Xsmall.png) | **Berufszeugnisse** überprüfen, ob ein Kandidat über grundlegende Kenntnisse der Digital Marketing-Lösungen von Adobe verfügt. Die Zertifizierungsprüfung umfasst grundlegende Konzepte und Funktionen der Adobe [!DNL Experience Cloud]. |
 | --------- | ------- |
 
+{style="table-layout:auto"}
 
 | ![Expertenabzeichen](/help/certifications/assets/expert-badge-Xsmall.png) | **Expertenzertifikate** sind für Profis gedacht, die mit den digitalen Marketinglösungen von Adobe vertraut sind. Die Zertifizierungsprüfung behandelt komplexere Konzepte und Funktionen der Adobe [!DNL Experience Cloud], einschließlich Implementierung und Fehlerbehebung. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
 
 | ![Übergeordnetes Zeichen](/help/certifications/assets/master-badge-Xsmall.png) | **Übergeordnete Zertifizierungen** sind für Fachkräfte gedacht, die über fundierte Kenntnisse der Digital Marketing-Lösungen von Adobe verfügen und in mehreren Bereichen der Adobe über Fachwissen verfügen [!DNL Experience Cloud]. Die Zertifizierungsprüfung umfasst erweiterte Themen und Szenarien, einschließlich komplexer Integrationen, Anpassungen und Fehlerbehebung. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
 
 >[!TAB Vorgangsrollen]
 
@@ -58,11 +60,17 @@ Die Adobe-Zertifizierungsprüfungen sind auf drei verschiedene Aufgabenrollen ab
 | ![Badge für Geschäftspraktiker](/help/certifications/assets/business_practitioner_blk_small.png) | **Geschäftspraktiker** sind für die Konzeption, Ausführung und Verwaltung von Marketingkampagnen mithilfe von Adobe verantwortlich [!DNL Experience Cloud] Lösungen. Sie sollten ein grundlegendes Verständnis der digitalen Marketinglösungen von Adobe sowie Erfahrung in Marketing und Werbung haben. Mit der Zertifizierung für Business Practitioner wird ihre Fähigkeit bestätigt, die digitalen Marketinglösungen von Adobe effektiv zu nutzen, um Geschäftsziele zu erreichen. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
+
 | ![Entwicklerabzeichen](/help/certifications/assets/developer_blk_small.png) | **Entwickler** für die Implementierung und Integration der Adobe verantwortlich sind [!DNL Experience Cloud] Lösungen in den Technologiestapel eines Unternehmens. Sie sollten über Erfahrung in der Softwareentwicklung und Kenntnisse in Web-Technologien wie HTML, CSS, JavaScript und RESTful-APIs verfügen. Die Entwicklerzertifizierung validiert ihre Fähigkeit, digitale Marketinglösungen von Adobe effektiv zu implementieren und anzupassen, um geschäftlichen Anforderungen gerecht zu werden. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
+
 | ![Architektenabzeichen](/help/certifications/assets/architect_blk_small.png) | **Architekten** sind für die Entwicklung und Implementierung von Lösungen auf Unternehmensebene mithilfe von Adobe verantwortlich [!DNL Experience Cloud] Lösungen. Sie sollten über umfassende Kenntnisse der digitalen Marketinglösungen von Adobe und Erfahrung in der Softwarearchitektur, -integration und -anpassung verfügen. Die Architektenzertifizierung validiert ihre Fähigkeit, komplexe Lösungen mithilfe der digitalen Marketinglösungen von Adobe zu entwerfen und zu implementieren. |
 | ------- | ------- |
+
+{style="table-layout:auto"}
 
 >[!TAB Zertifizierungs-Journey]
 
@@ -73,6 +81,8 @@ Das Zertifizierungs-Journey-Handbuch ist ein umfassendes Tool, mit dem Sie alle 
 | **Bereit abrufen** | Vorgesehen ist ein Überblick über die Prüfung, einschließlich Informationen über die gewünschte Zielgruppe, Prüfungsdetails, Selbstbewertung zur Bereitschaft, Prüfungsziele und Umfang. In diesem Abschnitt lernen Sie die Prüfung kennen und erfahren, was Sie bei der Einnahme erwarten können. Die Selbstbewertung der Bereitschaft ist besonders hilfreich, da sie es Ihnen ermöglicht, Ihr aktuelles Wissensniveau zu bestimmen und Bereiche zu identifizieren, in denen Sie Ihre Studienbemühungen konzentrieren müssen. |
 | **Vorbereiten** | Hier finden Sie Schulungen und Ressourcen, die Sie bei der Vorbereitung auf die Prüfung unterstützen. Dieser Abschnitt enthält Informationen und Links zu Studienmaterialien und Schulungen. |
 | **Zertifizieren** | Bietet wertvolle Informationen zur Registrierung für die Zertifizierungsprüfung, einschließlich Details zum Registrierungsprozess und zu den verfügbaren Zahlungsmethoden. Darüber hinaus bietet dieser Abschnitt einen klaren Überblick über den Prüfungsprozess. In diesem Abschnitt finden Sie hilfreiche Ressourcen, z. B. einen Link zum Adobe Certification Prep-Portal für Prüfungen, die Praxistests beinhalten, sowie Links zur Registrierung für Zertifizierungsprüfungen. |
+
+{style="table-layout:auto"}
 
 >[!ENDTABS]
 
