@@ -1,0 +1,175 @@
+---
+title: Berufliche Zertifizierung durch Geschäftspraktiker
+description: Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Business Practitioner Professional.
+solution: Target
+role: Developer
+badge: label="Test AD0-E408" type="positive"
+mini-toc-levels: 1
+source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+workflow-type: tm+mt
+source-wordcount: '942'
+ht-degree: 9%
+
+---
+
+# Zertifizierungs-Journey für [!DNL Adobe Target] Geschäftspraktiker/innen
+
+Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner Professional werden.
+
+## Minimales Erlebnis
+
+Sie sollten über Folgendes verfügen:
+
+* Erlebnis über 0 bis 12 Monate mit Optimierungsplattformen, einschließlich [!DNL Adobe Target]
+* Überwachter Erfahrungsaustausch mit [!DNL Adobe Target]
+* 0-12 Monate Erfahrung, die zu Optimierungsprogrammen führt/dazu beiträgt
+* Möglichkeit, grundlegende Verwaltungsaufgaben in Target/Adobe Marketing Cloud zu identifizieren (Voreinstellungen, Benutzerrollen und Berechtigungen, Einstellungen)
+* Grundlegendes zum dreistufigen Workflow (Erlebnisse, Targeting, Ziele und Einstellungen, einschließlich aller Berichtsquellen)
+* Die Fähigkeit, die Aktivitätsberichtsergebnisse zu lesen und zu verstehen
+
+>[!NOTE]
+>
+>Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+
+>[!BEGINTABS]
+
+>[!TAB Bereit]
+
+**Vorgesehene Zielgruppe:**
+
+* Optimierung
+* Personalisierung
+* Analysen
+* Digital- und Produktmarketing
+
+**Prüfungsdetails:**
+
+```
+Level: Professional (0-12 months' experience)
+Passing Score: 31/50
+Time: 100 mins
+Delivery: Online proctored (requires camera access)
+Available languages: English
+Cost: $125 (global) / $95 (India)
+Exam ID: AD0-E408
+```
+
+**Prüfungsziele und -umfang**
+
+Abschnitt 1: Planung und Strategie (26%)
+
+* Identifizieren von Geschäfts-KPIs
+* Identifizieren Sie bei einem Szenario mit Geschäfts-KPIs und Datenanalyse Optimierungsmöglichkeiten
+* Beschreiben Sie, wie sich Variablen auf eine Aktivität auswirken
+* Testhypothesen basierend auf einem gegebenen Szenario erstellen
+* Identifizieren von Hypothesenelementen
+* KPI-basierte primäre und sekundäre Erfolgsmetriken beschreiben
+* In einem Szenario sollten Sie die Zielgruppenanforderungen bewerten
+* Beschreiben Sie geeignete Analytics-Berichtsquellen (d. h. Target oder Adobe Analytics).
+
+Abschnitt 2: Konfiguration, Ausführung und Verwaltung (50 %)
+
+* Die Verwendung von Form-Based Experience Composer und Visual Experience Composer erläutern
+* Beschreiben Sie Verfahren zum Erstellen eines Erlebnisses mit VEC.
+* Beschreiben Sie Verfahren zum Erstellen eines Erlebnisses mit dem formularbasierten Composer.
+* Beschreiben Sie Verfahren zum Verwalten von Erlebnissen in einem Experience Composer.
+* Beschreibung des Workflows für die Erstellung von Target-Aktivitäten
+* Bei einem Szenario wenden Sie Verfahren an, um eine A/B-Test-Aktivität zu erstellen
+* Wenden Sie bei einem Szenario Verfahren an, um eine XT-Aktivität zu erstellen
+* Bei einem Szenario wenden Sie Verfahren an, um eine MVT-Aktivität zu erstellen
+* Identifizieren, wie AP für Lösungen verwendet wird
+* Bestimmen, wann die Recommendations-Aktivität verwendet werden soll
+* Beschreiben Sie die Verfahren zum Erstellen einer Zielgruppe in Target.
+* Beschreiben Sie Verfahren zum Festlegen von Zielen und Einstellungen
+* Beschreiben Sie die Verfahren zur Durchführung von Aktivitäts-QA
+* Beschreiben Sie die Verfahren zum Verwalten von Aktivitäten und Zielgruppen in Target.
+
+Abschnitt 3: Analyse und Berichterstellung (16 %)
+
+* Beschreiben Sie die Einstellungen, um die in einem Bericht angezeigten Elemente festzulegen.
+* den Unterschied in [!DNL Adobe Target] Einstellungen des Stichprobengrößenrechners zwischen Planung und Validierung
+* Beschreibung häufiger Probleme im Zusammenhang mit A/B-Tests
+* Ermitteln, wie sich die Automated Personalization-Zusammenfassungsberichte von anderen Berichten unterscheiden
+* Beschreiben der Funktionen von Experience Performance-Berichten (MVT)
+* Beschreiben Sie Best Practices, die bei der Ausführung von A/B-Tests befolgt werden sollten.
+
+Abschnitt 4: Fehlerbehebung (8 %)
+
+* Identifizieren Sie in einem Szenario Probleme mit der Aktivitätsqualifikation.
+* Ermitteln der Funktionen der Browser-Debugging-Tools (einschließlich Experience Cloud Debugger)
+* Identifizieren von Metriken und Berichten
+
+>[!TAB Vorab abrufen]
+
+Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+
+Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+
+**Beispielfragen**
+
+In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf die Sie bei der eigentlichen Prüfung stoßen werden. Es ist keine Anmeldung erforderlich. Die Ergebnisse der Beispielfragen werden nicht gespeichert und prognostizieren keine tatsächlichen Testergebnisse.
+
+[Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
+
+**Abschnitt 1: Planung und Strategie**
+
+* [[!DNL Adobe Target] Handbuch für Business-Anwender*innen](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=de){target="_blank"}
+* Dokumentation zu [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target.html?lang=en){target="_blank"}
+* [Besucherprofile](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=de){target="_blank"}
+* [[!DNL Adobe Target] Willkommensset](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
+* [Erfolgsmetriken](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=en){target="_blank"}
+* [Kategorien für Zielgruppen](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html?lang=en){target="_blank"}
+
+**Abschnitt 2: Konfiguration, Ausführung und Verwaltung**
+
+* [Visual Experience Composer (VEC))](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html?lang=de){target="_blank"}
+* [[!DNL Adobe Target] Willkommensset](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
+* [A/B-Test - Überblick](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
+* [Erstellen einer Erlebnis-Targeting-Aktivität](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html?lang=en){target="_blank"}
+* [Multivarianz-Tests – Überblick](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html?lang=en){target="_blank"}
+* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en){target="_blank"}
+* [Erstellen von Zielgruppen](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=de){target="_blank"}
+* [Aktivitäts-QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html?lang=en){target="_blank"}
+
+**Abschnitt 3: Analyse und Reporting**
+
+* [Berichtseinstellungen](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html?lang=en){target="_blank"}
+* [A/B-Test - Überblick](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
+
+**Abschnitt 4: Fehlerbehebung**
+
+* [[!DNL Adobe Target] Handbuch für Business-Anwender*innen](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=de){target="_blank"}
+* [Übersicht über Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=de){target="_blank"}
+
+>[!TAB Zertifizieren]
+
+>[!IMPORTANT]
+>
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+
+**Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
+
+**Führen Sie die Zertifizierungsprüfung durch.**
+
+Adobe verwendet zwei Anbieter, um die verarbeiteten Prüfungen zu verwalten: PSI und Examity.
+
+* **PSI** bietet Testcenter- und japanische Prüfungsoptionen (sofern verfügbar)
+* **[!DNL Examity]** bietet eine Remote-Online-Option
+
+Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. So einfach ist es!
+
+### Prüfnummer: AD0-E408
+
+[!BADGE Prüfung]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E408 newtab=true"}
+
+Sie können Ihre Zertifizierungsprüfung mit Gutschein oder Kreditkarte bezahlen. Um einen Prüfgutschein zu erwerben, gehen Sie zu: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+
+Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie einen Rabatt haben, wird er beim Checkout angewendet.
+
+>[!ENDTABS]
+
+**Fragen**
+
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+
+Weitere Fragen? Email `certif@adobe.com`.
