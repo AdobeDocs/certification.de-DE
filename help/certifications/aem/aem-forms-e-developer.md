@@ -1,11 +1,12 @@
 ---
 title: AEM Forms Backend Developer Professional-Zertifizierung
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Experience Manager Forms] Entwicklerexperte.
+description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Experience Manager Forms] Backend-Entwickler-Expert.
 solution: Experience Manager Forms
+product: Experience Manager
 role: Developer
 badge: label="Test AD0-E125" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1039'
 ht-degree: 7%

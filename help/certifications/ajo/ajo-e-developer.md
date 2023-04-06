@@ -1,19 +1,20 @@
 ---
 title: Zertifizierung durch Experten
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Journey Optimizer] Experten.
+description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Journey Optimizer] Entwicklerexperte.
 solution: Journey Optimizer
+product: Journey Optimizer
 role: Developer
 badge: label="Test AD0-E603" type="positive"
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '924'
+source-wordcount: '926'
 ht-degree: 12%
 
 ---
 
 # Zertifizierungs-Journey zur Adobe [!DNL Journey Optimizer] Entwicklerexperte
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Journey Optimizer] Experten.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Journey Optimizer] Entwicklerexperte.
 
 ## Minimales Erlebnis
 

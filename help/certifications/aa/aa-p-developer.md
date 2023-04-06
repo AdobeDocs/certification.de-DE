@@ -2,10 +2,11 @@
 title: Zertifizierung für Entwickler
 description: Erfahren Sie, wie Sie als [!DNL Adobe Analytics] Entwickler Professional.
 solution: Analytics
+product: Analytics
 role: Developer
 badge: label="Test AD0-E213" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1230'
 ht-degree: 15%

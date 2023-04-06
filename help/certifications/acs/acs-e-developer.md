@@ -1,11 +1,12 @@
 ---
 title: Zertifizierung durch Entwickler
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe Developer-Expertengruppe werden. [!DNL Campaign Standard].
+description: Erfahren Sie, wie Sie eine zertifizierte Adobe Developer Expert-Adobe werden. [!DNL Campaign Standard].
 solution: Campaign Standard
+product: Campaign
 role: Developer
 badge: label="Test AD0-E306" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '1301'
 ht-degree: 11%
