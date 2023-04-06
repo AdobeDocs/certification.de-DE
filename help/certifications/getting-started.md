@@ -3,9 +3,9 @@ title: Erste Schritte mit Adobe-Zertifikaten
 description: Erste Schritte mit [!DNL Experience Cloud] Zertifizierungen. Erfahren Sie mehr über das Programm und diese Website.
 solution: Experience Cloud
 mini-toc-levels: 1
-source-git-commit: 529ac3568da1f1cc35c93022b87c8e765205b267
+source-git-commit: 0d051bce7ef44105da136303b72fcf5cc22e7e17
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '945'
 ht-degree: 0%
 
 ---
@@ -86,9 +86,12 @@ Das Zertifizierungs-Journey-Handbuch ist ein umfassendes Tool, mit dem Sie alle 
 
 >[!ENDTABS]
 
+[!BADGE Zertifizieren]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en newtab=true"}
+
 **Fragen**
 
 Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Weitere Fragen? Email `certif@adobe.com`.
+Weitere Fragen? [Kontakt](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+
 
