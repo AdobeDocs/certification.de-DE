@@ -6,10 +6,10 @@ product: Experience Manager
 role: User
 badge: label="Test AD0-E126" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+source-git-commit: cab58fef51e04bacba47e0f9c809a7a9f011c71b
 workflow-type: tm+mt
-source-wordcount: '939'
-ht-degree: 12%
+source-wordcount: '979'
+ht-degree: 11%
 
 ---
 
@@ -72,10 +72,14 @@ Abschnitt 2: Architektur (22%)
 * Bestimmen, wo Rollen und Berechtigungen definiert werden sollen
 * Definieren Sie in einem Szenario verfügbare Caching-Ansätze
 
-Abschnitt 3: Einrichtung und Implementierung (13 %)
+Abschnitt 3: Geschäftsanalyse (43%)
 
-* Best AEM Practices zur Verwendung von Inhaltskomponenten identifizieren
-* Identifizieren Sie in einem Szenario die korrekte Implementierung einer Funktion.
+* Identifizieren Sie in einem Szenario Standardmodule von AEM, die Geschäftsprobleme von Kunden beheben.
+* Identifizieren von Content-Management-Konzepten für AEM Module
+* Typische Projektbeteiligte identifizieren
+* Identifizieren realistischer Kooperationsszenarien zwischen beteiligten Teams
+* Beschreiben Sie in einem Szenario einen korrekten Ansatz, um Geschäftsziele zu erreichen, während Sie innerhalb des Budgets und/oder des Umfangs bleiben.
+* Identifizieren von Möglichkeiten, Geschäftsziele mit dem Entwicklungsteam zu verbinden
 
 Abschnitt 4: Einrichtung und Implementierung (13 %)
 
