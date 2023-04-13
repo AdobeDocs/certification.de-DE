@@ -6,10 +6,10 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 6beb8e647b0638540548038d9ce60cdb3398aa20
+source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 1%
+source-wordcount: '673'
+ht-degree: 0%
 
 ---
 
@@ -39,8 +39,8 @@ Wir freuen uns, Ihnen mitteilen zu können, dass Sie jetzt Ihr Zertifikat in ein
 
 **Prüfungsdetails:**
 
-* Übergeben der Punktzahl:
-* Zeit: mins
+* Übergeben der Punktzahl: 34.25.
+* Zeit: 66 Minuten
 * Kosten: KOSTENLOS/NICHT VERARBEITET
 * Versand: On-Demand
 * Verfügbare Sprachen: englisch
@@ -49,13 +49,51 @@ Wir freuen uns, Ihnen mitteilen zu können, dass Sie jetzt Ihr Zertifikat in ein
 
 **Anwendungsbereich und Ziele**
 
-HINZUFÜGEN
+Abschnitt 1: Core-Systemverwaltung und -einrichtung (26 %)
+
+* Bei einem Fusion-Szenario, bei dem eine Funktion innerhalb einer anderen Funktion verschachtelt werden muss, wählen Sie den richtig formatierten Ausdruck aus.
+* Bei einem Fusion-Szenario, das eine Manipulation der Zeitzone erfordert, müssen Sie zwischen dem Benutzer, der sichtbaren Organisation und dem Ort unterscheiden, an dem die Zeitzone überschrieben werden muss.
+* Bei einem Fusion-Szenario wählen Sie den Zuordnungs-Bereichsausdruck und/oder das/die Modul(e) aus, die Eingabedaten entsprechend in Ausgabedaten umwandeln.
+* Identifizieren Sie die richtige(n) Methode(n), um das Fusion Dev Tool zur Fehlerbehebung bei der Ausführung zu verwenden, oder ermitteln Sie Aufrufe und Antworten, die an Drittanbietersysteme gesendet werden.
+
+Abschnitt 2: Szenario - Design und Architektur (47 %)
+
+* Wählen Sie für eine Liste von Schritten die richtige Reihenfolge aus, um JSON zu analysieren und in Bundles zu konvertieren.
+* Geben Sie bei einem Fusion-Szenario eine Gelegenheit an, das Design zu vereinfachen und/oder für die Wartung zu optimieren.
+* Ermitteln Sie in einer Situation die Möglichkeit, den Datenfluss durch ein Szenario zu reduzieren.
+* Erläutern Sie anhand eines Beispiels der Anzahl der Bundles, die auf einem Suchmodul angezeigt werden, und eines nachfolgenden Aggregators die Änderungen in der Anzahl der vom Bundle-Inspektor verarbeiteten und angezeigten Vorgänge.
+* Beispiel eines Fehlers 403:forbidden: korrekte Angabe des Ursprungs der Fehlermeldung und der Ursache
+* Identifizieren Sie die entsprechende Verwendung von Referenzen und Sammlungen in den Workfront-Modulen &quot;Suchen&quot;und &quot;Lesen&quot;.
+
+Abschnitt 3: Tests und Umgang mit Fehlern (15 %)
+
+* Bei einem Fusion-Szenario müssen Sie die Lösung richtig identifizieren, um einen unzuverlässigen Service zu verhindern oder zu handhaben.
+* Bei einem Fusion-Szenario mit fehlenden erforderlichen Daten wählen Sie Wege, um die ungültigen Daten zu verarbeiten.
+
+Abschnitt 4: Arbeiten mit APIs (12 %)
+
+* Identifizieren Sie bei einem Drittanbietersystem ohne dedizierte App die HTTP-App und wählen Sie das entsprechende Modul aus.
+* Identifizieren Sie den Unterschied zwischen CRUD-Vorgängen und anderen allgemeinen Funktionen von REST-APIs.
 
 ## Vorab abrufen
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+
+**Abschnitt 1: Core System Administration und Einrichtung**
+
+HINZUFÜGEN
+
+**Abschnitt 2: Szenario - Design und Architektur**
+
+HINZUFÜGEN
+
+**Abschnitt 3: Tests und Umgang mit Fehlern**
+
+HINZUFÜGEN
+
+**Abschnitt 4: Arbeiten mit APIs**
 
 HINZUFÜGEN
 
@@ -67,7 +105,7 @@ Um Ihre Prüfung zu verlängern, klicken Sie auf den Link Workfront Fusion Devel
 
 >[!NOTE]
 >
->Diese Prüfung ist kostenlos, offen und nicht bestellt. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach drei Versuchen keine 75 % erhalten, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+>Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
 
 +++
 
