@@ -4,24 +4,41 @@ description: Erfahren Sie, wie Sie eine zertifizierte Expert-Adobe werden in [!D
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="Test AD0-EXXX" type="positive"
+badge: label="Test AD0-E604" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
+source-git-commit: 57cdc5c07bef404b368f51fb6ffd03735ed5008c
 workflow-type: tm+mt
-source-wordcount: '510'
-ht-degree: 9%
+source-wordcount: '582'
+ht-degree: 0%
 
 ---
 
-
 # Zertifizierungs-Journey zur Adobe [!DNL Customer Journey Analytics] Expert
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden.
+Erfahren Sie, wie Sie ein zertifizierter Adobe Analytics-Journey-Entwickler werden.
 
 ## Minimales Erlebnis
 
-Sie sollten über Folgendes verfügen:
+Sie sollten über eine Erfahrung von 12 bis 24 Monaten in Adobe Customer Journey Analytics verfügen und die folgenden Aufgaben ausführen können:
+
+* XDM-Schema (Klassen) lesen und verstehen
+* Vertrautheit mit der Benutzeroberfläche der Plattform demonstrieren
+* Daten validieren (Abfragedienst), Anzeige Ihrer Daten in einem Datensatz
+* Grundlegendes zu den erforderlichen Administratorberechtigungen für verschiedene Zugriffsebenen
+* QA-Skript lesen und verstehen
+* Definieren eines QC-Skripts, das an den AEP-Techniker übergeben wird
+* Verbindungen mit primären Identitäten konfigurieren (Personen-ID)
+* Verbindungen mit mehreren Datensätzen konfigurieren
+* Datenansicht konfigurieren (Metrik-/Dimensionskonfiguration)
+* CJA konfigurieren
+* Transformieren von Daten innerhalb der Dimensionen und Metriken
+* Analysis Workspace-Grundlagen (Visualisierungen, Attributionseinstellungen, Filter, berechnete Metriken)
+* Grundlegendes zur Data Governance in CJA (DULE)
+* Kanalmetriken oder benutzerspezifische Filter erstellen
+* Sandboxes in AEP unterscheiden/verstehen
+* Verstehen der Zielgruppenveröffentlichung (Freigabe)
 
 >[!NOTE]
 >
@@ -33,29 +50,49 @@ Sie sollten über Folgendes verfügen:
 
 **Vorgesehene Zielgruppe:**
 
+* Technischer Architekt
+* Technischer Manager
+* Data Analyst
+* Datenarchitekt/Ingenieur
+* Lösungsarchitektur
+* Unternehmensarchitektur
+* Implementierungsexperte
+* Marketingtechnologieführer
 
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl:
-* Zeit:
+* Übergeben der Punktzahl: 50.33.50
+* Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
 * Verfügbare Sprachen: englisch
 * Kosten: 225 $ (global) / 150 $ (Indien)
-
-**Eigenbewertung der Bereitschaft**
-
-Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} , um zu sehen, ob Ihr aktuelles Erlebnis mit der empfohlenen Mindestqualifikation für Kandidaten übereinstimmt.
+* Test-ID: AD0-E604
 
 **Prüfungsziele und -umfang**
 
-Bereich 1:
+Abschnitt 1: Verbindungen (22 %)
 
-Bereich 2:
+* Entwerfen von CJA-Verbindungen mit entsprechenden Einstellungen
+* Erstellen von CJA-Verbindungen aus XDM-Datensätzen, die in AEP von Sandbox verfügbar sind
 
-Bereich 3:
+Abschnitt 2: Datenansichten (30%)
 
-Bereich 4:
+* Datenansichten für die Berichterstellung und Analyse konfigurieren
+* Komponenten in Datenansichten ändern
+
+Abschnitt 3: Datenvalidierung und Fehlerbehebung (34 %)
+
+* Überprüfen, ob die Daten korrekt und vollständig ausgefüllt sind
+* Fehlerbehebung bei Verbindungen und Datenansichten
+* Erstellen von Komponenten oder Fehlerbehebung
+* Überwachen der Verwendung von Lizenzen
+
+Abschnitt 4: Berichterstellung und Aktivierung (14 %)
+
+* Verwenden Sie Analysis Workspace, um kanalübergreifende Journey mit entsprechenden Visualisierungen zu demonstrieren.
+* Senden der Mitglieder eines CJA-Filters an eine RTCDP-Zielgruppe
+* Erstellen und Erstellen von Filtern über Datensätze hinweg
 
 >[!TAB Vorab abrufen]
 
@@ -63,21 +100,7 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-**Bereich 1:**
-
-* [Ressource hinzufügen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=de){target="_blank"}
-
-**Bereich 2:**
-
-* [Ressource hinzufügen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=de){target="_blank"}
-
-**Bereich 3:**
-
-* [Ressource hinzufügen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=de){target="_blank"}
-
-**Bereich 4:**
-
-* [Ressource hinzufügen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=de){target="_blank"}
+_Demnächst!_
 
 >[!TAB Zertifizieren]
 
@@ -88,16 +111,6 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
-**Einen Praxistest durchführen**
-
-Wir empfehlen Ihnen, den freien Praxistest durchzuführen, bevor Sie beginnen. Sie haben uneingeschränkten Zugriff auf alle verfügbaren Übungstests für die Prüfungen auf Expertenebene der Adobe.
-
-Unsere Übungstests werden alle aus dem gleichen Entwurf wie die Live-Prüfungen entwickelt. Der Praxistest hilft Ihnen, die Themen der Live-Prüfung zu verstehen.
-
-Beachten Sie bitte, dass das Bestehen eines Praktikumstests nicht garantiert, dass Sie die Zertifizierungsprüfung bestehen werden.
-
-Navigieren Sie zu [Adobe-Zertifizierungsprüfungs-Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} jetzt einen Übungstest durchführen.
-
 **Führen Sie die Zertifizierungsprüfung durch.**
 
 Adobe verwendet zwei Anbieter, um die verarbeiteten Prüfungen zu verwalten: PSI und Examity.
@@ -107,9 +120,9 @@ Adobe verwendet zwei Anbieter, um die verarbeiteten Prüfungen zu verwalten: PSI
 
 Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. So einfach ist es!
 
-### Prüfnummer: AD0-EXXX
+### Prüfnummer: AD0-E604
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134 newtab=true"}[!BADGE Prüfung]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E604 newtab=true"}[!BADGE Prüfung]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604 newtab=true"}
 
 Sie können Ihre Zertifizierungsprüfung mit Gutschein oder Kreditkarte bezahlen. Um einen Prüfgutschein zu erwerben, gehen Sie zu: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
