@@ -27,7 +27,7 @@ Wir freuen uns, Ihnen mitteilen zu können, dass Sie jetzt Ihr Zertifikat in ein
 
 >[!TAB Professional]
 
-+ + Workfront Fusion Developer
++++Workfront Fusion Developer
 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
