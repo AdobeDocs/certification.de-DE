@@ -7,9 +7,9 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
 workflow-type: tm+mt
-source-wordcount: '1491'
+source-wordcount: '1460'
 ht-degree: 12%
 
 ---
@@ -108,7 +108,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 ## Zertifizierung verlängern
 
-Um Ihre Prüfung zu verlängern, klicken Sie auf das _[!DNL Campaign Standard]Verlängerung des Geschäftspraktikums - Link AD5-822 unten_. Dadurch werden Sie zum Adobe Credential Management-System weitergeleitet, in dem Sie auf Folgendes klicken können: **[!UICONTROL Zertifizierung erneuern]** auf der rechten Bildschirmseite nach [!DNL Adobe Campaign] um den Link zur Erneuerungsprüfung zu sehen.
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung der Prüfung auf das [!DNL Campaign Standard] Verlängerung des Geschäftspraktikers - Link AD5-822 unten.
 
 * [[!DNL Campaign Standard] Verlängerung des Geschäftspraktikums - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
@@ -222,7 +222,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 ## Zertifizierung verlängern
 
-Um Ihre Prüfung zu verlängern, klicken Sie auf den[!DNL Campaign Standard] Entwicklerverlängerung - Link AD5-821&quot;unten. Dadurch werden Sie zum Adobe Credential Management-System weitergeleitet, in dem Sie auf der rechten Bildschirmseite auf die Registerkarte &quot;Zertifizierung erneuern&quot;klicken und dann nach Adobe Campaign suchen, um den Link zur Erneuerungsprüfung anzuzeigen.
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung der Prüfung auf den[!DNL Campaign Standard] Entwicklerverlängerung - Link AD5-821&quot;unten.
 
 * [[!DNL Campaign Standard] Verlängerung der Entwicklerunterstützung - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 

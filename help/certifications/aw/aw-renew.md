@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: ec82b4d83d7965901150f73c53eb069289900c52
+source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Wir freuen uns, Ihnen mitteilen zu können, dass Sie jetzt Ihr Zertifikat in ein
 
 >[!TAB Professional]
 
-+++Workfront Fusion Developer
++ + Workfront Fusion Developer
 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
@@ -101,7 +101,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 ## Zertifizierung verlängern
 
-Um Ihre Prüfung zu verlängern, klicken Sie auf den Link Workfront Fusion Developer Erneuerung - AD5-830 unten. Dadurch werden Sie zum Adobe Credential Management-System weitergeleitet, in dem Sie auf Folgendes klicken können: **[!UICONTROL Zertifizierung erneuern]** auf der rechten Bildschirmseite nach [!DNL Adobe Campaign] um den Link zur Erneuerungsprüfung zu sehen.
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung der Prüfung auf den unten stehenden Link Workfront Fusion Developer Erneuerung - AD5-830 .
 
 * [Verlängerung der Workfront Fusion Developer - AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
 
