@@ -7,7 +7,7 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
 source-wordcount: '1460'
 ht-degree: 12%
@@ -222,7 +222,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 ## Zertifizierung verlängern
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung der Prüfung auf den[!DNL Campaign Standard] Entwicklerverlängerung - Link AD5-821&quot;unten.
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung der Zertifizierung auf die Schaltfläche [!DNL Campaign Standard] Verlängerung für Entwickler - Link AD5-821 unten.
 
 * [[!DNL Campaign Standard] Verlängerung der Entwicklerunterstützung - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 

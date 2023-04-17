@@ -6,9 +6,10 @@ product: Marketo
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1056'
 ht-degree: 4%
 
 ---
@@ -148,13 +149,18 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (Arbeiten mit Programmen, E-Mail-Marketing, A/B-Tests)
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Beachten Sie Ihren QS-Prozess)
 
-### Zertifizierung neu starten
+### Zertifizierung verlängern
 
-Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den unten stehenden Link zur Verlängerung des Marketo Engage Business Practitioner Expert .
 
-[!BADGE Nehmen Sie die Adobe [!DNL Marketo Engage] Business-Practice-Experte-Neutest AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGE Nehmen Sie die Adobe [!DNL Marketo Engage] Geschäftspraktiker Expertenprüfung zur Erneuerung AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+
+>[!NOTE]
+>
+>Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
 
 >[!ENDTABS]
+
 
 ### Fragen
 

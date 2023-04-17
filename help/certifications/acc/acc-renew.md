@@ -6,9 +6,10 @@ product: Campaign
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: af895356-3e6b-424f-a637-a695b916aa47
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '912'
 ht-degree: 15%
 
 ---
@@ -136,15 +137,13 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 ### Zertifizierung verlängern
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
-
-**Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
-
-Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann auf den unten stehenden Link Campaign Classic-Erneuerung - AD5-823 , um Ihr Zertifikat zu erneuern.
 
 [Nehmen Sie die Adobe [!DNL Campaign Classic] Verlängerung der Prüfung für Business Practitioner, Entwickler und Architekten jetzt - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
+
+>[!NOTE]
+>
+>Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
 
 >[!ENDTABS]
 

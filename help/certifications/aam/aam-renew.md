@@ -6,9 +6,10 @@ product: Audience Manager
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1116'
 ht-degree: 2%
 
 ---
@@ -103,9 +104,14 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Zertifizierung neu starten**
 
-Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den unten stehenden Link Adobe Audience Manager Business Practitioner Expert - AD5-E826 .
 
-[!BADGE Nehmen Sie die Expertenprüfung AD5-E826 für Adobe Audience Manager Business Practitioner.]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+[!BADGE Nehmen Sie die Adobe Audience Manager Business Practitioner Expert Erneuerungsprüfung AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+
+>[!NOTE]
+>
+>Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+
 
 >[!TAB Vorlage]
 
@@ -177,11 +183,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [AAM: Erweiterte Funktionen](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
 * [ Launch-Schulungen und -Ressourcen](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
-### Zertifizierung neu starten
+### Zertifizierung verlängern
 
-Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den Link Übergeordnete Verlängerung des Adobe Audience Manager Architect - AD5-E825 unten.
 
 [!BADGE Nehmen Sie die Übergeordnete Erneuerungsprüfung für Adobe Audience Manager Architect AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+
+>[!NOTE]
+>
+>Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+
 
 >[!ENDTABS]
 
