@@ -6,9 +6,10 @@ product: Analytics
 role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: c230a7b1-db10-497c-975a-920eb09acb29
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '547'
 ht-degree: 6%
 
 ---
@@ -55,7 +56,7 @@ In diesen Fällen können Sie eine Kundenreferenz bereitstellen, in der Sie best
 
 **Sobald Ihre Kundenreferenz geprüft wurde, werden Sie vom Adobe Credential Team benachrichtigt.**
 
-Die Kursbewertungen sind kostenlos. Es ist nicht erforderlich, sie zu planen, und sie werden nicht verarbeitet. Wenn Sie über mehrere Adobe Experience Manager Expert- und Übergeordnete Zertifizierungen verfügen, müssen Sie nur die folgenden Anforderungen erfüllen und alle Ihre AEM-Zertifizierungen werden erneuert.
+Die Kursbewertungen sind kostenlos. Es ist nicht erforderlich, sie zu planen, und sie werden nicht verarbeitet. Wenn Sie über mehrere Adobe Analytics-Experten und Übergeordnete Zertifizierungen verfügen, müssen Sie nur die folgenden Anforderungen erfüllen und alle Ihre Adobe Analytics-Zertifizierungen auf dieser Stufe werden erneuert.
 
 [Kundenreferenzformular für Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
@@ -72,7 +73,7 @@ Die Kursbewertungen sind kostenlos. Es ist nicht erforderlich, sie zu planen, un
 
 >[!NOTE]
 >
->Sie können dies wiederholen, bis Sie drei Aktivitäten erfolgreich abgeschlossen oder das Kundenreferenzformular ausgefüllt haben.
+>Sie können eine Wiederholung vornehmen, bis Sie drei Aktivitäten erfolgreich abgeschlossen oder zwei Aktivitäten abgeschlossen haben (plus das Kundenreferenzformular).
 
 >[!ENDTABS]
 

@@ -5,9 +5,10 @@ solution: Experience Manager Sites
 product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '608'
 ht-degree: 2%
 
 ---
@@ -57,7 +58,7 @@ In diesen Fällen können Sie eine Kundenreferenz bereitstellen, in der Sie best
 
 **Sobald Ihre Kundenreferenz geprüft wurde, werden Sie vom Adobe Credential Team benachrichtigt.**
 
-Die Kursbewertungen sind kostenlos. Es ist nicht erforderlich, sie zu planen, und sie werden nicht verarbeitet. Wenn Sie über mehrere Adobe Experience Manager Expert- und Übergeordnete Zertifizierungen verfügen, müssen Sie nur die folgenden Anforderungen erfüllen und alle Ihre AEM-Zertifizierungen werden erneuert.
+Die Kursbewertungen sind kostenlos. Es ist nicht erforderlich, sie zu planen, und sie werden nicht verarbeitet. Wenn Sie über mehrere Adobe Experience Manager Expert- und Übergeordnete Zertifizierungen verfügen, müssen Sie nur die folgenden Anforderungen erfüllen und alle Ihre AEM auf dieser Stufe werden erneuert.
 
 [Kundenreferenzformular für Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA100){target="_blank"}
 
@@ -77,7 +78,7 @@ Die Kursbewertungen sind kostenlos. Es ist nicht erforderlich, sie zu planen, un
 
 >[!NOTE]
 >
->Sie können dies wiederholen, bis Sie drei Aktivitäten erfolgreich abgeschlossen oder das Kundenreferenzformular ausgefüllt haben.
+>Sie können eine Wiederholung vornehmen, bis Sie drei Aktivitäten erfolgreich abgeschlossen oder zwei Aktivitäten abgeschlossen haben (plus das Kundenreferenzformular).
 
 >[!ENDTABS]
 
