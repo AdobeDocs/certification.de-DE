@@ -7,10 +7,10 @@ product: Customer Journey Analytics
 badge: label="Test AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 85174b3682805f711d3929ef6d8dfd0558598427
+source-git-commit: bf6dae64ce1334611f7a40d14733dba7504fae20
 workflow-type: tm+mt
-source-wordcount: '582'
-ht-degree: 0%
+source-wordcount: '728'
+ht-degree: 16%
 
 ---
 
@@ -99,7 +99,28 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-_Demnächst!_
+**Abschnitt 1: Verbindungen**
+
+* [Verbindungen – Übersicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=de){target="_blank"}
+* [Verbindung erstellen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=de){target="_blank"}
+
+**Abschnitt 2: Datenansichten**
+
+* [Übersicht über die Datenansichten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=de){target="_blank"}
+* [Einstellungen der Komponente](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=de){target="_blank"}
+
+**Abschnitt 3: Datenvalidierung und Fehlerbehebung**
+
+* [Übersicht über die Datenansichten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=de){target="_blank"}
+* [Erstellen oder Bearbeiten einer Datenansicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=de){target="_blank"}
+* [Einstellungen der Komponente](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=de){target="_blank"}
+* [Standardkomponentenreferenz](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=de){target="_blank"}
+
+**Abschnitt 4: Berichterstellung und Aktivierung**
+
+* [Visualisierungsübersicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html?lang=en){target="_blank"}
+* [Analysis Workspace – Übersicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html?lang=en){target="_blank"}
+* [Übersicht über die Datenansichten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=de){target="_blank"}
 
 >[!TAB Zertifizieren]
 
