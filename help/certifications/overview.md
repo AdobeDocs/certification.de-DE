@@ -4,10 +4,10 @@ description: Informationen zu [!DNL Experience Cloud] Zertifizierung bei Adobe. 
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 8050b065ca256f4bd664700756ba70d5b0a9c5ea
+source-git-commit: fcf0ba2b3b17c78978267b6613e3fa674db03633
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Erfahren Sie mehr über die Zertifizierung bei der Adobe und was die Zertifizierung für Sie tun kann.
 
-![Banner](/help/certifications/assets/home_banner_small.png)
+![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
 Die Adobe [!DNL Experience Cloud] ist eine Suite digitaler Marketinglösungen, mit denen Unternehmen personalisierte Kundenerlebnisse über verschiedene Kanäle hinweg bereitstellen können, einschließlich Web, Mobile, E-Mail und Social Media. [!DNL Experience Cloud] umfasst eine Reihe von Produkten, wie z. B. Adobe [!DNL Real-Time CDP], Adobe [!DNL Experience Manager], [!DNL Adobe Commerce], [!DNL Adobe Journey Optimizer], [!DNL Adobe Customer Analytics]und mehr.
 
