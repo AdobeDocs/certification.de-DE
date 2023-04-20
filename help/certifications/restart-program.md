@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
+source-git-commit: f1aa8e1e15924f2f79b555fbc2fbcfcd74860827
 workflow-type: tm+mt
 source-wordcount: '5355'
 ht-degree: 10%
@@ -15,7 +16,7 @@ ht-degree: 10%
 
 # Starten Sie die Journey neu, indem Sie von abgelaufen zu zertifiziert wechseln.
 
-Dieses befristete Programm wird angeboten **vom 17. April 2023 bis 20. Oktober 2023**, bietet Ihnen die Möglichkeit, Ihre Fähigkeiten zu aktualisieren und in einer sich rasch wandelnden digitalen Landschaft stets auf dem neuesten Stand zu bleiben.
+Dieses befristete Programm wird angeboten **vom 24. April 2023 bis 20. Oktober 2023**, bietet Ihnen die Möglichkeit, Ihre Fähigkeiten zu aktualisieren und in einer sich rasch wandelnden digitalen Landschaft stets auf dem neuesten Stand zu bleiben.
 
 Personen, deren Zertifizierungen von 2020 bis zum 23. April 2023 abgelaufen sind, kommen für diese Regelung in Betracht **kostenlos** Programm.
 
