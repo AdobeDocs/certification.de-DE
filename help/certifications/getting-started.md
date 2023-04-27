@@ -4,7 +4,7 @@ description: Erste Schritte mit [!DNL Experience Cloud] Zertifizierungen. Erfahr
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
+source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
 workflow-type: tm+mt
 source-wordcount: '943'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Adobe [!DNL Experience Cloud] bietet drei Zertifizierungsstufen: Professional, E
 Diese Stufen spiegeln einen Fortgang von Kompetenz und Wissen wider, wobei das Berufszeugnis die Zertifizierung auf Einstiegsebene ist, Expert die Zwischenstufe ist und Übergeordnet die höchste Zertifizierungsstufe ist.
 
 | ![Berufsabzeichen](/help/certifications/assets/professional-badge-Xsmall.png) | **Berufszeugnisse** überprüfen, ob ein Kandidat über grundlegende Kenntnisse der Digital Marketing-Lösungen von Adobe verfügt. Die Zertifizierungsprüfung umfasst grundlegende Konzepte und Funktionen der Adobe [!DNL Experience Cloud]. |
-| --------- | ------- |
+| ------- | ------- |
 
 {style="table-layout:auto"}
 
