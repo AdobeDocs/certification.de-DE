@@ -4,9 +4,9 @@ description: Erste Schritte mit [!DNL Experience Cloud] Zertifizierungen. Erfahr
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
+source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '947'
 ht-degree: 0%
 
 ---
@@ -38,18 +38,11 @@ Adobe [!DNL Experience Cloud] bietet drei Zertifizierungsstufen: Professional, E
 
 Diese Stufen spiegeln einen Fortgang von Kompetenz und Wissen wider, wobei das Berufszeugnis die Zertifizierung auf Einstiegsebene ist, Expert die Zwischenstufe ist und Übergeordnet die höchste Zertifizierungsstufe ist.
 
+| Badge | Beschreibung |
+| ------- | ------- |
 | ![Berufsabzeichen](/help/certifications/assets/professional-badge-Xsmall.png) | **Berufszeugnisse** überprüfen, ob ein Kandidat über grundlegende Kenntnisse der Digital Marketing-Lösungen von Adobe verfügt. Die Zertifizierungsprüfung umfasst grundlegende Konzepte und Funktionen der Adobe [!DNL Experience Cloud]. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Expertenabzeichen](/help/certifications/assets/expert-badge-Xsmall.png) | **Expertenzertifikate** sind für Profis gedacht, die mit den digitalen Marketinglösungen von Adobe vertraut sind. Die Zertifizierungsprüfung behandelt komplexere Konzepte und Funktionen der Adobe [!DNL Experience Cloud], einschließlich Implementierung und Fehlerbehebung. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Übergeordnetes Zeichen](/help/certifications/assets/master-badge-Xsmall.png) | **Übergeordnete Zertifizierungen** sind für Fachkräfte gedacht, die über fundierte Kenntnisse der Digital Marketing-Lösungen von Adobe verfügen und in mehreren Bereichen der Adobe über Fachwissen verfügen [!DNL Experience Cloud]. Die Zertifizierungsprüfung umfasst erweiterte Themen und Szenarien, einschließlich komplexer Integrationen, Anpassungen und Fehlerbehebung. |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
@@ -57,18 +50,11 @@ Diese Stufen spiegeln einen Fortgang von Kompetenz und Wissen wider, wobei das B
 
 Die Adobe-Zertifizierungsprüfungen sind auf drei verschiedene Aufgabenrollen abgestimmt. Lesen Sie die unten stehenden Informationen, um die richtige Zertifizierung für Ihren Karriereweg zu finden.
 
+| Logo | Beschreibung |
+| ------- | ------- |
 | ![Badge für Geschäftspraktiker](/help/certifications/assets/business_practitioner_blk_small.png) | **Geschäftspraktiker** sind für die Konzeption, Ausführung und Verwaltung von Marketingkampagnen mithilfe von Adobe verantwortlich [!DNL Experience Cloud] Lösungen. Sie sollten ein grundlegendes Verständnis der digitalen Marketinglösungen von Adobe sowie Erfahrung in Marketing und Werbung haben. Mit der Zertifizierung für Business Practitioner wird ihre Fähigkeit bestätigt, die digitalen Marketinglösungen von Adobe effektiv zu nutzen, um Geschäftsziele zu erreichen. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Entwicklerabzeichen](/help/certifications/assets/developer_blk_small.png) | **Entwickler** für die Implementierung und Integration der Adobe verantwortlich sind [!DNL Experience Cloud] Lösungen in den Technologiestapel eines Unternehmens. Sie sollten über Erfahrung in der Softwareentwicklung und Kenntnisse in Web-Technologien wie HTML, CSS, JavaScript und RESTful-APIs verfügen. Die Entwicklerzertifizierung validiert ihre Fähigkeit, digitale Marketinglösungen von Adobe effektiv zu implementieren und anzupassen, um geschäftlichen Anforderungen gerecht zu werden. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![Architektenabzeichen](/help/certifications/assets/architect_blk_small.png) | **Architekten** sind für die Entwicklung und Implementierung von Lösungen auf Unternehmensebene mithilfe von Adobe verantwortlich [!DNL Experience Cloud] Lösungen. Sie sollten über umfassende Kenntnisse der digitalen Marketinglösungen von Adobe und Erfahrung in der Softwarearchitektur, -integration und -anpassung verfügen. Die Architektenzertifizierung validiert ihre Fähigkeit, komplexe Lösungen mithilfe der digitalen Marketinglösungen von Adobe zu entwerfen und zu implementieren. |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
