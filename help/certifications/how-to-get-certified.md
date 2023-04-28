@@ -3,7 +3,8 @@ title: Zertifikat bei Adobe erhalten
 description: Erfahren Sie, wie Sie bei der Adobe zertifiziert werden. Finden Sie alle Ressourcen, die Sie vor, während und nach der Zertifizierung benötigen.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
+source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
 workflow-type: tm+mt
 source-wordcount: '1464'
 ht-degree: 1%
@@ -88,9 +89,9 @@ Das Adobe Credential-Team arbeitet mit Anbietern zusammen, um die Programminitia
 | Name des Anbieters | Beschreibung | Supportseite/E-Mail |
 | ------- | ------- | ------- |
 | Kreativ | Badge-Management-System | [-Support](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| Prüfung | Testversandanbieter (nur Online-Verarbeitung) | support@examity.com or 855-examity (855-392-6489) |
-| PSI | Testen Sie den Bereitstellungsanbieter für verarbeitete Prüfungen an einem Ort oder auf Japanisch. | adobe.psisupport@psionline.com |
-| Xvoucher - Adobe Certification Voucher Center | Gutscheinzentrum zum Erwerb von individuellen oder Massengutscheinen | support@xvoucher.com oder [Online-Hilfe](https://help.xvoucher.com/hc/en-us){target="_blank"} |
+| Prüfung | Testversandanbieter (nur Online-Verarbeitung) | [Email](mailto:support@examity.com){target="_blank"} oder 855-Examity (855-392-6489) |
+| PSI | Testen Sie den Bereitstellungsanbieter für verarbeitete Prüfungen an einem Ort oder auf Japanisch. | [E-Mail](mailto:adobe.psisupport@psionline.com){target="_blank"} |
+| Xvoucher - Adobe Certification Voucher Center | Gutscheinzentrum zum Erwerb von individuellen oder Massengutscheinen | [Email](mailto:support@xvoucher.com){target="_blank"} oder [Online-Hilfe](https://help.xvoucher.com/hc/en-us) |
 
 Andere Ressourcen des Anbieters:
 
