@@ -1,5 +1,5 @@
 ---
-title: FAQs
+title: Häufig gestellte Fragen
 description: Erhalten Sie Antworten auf Fragen zum Zertifizierungsprogramm für Adoben. Erfahren Sie mehr über die Vorteile der Zertifizierung, wie Sie sich registrieren und wen Sie kontaktieren können.
 role: User
 recommendations: disable, exclude

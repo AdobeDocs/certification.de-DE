@@ -18,7 +18,7 @@ ht-degree: 46%
 + [Zertifizierung verlängern](renew.md)
 + [Programm neu starten](restart-program.md)
 + [Mein Profil](my-profile.md)
-+ [FAQs](faq.md)
++ [Häufig gestellte Fragen](faq.md)
 + Technische Zertifizierungen nach Lösung {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
       + [Advertising-Übersicht](/help/certifications/aac/aac-overview.md)
