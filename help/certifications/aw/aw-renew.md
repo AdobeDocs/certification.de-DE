@@ -6,18 +6,22 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: e10f50a8e8a62d88d6c3ed5175a6d155760dc37c
+source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
 workflow-type: tm+mt
-source-wordcount: '3197'
+source-wordcount: '3215'
 ht-degree: 0%
 
 ---
 
 # Adobe erneuern [!DNL Workfront] Zertifizierung
 
-Wenn Sie eine Zertifizierungsprüfung bestehen, gilt Ihr Zertifikat für zwei Jahre.
+Ihr Adobe-Zertifikat ist zwei Jahre gültig. Wenn Sie sich dieser zweijährigen Marke nähern, ist es an der Zeit, Ihre Zertifizierung zu erneuern, damit sie aktiv bleibt.
 
-Wir freuen uns, Ihnen mitteilen zu können, dass Sie jetzt Ihr Zertifikat in einem neuen, kostenlosen Format erneuern können. Es umfasst die Verwendung von On-Demand-Experience League-Kursen und -Tutorials - Schließen Sie einfach drei Aktivitäten ab, um Ihre Zertifizierung kostenlos zu erneuern. Vor Ablauf der Zertifizierung müssen Sie eine Verlängerung beantragen. Andernfalls müssen Sie die vollständige Prüfung ablegen, um wieder zertifiziert zu werden.
+Wählen Sie zunächst auf der Registerkarte unten die entsprechende Ebene aus (Professional, Expert oder Übergeordnet). Überprüfen Sie dann sorgfältig, was Sie tun müssen, um Ihre Zertifizierung zu erneuern.
+
+Stellen Sie sicher, dass Sie ausreichend Zeit haben, um alle Anforderungen abzuschließen, bevor Ihr Zertifikat abläuft.
+
+Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifizierungsprüfung wiederholen müssen, die NICHT kostenlos ist.
 
 >[!IMPORTANT]
 >
