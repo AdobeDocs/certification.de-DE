@@ -6,18 +6,23 @@ product: Document Cloud
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: d7b3688b-2ed8-4855-951b-80ac1be932eb
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
 # Adobe erneuern [!DNL Document Cloud] Zertifizierung
 
-Wenn Sie eine Zertifizierungsprüfung bestehen, gilt Ihr Zertifikat für zwei Jahre.
+Ihr Adobe-Zertifikat ist zwei Jahre gültig. Wenn Sie sich dieser zweijährigen Marke nähern, ist es an der Zeit, Ihre Zertifizierung zu erneuern, damit sie aktiv bleibt.
 
-Wir freuen uns, Ihnen mitteilen zu können, dass Sie jetzt Ihr Zertifikat in einem neuen, kostenlosen Format erneuern können. Es umfasst die Verwendung von On-Demand-Experience League-Kursen und -Tutorials - Schließen Sie einfach drei Aktivitäten ab, um Ihre Zertifizierung kostenlos zu erneuern. Vor Ablauf der Zertifizierung müssen Sie eine Verlängerung beantragen. Andernfalls müssen Sie die vollständige Prüfung ablegen, um wieder zertifiziert zu werden.
+Wählen Sie zunächst auf der Registerkarte unten die entsprechende Ebene aus (Professional, Expert oder Übergeordnet). Überprüfen Sie dann sorgfältig, was Sie tun müssen, um Ihre Zertifizierung zu erneuern.
+
+Stellen Sie sicher, dass Sie ausreichend Zeit haben, um alle Anforderungen abzuschließen, bevor Ihr Zertifikat abläuft.
+
+Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifizierungsprüfung wiederholen müssen, die NICHT kostenlos ist.
 
 >[!IMPORTANT]
 >

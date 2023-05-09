@@ -6,18 +6,22 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '626'
 ht-degree: 2%
 
 ---
 
 # Adobe erneuern [!DNL Experience Manager] Zertifizierung
 
-Wenn Sie eine Zertifizierungsprüfung bestehen, gilt Ihr Zertifikat für zwei Jahre.
+Ihr Adobe-Zertifikat ist zwei Jahre gültig. Wenn Sie sich dieser zweijährigen Marke nähern, ist es an der Zeit, Ihre Zertifizierung zu erneuern, damit sie aktiv bleibt.
 
-Wir freuen uns, Ihnen mitteilen zu können, dass Sie jetzt Ihr Zertifikat in einem neuen, kostenlosen Format erneuern können. Es umfasst die Verwendung von On-Demand-Experience League-Kursen und -Tutorials - Schließen Sie einfach drei Aktivitäten ab, um Ihre Zertifizierung kostenlos zu erneuern. Vor Ablauf der Zertifizierung müssen Sie eine Verlängerung beantragen. Andernfalls müssen Sie die vollständige Prüfung ablegen, um wieder zertifiziert zu werden.
+Wählen Sie zunächst auf der Registerkarte unten die entsprechende Ebene aus (Professional, Expert oder Übergeordnet). Überprüfen Sie dann sorgfältig, was Sie tun müssen, um Ihre Zertifizierung zu erneuern.
+
+Stellen Sie sicher, dass Sie ausreichend Zeit haben, um alle Anforderungen abzuschließen, bevor Ihr Zertifikat abläuft.
+
+Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifizierungsprüfung wiederholen müssen, die NICHT kostenlos ist.
 
 >[!IMPORTANT]
 >
