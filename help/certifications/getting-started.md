@@ -7,11 +7,11 @@ exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
 source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
 source-wordcount: '947'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Erste Schritte   {#getting-started}
+# Erste Schritte {#getting-started}
 
 Die Zertifizierungen der Adobe dienen dazu, die Kenntnisse und Fertigkeiten von Fachleuten zu überprüfen, die mit unseren digitalen Marketinglösungen arbeiten. Verwenden Sie die folgenden Tabs, um sich mit dem Zertifizierungsprogramm vertraut zu machen.
 

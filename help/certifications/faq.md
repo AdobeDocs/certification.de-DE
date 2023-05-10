@@ -1,6 +1,6 @@
 ---
 title: Häufig gestellte Fragen
-description: Erhalten Sie Antworten auf Fragen zum Zertifizierungsprogramm für Adoben. Erfahren Sie mehr über die Vorteile der Zertifizierung, wie Sie sich registrieren und wen Sie kontaktieren können.
+description: Erhalten Sie Antworten auf Fragen zum Adobe-Zertifizierungsprogramm. Erfahren Sie mehr über die Vorteile der Zertifizierung, wie Sie sich registrieren und wen Sie kontaktieren können.
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
@@ -8,7 +8,7 @@ exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
 source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
 workflow-type: tm+mt
 source-wordcount: '2665'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
