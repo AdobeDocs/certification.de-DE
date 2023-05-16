@@ -1,15 +1,16 @@
 ---
 title: Berufliche Zertifizierung
 description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Experience Manager] Professional.
-solution: Experience Manager Assets
+solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
 badge: label="Test AD0-E129" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '910'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -125,7 +126,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 **Abschnitt 1: Asset-Workflows**
 
 * [Erstellung von Modellen für den Arbeitsablauf](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html?lang=en#sync-your-workflow-generate-a-runtime-model){target="_blank"}
-* [Assets-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
+* [Assets-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Asset-Organisation und Asset-Konsole**
 

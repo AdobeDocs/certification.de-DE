@@ -1,12 +1,13 @@
 ---
 title: Zertifizierung durch Geschäftspraktiker
 description: Erfahren Sie, wie Sie ein zertifizierter Business-Practice-Experte für Adoben in Adobe werden. [!DNL Campaign Standard]
-solution: Campaign Standard
+solution: Campaign,Campaign Standard
 product: Campaign
 role: User
 badge: label="Test AD0-E307" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '987'
 ht-degree: 5%

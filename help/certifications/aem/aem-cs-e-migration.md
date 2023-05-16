@@ -1,12 +1,13 @@
 ---
 title: Zertifizierung durch Experten
 description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Experience Manager] Experten.
-solution: Experience Manager as a Cloud Service
+solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
 badge: label="Test AD0-E136" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 64b53064-8280-405b-a5f7-b50264394b82
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '903'
 ht-degree: 11%
@@ -35,7 +36,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Best Practices Analyzer
 * AEM Modernisierung
 * Repository-Browser
-* Entwicklerkonsole
+* Developer Console
 * Tool für die Benutzerzuordnung für die IMS-Adobe
 * I/O-Befehl-Tool
 * New Relic
@@ -146,7 +147,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 **Abschnitt 5: Implementierung**
 
 * [Verwenden der CI/CD-Pipeline in Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html?lang=en){target="_blank"}
-* [Bereitstellen für AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=de){target="_blank"}
+* [Bereitstellen in AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=de){target="_blank"}
 
 >[!TAB Zertifizieren]
 
@@ -181,4 +182,3 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
-

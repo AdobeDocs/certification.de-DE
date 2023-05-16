@@ -1,15 +1,16 @@
 ---
 title: Zertifizierung für Entwickler
 description: Erfahren Sie, wie Sie ein zertifizierter Adobe-Business-Practice-Experte in [!DNL Experience Manager Sites].
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
 badge: label="Test AD0-E123" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '812'
-ht-degree: 16%
+ht-degree: 18%
 
 ---
 
@@ -106,7 +107,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [AEM 6.5-Bereitstellungshandbuch für Benutzer](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=de){target="_blank"}
 * [AEM 6.5-Entwickleranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
 * [Einführung in Kernkomponenten ](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=de){target="_blank"}
-* [Komponentengrundlagen](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html?lang=en){target="_blank"}
+* [Komponentengrundlagen](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Erstellen und Bereitstellen**
 
