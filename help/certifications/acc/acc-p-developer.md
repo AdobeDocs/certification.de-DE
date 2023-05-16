@@ -1,12 +1,13 @@
 ---
 title: Zertifizierung für Entwickler
 description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer Professional werden können in [!DNL Campaign Classic].
-solution: Campaign Classic
+solution: Campaign Classic v7
 product: Campaign
 role: Developer
 badge: label="Test AD0-E331" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
+source-git-commit: 0246f6b1118fd9d6f7f1c63a92593e5a0dda8d42
 workflow-type: tm+mt
 source-wordcount: '1311'
 ht-degree: 15%

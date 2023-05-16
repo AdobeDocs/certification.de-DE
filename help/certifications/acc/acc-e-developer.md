@@ -1,12 +1,13 @@
 ---
 title: Zertifizierung durch Entwickler
 description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte in [!DNL Campaign Classic].
-solution: Campaign Classic
+solution: Campaign Classic v7
 product: Campaign
 role: Developer
 badge: label="Test AD0-E330" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
+source-git-commit: 0246f6b1118fd9d6f7f1c63a92593e5a0dda8d42
 workflow-type: tm+mt
 source-wordcount: '1350'
 ht-degree: 13%
@@ -160,7 +161,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Anwendungsfälle für Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/about-workflow-use-cases.html?lang=en){target="_blank"}
 * [Überwachungshandbuch - Allgemeine Architektur](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/introduction/general-architecture.html?lang=en){target="_blank"}
 * [Erste Schritte mit dem Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/get-started-with-control-panel.html?lang=en){target="_blank"}
-* [Über die Leistungsüberwachung ](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/about-performance-monitoring.html?lang=en){target="_blank"}
+* [Über die Leistungsüberwachung](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/about-performance-monitoring.html?lang=en){target="_blank"}
 
 **Abschnitt 6: Kampagnenkonfiguration**
 

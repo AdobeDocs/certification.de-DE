@@ -1,18 +1,18 @@
 ---
 title: Übergeordnete Architekturzertifizierung
 description: Erfahren Sie, wie Sie ein zertifizierter Adobe Architect werden können, Übergeordnet in [!DNL Campaign Classic].
-solution: Campaign Classic
+solution: Campaign Classic v7
 product: Campaign
 role: Data Architect
 badge: label="Test AD0-E328" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
+source-git-commit: 0246f6b1118fd9d6f7f1c63a92593e5a0dda8d42
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 13%
 
 ---
-
 
 # Zertifizierungs-Journey zur Adobe [!DNL Campaign Classic] Architekten Übergeordnet
 
@@ -117,7 +117,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Erste Schritte mit der Campaign-Serverkonfiguration](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html?lang=en){target="_blank"}
 * [Erste Schritte bei der Überwachung eines Versands](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=en){target="_blank"}
 * [Empfehlungen zur Hardware-Dimensionierung](https://experienceleague.adobe.com/docs/campaign-classic/using/technotes/hardware-sizing.html?lang=en){target="_blank"}
-* [Eigenständige Freigabe](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=en){target="_blank"}
+* [Eigenständige Bereitstellung](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=en){target="_blank"}
 
 **Abschnitt 2: Datenlandschaft**
 
