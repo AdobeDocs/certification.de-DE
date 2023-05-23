@@ -8,9 +8,9 @@ badge: label="Test AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: f17e87b65196b339c82026d3b65b57801b03355e
+source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '895'
 ht-degree: 1%
 
 ---
@@ -79,8 +79,6 @@ Abschnitt 4: Empfohlene Lösung (12%)
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
-
-**Abschnitt 1: Bildungswesen**
 
 **Abschnitt 1: Anwendungsfallerkennung**
 
