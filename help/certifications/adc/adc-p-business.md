@@ -8,9 +8,9 @@ badge: label="Test AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: ffe9c479418f5d7e3d900a17b2d7740474fabfcf
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '889'
 ht-degree: 1%
 
 ---
@@ -24,6 +24,8 @@ Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner Professiona
 Sie sollten über Folgendes verfügen:
 
 * Mindestens 0-12 Monate Erfahrung in Adobe Document Cloud
+* in der Lage sein, geschäftliche Anforderungen zu identifizieren und zu kommunizieren
+* Sie können Produktaktivierungsberatungen zu Adobe Document Cloud-Lösungen durchführen.
 
 >[!NOTE]
 >
@@ -134,7 +136,7 @@ Adobe verwendet zwei Anbieter, um die verarbeiteten Prüfungen zu verwalten: PSI
 * **PSI** bietet Testcenter- und japanische Prüfungsoptionen (sofern verfügbar)
 * **[!DNL Examity]** bietet eine Remote-Online-Option
 
-Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. Das ist so einfach!
+Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. So einfach ist es!
 
 Ihr Profilname im Adobe Credential Management System muss genau mit Ihrer Government ID übereinstimmen. Wenn der Proktor die Prüfung nicht mit den gleichen Informationen oder einer Inkongruenz beendet, muss er den Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.
 
