@@ -6,9 +6,10 @@ product: Magento
 role: Data Architect
 badge: label="Test AD0-E718" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '1053'
 ht-degree: 1%
 
 ---
@@ -138,7 +139,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Store-Details](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
 * [Seiten](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
 * [Hinzufügen einer neuen Zahlungsintegration (Zahlungsmethode)](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [Authentifizierung](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
+* [-Authentifizierung](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
 * [Übersicht über GraphQL](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
 
 **Abschnitt 2: Überprüfen**
@@ -175,7 +176,11 @@ Adobe verwendet zwei Anbieter zur Verwaltung von verarbeiteten Prüfungen, PSI u
 * **PSI** bietet Testcenter- und japanische Prüfungsoptionen (sofern verfügbar)
 * **[!DNL Examity]** bietet eine Remote-Online-Option
 
-Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. So einfach ist es!
+Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. Das ist so einfach!
+
+Ihr Profilname im Adobe Credential Management System muss genau mit Ihrer Government ID übereinstimmen. Wenn der Proktor die Prüfung nicht mit den gleichen Informationen oder einer Inkongruenz beendet, muss er den Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.
+
+Stornierungen und Umschulungen sind möglich, wenn sie vor 48 Stunden vor dem geplanten Prüfungstermin begonnen werden. Die Kandidaten müssen diese Ernennung selbst ändern.
 
 ### Prüfnummer: AD0-E718
 
