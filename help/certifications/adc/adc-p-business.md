@@ -8,14 +8,14 @@ badge: label="Test AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
+source-git-commit: 8019f2ab918628ff90655faa9b7a673fe1ce0811
 workflow-type: tm+mt
-source-wordcount: '895'
-ht-degree: 1%
+source-wordcount: '894'
+ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe Doc Cloud Business Practitioner Professional
+# Zertifizierungs-Journey für Adobe Document Cloud Business Practitioner Professional
 
 Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner Professional werden.
 
@@ -40,7 +40,6 @@ Sie sollten über Folgendes verfügen:
 * Lösungsberater
 * Geschäftsanalyst
 * Vertrieb
-* Entwickler
 
 **Prüfungsdetails:**
 
@@ -59,7 +58,7 @@ Abschnitt 1: Ermittlung von Nutzungsszenarios (36 %)
 * Qualifizierte Fragen stellen, um Document Cloud-Chancen zu identifizieren
 * Allgemeine Geschäftsanwendungsfälle definieren
 
-Abschnitt 2: Bewertung von Geschäftsprozessen (34)
+Abschnitt 2: Bewertung von Geschäftsprozessen (34 %)
 
 * Ermitteln der wichtigsten Bereiche der Prozessverbesserung und Lösungsfähigkeit
 * Geschäftsziele mit Document Cloud-Funktionen abstimmen
