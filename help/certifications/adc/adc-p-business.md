@@ -8,9 +8,9 @@ badge: label="Test AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 354d65edf298c2b633f6b04a76bcf3ccaa796a1c
+source-git-commit: 79760903d5f61edf3a7a8edb7bf49809a1a56848
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '967'
 ht-degree: 0%
 
 ---
@@ -127,15 +127,13 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
-**Einen Praxistest durchführen**
+**Nehmen Sie einen Übungstest - in Kürze verfügbar!**
 
 Wir empfehlen Ihnen, den freien Praxistest durchzuführen, bevor Sie beginnen. Sie haben uneingeschränkten Zugriff auf alle verfügbaren Übungstests für die Prüfungen auf Expertenebene der Adobe.
 
 Unsere Übungstests werden alle aus dem gleichen Entwurf wie die Live-Prüfungen entwickelt. Der Praxistest hilft Ihnen, die Themen der Live-Prüfung zu verstehen.
 
 Beachten Sie bitte, dass das Bestehen eines Praktikumstests nicht garantiert, dass Sie die Zertifizierungsprüfung bestehen werden.
-
-Navigieren Sie zu [Adobe-Zertifizierungsprüfungs-Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} jetzt einen Übungstest durchführen.
 
 **Führen Sie die Zertifizierungsprüfung durch.**
 
