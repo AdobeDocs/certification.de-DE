@@ -7,7 +7,7 @@ role: Data Architect,Developer
 badge: label="Test AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: a5d9e5afe6f1a0efe67724c8de7ee2a6871b1035
 workflow-type: tm+mt
 source-wordcount: '1031'
 ht-degree: 20%
@@ -67,7 +67,7 @@ Abschnitt 1: Ermittlung (18 %)
 * Untersuchung der Kundenanforderungen zum Erstellen von Geschäftsanforderungen
 * Erstellen Sie für ein Szenario ein Messungs-Framework.
 
-Abschnitt 2: Lösungsdesign (26%)
+Abschnitt 2: Lösungsdesign (54%)
 
 * Übersetzen von Geschäftsanforderungen in Variablen und Metriken
 * Funktionsweise der Verwaltung von Report Suite-Einstellungen
