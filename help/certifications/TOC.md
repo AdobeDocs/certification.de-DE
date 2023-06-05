@@ -2,7 +2,7 @@
 user-guide-title: Zertifizierung bei Adobe
 breadcrumb-title: Zertifizierung bei Adobe
 user-guide-description: Informationen zur  [!DNL Experience Cloud] -Zertifizierung bei Adobe. Finden Sie heraus, was eine Zertifizierung für Sie bedeuten kann.
-source-git-commit: be0a8c6898d021744eb4a9e69225b4f83a42d3b2
+source-git-commit: 007fd9851149994e3ef7a46291731a5aa91adc81
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 47%
@@ -80,6 +80,11 @@ ht-degree: 47%
       + Vorlage {#ac-master}
          + [Architekt](/help/certifications/ac/ac-m-architect.md)
       + [Verlängerung](/help/certifications/ac/ac-renew.md)
+   + Adobe [!DNL Document Cloud] {#adc}
+      + [Übersicht über Document Cloud](/help/certifications/adc/adc-overview.md)
+      + Professional {#adc-professional}
+         + [Business Practitioner](/help/certifications/adc/adc-p-business.md)
+      + [Verlängerung](/help/certifications/adc/adc-renew.md)
    + Adobe [!DNL Experience Manager] {#aem}
       + [Übersicht über Experience Manager](/help/certifications/aem/aem-overview.md)
       + Professional {#aem-professional}
@@ -106,11 +111,6 @@ ht-degree: 47%
       + Vorlage {#ame-master}
          + [Architekt](/help/certifications/ame/ame-m-architect.md)
       + [Verlängerung](/help/certifications/ame/ame-renew.md)
-   + Adobe [!DNL Document Cloud] {#adc}
-      + [Übersicht über Document Cloud](/help/certifications/adc/adc-overview.md)
-      + Professional {#adc-professional}
-         + [Business Practitioner](/help/certifications/adc/adc-p-business.md)
-      + [Verlängerung](/help/certifications/adc/adc-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Übersicht über Real-Time CDP](/help/certifications/rtcdp/rtcdp-overview.md)
       + Professional {#rtcdp-professional}
