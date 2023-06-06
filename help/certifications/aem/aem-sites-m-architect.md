@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Test AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
-source-wordcount: '1570'
+source-wordcount: '1568'
 ht-degree: 26%
 
 ---
@@ -131,7 +131,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Adobe [!DNL Experience Manager] 6.5 Communities-Handbuch](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
 * [Videos und Tutorials zu AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=de){target="_blank"}
 * [AEM 6.5-Verwaltungsanleitung](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
-* [Einführung in AEM as a Cloud Service](http://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
+* [Einführung in AEM as a Cloud Service](https://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
 * [Einführung in Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=de){target="_blank"}
 * [Videos und Tutorials zu AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=de){target="_blank"}
 * [Einführung in HTTP/2](https://developers.google.com/web/fundamentals/performance/http2){target="_blank"}
@@ -146,7 +146,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Konferenzgespräch: Kontextabhängige Konfiguration von Sling](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
 * [Videos und Tutorials zu AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=de){target="_blank"}
 * [Ein-/Ausblenden von Seiteneigenschaften basierend auf Vorlage in AEM 6.4](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
-* [Benutzerdefinierte Rendering-Bedingungen AEM Granite](http://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
+* [Benutzerdefinierte Rendering-Bedingungen AEM Granite](https://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
 * [Verhindern von XSS in React-Anwendungen](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
 * [AEM 6.5-Administratorenhandbuch](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=de){target="_blank"}
 * [AEM 6.4-Mobilbenutzeranleitung](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
@@ -174,7 +174,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Identitätstypen in Adobe Admin Console](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
 * [Dispatcher-Übersicht](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [AEM Sites-Videos und -Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=de){target="_blank"}
-* [Einführung in Cloud Manager](https://docs.adobe.com/content/help/de-DE/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html){target="_blank"}
+* [Einführung in Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=de){target="_blank"}
 * [Adobe Target-Handbuch](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=de){target="_blank"}
 * [AEM 6.5 Authoring-Benutzeranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=de){target="_blank"}
 * [Assets-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=de){target="_blank"}
