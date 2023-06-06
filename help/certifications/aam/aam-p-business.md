@@ -7,10 +7,10 @@ role: User
 badge: label="Test AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1141'
-ht-degree: 10%
+source-wordcount: '1087'
+ht-degree: 12%
 
 ---
 
@@ -95,57 +95,57 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 **Abschnitt 1: Erstellung und Syndikation von Segmenten**
 
-* [Nutzung von Massen-Upload-Daten in Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.html?lang=en){target="_blank"}
+* [Nutzung von Massen-Upload-Daten in Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.html){target="_blank"}
 * [Über Segmente](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=de){target="_blank"}
-* [Erstellen Sie eine Konversionseigenschaft in [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=en){target="_blank"}
+* [Erstellen Sie eine Konversionseigenschaft in [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html){target="_blank"}
 * [[!DNL Audience Manager] Tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
-* [DSGVO-Bereitschaftsleitfaden für [!DNL Audience Manager] Kunden (Datenverantwortliche)](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-reference/aam-gdpr-readiness.html?lang=en){target="_blank"}
-* [Seite &quot;Segmentdetails&quot;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-summary-view.html?lang=en){target="_blank"}
+* [DSGVO-Bereitschaftsleitfaden für [!DNL Audience Manager] Kunden (Datenverantwortliche)](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-reference/aam-gdpr-readiness.html){target="_blank"}
+* [Seite &quot;Segmentdetails&quot;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-summary-view.html){target="_blank"}
 * [Kundentipps - Best Practices für Eigenschaften und Segmente](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html%3Flang%3Dja){target="_blank"}
 
 **Abschnitt 2: Erstellung von Eigenschaften**
 
-* [Signale, Eigenschaften und Segmente](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=en){target="_blank"}
-* [Segmente: Zweck, Zusammensetzung und Regeln](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=en){target="_blank"}
-* [Segmentfreigabe in Experience Platform mit [!DNL Audience Manager] und anderen Experience Cloud-Lösungen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.){target="_blank"}
-* [Referenz: Eigenschafts- und Segmentqualifikationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html?lang=en){target="_blank"}
-* [Eigenschafts- und Segmentpopulationsdaten in Segment Builder](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder-data.html?lang=en){target="_blank"}
+* [Signale, Eigenschaften und Segmente](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=de){target="_blank"}
+* [Segmente: Zweck, Zusammensetzung und Regeln](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
+* [Segmentfreigabe in Experience Platform mit [!DNL Audience Manager] und anderen Experience Cloud-Lösungen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=de){target="_blank"}
+* [Referenz: Eigenschafts- und Segmentqualifikationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
+* [Eigenschafts- und Segmentpopulationsdaten in Segment Builder](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder-data.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Berichterstattung und Messungen**
 
-* [Verwenden von Audience Optimizationen-Berichten zum Überblicken der Medienwirksamkeit](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html?lang=en){target="_blank"}
+* [Verwenden von Audience Optimizationen-Berichten zum Überblicken der Medienwirksamkeit](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
 * [Segmentfreigabe in Experience Platform mit [!DNL Audience Manager] und anderen Experience Cloud-Lösungen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=de){target="_blank"}
-* [Übereinstimmungsraten verstehen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html?lang=en){target="_blank"}
+* [Übereinstimmungsraten verstehen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html){target="_blank"}
 * [Datenquelle für Analytics-Daten erstellen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/data-sources/create-a-data-source-for-analytics-data.html?lang=ru){target="_blank"}
 
 **Abschnitt 4: Fehlerbehebung**
 
-* [Globale Data Sources](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/global-data-sources.html?lang=en#:~:text=Global%20data%20sources%20are%20accessible,by%20manufacturers%20for%20advertising%20purposes.){target="_blank"}
-* [Liste der Data Sources und Einstellungen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html?lang=en){target="_blank"}
-* [Data Sources verwalten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html?lang=en){target="_blank"}
-* [Inhalt der eingehenden Datendatei: Syntax, ungültige Zeichen, Variablen und Beispiele](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=en){target="_blank"}
-* [Erfassung eingehender Daten in Echtzeit](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/real-time-inbound-data-integration/real-time-data-transfer.html?lang=en){target="_blank"}
-* [ID-Synchronisierung für eingehende Datenübertragungen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html?lang=de){target="_blank"}
+* [Globale Data Sources](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/global-data-sources.html#:~:text=Global%20data%20sources%20are%20accessible,by%20manufacturers%20for%20advertising%20purposes.){target="_blank"}
+* [Liste der Data Sources und Einstellungen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html){target="_blank"}
+* [Data Sources verwalten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html?lang=de){target="_blank"}
+* [Inhalt der eingehenden Datendatei: Syntax, ungültige Zeichen, Variablen und Beispiele](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html){target="_blank"}
+* [Erfassung eingehender Daten in Echtzeit](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/real-time-inbound-data-integration/real-time-data-transfer.html){target="_blank"}
+* [ID-Synchronisierung für eingehende Datenübertragungen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html){target="_blank"}
 
 **Abschnitt 5: Taxonomie**
 
-* [Ordnereigenschaften: Info](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html?lang=en){target="_blank"}
-* [Eigenschaftsspeicherung](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-storage.html?lang=en){target="_blank"}
-* [Erstellen einer Eigenschaftstaxonomie](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
-* [Grundlegendes zur Segmentierung](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/personalization/segmentation.html?lang=en){target="_blank"}
+* [Ordnereigenschaften: Info](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
+* [Eigenschaftsspeicherung](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-storage.html){target="_blank"}
+* [Erstellen einer Eigenschaftstaxonomie](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=de){target="_blank"}
+* [Grundlegendes zur Segmentierung](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/personalization/segmentation.html){target="_blank"}
 
 **Abschnitt 6: Profilzusammenführung, ID-Synchronisierung und Audience Marketplace**
 
-* [Auswirkungen von Profilzusammenführungsrichtlinien-Verbesserungen auf die Segmentierung, Aktivierung und Berichterstellung](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.html?lang=en){target="_blank"}
-* [Erstellen Sie eine Konversionseigenschaft in [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=en){target="_blank"}
-* [Aktivieren von Zielgruppensegmenten bei Bedarf für Batch-Ziele über die Ad-hoc-Aktivierungs-API](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html?lang=en){target="_blank"}
-* [Profile und Segmente für ein Ziel aktivieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html?lang=de){target="_blank"}
+* [Auswirkungen von Profilzusammenführungsrichtlinien-Verbesserungen auf die Segmentierung, Aktivierung und Berichterstellung](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.html){target="_blank"}
+* [Erstellen Sie eine Konversionseigenschaft in [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html){target="_blank"}
+* [Aktivieren von Zielgruppensegmenten bei Bedarf für Batch-Ziele über die Ad-hoc-Aktivierungs-API](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html){target="_blank"}
+* [Profile und Segmente für ein Ziel aktivieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 
 >[!TAB Zertifizieren]
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
@@ -175,6 +175,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

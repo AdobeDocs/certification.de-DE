@@ -7,9 +7,9 @@ role: User
 badge: label="Test AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 13671a4dceee486a2abba6ab3ab8f2fa781f5c86
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '963'
 ht-degree: 1%
 
 ---
@@ -96,7 +96,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Adobe PDF Embed API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 * [PDF- und e-Signatur-Tools für Ihr Unternehmen. Acrobat hat es verstanden.](https://www.adobe.com/acrobat/business.html){target="_blank"}
 * [Adobe Acrobat-Benutzerhandbuch](https://helpx.adobe.com/de/acrobat/user-guide.html){target="_blank"}
-* [Integrationen - Neue Funktionen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html?lang=en#what%E2%80%99s-new){target="_blank"}
+* [Integrationen - Neue Funktionen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
 * [Sichere, flexible Online-Signaturen](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
 **Abschnitt 3: Definition von Document Cloud-Funktionen (DC)**
@@ -122,7 +122,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
@@ -163,7 +163,7 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
 

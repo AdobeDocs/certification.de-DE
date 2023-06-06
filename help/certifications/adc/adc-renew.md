@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: d7b3688b-2ed8-4855-951b-80ac1be932eb
-source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -40,6 +40,6 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

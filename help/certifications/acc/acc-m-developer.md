@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Test AD0-E328" type="positive"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1187'
-ht-degree: 13%
+source-wordcount: '1139'
+ht-degree: 14%
 
 ---
 
@@ -114,48 +114,48 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 **Abschnitt 1: Lösungsdefinition**
 
 * [Verwalten von Abonnements](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/managing-subscriptions.html?lang=de){target="_blank"}
-* [Erste Schritte mit der Campaign-Serverkonfiguration](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html?lang=en){target="_blank"}
-* [Erste Schritte bei der Überwachung eines Versands](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=en){target="_blank"}
-* [Empfehlungen zur Hardware-Dimensionierung](https://experienceleague.adobe.com/docs/campaign-classic/using/technotes/hardware-sizing.html?lang=en){target="_blank"}
-* [Eigenständige Bereitstellung](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=en){target="_blank"}
+* [Erste Schritte mit der Campaign-Serverkonfiguration](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html?lang=de){target="_blank"}
+* [Erste Schritte bei der Überwachung eines Versands](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=de){target="_blank"}
+* [Empfehlungen zur Hardware-Dimensionierung](https://experienceleague.adobe.com/docs/campaign-classic/using/technotes/hardware-sizing.html){target="_blank"}
+* [Eigenständige Bereitstellung](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Datenlandschaft**
 
-* [Power Booster und Power Cluster](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/power-booster-and-power-cluster.html?lang=en){target="_blank"}
-* [PII-Ansicht beschränken](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/restricting-pii-view.html?lang=en){target="_blank"}
+* [Power Booster und Power Cluster](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/power-booster-and-power-cluster.html){target="_blank"}
+* [PII-Ansicht beschränken](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/restricting-pii-view.html){target="_blank"}
 * [Best Practices für Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=de){target="_blank"}
 * [Best Practices für Datenmodelle](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=de){target="_blank"}
 * [Verwalten von Datenschutzanfragen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-requests/privacy-requests.html){target="_blank"}
 
 **Abschnitt 3: Installation und Verwaltung**
 
-* [Platzierungen erstellen](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html?lang=en){target="_blank"}
-* [CRM-Connectoren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html?lang=en){target="_blank"}
-* [Angebot auf einem Inbound-Kanal](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/case-study/offers-on-an-inbound-channel.html?lang=en){target="_blank"}
+* [Platzierungen erstellen](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html){target="_blank"}
+* [CRM-Connectoren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
+* [Angebot auf einem Inbound-Kanal](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/case-study/offers-on-an-inbound-channel.html){target="_blank"}
 * [Daten-Packages ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=de){target="_blank"}
-* [Externe Konten](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html?lang=en){target="_blank"}
+* [Externe Konten](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html?lang=de){target="_blank"}
 
 **Abschnitt 4: Projektleitung**
 
 * [Überwachen der Workflow-Ausführung](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=de){target="_blank"}
 * [Einrichten der Identität und Single Sign-On](https://helpx.adobe.com/uk/enterprise/using/set-up-identity.html){target="_blank"}
-* [Datenbank-Mapping](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/database-mapping.html?lang=en){target="_blank"}
-* [Workflow-Heatmap](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html?lang=en){target="_blank"}
+* [Datenbank-Mapping](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/database-mapping.html){target="_blank"}
+* [Workflow-Heatmap](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html){target="_blank"}
 
 **Abschnitt 5: Anpassung**
 
 * [Verwenden von Campaign und Experience Cloud Triggers](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html?lang=de){target="_blank"}
-* [JavaScript-Scripte und -Vorlagen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html?lang=de){target="_blank"}
+* [JavaScript-Scripte und -Vorlagen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
 * [Big Data-Management mit Snowflake](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html?lang=de){target="_blank"}
-* [CRM-Connectoren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html?lang=en){target="_blank"}
-* [Interaction und Angebotsverwaltung](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html?lang=en){target="_blank"}
-* [Grundprinzip](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html?lang=en){target="_blank"}
+* [CRM-Connectoren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
+* [Interaction und Angebotsverwaltung](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html){target="_blank"}
+* [Grundprinzip](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html){target="_blank"}
 
 >[!TAB Zertifizieren]
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
@@ -184,6 +184,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

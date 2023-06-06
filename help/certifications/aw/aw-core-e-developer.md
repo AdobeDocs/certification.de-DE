@@ -6,9 +6,9 @@ role: Developer
 badge: label="Test AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1777'
+source-wordcount: '1737'
 ht-degree: 0%
 
 ---
@@ -135,63 +135,63 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Systemprojektstatus](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
 * [Kick-Starts](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts.html){target="_blank"}
 * [Benutzerattribute zuordnen und neue Benutzer automatisch bereitstellen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/map-user-attributes.html){target="_blank"}
-* [Gruppen und Untergruppen erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/user-organization-groups.html?lang=en){target="_blank"}
+* [Gruppen und Untergruppen erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/user-organization-groups.html){target="_blank"}
 
 **Abschnitt 2: Aufnahme, benutzerdefinierte Formulare und Projektverwaltung**
 
-* [Globale Standardprojekteinstellungen konfigurieren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html?lang=en){target="_blank"}
+* [Globale Standardprojekteinstellungen konfigurieren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html){target="_blank"}
 * [Meine Einstellungen konfigurieren](https://experienceleague.adobe.com/docs/workfront/using/basics/manage-account-profile/configure-user-profile/configure-my-settings.html){target="_blank"}
 * [Hinzufügen errechneter Daten zu einem benutzerdefinierten Formular](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
-* [Anleitung zur Fehlerbehebung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/error-handling-walkthrough.html?lang=en){target="_blank"}
+* [Anleitung zur Fehlerbehebung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/error-handling-walkthrough.html){target="_blank"}
 * [Best Practice - Projektvorlagen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html){target="_blank"}
 
 **Abschnitt 3: Strategische Funktionalität - Portfolio- und Programmmanagement, Ressourcenmanagement**
 
 * [Grundlegendes zu KPIs in Enhanced Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
 * [Projektumfang-Management](https://business.adobe.com/blog/basics/scope-management){target="_blank"}
-* [Priorisieren und Verwalten der Arbeit mit Portfolios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=en){target="_blank"}
-* [Erstellen und Bearbeiten von Risiken für Projekte](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/create-edit-risks-on-projects.html?lang=en){target="_blank"}
+* [Priorisieren und Verwalten der Arbeit mit Portfolios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html){target="_blank"}
+* [Erstellen und Bearbeiten von Risiken für Projekte](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/create-edit-risks-on-projects.html){target="_blank"}
 * [Projektprioritäten verstehen und aktualisieren](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-priority.html){target="_blank"}
 * [Ansicht: Informationen zur ursprünglichen Ausgabe für Aufgaben und Projekte](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-originating-issue-details-tasks-projects.html){target="_blank"}
 
 **Abschnitt 4: Dokumentenverwaltung und -prüfung**
 
 * [den Unterschied zwischen einem Dokument und einem Testversand verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html%3Flang%3Dzh-Hant){target="_blank"}
-* [Best Practice - Testversand](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html?lang=en){target="_blank"}
+* [Best Practice - Testversand](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html){target="_blank"}
 * [Projekte bearbeiten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
 * [Verknüpfen von Dokumenten mit externen Anwendungen](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}
 
 **Abschnitt 5: Berichterstellung**
 
 * [Ansicht: Zusammenführen von Informationen aus mehreren Spalten in einer gemeinsamen Spalte](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-merge-columns.html){target="_blank"}
-* [Erstellen von Filtern mit benutzerdefinierten Platzhaltern](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=en){target="_blank"}
-* [Ansicht: Anzeigen der übergeordneten/untergeordneten Beziehung in einer Aufgabe durch Einrücken der Aufgaben](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-parent-child-relationship-by-indenting-tasks-with-custom-view.html?lang=en){target="_blank"}
+* [Erstellen von Filtern mit benutzerdefinierten Platzhaltern](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html){target="_blank"}
+* [Ansicht: Anzeigen der übergeordneten/untergeordneten Beziehung in einer Aufgabe durch Einrücken der Aufgaben](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-parent-child-relationship-by-indenting-tasks-with-custom-view.html){target="_blank"}
 * [Berichte und Dashboards](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports-and-dashboards-overview.html){target="_blank"}
-* [Best Practices - Onboarding und Adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html?lang=en){target="_blank"}
+* [Best Practices - Onboarding und Adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 
 **Abschnitt 6: Methode/Best Practices/Anwendungsfälle**
 
-* [Verfolgen des Fortschritts über die Projekt-Timeline](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html?lang=en){target="_blank"}
-* [Priorisieren Sie Ihre Arbeit in [!DNL Workfront] Startseite](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/prioritize-your-work-in-workfront-home.html?lang=en){target="_blank"}
-* [Übersicht über Rechnungsstellung und Umsatz](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html?lang=en){target="_blank"}
+* [Verfolgen des Fortschritts über die Projekt-Timeline](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
+* [Priorisieren Sie Ihre Arbeit in [!DNL Workfront] Startseite](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/prioritize-your-work-in-workfront-home.html){target="_blank"}
+* [Übersicht über Rechnungsstellung und Umsatz](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html){target="_blank"}
 * [Informationen zur Ressourcenauslastung anzeigen](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html){target="_blank"}
 * [Erstellen eines Genehmigungsprozesses für Arbeitselemente](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
-* [Übersicht über den automatisierten Workflow](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html?lang=en){target="_blank"}
+* [Übersicht über den automatisierten Workflow](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
 
 **Abschnitt 7: Unternehmensberatung**
 
-* [Wissenswertes über Arbeitsaufwand](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort.html?lang=en){target="_blank"}
-* [Automatisierte Workflow-Vorlage bearbeiten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/proof-workflows/edit-an-automated-workflow-template.html?lang=en){target="_blank"}
-* [Konvertieren von Problemen in andere Arbeitselemente](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html?lang=en){target="_blank"}
-* [Globale Standardprojekteinstellungen konfigurieren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html?lang=en){target="_blank"}
-* [Definieren von Zielen für Ihre Adobe [!DNL Workfront] Implementierung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en){target="_blank"}
-* [Best Practice - Ressourcen-Planer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html?lang=en){target="_blank"}
+* [Wissenswertes über Arbeitsaufwand](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort.html){target="_blank"}
+* [Automatisierte Workflow-Vorlage bearbeiten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/proof-workflows/edit-an-automated-workflow-template.html){target="_blank"}
+* [Konvertieren von Problemen in andere Arbeitselemente](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html){target="_blank"}
+* [Globale Standardprojekteinstellungen konfigurieren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html){target="_blank"}
+* [Definieren von Zielen für Ihre Adobe [!DNL Workfront] Implementierung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
+* [Best Practice - Ressourcen-Planer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
 
 >[!TAB Zertifizieren]
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
@@ -230,6 +230,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

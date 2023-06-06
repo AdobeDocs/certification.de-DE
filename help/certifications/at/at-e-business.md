@@ -7,10 +7,10 @@ role: User
 badge: label="Test AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1488'
-ht-degree: 0%
+source-wordcount: '1438'
+ht-degree: 1%
 
 ---
 
@@ -145,45 +145,45 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 1: Planung und Strategie**
 
-* [Einrichten von Kontovoreinstellungen in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-account-preferences.html?lang=en){target="_blank"}
-* [Grundlegendes zu Berechtigungen für Unternehmensbenutzer in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/understanding-enterprise-user-permissions.html?lang=en){target="_blank"}
-* [Konfigurieren von Berechtigungen für Unternehmensbenutzer](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.2-configure-ent-user-permissions.html?lang=en){target="_blank"}
-* [Einrichten von Arbeitsbereichen in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-workspaces.html?lang=en){target="_blank"}
-* [ Einführung in die Administrationseinstellungen](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.3-intro-to-admin-setup.html?lang=en){target="_blank"}
-* [Einrichten von Eigenschaften in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-properties.html?lang=en){target="_blank"}
+* [Einrichten von Kontovoreinstellungen in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-account-preferences.html){target="_blank"}
+* [Grundlegendes zu Berechtigungen für Unternehmensbenutzer in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/understanding-enterprise-user-permissions.html){target="_blank"}
+* [Konfigurieren von Berechtigungen für Unternehmensbenutzer](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.2-configure-ent-user-permissions.html){target="_blank"}
+* [Einrichten von Arbeitsbereichen in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-workspaces.html){target="_blank"}
+* [ Einführung in die Administrationseinstellungen](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.3-intro-to-admin-setup.html){target="_blank"}
+* [Einrichten von Eigenschaften in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-properties.html){target="_blank"}
 
 **Abschnitt 2: Konfiguration, Ausführung und Verwaltung**
 
-* [Einführung in [!DNL Adobe Target] Implementierung](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.1-intro-to-target-implementation.html?lang=en){target="_blank"}
-* [Target mit Tags integrieren](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/3.1-target-launch.html?lang=en){target="_blank"}
-* [Vorteile der Verwendung von Standorten](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.2-benefits-of-locations.html?lang=en){target="_blank"}
-* [Einführung in Target-Anforderungen](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.3-intro-to-target-requests.html?lang=en){target="_blank"}
-* [Einführung in Target-Parameter](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.4-intro-to-target-params.html?lang=en){target="_blank"}
-* [Grundlegendes zu [!DNL Adobe Target]&quot;s at.js 2.0 funktioniert](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works.html?lang=en){target="_blank"}
-* [Implementierung [!DNL Adobe Target]&quot;s at.js 2.0 in einer Einzelseiten-App (SPA)](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html?lang=en){target="_blank"}
-* [Erstellen einer Target-Implementierung](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html?lang=en){target="_blank"}
-* [Nächste Schritte zum Entwerfen einer Target-Implementierung](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.6-next-steps-design-target-implementation.html?lang=en){target="_blank"}
+* [Einführung in [!DNL Adobe Target] Implementierung](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.1-intro-to-target-implementation.html){target="_blank"}
+* [Target mit Tags integrieren](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/3.1-target-launch.html){target="_blank"}
+* [Vorteile der Verwendung von Standorten](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.2-benefits-of-locations.html){target="_blank"}
+* [Einführung in Target-Anforderungen](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.3-intro-to-target-requests.html){target="_blank"}
+* [Einführung in Target-Parameter](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.4-intro-to-target-params.html){target="_blank"}
+* [Grundlegendes zu [!DNL Adobe Target]&quot;s at.js 2.0 funktioniert](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works.html){target="_blank"}
+* [Implementierung [!DNL Adobe Target]&quot;s at.js 2.0 in einer Einzelseiten-App (SPA)](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html){target="_blank"}
+* [Erstellen einer Target-Implementierung](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
+* [Nächste Schritte zum Entwerfen einer Target-Implementierung](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.6-next-steps-design-target-implementation.html){target="_blank"}
 
 **Abschnitt 3: Analyse und Reporting**
 
-* [Verwenden der Personalization Insights-Berichte](https://experienceleague.adobe.com/docs/target-learn/tutorials/reports/use-the-personalization-insights-reports.html?lang=en){target="_blank"}
-* [Target in Analytics integrieren](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html?lang=en){target="_blank"}
-* [Verwenden von Adobe Analytics als Datenquelle für [!DNL Adobe Target] (A4T)](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/use-analytics-as-a-data-source-a4t.html?lang=en){target="_blank"}
-* [Einrichten von A4T-Berichten in Analysis Workspace für Aktivitäten mit automatischem Targeting](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=en){target="_blank"}
+* [Verwenden der Personalization Insights-Berichte](https://experienceleague.adobe.com/docs/target-learn/tutorials/reports/use-the-personalization-insights-reports.html){target="_blank"}
+* [Target in Analytics integrieren](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html){target="_blank"}
+* [Verwenden von Adobe Analytics als Datenquelle für [!DNL Adobe Target] (A4T)](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/use-analytics-as-a-data-source-a4t.html){target="_blank"}
+* [Einrichten von A4T-Berichten in Analysis Workspace für Aktivitäten mit automatischem Targeting](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=de){target="_blank"}
 
 **Abschnitt 4: Fehlerbehebung**
 
-* [Fehlerbehebung beim Experience Cloud Debugger](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html?lang=en){target="_blank"}
-* [Fehlerbehebung mit Target Traces](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-target-traces.html?lang=en){target="_blank"}
-* [Fehlerbehebung bei Mbox-Fehlern](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.1-troubleshoot-mbox-errors.html?lang=en){target="_blank"}
-* [Fehlerbehebung bei Aktivitätsfehlern](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html?lang=en){target="_blank"}
-* [Fehlerbehebung bei Integrationsfehlern](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html?lang=en){target="_blank"}
+* [Fehlerbehebung beim Experience Cloud Debugger](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html){target="_blank"}
+* [Fehlerbehebung mit Target Traces](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-target-traces.html){target="_blank"}
+* [Fehlerbehebung bei Mbox-Fehlern](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.1-troubleshoot-mbox-errors.html){target="_blank"}
+* [Fehlerbehebung bei Aktivitätsfehlern](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
+* [Fehlerbehebung bei Integrationsfehlern](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html){target="_blank"}
 
 >[!TAB Zertifizieren]
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
@@ -222,6 +222,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

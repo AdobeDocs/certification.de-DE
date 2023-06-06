@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: ec92189f7230790a6fe79f72b06838703d85b94f
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '528'
+source-wordcount: '524'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 >[!IMPORTANT]
 >
->Die folgenden Links zur Kursbewertung funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Links zur Kursbewertung funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -47,7 +47,7 @@ Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
 Auswählen **drei Aktivitäten** die damit verbundenen Kursbewertungen abzuschließen und zu bestehen.
 
-* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
+* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
 * **Schritt 2**: Studieren Sie die Kurse in der Experience League
 * **Schritt 3**: Abschließen und Übergeben jeder Kursbewertungmit mindestens 80 %
 
@@ -67,7 +67,7 @@ Die Kursbewertungen sind kostenlos. Es ist nicht erforderlich, sie zu planen, un
 
 | Kurs | Kursbewertungen |
 | ------- | ------- |
-| [[!DNL Adobe Target] Überblick über die On-Device Decisioning](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
+| [[!DNL Adobe Target] Überblick über die On-Device Decisioning](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
 | [[!DNL Adobe Target] Innovationen im Personalisierungskurs](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
 | [Implementierungs- und Personalisierungskurse für mobile Apps](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
 | [Geführter Kurs für Mobilgeräte und IoT-Launch für Entwickler](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA404){target="_blank"} |
@@ -81,6 +81,6 @@ Die Kursbewertungen sind kostenlos. Es ist nicht erforderlich, sie zu planen, un
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

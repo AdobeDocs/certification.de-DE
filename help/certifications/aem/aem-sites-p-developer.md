@@ -7,10 +7,10 @@ role: Developer
 badge: label="Test AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '880'
-ht-degree: 16%
+source-wordcount: '846'
+ht-degree: 17%
 
 ---
 
@@ -97,29 +97,29 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 **Abschnitt 1: Konfigurationen**
 
-* [AEM 6.4-Administratorenhandbuch](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
+* [AEM 6.4-Administratorenhandbuch](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=de){target="_blank"}
 * [AEM 6.4-Bereitstellungshandbuch für Benutzer](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=de){target="_blank"}
-* [Dispatcher-Übersicht](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=de){target="_blank"}
+* [Dispatcher-Übersicht](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Abschnitt 2: AEM**
 
-* [AEM 6.4-Administratorenhandbuch](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
+* [AEM 6.4-Administratorenhandbuch](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=de){target="_blank"}
 * [AEM 6.5-Bereitstellungshandbuch für Benutzer](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=de){target="_blank"}
-* [AEM 6.5-Entwickleranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [Einführung in Kernkomponenten ](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=de){target="_blank"}
+* [AEM 6.5-Entwickleranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=de){target="_blank"}
+* [Einführung in Kernkomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=de){target="_blank"}
 * [Komponentengrundlagen](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Erstellen und Bereitstellen**
 
-* [Einführung in Kernkomponenten ](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=de){target="_blank"}
+* [Einführung in Kernkomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=de){target="_blank"}
 * [Erste Schritte mit [!DNL AEM Sites] - WKND-Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=de){target="_blank"}
 
 
 **Abschnitt 4: Umgebungswartung**
 
 * [AEM 6.4-Bereitstellungshandbuch für Benutzer](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=de){target="_blank"}
-* [AEM 6.4-Entwickleranleitung](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
-* [Vorgangs-Dashboard](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en%20(Automated%20Maintenance%20Tasks)){target="_blank"}
+* [AEM 6.4-Entwickleranleitung](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=de){target="_blank"}
+* [Vorgangs-Dashboard](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html%20(Automated%20Maintenance%20Tasks)){target="_blank"}
 * [Versionshinweise zur Adobe [!DNL Experience Manager] 6,5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=de){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service]  – Übersicht](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=de){target="_blank"}
 * [Einführung in Kernkomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=de)
@@ -130,7 +130,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
@@ -160,6 +160,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

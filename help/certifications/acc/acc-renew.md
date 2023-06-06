@@ -7,10 +7,10 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '930'
-ht-degree: 15%
+source-wordcount: '896'
+ht-degree: 14%
 
 ---
 
@@ -26,7 +26,7 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -46,7 +46,7 @@ Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
 ## Verlängerung der Zertifizierung:
 
-* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
+* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
 * **Schritt 2**: Prüfungsziele und -ressourcen überprüfen
 * **Schritt 3**: Führen Sie die Prüfung durch
 
@@ -113,35 +113,35 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 1: Installation und Systemkonfiguration**
 
-* [Package-Verwaltung](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en){target="_blank"}
+* [Package-Verwaltung](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
 * [Daten-Packages ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=de){target="_blank"}
-* [Bereitstellen einer Instanz](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html?lang=en)
+* [Bereitstellen einer Instanz](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
 * [Integration in Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Anpassung**
 
-* [JavaScript-Scripte und -Vorlagen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html?lang=de){target="_blank"}
+* [JavaScript-Scripte und -Vorlagen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
 * [Best Practices für Datenmodelle](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=de){target="_blank"}
-* [Erstellen und Verwalten von Benutzern](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html?lang=en){target="_blank"}
-* [Zugriff auf Ordner verwalten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html?lang=de){target="_blank"}
+* [Erstellen und Verwalten von Benutzern](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html?lang=de){target="_blank"}
+* [Zugriff auf Ordner verwalten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
 
 **Abschnitt 3: Datenarchitektur**
 
-* [Übergang von [!DNL Campaign Classic] v7 nach Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=en){target="_blank"}
-* [Arbeiten mit Quellen und Zielen](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=de){target="_blank"}
-* [Spezifische FFDA-Kampagnen-APIs](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html?lang=en){target="_blank"}
-* [Über die Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html?lang=de){target="_blank"}
+* [Übergang von [!DNL Campaign Classic] v7 nach Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=de){target="_blank"}
+* [Arbeiten mit Quellen und Zielen](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
+* [Spezifische FFDA-Kampagnen-APIs](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
+* [Über die Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
 
 **Abschnitt 4: Kampagne, Workflow, Versand und Reporting**
 
 * [Best Practices für Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=de){target="_blank"}
-* [Einrichten und Verwalten des Genehmigungsprozesses](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=en){target="_blank"}
-* [Anreicherung](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en){target="_blank"}
+* [Einrichten und Verwalten des Genehmigungsprozesses](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=de){target="_blank"}
+* [Anreicherung](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=de){target="_blank"}
 * [Best Practices beim Import und Export](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=de){target="_blank"}
 
 ### Zertifizierung verlängern
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann auf den unten stehenden Link Campaign Classic-Erneuerung - AD5-823 , um Ihr Zertifikat zu erneuern.
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann auf den unten stehenden Link Campaign Classic-Erneuerung - AD5-823 , um Ihr Zertifikat zu erneuern.
 
 [Nehmen Sie die Adobe [!DNL Campaign Classic] Verlängerung der Prüfung für Business Practitioner, Entwickler und Architekten jetzt - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
 
@@ -153,6 +153,6 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

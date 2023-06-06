@@ -7,10 +7,10 @@ role: Developer
 badge: label="Test AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1298'
-ht-degree: 14%
+source-wordcount: '1257'
+ht-degree: 12%
 
 ---
 
@@ -120,8 +120,8 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 **Abschnitt 1: Analytics im Adobe Experience Cloud-Ökosystem**
 
 * [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de){target="_blank"}
-* [Häufig gestellte Fragen (FAQ) ](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html?lang=en){target="_blank"}
-* [AEM 6.5 Authoring-Benutzeranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
+* [Häufig gestellte Fragen (FAQ) ](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
+* [AEM 6.5 Authoring-Benutzeranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=de){target="_blank"}
 * [Übersicht](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=de){target="_blank"}
 * [Übersicht über Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=de){target="_blank"}
 * [Implementieren von  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=de){target="_blank"}
@@ -138,7 +138,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Übersicht über Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=de){target="_blank"}
 * [Anleitung für Analytics-Tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=de){target="_blank"}
 * [Analytics-Administratorenhandbuch](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=de){target="_blank"}
-* [Entwickler live: Adobe Client-Datenschicht: Besucherdaten verfolgen](https://experienceleague.adobe.com/docs/adobe-developers-live-events/assets/adobe-client-data-layer.pdf?lang=en){target="_blank"}
+* [Entwickler live: Adobe Client-Datenschicht: Besucherdaten verfolgen](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2021/feb2021/adobe-client-data-layer.html){target="_blank"}
 * [QuickInfo - Übergeben von Daten an Launch-Regeln](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
 
 **Abschnitt 4: Tag Management-Systeme**
@@ -166,7 +166,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
@@ -196,6 +196,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

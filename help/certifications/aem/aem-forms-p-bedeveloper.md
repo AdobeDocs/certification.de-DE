@@ -7,10 +7,10 @@ role: Developer
 badge: label="Test AD0-E127" type="positive"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '980'
-ht-degree: 8%
+source-wordcount: '952'
+ht-degree: 10%
 
 ---
 
@@ -118,36 +118,36 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 **Abschnitt 1: Erstellung und Verwaltung von Forms**
 
-* [Adobe Experience Manager 6.5, Forms-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [Datenintegration für AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html?lang=en#data-integration-overview){target="_blank"}
+* [Adobe Experience Manager 6.5, Forms-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [Datenintegration für AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html#data-integration-overview){target="_blank"}
 * [Tutorials und Videos zu AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=de){target="_blank"}
-* [AEM 6.5-Entwickleranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
+* [AEM 6.5-Entwickleranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Prozesse und Workflows**
 
-* [Adobe Experience Manager 6.5, Forms-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [Adobe Experience Manager 6.4, Forms-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"}
+* [Adobe Experience Manager 6.5, Forms-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [Adobe Experience Manager 6.4, Forms-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 * [Verwalten von Endpunkten](https://help.adobe.com/en_US/AEMForms/6.1/AdminHelp/WS92d06802c76abadb-5145d5d12905ce07e7-7ff6.2.html#WS92d06802c76abadb1c01fa7512905cdf2c9-7fd9.2){target="_blank"}
 
 **Abschnitt 3: Administration und Fehlerbehebung**
 
 * [Fehlerbehebung bei Installationsproblemen mit Protokolldateien | Creative Cloud](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
-* [AEM 6.4-Administratorenhandbuch](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
-* [Adobe Experience Manager 6.5 – Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html?lang=en){target="_blank"}
-* [Adobe Experience Manager 6.5, Forms-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [Dispatcher-Übersicht](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=de){target="_blank"}
-* [AEM 6.5 Authoring-Benutzeranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
+* [AEM 6.4-Administratorenhandbuch](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=de){target="_blank"}
+* [Adobe Experience Manager 6.5 – Versionshinweise](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html?lang=de){target="_blank"}
+* [Adobe Experience Manager 6.5, Forms-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [Dispatcher-Übersicht](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [AEM 6.5 Authoring-Benutzeranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=de){target="_blank"}
 
 **Abschnitt 4: API-Endpunkte und -Integrationen**
 
 * [as a Cloud Service Dokumentation zu Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=de){target="_blank"}
-* [Adobe Experience Manager 6.4, Forms-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"}
+* [Adobe Experience Manager 6.4, Forms-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 
 >[!TAB Zertifizieren]
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
@@ -176,6 +176,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

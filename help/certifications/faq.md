@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '2665'
+source-wordcount: '2655'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Individuelle Vorteile: Die Zertifizierung ist eine Berechtigung, die die Fähigk
 
 Zertifizierungen erfordern eine Verpflichtung, sind rechtlich vertretbar und können durch die Adobe Ihres Fachwissens bestätigt werden. Sie können Ihre Zertifizierung auch in Ihren sozialen Profilen anzeigen, indem Sie Ihr Abzeichen von [!DNL Credly].
 
-Weitere Informationen zur Verwaltung Ihrer Abzeichen finden Sie unter [!DNL Credly], gehen [HIER](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+Weitere Informationen zur Verwaltung Ihrer Abzeichen finden Sie unter [!DNL Credly], gehen [HIER](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -43,7 +43,7 @@ Zertifizierungen sind rollenbasiert, d. h. es sind mehrere Prüfungen verfügbar
 Manchmal gibt es mehrere Versionen einer Prüfung. Es ist am besten, die neueste Version zu verwenden.
 
 * Wenn eine Prüfung in den Ruhestand tritt, wird auf der Journey-Seite der Zertifizierung ein Hinweis angezeigt. Dies bedeutet, dass diese Prüfversion bald entfernt wird, da eine neue Version der Prüfung verfügbar ist. Wir empfehlen Kandidaten, die neueste Version zu verwenden, aber Sie können die Version, die in den Ruhestand geht, nehmen, wenn Sie sich besser darauf vorbereitet fühlen. In beiden Fällen wird Ihr Zertifikat zwei Jahre lang gültig sein.
-* Wenn Ihr aktuelles Zertifikat bald abläuft, sollten Sie es verlängern. Erneuerungsoptionen haben weniger Fragen und sind KOSTENLOS. Diese Optionen decken die neuesten Anwendungsfunktionen ab. Wenn Ihr Zertifikat abläuft, müssen Sie die neueste Version der Zertifizierungsprüfung absolvieren, für die Sie zahlen würden. [Erfahren Sie mehr über die Verlängerungsoptionen](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+* Wenn Ihr aktuelles Zertifikat bald abläuft, sollten Sie es verlängern. Erneuerungsoptionen haben weniger Fragen und sind KOSTENLOS. Diese Optionen decken die neuesten Anwendungsfunktionen ab. Wenn Ihr Zertifikat abläuft, müssen Sie die neueste Version der Zertifizierungsprüfung absolvieren, für die Sie zahlen würden. [Erfahren Sie mehr über die Verlängerungsoptionen](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -154,7 +154,7 @@ Gelegentlich ziehen wir uns einer Prüfung um eine Rolle zu. In diesem Fall wird
 
 Ihr Zertifikat läuft ab und wird als abgelaufen in [!DNL Credly] und eines Ihrer sozialen Profile. Wenn Ihr Zertifikat abläuft, können Sie auch nicht die kürzere Erneuerungsprüfung absolvieren oder durch kontinuierliches Lernen erneuern.
 
-Weitere Informationen zur Verwaltung Ihrer Abzeichen finden Sie unter [!DNL Credly], gehen [HIER](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+Weitere Informationen zur Verwaltung Ihrer Abzeichen finden Sie unter [!DNL Credly], gehen [HIER](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -162,7 +162,7 @@ Weitere Informationen zur Verwaltung Ihrer Abzeichen finden Sie unter [!DNL Cred
 
 Sie können Ihr Zertifikat kostenlos erneuern. Dadurch erhalten Sie eine kostengünstige Möglichkeit, Ihre Zertifizierung zu pflegen und Ihre Lösungskenntnisse auf dem neuesten Stand zu halten.
 
-Weitere Informationen zum Verlängern der Zertifizierung finden Sie unter [here](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+Weitere Informationen zum Verlängern der Zertifizierung finden Sie unter [here](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -387,7 +387,7 @@ Die letzte Anforderung besteht darin, die neue [!DNL Marketo Engage] Architektur
 
 +++ Warum sind Adoben [!DNL Commerce] Zertifizierungen sind nicht Teil des Adobe Certification Restart Program?
 
-Für die derzeit angebotene Adobe gibt es keine abgelaufenen Zertifikatsinhaber [!DNL Commerce] Zertifizierungen ab 23. April 2023. Daher ist die gesamte aktive Adobe [!DNL Commerce] Zertifizierte Bewerber können durch das kontinuierliche Lernen erneuert werden [Verlängerungspfad für Zertifizierung](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+Für die derzeit angebotene Adobe gibt es keine abgelaufenen Zertifikatsinhaber [!DNL Commerce] Zertifizierungen ab 23. April 2023. Daher ist die gesamte aktive Adobe [!DNL Commerce] Zertifizierte Bewerber können durch das kontinuierliche Lernen erneuert werden [Verlängerungspfad für Zertifizierung](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}.
 
 +++
 

@@ -1,19 +1,19 @@
 ---
-title: Zertifizierungs-Homepage
-description: Informationen zu [!DNL Experience Cloud] Zertifizierung bei Adobe. Finden Sie heraus, was eine Zertifizierung für Sie bedeuten kann.
+title: Zertifizierung – Startseite
+description: Informationen zur  [!DNL Experience Cloud] -Zertifizierung bei Adobe. Finden Sie heraus, was eine Zertifizierung für Sie bedeuten kann.
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: fcf0ba2b3b17c78978267b6613e3fa674db03633
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '397'
+ht-degree: 8%
 
 ---
 
 # Willkommen zur Zertifizierung bei der Adobe!
 
-Erfahren Sie mehr über die Zertifizierung bei der Adobe und was die Zertifizierung für Sie tun kann.
+Erfahren Sie mehr über Zertifizierung bei Adobe und darüber, was eine Zertifizierung für Sie bedeuten kann.
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
@@ -38,4 +38,4 @@ Unser Zertifizierungsprogramm ist für Fachleute in verschiedenen Bereichen konz
 
 Warum also warten? Machen Sie den ersten Schritt zur Erschließung Ihres professionellen Potenzials und erkunden Sie noch heute unsere Zertifizierungspfade!
 
-[!BADGE Erste Schritte]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en newtab=true"}
+[!BADGE Erste Schritte]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html newtab=true"}

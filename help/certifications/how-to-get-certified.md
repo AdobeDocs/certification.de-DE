@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie bei der Adobe zertifiziert werden. Finden Sie
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1464'
-ht-degree: 1%
+source-wordcount: '1462'
+ht-degree: 2%
 
 ---
 
@@ -26,7 +26,7 @@ Adobe verwendet zwei Anbieter, um die verarbeiteten Prüfungen zu verwalten: [!D
 
 **Führen Sie die folgenden Schritte aus, um sich für Ihre Zertifizierungsprüfung zu registrieren:**
 
-* **Schritt 1:** Anmeldung bei der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+* **Schritt 1:** Anmeldung bei der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 * **Schritt 2:** Kehren Sie zu dieser Website zurück und klicken Sie auf Technische Zertifikate.
 * **Schritt 3:** Wählen Sie Adobe, Zertifizierungsstufe und Rolle aus.
 * **Schritt 4:** Befolgen Sie die im Abschnitt **Zertifizieren** Abschnitt.
@@ -50,7 +50,7 @@ Stornierungen und Umschulungen sind möglich, wenn sie vor 48 Stunden vor dem ge
 
 Weder der Support für Adoben noch Testanbieter können Neuplanungs- und Abbruchsanfragen verarbeiten. Für Stornierungen unter 48 Stunden wird zusätzlich zur Prüfungsgebühr eine Umbuchungsgebühr erhoben.
 
-Nach Abschluss einer Prüfung erhalten Sie einen vorläufigen Test oder einen Fehler. Das Endergebnis kann bis zu 72 Stunden dauern, bis es ausgefüllt wird. Sie finden Ihren Ergebnis- und Bewertungsbericht auf der Registerkarte Verlauf im [Adobe Credential Manager](http://www.certmetrics.com/adobe){target="_blank"}.
+Nach Abschluss einer Prüfung erhalten Sie einen vorläufigen Test oder einen Fehler. Das Endergebnis kann bis zu 72 Stunden dauern, bis es ausgefüllt wird. Sie finden Ihren Ergebnis- und Bewertungsbericht auf der Registerkarte Verlauf im [Adobe Credential Manager](https://www.certmetrics.com/adobe){target="_blank"}.
 
 Wenn Sie beim ersten Versuch keine Adobe-Zertifizierungsprüfung bestehen, müssen Sie mindestens 24 Stunden warten, bevor Sie die Prüfung fortsetzen. Das Nichtbestehen einer Prüfung beim zweiten Versuch oder eines nachfolgenden Versuchs erfordert eine Wartezeit von 14 Kalendertagen, bevor die Prüfung wieder aufgenommen wird. Für jeden Versuch wird eine separate Prüfungsgebühr erhoben.
 
@@ -212,6 +212,6 @@ Ihr Abzeichen dient als greifbarer Beweis für Ihre Kompetenz mit Adobe Experien
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

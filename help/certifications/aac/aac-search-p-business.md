@@ -7,10 +7,10 @@ role: User
 badge: label="Test AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1055'
-ht-degree: 3%
+source-wordcount: '1023'
+ht-degree: 5%
 
 ---
 
@@ -113,44 +113,44 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 1: Portfolio und Optimierungen**
 
-* [Einführung in die Adobe [!DNL Analytics] für Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html?lang=en){target="_blank"}
-* [Übersicht über [!DNL Analytics] für [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=en){target="_blank"}
+* [Einführung in die Adobe [!DNL Analytics] für Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
+* [Übersicht über [!DNL Analytics] für [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=de){target="_blank"}
 * [Leistungsoptimierung](https://business.adobe.com/in/products/advertising/performance-optimization.html){target="_blank"}
 * [Grundlegendes zu KPIs in Enhanced Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
-* [Eine Beschränkung zu einem Smart-Listenfilter hinzufügen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html?lang=en){target="_blank"}
-* [Optimierungsziele und Verwendung](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/optimization/optimization-goals.html?lang=en){target="_blank"}
+* [Eine Beschränkung zu einem Smart-Listenfilter hinzufügen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html){target="_blank"}
+* [Optimierungsziele und Verwendung](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/optimization/optimization-goals.html){target="_blank"}
 
 **Abschnitt 2: Berichte, Einblicke und Werkzeuge**
 
 * [[!DNL Analytics] Tools-Anleitung](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=de){target="_blank"}
-* [Erste Schritte mit [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
+* [Erste Schritte mit [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=de){target="_blank"}
 * [[!DNL Campaign] Reporting](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
-* [Erstellen [!DNL Analytics] Profile für die Adobe [!DNL Advertising] Aktivierung und Berichterstellung](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html?lang=en){target="_blank"}
-* [Bericht über [!DNL Advertising] Daten in Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html?lang=en){target="_blank"}
+* [Erstellen [!DNL Analytics] Profile für die Adobe [!DNL Advertising] Aktivierung und Berichterstellung](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
+* [Bericht über [!DNL Advertising] Daten in Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
 * [Berichtszeitverarbeitung](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html?lang=de){target="_blank"}
-* [Adobe [!DNL Analytics] Scorecard Builder für Dashboards](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=en){target="_blank"}
+* [Adobe [!DNL Analytics] Scorecard Builder für Dashboards](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Campaign-Administration**
 
-* [Erste Schritte mit [!DNL Campaign] Administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html?lang=en){target="_blank"}
+* [Erste Schritte mit [!DNL Campaign] Administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 * [Erfahren Sie, wie Sie funktionieren](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
 * [Klüger Ihr Suchmarketing](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
 * [Die gesamte Journey auf einem einzigen Bildschirm anzeigen](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
-* [Smart-Kampagnen für Batch und Trigger](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html?lang=en){target="_blank"}
+* [Smart-Kampagnen für Batch und Trigger](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
 
 **Abschnitt 4: Messung**
 
-* [Erstellen [!DNL Analytics] Benutzerdefinierte Metriken mit Adobe [!DNL Advertising] Daten](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html?lang=en){target="_blank"}
+* [Erstellen [!DNL Analytics] Benutzerdefinierte Metriken mit Adobe [!DNL Advertising] Daten](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html){target="_blank"}
 * [Raster, Führungslinien und Messungen in PDF](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
 * [Attribution und Messung](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
-* [Dokumentation zur Marketo Measure-Hilfe](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html?lang=en){target="_blank"}
-* [Konversionsvariablen (eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html?lang=en){target="_blank"}
+* [Dokumentation zur Marketo Measure-Hilfe](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
+* [Konversionsvariablen (eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
 
 >[!TAB Zertifizieren]
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
@@ -179,6 +179,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

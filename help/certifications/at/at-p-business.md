@@ -7,10 +7,10 @@ role: User
 badge: label="Test AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1034'
-ht-degree: 8%
+source-wordcount: '996'
+ht-degree: 7%
 
 ---
 
@@ -114,38 +114,38 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 **Abschnitt 1: Planung und Strategie**
 
 * [[!DNL Adobe Target] Handbuch für Business-Anwender*innen](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=de){target="_blank"}
-* Dokumentation zu [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target.html?lang=en){target="_blank"}
+* Dokumentation zu [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
 * [Besucherprofile](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=de){target="_blank"}
-* [[!DNL Adobe Target] Willkommensset](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
-* [Erfolgsmetriken](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=en){target="_blank"}
-* [Kategorien für Zielgruppen](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Willkommensset](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
+* [Erfolgsmetriken](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=de){target="_blank"}
+* [Kategorien für Zielgruppen](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html){target="_blank"}
 
 **Abschnitt 2: Konfiguration, Ausführung und Verwaltung**
 
-* [Visual Experience Composer (VEC))](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html?lang=de){target="_blank"}
-* [[!DNL Adobe Target] Willkommensset](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
-* [A/B-Test - Überblick](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
-* [Erstellen einer Erlebnis-Targeting-Aktivität](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html?lang=en){target="_blank"}
-* [Multivarianz-Tests – Überblick](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html?lang=en){target="_blank"}
-* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en){target="_blank"}
+* [Visual Experience Composer (VEC))](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
+* [[!DNL Adobe Target] Willkommensset](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
+* [A/B-Test - Überblick](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
+* [Erstellen einer Erlebnis-Targeting-Aktivität](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html){target="_blank"}
+* [Multivarianz-Tests – Überblick](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
+* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
 * [Erstellen von Zielgruppen](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=de){target="_blank"}
-* [Aktivitäts-QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html?lang=en){target="_blank"}
+* [Aktivitäts-QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 
 **Abschnitt 3: Analyse und Reporting**
 
-* [Berichtseinstellungen](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html?lang=en){target="_blank"}
-* [A/B-Test - Überblick](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
+* [Berichtseinstellungen](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [A/B-Test - Überblick](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
 
 **Abschnitt 4: Fehlerbehebung**
 
 * [[!DNL Adobe Target] Handbuch für Business-Anwender*innen](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=de){target="_blank"}
-* [Übersicht über Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=de){target="_blank"}
+* [Übersicht über Adobe Experience Cloud Debugger](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 >[!TAB Zertifizieren]
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
@@ -174,6 +174,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

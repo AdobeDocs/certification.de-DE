@@ -6,10 +6,10 @@ role: Developer
 badge: label="Test AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1040'
-ht-degree: 4%
+source-wordcount: '1010'
+ht-degree: 0%
 
 ---
 
@@ -107,40 +107,40 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 * [Übersicht über benutzerdefinierte Formulare](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 * [Dokumentintegrationen konfigurieren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
-* [Grundlegendes zu Multitenancy und gleichzeitiger Entwicklung](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html?lang=en){target="_blank"}
+* [Grundlegendes zu Multitenancy und gleichzeitiger Entwicklung](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html){target="_blank"}
 * [Hinzufügen berechneter Daten zu einem benutzerdefinierten Formular mit dem Legacy-Formular](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
 * [Die Adobe [!DNL Workfront] Status-Site](https://experienceleague.adobe.com/docs/workfront/using/basics/tips-tricks-for-basics/understand-the-status-site.html){target="_blank"}
-* [Erweiterte Fehlerbehebung mit dem Dev-Tool](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html?lang=en){target="_blank"}
+* [Erweiterte Fehlerbehebung mit dem Dev-Tool](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html){target="_blank"}
 
 **Abschnitt 2: Konfiguration**
 
-* [Best Practices - Onboarding und Adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html?lang=en){target="_blank"}
-* [Erstellen eines individuellen Benutzerprofils](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] Integration mit Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=de){target="_blank"}
+* [Best Practices - Onboarding und Adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
+* [Erstellen eines individuellen Benutzerprofils](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
+* [Adobe [!DNL Experience Manager Assets] Integration mit Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 * [Metadaten und Keywords: Metadaten-Setup](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html%3Flang%3Dzh-Hant){target="_blank"}
-* [Installieren [!DNL Workfront] für [!DNL Experience Manager] verbesserter Connector](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html?lang=de){target="_blank"}
+* [Installieren [!DNL Workfront] für [!DNL Experience Manager] verbesserter Connector](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html){target="_blank"}
 
 **Abschnitt 3: Geschäftspraktiken**
 
-* [Entwickeln einer [!DNL Workfront] DAM-Strategie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html?lang=en){target="_blank"}
+* [Entwickeln einer [!DNL Workfront] DAM-Strategie](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html){target="_blank"}
 * [Erstellen eines Genehmigungsprozesses für Arbeitselemente](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
-* [Übersicht über den automatisierten Workflow](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html?lang=en){target="_blank"}
-* [Testversand überprüfen und genehmigen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html?lang=en){target="_blank"}
-* [Verfolgen des Fortschritts über die Projekt-Timeline](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html?lang=en){target="_blank"}
-* [Definieren von Zielen für Ihre Adobe [!DNL Workfront] Implementierung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en){target="_blank"}
+* [Übersicht über den automatisierten Workflow](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
+* [Testversand überprüfen und genehmigen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html){target="_blank"}
+* [Verfolgen des Fortschritts über die Projekt-Timeline](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
+* [Definieren von Zielen für Ihre Adobe [!DNL Workfront] Implementierung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 
 **Abschnitt 4: Installation und Konfiguration von Connector**
 
-* [Installieren [!DNL Workfront] für [!DNL Experience Manager] verbesserter Connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html?lang=de){target="_blank"}
+* [Installieren [!DNL Workfront] für [!DNL Experience Manager] verbesserter Connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html){target="_blank"}
 * [[!DNL Workfront] Verbesserte Connector-Grundlagen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
-* [Konfigurieren [!DNL Workfront] für [!DNL Experience Manager] verbesserter Connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html?lang=de){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] Integration mit Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=de){target="_blank"}
+* [Konfigurieren [!DNL Workfront] für [!DNL Experience Manager] verbesserter Connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
+* [Adobe [!DNL Experience Manager Assets] Integration mit Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 
 >[!TAB Zertifizieren]
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
@@ -169,6 +169,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

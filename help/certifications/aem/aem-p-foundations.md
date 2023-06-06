@@ -7,10 +7,10 @@ role: User
 badge: label="Test AD0-E132 type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '761'
-ht-degree: 12%
+source-wordcount: '731'
+ht-degree: 13%
 
 ---
 
@@ -108,34 +108,34 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 
 * [AEM 6.4-Bereitstellungshandbuch für Benutzer](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=de){target="_blank"}
-* [AEM 6.5 Authoring-Benutzeranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
+* [AEM 6.5 Authoring-Benutzeranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=de){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=de){target="_blank"}
 * [Assets-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Implementierung**
 
-* [AEM Komponenten - Grundlagen](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html?lang=en){target="_blank"}
+* [AEM Komponenten - Grundlagen](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
 * [Headless-Tutorials für AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=de){target="_blank"}
-* [Erstellen von Seitenvorlagen](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html?lang=en#creating-and-managing-templates){target="_blank"}
+* [Erstellen von Seitenvorlagen](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html#creating-and-managing-templates){target="_blank"}
 * [Verwendung clientseitiger Bibliotheken](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Einrichtung und Bereitstellung**
 
-* [Web-Konsole](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html?lang=en){target="_blank"}
-* [Struktur von AEM-Projekten](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=en#embedding-3rd-party-packages){target="_blank"}
-* [Package Manager](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html?lang=en#what-are-packages){target="_blank"}
+* [Web-Konsole](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
+* [Struktur von AEM-Projekten](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html#embedding-3rd-party-packages){target="_blank"}
+* [Package Manager](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html#what-are-packages){target="_blank"}
 
 **Abschnitt 4: Wartung und Benutzerverwaltung**
 
-* [Verwalten von Benutzern, Gruppen und Benutzerrollen](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en#add-a-user){target="_blank"}
+* [Verwalten von Benutzern, Gruppen und Benutzerrollen](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html#add-a-user){target="_blank"}
 * [Benutzerverwaltung und Sicherheit](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=de){target="_blank"}
-* [OSGi-Konfigurationseinstellungen](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html?lang=en){target="_blank"}
+* [OSGi-Konfigurationseinstellungen](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html?lang=de){target="_blank"}
 
 >[!TAB Zertifizieren]
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
@@ -164,6 +164,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

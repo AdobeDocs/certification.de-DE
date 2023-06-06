@@ -7,10 +7,10 @@ role: Developer
 badge: label="Test AD0-E331" type="positive"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1379'
-ht-degree: 14%
+source-wordcount: '1321'
+ht-degree: 13%
 
 ---
 
@@ -136,57 +136,57 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 **Abschnitt 1: Systemkonfiguration**
 
-* [Datenschemata](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html?lang=en){target="_blank"}
-* [Erweitern oder Erstellen von Schemata](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html?lang=en#extending-or-creating-schemas){target="_blank"}
-* [Schemastruktur](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html?lang=de){target="_blank"}
+* [Datenschemata](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html){target="_blank"}
+* [Erweitern oder Erstellen von Schemata](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html#extending-or-creating-schemas){target="_blank"}
+* [Schemastruktur](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
 * [Liste der [!DNL Campaign Classic] options](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/appendices/configuring-campaign-options.html?lang=de){target="_blank"}
 * [Externe Konten konfigurieren](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/configuration/external-accounts.html%3Flang%3Dja){target="_blank"}
-* [Typologieregeln](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=en#typology-rules){target="_blank"}
+* [Typologieregeln](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html#typology-rules){target="_blank"}
 
 **Abschnitt 2: Anpassung**
 
-* [Schema-Bearbeitung](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/edit-schema.html?lang=en){target="_blank"}
-* [Schema erweitern](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/extending-a-schema.html?lang=en){target="_blank"}
+* [Schema-Bearbeitung](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/edit-schema.html){target="_blank"}
+* [Schema erweitern](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/extending-a-schema.html){target="_blank"}
 * [Anpassen der Instanz](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/customize.html%3Flang%3Den){target="_blank"}
-* [Anwendungsbeispiel: Auswählen von Testadressen nach Kriterien](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/use-case--selecting-seed-addresses-on-criteria.html?lang=en){target="_blank"}
-* [Funktionsweise des Opt-in- und Opt-out-Verfahrens in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/understanding-opt-in-and-opt-out-processes/about-opt-in-and-opt-out-in-campaign.html?lang=en){target="_blank"}
+* [Anwendungsbeispiel: Auswählen von Testadressen nach Kriterien](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/use-case--selecting-seed-addresses-on-criteria.html){target="_blank"}
+* [Funktionsweise des Opt-in- und Opt-out-Verfahrens in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/understanding-opt-in-and-opt-out-processes/about-opt-in-and-opt-out-in-campaign.html){target="_blank"}
 
 **Abschnitt 3: Betriebssicherheit**
 
-* [Benutzergruppen erstellen und verwalten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html?lang=de){target="_blank"}
-* [Spezifische Berechtigungen zum Einrichten von Zugriffsberechtigungen verwenden](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html?lang=en){target="_blank"}
-* [Benutzergruppen erstellen und verwalten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html?lang=de){target="_blank"}
-* [Verwalten von Gruppen und Benutzern](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=de){target="_blank"}
+* [Benutzergruppen erstellen und verwalten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
+* [Verwenden bestimmter Rechte zum Einrichten von Berechtigungen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html?lang=de){target="_blank"}
+* [Benutzergruppen erstellen und verwalten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
+* [Verwalten von Gruppen und Benutzern](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
 
 **Abschnitt 4: Technische Workflows**
 
-* [Erste Schritte mit dem Datenimport und -export](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=en){target="_blank"}
-* [Workflow-Daten verwenden](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/how-to-use-workflow-data.html?lang=en){target="_blank"}
-* [Beschreibung des Campaign-Datenmodells](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-description.html?lang=en){target="_blank"}
-* [Erstellen eines Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/building-a-workflow.html?lang=de){target="_blank"}
+* [Erste Schritte mit dem Datenimport und -export](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=de#getting-started){target="_blank"}
+* [Workflow-Daten verwenden](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/how-to-use-workflow-data.html){target="_blank"}
+* [Beschreibung des Campaign-Datenmodells](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-description.html){target="_blank"}
+* [Erstellen eines Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/building-a-workflow.html?lang=de#automating-with-workflows){target="_blank"}
 * [Überwachen der Workflow-Ausführung](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=de){target="_blank"}
-* [Einrichten und Verwalten des Genehmigungsprozesses](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=en){target="_blank"}
+* [Einrichten und Verwalten des Genehmigungsprozesses](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=de){target="_blank"}
 
 **Abschnitt 5: Instanzwartung**
 
-* [Probleme mit Trackinglogs](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/tracking-logs-issues.html?lang=en){target="_blank"}
-* [Protokollgenauigkeit](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/log-precision.html?lang=en){target="_blank"}
-* [Campaign Workflow-Heatmap](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html?lang=en){target="_blank"}
+* [Probleme mit Trackinglogs](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/tracking-logs-issues.html){target="_blank"}
+* [Protokollgenauigkeit](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/log-precision.html){target="_blank"}
+* [Campaign Workflow-Heatmap](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html){target="_blank"}
 
 **Abschnitt 6: Kampagnenkonfiguration**
 
-* [Erstellen und Konfigurieren von Kampagnenvorlagen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-templates.html?lang=en){target="_blank"}
-* [Einrichten und Verwalten des Genehmigungsprozesses](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/marketing-campaign-approval.html?lang=en){target="_blank"}
+* [Erstellen und Konfigurieren von Kampagnenvorlagen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-templates.html){target="_blank"}
+* [Einrichten und Verwalten des Genehmigungsprozesses](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/marketing-campaign-approval.html?lang=de){target="_blank"}
 * [Audit-Protokoll](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=de){target="_blank"}
-* [Verwenden von Vorlagen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html?lang=en){target="_blank"}
+* [Verwenden von Vorlagen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html){target="_blank"}
 * [Erste Schritte mit Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=de){target="_blank"}
-* [Workflow-Ausführung](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/common-general-issues-toc/workflow-execution.html?lang=en){target="_blank"}
+* [Workflow-Ausführung](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/common-general-issues-toc/workflow-execution.html){target="_blank"}
 
 >[!TAB Zertifizieren]
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
@@ -216,6 +216,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

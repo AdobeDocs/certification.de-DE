@@ -7,10 +7,10 @@ role: Developer
 badge: label="Test AD0-E136" type="positive"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '971'
-ht-degree: 11%
+source-wordcount: '945'
+ht-degree: 9%
 
 ---
 
@@ -124,7 +124,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 
 * [[!DNL Experience Manager] as a Cloud Service Benutzerhandbuch](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=de){target="_blank"}
-* [ [!DNL Experience Manager] Migrationshandbuch für Adobe as a Cloud Service für Partner](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html?lang=en){target="_blank"}
+* [ [!DNL Experience Manager] Migrationshandbuch für Adobe as a Cloud Service für Partner](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"}
 * [ Wesentliche Änderungen an AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Design**
@@ -134,26 +134,26 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 3: Implementierung**
 
-* [Testen der Code-Qualität](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html?lang=de){target="_blank"}
-* [Hinzufügen eines benutzerdefinierten Domain-Namens](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/add-custom-domain-name.html?lang=en){target="_blank"}
-* [Konfigurieren von DNS-Einstellungen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/configure-dns-settings.html?lang=en){target="_blank"}
+* [Testen der Code-Qualität](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html){target="_blank"}
+* [Hinzufügen eines benutzerdefinierten Domain-Namens](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/add-custom-domain-name.html){target="_blank"}
+* [Konfigurieren von DNS-Einstellungen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/configure-dns-settings.html){target="_blank"}
 
 **Abschnitt 4: Migration**
 
-* [Ausführen des Content Transfer Tools in einer Veröffentlichungsinstanz  ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/running-content-transfer-tool-publish-instance.html?lang=en){target="_blank"}
-* [Voraussetzungen für die Verwendung des Content Transfer Tools  ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html?lang=de){target="_blank"}
-* [Debugging von AEM as a Cloud Service mithilfe von Protokollen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=en){target="_blank"}
+* [Ausführen des Content Transfer Tools in einer Veröffentlichungsinstanz  ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/running-content-transfer-tool-publish-instance.html){target="_blank"}
+* [Voraussetzungen für die Verwendung des Content Transfer Tools  ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html){target="_blank"}
+* [Debugging von AEM as a Cloud Service mithilfe von Protokollen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=de){target="_blank"}
 
 **Abschnitt 5: Implementierung**
 
-* [Verwenden der CI/CD-Pipeline in Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html?lang=en){target="_blank"}
+* [Verwenden der CI/CD-Pipeline in Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
 * [Bereitstellen in AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=de){target="_blank"}
 
 >[!TAB Zertifizieren]
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
@@ -183,6 +183,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

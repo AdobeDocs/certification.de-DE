@@ -6,10 +6,10 @@ product: Experience Platform
 role: Developer
 badge: label="Test AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '2095'
-ht-degree: 7%
+source-wordcount: '2039'
+ht-degree: 8%
 
 ---
 
@@ -117,15 +117,15 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 2: Datenerfassung**
 
-* [Datenaufnahme](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en){target="_blank"}
+* [Datenaufnahme](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Profile vereinheitlichen**
 
-* [Identitäts- und Identitätsdiagramme](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=de){target="_blank"}
-* [Zuordnen von Identitäten](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html?lang=en){target="_blank"}
-* [Identitätsdaten beschriften, aufnehmen und überprüfen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en){target="_blank"}
+* [Identitäts- und Identitätsdiagramme](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
+* [Zuordnen von Identitäten](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
+* [Identitätsdaten beschriften, aufnehmen und überprüfen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
 * [Datensatz zum Exportieren eines Zielgruppensegments erstellen](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
-* [Erstellen von maschinell gelernten Segmenten mithilfe des Echtzeit-Kundenprofils](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html?lang=en){target="_blank"}
+* [Erstellen von maschinell gelernten Segmenten mithilfe des Echtzeit-Kundenprofils](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html){target="_blank"}
 
 **Abschnitt 4: Aktivierung**
 
@@ -135,7 +135,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
@@ -219,18 +219,18 @@ Abschnitt 3: Ziele (27%)
 **Abschnitt 1: Validierung**
 
 * [Übersicht zum Echtzeit-Kundenprofil](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=de){target="_blank"}
-* [Profil-Dashboard](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html?lang=en){target="_blank"}
-* [Standardmäßige Limits für Echtzeit-Kundenprofil-Daten](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=en)
-* [Echtzeit-Kundenprofil aktivieren](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html?lang=en){target="_blank"}
+* [Profil-Dashboard](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
+* [Standardmäßige Limits für Echtzeit-Kundenprofil-Daten](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=de)
+* [Echtzeit-Kundenprofil aktivieren](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
 * [Übersicht über Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=de){target="_blank"}
 * [AEP Application Services: Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
-* [Erste Schritte mit Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html?lang=en){target="_blank"}
-* [Real-time Customer Data Platform-Homepage und Dashboards](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html?lang=en){target="_blank"}
-* [Überwachen von Datenflüssen auf Ziele in der Benutzeroberfläche](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=en){target="_blank"}
+* [Erste Schritte mit Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
+* [Real-time Customer Data Platform-Homepage und Dashboards](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
+* [Überwachen von Datenflüssen auf Ziele in der Benutzeroberfläche](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=de){target="_blank"}
 * [Erstellen und Aktivieren von Segmenten in Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
-* [Datenschutz – Übersicht](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html?lang=en){target="_blank"}
-* [Data Governance in der Echtzeit-Kundendatenplattform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html?lang=en){target="_blank"}
-* [Data Governance-Framework anwenden](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html?lang=en){target="_blank"}
+* [Datenschutz – Übersicht](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
+* [Data Governance in der Echtzeit-Kundendatenplattform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
+* [Data Governance-Framework anwenden](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
 * [Erste Schritte mit Data Governance](https://video.tv.adobe.com/v/333350/){target="_blank"}
 * [Data Governance – Übersicht](https://video.tv.adobe.com/v/29708/){target="_blank"}
 * [Data Governance-Demo](https://video.tv.adobe.com/v/36653/){target="_blank"}
@@ -240,10 +240,10 @@ Abschnitt 3: Ziele (27%)
 
 **Abschnitt 2: Segmentierung**
 
-* [Segmentierungs-Service in Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html?lang=en){target="_blank"}
+* [Segmentierungs-Service in Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html){target="_blank"}
 * [Handbuch zur Benutzeroberfläche von Segment Builder](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=de){target="_blank"}
-* [Segmentierung in Echtzeit CDP B2B Edition](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html?lang=en){target="_blank"}
-* [Erstellen von Segmenten](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en){target="_blank"}
+* [Segmentierung in Echtzeit CDP B2B Edition](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
+* [Erstellen von Segmenten](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
 * [Übersicht über den Segment Builder](https://video.tv.adobe.com/v/333301/){target="_blank"}
 * [Segment erstellen](https://video.tv.adobe.com/v/27254/){target="_blank"}
 * [Inhaltsbasierte Segmente erstellen](https://video.tv.adobe.com/v/333302/){target="_blank"}
@@ -255,19 +255,19 @@ Abschnitt 3: Ziele (27%)
 * [Segmente mit B2B-Daten erstellen](https://video.tv.adobe.com/v/338252/){target="_blank"}
 * [Demo der Streaming-Segmentierung](https://video.tv.adobe.com/v/36184){target="_blank"}
 * [Erstellen und Aktivieren von Segmenten in Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
-* [Bewerten eines Segments](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
+* [Bewerten eines Segments](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Ziele**
 
 * [Zielübersicht](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=de){target="_blank"}
-* [Zieltypen und Kategorien](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=en){target="_blank"}
-* [Zielarbeitsbereich](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html?lang=en){target="_blank"}
+* [Zieltypen und Kategorien](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=de){target="_blank"}
+* [Zielarbeitsbereich](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
 * [Erstellen einer neuen Zielverbindung](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=de){target="_blank"}
 * [Echtzeit-Kundendatenplattform: Ziele](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
 * [Zielübersicht](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
 * [Ziel erstellen und Daten aktivieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
-* [Aktivierungsübersicht](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html?lang=en){target="_blank"}
-* [Zielkatalog - Übersicht](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html?lang=en){target="_blank"}
+* [Aktivierungsübersicht](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
+* [Zielkatalog - Übersicht](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}
 * [Profile und Segmente für ein Ziel aktivieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 * [Google-Kundenabgleich integrieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html){target="_blank"}
 * [Azure Blob-Ziel konfigurieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html){target="_blank"}
@@ -280,7 +280,7 @@ Abschnitt 3: Ziele (27%)
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
@@ -319,6 +319,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

@@ -7,9 +7,9 @@ role: Developer
 badge: label="Test AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '978'
+source-wordcount: '948'
 ht-degree: 7%
 
 ---
@@ -125,38 +125,38 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 **Abschnitt 1: Asset-Workflows**
 
-* [Erstellung von Modellen für den Arbeitsablauf](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html?lang=en#sync-your-workflow-generate-a-runtime-model){target="_blank"}
+* [Erstellung von Modellen für den Arbeitsablauf](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html#sync-your-workflow-generate-a-runtime-model){target="_blank"}
 * [Assets-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Asset-Organisation und Asset-Konsole**
 
 * [Videos und Tutorials zu AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=de){target="_blank"}
-* [Suchfacetten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html?lang=en#restoring-default-search-facets){target="_blank"}
+* [Suchfacetten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#restoring-default-search-facets){target="_blank"}
 * [Asset-Berichte](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Asset-Metadaten**
 
-* [Metadatenschemata](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html?lang=en#default-metadata-schema-forms){target="_blank"}
-* [Grundlagen zu Metadatenkonzepten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html?lang=en){target="_blank"}
-* [Metadatenprofile](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html?lang=en#:~:text=Add%20a%20metadata%20profile.%20Tippen Sie auf%20or%20click%20the, und%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
+* [Metadatenschemata](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html#default-metadata-schema-forms){target="_blank"}
+* [Grundlagen zu Metadatenkonzepten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html){target="_blank"}
+* [Metadatenprofile](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html#:~:text=Add%20a%20metadata%20profile.%20Tippen Sie auf%20or%20click%20the, und%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
 
 **Abschnitt 4: Asset-Typen**
 
-* [Verwalten von Video-Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html?lang=en#uploading-and-previewing-video-assets){target="_blank"}
-* [Inhaltsfragmentmodelle](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html?lang=en#creating-a-content-fragment-model){target="_blank"}
-* [Varianten – Erstellen von Fragmentinhalten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html?lang=en#managing-variations){target="_blank"}
+* [Verwalten von Video-Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html#uploading-and-previewing-video-assets){target="_blank"}
+* [Inhaltsfragmentmodelle](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html#creating-a-content-fragment-model){target="_blank"}
+* [Varianten – Erstellen von Fragmentinhalten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html#managing-variations){target="_blank"}
 
 **Abschnitt 5: Asset-Funktionssätze und -Funktionen**
 
-* [ [!DNL Experience Manager] Überblick über Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=en){target="_blank"}
-* [Unterstützte Dateiformate](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html?lang=en){target="_blank"}
-* [Dynamic Media-Videoprofile](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html?lang=en){target="_blank"}
+* [ [!DNL Experience Manager] Überblick über Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=de){target="_blank"}
+* [Unterstützte Dateiformate](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
+* [Dynamic Media-Videoprofile](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
 
 >[!TAB Zertifizieren]
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
@@ -185,6 +185,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

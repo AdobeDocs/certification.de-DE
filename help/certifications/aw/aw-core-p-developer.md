@@ -6,10 +6,10 @@ role: Developer
 badge: label="Test AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1183'
-ht-degree: 2%
+source-wordcount: '1153'
+ht-degree: 1%
 
 ---
 
@@ -123,48 +123,48 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 * [Best Practice - Portfolios und Programme](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/portfolios-programs-bp.html){target="_blank"}
 * [Übersicht über Portfolio in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
-* [Erstellen einer Anforderungswarteschlange](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html?lang=en){target="_blank"}
-* [Anforderungswarteschlangen verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html?lang=en){target="_blank"}
+* [Erstellen einer Anforderungswarteschlange](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
+* [Anforderungswarteschlangen verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [Übersicht über benutzerdefinierte Formulare](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
-* [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=en){target="_blank"}
+* [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
 
 **Abschnitt 2: Budget und Planung**
 
 * [Ressourcenplanung in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-planning-overview.html){target="_blank"}
-* [Was ist der Ressourcen-Planer?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en){target="_blank"}
-* [Best Practice - Ressourcen-Planer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html?lang=en){target="_blank"}
-* [Erstellen einer Projektvorlage](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=en){target="_blank"}
+* [Was ist der Ressourcen-Planer?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html){target="_blank"}
+* [Best Practice - Ressourcen-Planer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
+* [Erstellen einer Projektvorlage](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
 * [Bearbeiten von Projektvorlagen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html){target="_blank"}
 * [Best Practice - Projektvorlagen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html){target="_blank"}
 
 **Abschnitt 3: Anwendererlebnis**
 
-* [Best Practices - Onboarding und Adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html?lang=en){target="_blank"}
-* [Erstellen eines individuellen Benutzerprofils](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html?lang=en){target="_blank"}
-* [System-Setup: Gruppen und Benutzer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html?lang=en){target="_blank"}
-* [Freigeben eines Projekts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=de){target="_blank"}
+* [Best Practices - Onboarding und Adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
+* [Erstellen eines individuellen Benutzerprofils](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
+* [System-Setup: Gruppen und Benutzer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
+* [Freigeben eines Projekts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
 * [Wie Zugriffsebenen und Berechtigungen zusammenarbeiten](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [Daten in Adobe importieren [!DNL Workfront] Verwendung einer Kick-Start-Vorlage](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
 
 **Abschnitt 4: Metriken und Berichterstellung**
 
 * [Erstellen benutzerspezifischer Berichte](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
-* [Berichte senden und freigeben](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en){target="_blank"}
+* [Berichte senden und freigeben](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
 * [Best Practice - Benutzerspezifische Berichte](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html){target="_blank"}
 
 
 **Abschnitt 5: Ausführung**
 
 * [Workflow-Management](https://business.adobe.com/products/workfront/workflow-management.html){target="_blank"}
-* [Übersicht über den Projektstatus](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-progress-status.html?lang=en){target="_blank"}
-* [Erstellen eines agilen Teams](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html?lang=en){target="_blank"}
-* [Kosten verfolgen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html?lang=en){target="_blank"}
+* [Übersicht über den Projektstatus](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-progress-status.html){target="_blank"}
+* [Erstellen eines agilen Teams](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
+* [Kosten verfolgen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
 >[!TAB Zertifizieren]
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
@@ -194,6 +194,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

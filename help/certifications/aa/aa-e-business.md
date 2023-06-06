@@ -7,10 +7,10 @@ role: User
 badge: label="Test AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1262'
-ht-degree: 11%
+source-wordcount: '1230'
+ht-degree: 12%
 
 ---
 
@@ -132,16 +132,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 1: Geschäftsanalyse**
 
-* [Welcher [!DNL Adobe Analytics] -Tool sollte ich verwenden?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=en){target="_blank"}
+* [Welcher [!DNL Adobe Analytics] -Tool sollte ich verwenden?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=de){target="_blank"}
 * Dokumentation zu [[!DNL Adobe Analytics] ](https://helpx.adobe.com/de/support/analytics.html){target="_blank"}
 * [Über die Datenerfassung](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=de){target="_blank"}
 * [Analytics-Daten-Feed-Dokumentation](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Berichterstellung und Dashboards für Projekte**
 
-* [Erste Schritte mit Reports &amp; Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
+* [Erste Schritte mit Reports &amp; Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=de){target="_blank"}
 * [[!DNL Adobe Analytics] Dashboards - Übersicht](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=de){target="_blank"}
-* [Übersicht über Projekte](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=en){target="_blank"}
+* [Übersicht über Projekte](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=de){target="_blank"}
 * [Visualisierungsübersicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=de){target="_blank"}
 * [Übersicht über intelligente Warnhinweise](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=de){target="_blank"}
 
@@ -158,14 +158,14 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 **Abschnitt 5: Administration**
 
 * [Analytics-Administratorenhandbuch](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=de){target="_blank"}
-* [Häufig gestellte Fragen](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html?lang=en){target="_blank"}
-* [Classification Rule Builder-Workflow](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=en){target="_blank"}
+* [Häufig gestellte Fragen](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
+* [Classification Rule Builder-Workflow](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=de){target="_blank"}
 
 >[!TAB Zertifizieren]
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
@@ -205,6 +205,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

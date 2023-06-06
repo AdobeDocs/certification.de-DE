@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: ec92189f7230790a6fe79f72b06838703d85b94f
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '569'
-ht-degree: 5%
+source-wordcount: '565'
+ht-degree: 6%
 
 ---
 
@@ -26,7 +26,7 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 >[!IMPORTANT]
 >
->Die folgenden Links zur Kursbewertung funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Links zur Kursbewertung funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -48,7 +48,7 @@ Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
 Auswählen **drei Aktivitäten** die damit verbundenen Kursbewertungen abzuschließen und zu bestehen.
 
-* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
+* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
 * **Schritt 2**: Studieren Sie die Kurse in der Experience League
 * **Schritt 3**: Abschließen und Übergeben jeder Kursbewertungmit mindestens 80 %
 
@@ -73,7 +73,7 @@ Die Kursbewertungen sind kostenlos. Es ist nicht erforderlich, sie zu planen, un
 | [Filtern Ihrer Daten mit benutzerdefinierter Segmentierung und Datumsangaben - Lektion 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=de){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
 | [Geführte Analytics-Implementierung - Lektion 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=de){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
 | [ Implementieren und Messen der internen Site-Suche - Lektion 3 und 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search&amp;lang=de){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
-| [Adobe Analytics-APIs](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html?lang=en){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
+| [Adobe Analytics-APIs](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
 
 >[!NOTE]
 >
@@ -83,6 +83,6 @@ Die Kursbewertungen sind kostenlos. Es ist nicht erforderlich, sie zu planen, un
 
 ### Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.

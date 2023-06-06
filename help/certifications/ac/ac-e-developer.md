@@ -6,10 +6,10 @@ role: Developer
 badge: label="Test AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '2099'
-ht-degree: 0%
+source-wordcount: '2067'
+ht-degree: 2%
 
 ---
 
@@ -156,30 +156,30 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 1: Adobe [!DNL Commerce] Architektur und Anpassungstechniken**
 
-* [[!DNL Commerce] für Entwickler - Übersicht](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html?lang=en#video-content){target="_blank"}
-* [[!DNL Commerce] für Entwickler - Entwicklungs-Workflow](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html?lang=en){target="_blank"}
-* [[!DNL Commerce] für Entwickler - Codebasis](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html?lang=en){target="_blank"}
-* [[!DNL Commerce] für Entwickler - Übungen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html?lang=en){target="_blank"}
-* [Magento 2 Entwicklungsgrundlagen](https://learning.adobe.com/catalog/adobe_commerce/cours000000000096867.html){target="_blank"}
+* [[!DNL Commerce] für Entwickler - Übersicht](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html#video-content){target="_blank"}
+* [[!DNL Commerce] für Entwickler - Entwicklungs-Workflow](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html){target="_blank"}
+* [[!DNL Commerce] für Entwickler - Codebasis](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
+* [[!DNL Commerce] für Entwickler - Übungen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html){target="_blank"}
+* [Magento 2 Entwicklungsgrundlagen](https://learning.adobe.com/catalog/adobe_commerce/cours000000000099263.html){target="_blank"}
 * [Adobe [!DNL Commerce] Cloud: Magento Commerce - Back-End-Entwickler](https://learning.adobe.com/learning-path/adobe_commerce/curra000000000006251.html){target="_blank"}
 * [Adobe [!DNL Commerce] 2.4 Entwicklerhandbuch](https://devdocs.magento.com/){target="_blank"}
 * [Teilweises Zwischenspeichern](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/partial-caching.html){target="_blank"}
 * [Seiten-Caching](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
 * [Hinzufügen von Erweiterungsattributen zu Entitäten](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/extension_attributes/adding-attributes.html){target="_blank"}
 * [Kategorien - Designeinstellungen](https://docs.magento.com/user-guide/catalog/categories-custom-design.html){target="_blank"}
-* [Erstellen eines Moduls](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=en){target="_blank"}
+* [Erstellen eines Moduls](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=de){target="_blank"}
 * [Komponentenentwicklung](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html){target="_blank"}
-* [[!DNL Commerce] für Entwickler - Grundlagen zur Entwicklung](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html?lang=en){target="_blank"}
-* [[!DNL Commerce] für Entwickler - Post-Installation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html?lang=en){target="_blank"}
-* [[!DNL Commerce] für Entwickler - Routing](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html?lang=en){target="_blank"}
+* [[!DNL Commerce] für Entwickler - Grundlagen zur Entwicklung](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html){target="_blank"}
+* [[!DNL Commerce] für Entwickler - Post-Installation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html){target="_blank"}
+* [[!DNL Commerce] für Entwickler - Routing](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html){target="_blank"}
 * [Neue Seite erstellen](https://devdocs.magento.com/videos/fundamentals/create-a-new-page/){target="_blank"}
 * [Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
 * [Was ist Page Builder](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
 * [Einrichten mehrerer Websites oder Stores](https://devdocs.magento.com/cloud/project/project-multi-sites.html){target="_blank"}
 * [Mehrere Websites oder Stores](https://devdocs.magento.com/guides/v2.4/config-guide/multi-site/ms_over.html){target="_blank"}
-* [Beispiel für eine Injektion von Abhängigkeiten](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html?lang=en){target="_blank"}
+* [Beispiel für eine Injektion von Abhängigkeiten](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html?lang=de){target="_blank"}
 * [System.xml-Referenz](https://devdocs.magento.com/guides/v2.4/config-guide/prod/config-reference-systemxml.html){target="_blank"}
-* [[!DNL Commerce] für Entwickler - Installation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-2-install.html?lang=en){target="_blank"}
+* [[!DNL Commerce] für Entwickler - Installation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-2-install.html){target="_blank"}
 * [Anwenden von Patches](https://devdocs.magento.com/cloud/project/project-patch.html){target="_blank"}
 * [CLI-Befehle hinzufügen](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cli-cmds/cli-add.html){target="_blank"}
 * [Integrationstests](https://devdocs.magento.com/guides/v2.4/test/integration/integration_test_execution.html){target="_blank"}
@@ -193,12 +193,12 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 2: Arbeiten mit Datenbanken und EAV**
 
-* [Erstellen eines Produktattributs](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html?lang=en){target="_blank"}
+* [Erstellen eines Produktattributs](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html?lang=de){target="_blank"}
 * [EAV- und Erweiterungsattribute](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/attributes.html){target="_blank"}
 * [Hinzufügen eines neuen Produktattributs](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/){target="_blank"}
 * [Benutzerdefiniertes Textfeld-Attribut hinzufügen](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/text-field.html){target="_blank"}
-* [[!DNL Commerce] für Entwickler - Deklaratives Schema](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-2-declarative-schema.html?lang=en){target="_blank"}
-* [Hinzufügen einer neuen Tabelle zu einer Datenbank](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html?lang=en){target="_blank"}
+* [[!DNL Commerce] für Entwickler - Deklaratives Schema](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-2-declarative-schema.html){target="_blank"}
+* [Hinzufügen einer neuen Tabelle zu einer Datenbank](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html){target="_blank"}
 * [Deklaratives Schema](https://developer.adobe.com/commerce/php/development/components/declarative-schema/){target="_blank"}
 * [Datenübertragung](https://docs.magento.com/user-guide/system/data-transfer.html){target="_blank"}
 * [Benutzerdefinierte Import-Entität](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/custom-import-entity.html){target="_blank"}
@@ -207,7 +207,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 3: Entwickeln mit Admin**
 
-* [[!DNL Commerce] für Entwickler - Erstellen einer Admin Page](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html?lang=en){target="_blank"}
+* [[!DNL Commerce] für Entwickler - Erstellen einer Admin Page](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html){target="_blank"}
 * [Admin-Raster hinzufügen](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/admin-grid.html){target="_blank"}
 * [Auflisten (Raster) der Komponente](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-listing-grid.html){target="_blank"}
 * [Formular-Komponente](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-form.html){target="_blank"}
@@ -251,7 +251,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 * [Pro Projekt-Workflow](https://devdocs.magento.com/cloud/architecture/pro-develop-deploy-workflow.html){target="_blank"}
 * [Cloud-CLI](https://devdocs.magento.com/cloud/reference/cli-ref-topic.html){target="_blank"}
-* [[!DNL Commerce] zur Cloud-Infrastruktur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
+* [[!DNL Commerce] zur Cloud-Infrastruktur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=de){target="_blank"}
 * [ECE-Tools-Paket](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
 
 
@@ -273,7 +273,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
@@ -312,6 +312,6 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie 
 
 **Fragen**
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
