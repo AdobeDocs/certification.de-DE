@@ -7,7 +7,7 @@ role: Developer
 badge: label="Test AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 50ab6e6f0fc5626e1da8843fd3a1abf09f966803
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 12%
@@ -61,7 +61,7 @@ Erfahren Sie mehr über die folgenden Aufgaben:
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
 * Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) und 950 $ (Indien)
+* Kosten: 125 $ (global) und 95 $ (Indien)
 * Test-ID: AD0-E213
 
 **Prüfungsziele und -umfang**
@@ -178,7 +178,7 @@ Adobe verwendet zwei Anbieter, um die verarbeiteten Prüfungen zu verwalten: PSI
 * **PSI** bietet Testcenter- und japanische Prüfungsoptionen (sofern verfügbar)
 * **[!DNL Examity]** bietet eine Remote-Online-Option
 
-Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. Das ist so einfach!
+Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. So einfach ist es!
 
 Ihr Profilname im Adobe Credential Management System muss genau mit Ihrer Government ID übereinstimmen. Wenn der Proktor die Prüfung nicht mit den gleichen Informationen oder einer Inkongruenz beendet, muss er den Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.
 
