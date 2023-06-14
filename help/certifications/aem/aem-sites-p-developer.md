@@ -7,9 +7,9 @@ role: Developer
 badge: label="Test AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 7a1c1e69c6451e485fecca587a70f15aa9991f95
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '850'
 ht-degree: 17%
 
 ---
@@ -118,8 +118,8 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 **Abschnitt 4: Umgebungswartung**
 
 * [AEM 6.4-Bereitstellungshandbuch für Benutzer](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=de){target="_blank"}
-* [AEM 6.4-Entwickleranleitung](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=de){target="_blank"}
-* [Vorgangs-Dashboard](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html#automated-maintenance-tasks){target="_blank"}
+* [AEM 6.4-Entwickleranleitung](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
+* [Vorgangs-Dashboard](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en#automated-maintenance-tasks){target="_blank"}
 * [Versionshinweise zur Adobe [!DNL Experience Manager] 6,5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=de){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service]  – Übersicht](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=de){target="_blank"}
 * [Einführung in Kernkomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=de)
@@ -142,7 +142,7 @@ Adobe verwendet zwei Anbieter, um die verarbeiteten Prüfungen zu verwalten: PSI
 * **PSI** bietet Testcenter- und japanische Prüfungsoptionen (sofern verfügbar)
 * **[!DNL Examity]** bietet eine Remote-Online-Option
 
-Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. Das ist so einfach!
+Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. So einfach ist es!
 
 Ihr Profilname im Adobe Credential Management System muss genau mit Ihrer Government ID übereinstimmen. Wenn der Proktor die Prüfung nicht mit den gleichen Informationen oder einer Inkongruenz beendet, muss er den Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.
 
