@@ -7,10 +7,10 @@ product: Customer Journey Analytics
 badge: label="Test AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
 workflow-type: tm+mt
-source-wordcount: '772'
-ht-degree: 10%
+source-wordcount: '863'
+ht-degree: 9%
 
 ---
 
@@ -128,8 +128,17 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 >
 >Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
-
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
+
+**Einen Praxistest durchführen**
+
+Wir empfehlen Ihnen, den freien Praxistest durchzuführen, bevor Sie beginnen. Sie haben uneingeschränkten Zugriff auf alle verfügbaren Übungstests für die Prüfungen auf Expertenebene der Adobe.
+
+Unsere Übungstests werden alle aus dem gleichen Entwurf wie die Live-Prüfungen entwickelt. Der Praxistest hilft Ihnen, die Themen der Live-Prüfung zu verstehen.
+
+Beachten Sie bitte, dass das Bestehen eines Praktikumstests nicht garantiert, dass Sie die Zertifizierungsprüfung bestehen werden.
+
+Navigieren Sie zu [Adobe-Zertifizierungsprüfungs-Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} jetzt einen Übungstest durchführen.
 
 **Führen Sie die Zertifizierungsprüfung durch.**
 
@@ -138,7 +147,7 @@ Adobe verwendet zwei Anbieter, um die verarbeiteten Prüfungen zu verwalten: PSI
 * **PSI** bietet Testcenter- und japanische Prüfungsoptionen (sofern verfügbar)
 * **[!DNL Examity]** bietet eine Remote-Online-Option
 
-Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. Das ist so einfach!
+Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. So einfach ist es!
 
 Ihr Profilname im Adobe Credential Management System muss genau mit Ihrer Government ID übereinstimmen. Wenn der Proktor die Prüfung nicht mit den gleichen Informationen oder einer Inkongruenz beendet, muss er den Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.
 

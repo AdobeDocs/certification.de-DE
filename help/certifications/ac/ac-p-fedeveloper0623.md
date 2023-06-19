@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="Test AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: 71d01a071a98d82ef8abcd4518b4596ca6834466
+source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
 workflow-type: tm+mt
-source-wordcount: '1144'
+source-wordcount: '1057'
 ht-degree: 0%
 
 ---
@@ -169,15 +169,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
-**Einen Praxistest durchführen**
-
-Wir empfehlen Ihnen, den freien Praxistest durchzuführen, bevor Sie beginnen. Sie haben uneingeschränkten Zugriff auf alle verfügbaren Übungstests für die Prüfungen auf Expertenebene der Adobe.
-
-Unsere Übungstests werden alle aus dem gleichen Entwurf wie die Live-Prüfungen entwickelt. Der Praxistest hilft Ihnen, die Themen der Live-Prüfung zu verstehen.
-
-Beachten Sie bitte, dass das Bestehen eines Praktikumstests nicht garantiert, dass Sie die Zertifizierungsprüfung bestehen werden.
-
-Navigieren Sie zu [Adobe-Zertifizierungsprüfungs-Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} jetzt einen Übungstest durchführen.
+**Praktische Tests in Kürze verfügbar**
 
 **Führen Sie die Zertifizierungsprüfung durch.**
 
