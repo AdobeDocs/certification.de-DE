@@ -4,10 +4,10 @@ description: Informationen zur  [!DNL Experience Cloud] -Zertifizierung bei Adob
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: c488851695d2eb1c2c8369126760aaa74c44ef58
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 8%
+source-wordcount: '460'
+ht-degree: 13%
 
 ---
 
@@ -36,6 +36,28 @@ Abrufen einer Adobe [!DNL Experience Cloud] Die Zertifizierung kann aus verschie
 
 Unser Zertifizierungsprogramm ist für Fachleute in verschiedenen Bereichen konzipiert, darunter Entwickler, Geschäftsleute und Architekten. Mit vielen verschiedenen Zertifizierungspfaden, aus denen Sie wählen können, können Sie Ihre Kompetenz und Ihr Know-how innerhalb der Adobe präsentieren [!DNL Experience Cloud] und beeindrucken Kunden und Arbeitgeber gleichermaßen.
 
+## Alle Zertifikate anzeigen
+
+Alle Details zu den einzelnen verfügbaren Produktzertifizierungen sind im Inhaltsverzeichnis auf der linken Seite und in der folgenden Liste aufgeführt.
+
+* [Adobe Analytics](/help/certifications/aa/aa-overview.md)
+* [Adobe Advertising Cloud](/help/certifications/aac/aac-overview.md)
+* [Adobe Audience Manager](/help/certifications/aam/aam-overview.md)
+* [Adobe Commerce](/help/certifications/ac/ac-overview.md)
+* [Adobe Campaign Classic](/help/certifications/acc/acc-overview.md)
+* [Adobe Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
+* [Adobe Campaign Standard](/help/certifications/acs/acs-overview.md)
+* [Adobe Document Cloud](/help/certifications/adc/adc-overview.md)
+* [Adobe Experience Manager](/help/certifications/aem/aem-overview.md)
+<!-- * [Adobe Experience Platform](/help/certifications/aep/aep-overview.md) -->
+* [Adobe Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
+* [Adobe Marketo Engage](/help/certifications/ame/ame-overview.md)
+* [Adobe Target](/help/certifications/at/at-overview.md)
+* [Adobe Workfront](/help/certifications/aw/aw-overview.md)
+
+
+## Erste Schritte
+
 Warum also warten? Machen Sie den ersten Schritt zur Erschließung Ihres professionellen Potenzials und erkunden Sie noch heute unsere Zertifizierungspfade!
 
-[!BADGE Erste Schritte]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html newtab=true"}
+<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Erste Schritte</span></a>

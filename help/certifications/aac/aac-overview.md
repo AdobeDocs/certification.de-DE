@@ -1,21 +1,40 @@
 ---
 title: Übersicht über die Advertising-Zertifizierung
-description: Übersicht über Zertifizierungsoptionen für Adobe Advertising
+description: Übersicht über die Zertifizierungsoptionen für Adobe Advertising
 solution: Advertising
 product: Advertising Cloud
 exl-id: 616c8b98-17ee-4744-8593-8d8675703b9c
-source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
+source-git-commit: a366e8b2ba3fa0fa0a22b05ff26821a7f1fc66a4
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 0%
+source-wordcount: '115'
+ht-degree: 2%
 
 ---
 
 # Übersicht über die Advertising-Zertifizierung
+
+Adobe bietet mehrere Zertifizierungen für Advertising Business-Fachleute.  Auf diesen Seiten finden Sie alle Informationen, die Sie für die ersten Schritte auf Ihrer Zertifizierungs-Journey oder zur Verlängerung Ihrer bestehenden Zertifizierung benötigen.
+
+## Zertifizierungen
 
 **Professional**
 
 * [Geschäftspraktiker (Suche)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
 * [Geschäftspraktiker (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
+## Verlängerung
+
 Besuchen Sie die [Zertifizierung verlängern](/help/certifications/renew.md) angezeigt, um zu sehen, ob für dieses Produkt eine Verlängerungsoption verfügbar ist.
+
+## Ressourcen
+
+Weitere Informationen zu diesen Produkten erhalten Sie in diesen [business.adobe.com](https://business.adobe.com/) Links,
+
+* [Adobe Advertising Demand Side Platform (DSP)](https://business.adobe.com/products/advertising/demand-side-platform.html){target="_blank"}
+* [Adobe Advertising Search](https://business.adobe.com/products/advertising/search-marketing-management.html){target="_blank"}
+
+## Fragen
+
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+
+Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
