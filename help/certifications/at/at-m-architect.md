@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Test AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: 623fd77e77f955d57d779b2f0b746ddb5ef01b5b
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
 source-wordcount: '1149'
 ht-degree: 22%
@@ -20,7 +20,7 @@ Erfahren Sie, wie Sie Übergeordnet ein zertifizierter Adobe Architect werden.
 
 >[!NOTE]
 >
->Diese Prüfung, Adobe Target Architect Übergeordnet (AD0-E407), wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 18. August 2023 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir Ihnen, die [neueste Version dieser Prüfung](at-m-architect0623.md).
+>Diese Prüfung, Adobe Target Architect Übergeordnet (AD0-E407), wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 8. September 2023 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir Ihnen, die [neueste Version dieser Prüfung](at-m-architect0623.md).
 
 ## Minimales Erlebnis
 

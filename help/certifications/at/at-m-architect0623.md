@@ -6,7 +6,7 @@ product: Target
 role: Data Architect
 badge: label="Test AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6b2ef2c4dd6164461f18d3837c82f0bbd9f3dab2
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
 source-wordcount: '1182'
 ht-degree: 14%
@@ -19,7 +19,7 @@ Erfahren Sie, wie Sie Übergeordnet ein zertifizierter Adobe Architect werden.
 
 >[!NOTE]
 >
->Dies ist die neueste Übergeordnete Prüfung zum Adobe Target Architect. Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](at-m-architect.md) Sie haben bis zum 25. August 2023 Zeit, um sie abzuschließen.
+>Dies ist die neueste Übergeordnete Prüfung zum Adobe Target Architect. Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](at-m-architect.md) Sie haben bis zum 8. September 2023 Zeit, um sie abzuschließen.
 
 ## Minimales Erlebnis
 
