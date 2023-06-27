@@ -7,9 +7,9 @@ role: Developer
 badge: label="Test AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: fc1f5860d3e49fd8e3ecb15d24b2242086ca581c
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1076'
 ht-degree: 1%
 
 ---
@@ -94,10 +94,12 @@ Abschnitt 3: Stile (24 %)
 
 Abschnitt 4: JavaScript (16 %)
 
-* Grundlegende Verwendung des Content Managements demonstrieren
-* Beschreiben Sie die Schritte zum Anwenden/Planen eines Designs auf einen bestimmten Bereich (Website, Store, Store-Ansicht)
-* Beschreiben Sie die Schritte zum Anwenden von Designänderungen auf Kategorien, Produkte und CMS-Seiten mithilfe der Admin-Konfiguration.
-* Beschreibung der Schritte zum Anpassen von Transaktions-E-Mails
+* JavaScript-Komponenten initialisieren und aufrufen
+* Verwendung von RequireJS demonstrieren
+* Beschreiben der Verwendung von Mixins
+* Beschreiben Sie, wie Sie eine Übersetzung in JS hinzufügen.
+* Beschreiben der Verwendung von Knockout JS
+* Verwendung von jQuery-Widgets beschreiben
 
 Abschnitt 5: Admin-Konfiguration und Pagebuilder (12 %)
 
