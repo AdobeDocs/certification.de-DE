@@ -3,10 +3,11 @@ title: Zertifizierung durch Entwickler
 description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte für Adobe werden. [!DNL Commerce].
 solution: Commerce
 role: Developer
+level: Experienced
 badge: label="Test AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '1854'
 ht-degree: 2%
