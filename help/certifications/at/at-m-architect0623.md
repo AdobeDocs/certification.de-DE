@@ -6,10 +6,10 @@ product: Target
 role: Data Architect
 badge: label="Test AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
 workflow-type: tm+mt
-source-wordcount: '1182'
-ht-degree: 14%
+source-wordcount: '1112'
+ht-degree: 15%
 
 ---
 
@@ -128,12 +128,6 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-**Beispielfragen**
-
-In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf die Sie bei der eigentlichen Prüfung stoßen werden. Es ist keine Anmeldung erforderlich. Die Ergebnisse der Beispielfragen werden nicht gespeichert und prognostizieren keine tatsächlichen Testergebnisse.
-
-[Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
-
 **Bereich 1**
 
 * [Target-Aktivitätstypen](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html?lang=de){target="_blank"}
@@ -208,7 +202,7 @@ Stornierungen und Umschulungen sind möglich, wenn sie vor 48 Stunden vor dem ge
 
 ### Prüfnummer: AD0-E409
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E409 newtab=true"}[!BADGE Prüfung]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
+[!BADGE Prüfung]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
 
 Sie können Ihre Zertifizierungsprüfung mit Gutschein oder Kreditkarte bezahlen. Um einen Prüfgutschein zu erwerben, gehen Sie zu: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
