@@ -7,7 +7,7 @@ role: Developer
 badge: label="Test AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1096'
 ht-degree: 14%
@@ -171,7 +171,7 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 
 ### Verfügbare Optionen
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
 
