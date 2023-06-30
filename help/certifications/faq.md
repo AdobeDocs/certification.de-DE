@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '2655'
 ht-degree: 1%
@@ -116,6 +116,8 @@ Da wir sicherstellen müssen, dass unsere für die Adobe zertifizierten Personen
 +++
 
 +++ Sind Prüfungen in anderen Sprachen als Englisch verfügbar?
+
+{{PSI-note}}
 
 Es gibt einige Prüfungen auf Japanisch über PSI (einer unserer Anbieter). Wenn die Prüfung auf Japanisch verfügbar ist, wird sie in den Prüfungsdetails für diese Prüfung aufgeführt. Die Prüfungsdetails finden Sie auf der Journey-Seite der Zertifizierung im Tab &quot;Vorbereiten&quot;.
 
