@@ -7,7 +7,7 @@ role: User
 badge: label="Test AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1122'
 ht-degree: 19%
@@ -186,6 +186,8 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 ## Führen Sie die Prüfung durch (AD0-E121).
 
 ### Verfügbare Optionen
+
+{#PSI-note}
 
 **PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
 

@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Test AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '881'
 ht-degree: 2%
@@ -176,6 +176,8 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 ## Führen Sie die Prüfung durch (AD0-E718).
 
 ### Verfügbare Optionen
+
+{#PSI-note}
 
 **PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
 

@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Test AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1149'
 ht-degree: 22%
@@ -212,6 +212,8 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 ## Führen Sie die Prüfung durch (AD0-E407).
 
 ### Verfügbare Optionen
+
+{#PSI-note}
 
 **PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
 

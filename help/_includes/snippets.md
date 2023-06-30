@@ -1,7 +1,7 @@
 ---
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -29,3 +29,9 @@ Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, wählen Sie einfach
 Stornierungen und Umschulungen sind möglich, wenn sie vor 48 Stunden vor dem geplanten Prüfungstermin begonnen werden. Die Kandidaten müssen diese Ernennung selbst ändern.
 
 Bezahlen Sie Ihre Zertifizierungsprüfung entweder per Gutschein oder Kreditkarte. Um einen Prüfgutschein zu erwerben, gehen Sie zu: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie einen Rabatt haben, wird er beim Checkout angewendet.
+
+## PSI-Hinweis {#PSI-note}
+
+>[!IMPORTANT]
+>
+>Ab dem 1. August 2023 ist die Prüfungszeitplanung bei PSI nicht mehr verfügbar. Wenn Sie bereits eine Prüfung mit PSI geplant haben, müssen Sie sie vor dem 1. August 2023 durchführen. Wenn Sie eine Prüfung mit PSI nach dem 1. August 2023 geplant haben, setzen Sie Ihre Prüfung bitte neu, damit sie vor diesem Datum durchgeführt wird. Wenn Sie Ihre Prüfung nicht vor dem 1. August 2023 abschließen können oder nicht, senden Sie bitte eine E-Mail an <certif@adobe.edu> damit wir Sie bei der Übertragung Ihrer Prüfung auf Examity unterstützen können. Dazu gehören japanischsprachige Prüfungen.

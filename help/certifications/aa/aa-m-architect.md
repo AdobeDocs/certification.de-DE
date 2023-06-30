@@ -8,7 +8,7 @@ role: Data Architect,Developer
 badge: label="Test AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 18%
@@ -161,6 +161,8 @@ Stornierungen und Umschulungen sind möglich, wenn sie vor 48 Stunden vor dem ge
 ## Führen Sie die Prüfung durch (AD0-E207).
 
 ### Verfügbare Optionen
+
+{#PSI-note}
 
 **PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
 

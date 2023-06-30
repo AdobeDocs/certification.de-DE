@@ -6,10 +6,10 @@ role: Developer
 badge: label="Test AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1034'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -142,7 +142,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Best Practices - Onboarding und Adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [Erstellen eines individuellen Benutzerprofils](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
 * [System-Setup: Gruppen und Benutzer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
-* [Freigeben eines Projekts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
+* [Freigeben eines Projekts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=de){target="_blank"}
 * [Wie Zugriffsebenen und Berechtigungen zusammenarbeiten](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [Daten in Adobe importieren [!DNL Workfront] Verwendung einer Kick-Start-Vorlage](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
 
@@ -177,6 +177,8 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 ## Führen Sie die Prüfung durch (AD0-E905).
 
 ### Verfügbare Optionen
+
+{#PSI-note}
 
 **PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
 

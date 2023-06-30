@@ -7,7 +7,7 @@ role: User
 badge: label="Test AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1232'
 ht-degree: 1%
@@ -198,6 +198,8 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 ## Führen Sie die Prüfung durch (AD0-E406).
 
 ### Verfügbare Optionen
+
+{#PSI-note}
 
 **PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
 

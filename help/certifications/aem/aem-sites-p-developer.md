@@ -7,7 +7,7 @@ role: Developer
 badge: label="Test AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: d0f36986ffb20d9a338ba80932643d9b79ab9a9e
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 20%
@@ -137,6 +137,8 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 ## Führen Sie die Prüfung durch (AD0-E123)
 
 ### Verfügbare Optionen
+
+{#PSI-note}
 
 **PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
 

@@ -6,7 +6,7 @@ role: Developer
 badge: label="Test AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '891'
 ht-degree: 0%
@@ -152,6 +152,8 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 ## Führen Sie die Prüfung durch (AD0-E906).
 
 ### Verfügbare Optionen
+
+{#PSI-note}
 
 **PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
 

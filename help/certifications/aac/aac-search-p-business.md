@@ -8,7 +8,7 @@ role: User
 badge: label="Test AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '905'
 ht-degree: 5%
@@ -163,6 +163,8 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 ## Führen Sie die Prüfung durch (AD0-E501).
 
 ### Verfügbare Optionen
+
+{#PSI-note}
 
 **PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
 

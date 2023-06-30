@@ -7,7 +7,7 @@ product: Customer Journey Analytics
 badge: label="Test AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '657'
 ht-degree: 13%
@@ -141,6 +141,8 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 ## Führen Sie die Prüfung durch (AD0-E604).
 
 ### Verfügbare Optionen
+
+{#PSI-note}
 
 **PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
 

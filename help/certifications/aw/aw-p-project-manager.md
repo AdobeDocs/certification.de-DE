@@ -6,7 +6,7 @@ role: Developer
 badge: label="Test AD0-E903" type="positive"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1573'
 ht-degree: 0%
@@ -176,6 +176,8 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 ## Führen Sie die Prüfung durch (AD0-E903).
 
 ### Verfügbare Optionen
+
+{#PSI-note}
 
 **PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
 

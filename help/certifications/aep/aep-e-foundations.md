@@ -7,7 +7,7 @@ role: Developer
 badge: label="Test AD0-E600 & AD7-E601" type="positive"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: b9231e1a3b80440862b5004f42acf10b704b91a7
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1686'
 ht-degree: 10%
@@ -288,6 +288,8 @@ Abschnitt 3: Ziele (27%)
 ## Führen Sie die Prüfung durch (AD0-E601).
 
 ### Verfügbare Optionen
+
+{#PSI-note}
 
 **PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
 
