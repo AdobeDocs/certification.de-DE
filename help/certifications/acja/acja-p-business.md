@@ -4,11 +4,11 @@ description: Erfahren Sie, wie Sie in eine zertifizierte Adobe Professional werd
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
-badge: label="Test AD0-E608" type="positive"
+badge: label="Prüfung AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
+source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '626'
 ht-degree: 13%
 
 ---
@@ -19,7 +19,7 @@ Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner Professiona
 
 ## Minimales Erlebnis
 
-Der ideale MQC ist ein Analytiker mit einer mindestens sechsmonatigen Erfahrung im Customer Journey Analytics und einem grundlegenden Verständnis der Funktionsweise von CJA in Zusammenarbeit mit Adobe Experience Platform. Der Kandidat kann die entsprechenden Berichts- und Visualisierungsoptionen verwenden, um grundlegende und erweiterte Analysen für eine bestimmte Geschäftsanforderung durchzuführen.
+Der ideale, minimalqualifizierte Kandidat ist ein Analysten mit mindestens 6 Monaten Erfahrung in der Customer Journey Analytics-Branche und einem grundlegenden Verständnis der Funktionsweise von CJA in Zusammenarbeit mit Adobe Experience Platform. Der Kandidat kann die entsprechenden Berichts- und Visualisierungsoptionen verwenden, um grundlegende und erweiterte Analysen für eine bestimmte Geschäftsanforderung durchzuführen.
 
 >[!NOTE]
 >
