@@ -1,5 +1,5 @@
 ---
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6c78640fc33f8e0d0aa7057265844b810a403d13
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -34,4 +34,4 @@ Bezahlen Sie Ihre Zertifizierungsprüfung entweder per Gutschein oder Kreditkart
 
 >[!IMPORTANT]
 >
->Ab dem 1. August 2023 ist die Prüfungszeitplanung bei PSI nicht mehr verfügbar. Wenn Sie bereits eine Prüfung mit PSI geplant haben, müssen Sie sie vor dem 1. August 2023 durchführen. Wenn Sie eine Prüfung mit PSI nach dem 1. August 2023 geplant haben, setzen Sie Ihre Prüfung bitte neu, damit sie vor diesem Datum durchgeführt wird. Wenn Sie Ihre Prüfung nicht vor dem 1. August 2023 abschließen können oder nicht, senden Sie bitte eine E-Mail an <certif@adobe.edu> damit wir Sie bei der Übertragung Ihrer Prüfung auf Examity unterstützen können. Dazu gehören japanischsprachige Prüfungen.
+>Ab dem 1. August 2023 ist die Prüfungszeitplanung bei PSI nicht mehr verfügbar. Wenn Sie bereits eine Prüfung mit PSI geplant haben, müssen Sie sie vor dem 1. August 2023 durchführen. Wenn Sie eine Prüfung mit PSI nach dem 1. August 2023 geplant haben, setzen Sie Ihre Prüfung bitte neu, damit sie vor diesem Datum durchgeführt wird. Wenn Sie Ihre Prüfung nicht vor dem 1. August 2023 abschließen können oder nicht, senden Sie bitte eine E-Mail an <certif@adobe.com> damit wir Sie bei der Übertragung Ihrer Prüfung auf Examity unterstützen können. Dazu gehören japanischsprachige Prüfungen.
