@@ -1,16 +1,16 @@
 ---
 title: Zertifizierung durch Experten
 description: Erfahren Sie, wie Sie zertifiziert werden [!DNL Experience Platform] Experten in [!DNL Real-Time Customer Data Platform]
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
 recommendations: disable, exclude
-badge: label="Test AD0-E600 & AD7-E601" type="positive"
+badge: label="Prüfung AD0-E600 &amp; AD7-E601" type="positive"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
 workflow-type: tm+mt
-source-wordcount: '1732'
+source-wordcount: '1729'
 ht-degree: 9%
 
 ---
@@ -250,7 +250,7 @@ Abschnitt 3: Ziele (27%)
 * [Segmente mit B2B-Daten erstellen](https://video.tv.adobe.com/v/338252/){target="_blank"}
 * [Demo der Streaming-Segmentierung](https://video.tv.adobe.com/v/36184){target="_blank"}
 * [Erstellen und Aktivieren von Segmenten in Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
-* [Bewerten eines Segments](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=de){target="_blank"}
+* [Auswerten eines Segments](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Ziele**
 
