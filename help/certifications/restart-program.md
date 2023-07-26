@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 116ab244444823c3290f5e054e44fb9c6816cbc0
+source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
 workflow-type: tm+mt
-source-wordcount: '5199'
+source-wordcount: '5347'
 ht-degree: 9%
 
 ---
@@ -120,13 +120,19 @@ Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 * **Schritt 2**: Studiengang in der Experience League
 * **Schritt 3**: Wählen Sie aus den folgenden Optionen aus.
 
-**Option 1:** Auswählen **drei Aktivitäten** um die mit jeder Kursbewertungvon mindestens 80% verbundenen Kursbewertungen abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, auf Anfrage und nicht verarbeitet. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
+  **Option A:**
 
-**Option 2:** Auswählen **zwei Aktivitäten** um die mit jeder Kursbewertungvon mindestens 80% verbundenen Kursbewertungen abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, auf Anfrage und nicht verarbeitet. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben. Dann **Kundenreferenzformular senden** Validieren der Interaktion mit einem Projekt in den letzten 12 Monaten von mindestens 100 Stunden.
+  Auswählen **drei Kurse** die Kursbewertungen mit einer Punktzahl von 80% oder höher abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
 
-[Kundenreferenzformular für Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **Option B:**
 
-Sie werden vom Adobe Credential Team benachrichtigt, wenn Ihre Kundenreferenz überprüft wurde.
+  Wählen Sie zuerst **zwei Kurse** die Kursbewertungen mit einer Punktzahl von 80% oder höher abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
+
+  Zweitens: **Kundenreferenzformular senden** Validierung Ihrer kontinuierlichen Tätigkeit als Adobe zertifizierter Einzelner, der an einem Adobe Experience Cloud-Implementierungsprojekt beteiligt ist, In diesem Formular wird bestätigt, dass Sie in den letzten 12 Monaten an mindestens 100 Stunden nachweislicher Projektinteraktion teilgenommen haben.
+
+  [Kundenreferenzformular für Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+
+  Sie werden vom Adobe Credential Team benachrichtigt, wenn Ihre Kundenreferenz überprüft wurde. Wenn Ihre Referenz nicht akzeptiert wird, können Sie sie erneut einreichen, bis Sie erfolgreich sind, sofern dies noch vor Ablauf der Zertifizierung der Fall ist.
 
 ### Kurse und Kursbewertungen für Sachverständige und Übergeordnete:
 
@@ -149,13 +155,19 @@ Sie werden vom Adobe Credential Team benachrichtigt, wenn Ihre Kundenreferenz ü
 * **Schritt 2**: Studiengang in der Experience League
 * **Schritt 3**: Wählen Sie aus den folgenden Optionen aus.
 
-**Option 1:** Auswählen **drei Aktivitäten** um die mit jeder Kursbewertungvon mindestens 80% verbundenen Kursbewertungen abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, auf Anfrage und nicht verarbeitet. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
+  **Option A:**
 
-**Option 2:** Auswählen **zwei Aktivitäten** um die mit jeder Kursbewertungvon mindestens 80% verbundenen Kursbewertungen abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, auf Anfrage und nicht verarbeitet. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben. Dann **Kundenreferenzformular senden** Validieren der Interaktion mit einem Projekt in den letzten 12 Monaten von mindestens 100 Stunden.
+  Auswählen **drei Kurse** die Kursbewertungen mit einer Punktzahl von 80% oder höher abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
 
-[Kundenreferenzformular für Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **Option B:**
 
-Sie werden vom Adobe Credential Team benachrichtigt, wenn Ihre Kundenreferenz überprüft wurde.
+  Wählen Sie zuerst **zwei Kurse** die Kursbewertungen mit einer Punktzahl von 80% oder höher abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
+
+  Zweitens: **Kundenreferenzformular senden** Validierung Ihrer kontinuierlichen Tätigkeit als Adobe zertifizierter Einzelner, der an einem Adobe Experience Cloud-Implementierungsprojekt beteiligt ist, In diesem Formular wird bestätigt, dass Sie in den letzten 12 Monaten an mindestens 100 Stunden nachweislicher Projektinteraktion teilgenommen haben.
+
+  [Kundenreferenzformular für Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+
+  Sie werden vom Adobe Credential Team benachrichtigt, wenn Ihre Kundenreferenz überprüft wurde. Wenn Ihre Referenz nicht akzeptiert wird, können Sie sie erneut einreichen, bis Sie erfolgreich sind, sofern dies noch vor Ablauf der Zertifizierung der Fall ist.
 
 ### Kurse und Kursbewertungen für Sachverständige und Übergeordnete:
 
@@ -176,13 +188,19 @@ Sie werden vom Adobe Credential Team benachrichtigt, wenn Ihre Kundenreferenz ü
 * **Schritt 2**: Studiengang in der Experience League
 * **Schritt 3**: Wählen Sie aus den folgenden Optionen aus.
 
-**Option 1:** Auswählen **drei Aktivitäten** um die mit jeder Kursbewertungvon mindestens 80% verbundenen Kursbewertungen abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, auf Anfrage und nicht verarbeitet. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
+  **Option A:**
 
-**Option 2:** Auswählen **zwei Aktivitäten** um die mit jeder Kursbewertungvon mindestens 80% verbundenen Kursbewertungen abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, auf Anfrage und nicht verarbeitet. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben. Dann **Kundenreferenzformular senden** Validieren der Interaktion mit einem Projekt in den letzten 12 Monaten von mindestens 100 Stunden.
+  Auswählen **drei Kurse** die Kursbewertungen mit einer Punktzahl von 80% oder höher abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
 
-[Kundenreferenzformular für Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100)
+  **Option B:**
 
-Sie werden vom Adobe Credential Team benachrichtigt, wenn Ihre Kundenreferenz überprüft wurde.
+  Wählen Sie zuerst **zwei Kurse** die Kursbewertungen mit einer Punktzahl von 80% oder höher abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
+
+  Zweitens: **Kundenreferenzformular senden** Validierung Ihrer kontinuierlichen Tätigkeit als Adobe zertifizierter Einzelner, der an einem Adobe Experience Cloud-Implementierungsprojekt beteiligt ist, In diesem Formular wird bestätigt, dass Sie in den letzten 12 Monaten an mindestens 100 Stunden nachweislicher Projektinteraktion teilgenommen haben.
+
+  [Kundenreferenzformular für Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+
+  Sie werden vom Adobe Credential Team benachrichtigt, wenn Ihre Kundenreferenz überprüft wurde. Wenn Ihre Referenz nicht akzeptiert wird, können Sie sie erneut einreichen, bis Sie erfolgreich sind, sofern dies noch vor Ablauf der Zertifizierung der Fall ist.
 
 ### Kurse und Kursbewertungen für Sachverständige und Übergeordnete:
 
