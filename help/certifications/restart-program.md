@@ -6,7 +6,7 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
+source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 9%
@@ -27,7 +27,7 @@ Die Zertifizierung ist eine wertvolle Ressource für Menschen, die wettbewerbsf�
 
 Personen mit abgelaufenen Zertifikaten, die für dieses Programm infrage kommen, sollten vom Adobe Certification Program eine E-Mail mit dem Betreff &quot;Adobe wieder kostenlos zertifizieren lassen&quot;erhalten haben.
 
-Wenn Sie sich nicht sicher sind, ob Sie berechtigt sind, überprüfen Sie [here](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
+Wenn Sie sich nicht sicher sind, ob Sie berechtigt sind, überprüfen Sie [here](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}.
 
 Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 
@@ -198,7 +198,7 @@ Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 
   Zweitens: **Kundenreferenzformular senden** Validierung Ihrer kontinuierlichen Tätigkeit als Adobe zertifizierter Einzelner, der an einem Adobe Experience Cloud-Implementierungsprojekt beteiligt ist, In diesem Formular wird bestätigt, dass Sie in den letzten 12 Monaten an mindestens 100 Stunden nachweislicher Projektinteraktion teilgenommen haben.
 
-  [Kundenreferenzformular für Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+  [Kundenreferenzformular für Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
   Sie werden vom Adobe Credential Team benachrichtigt, wenn Ihre Kundenreferenz überprüft wurde. Wenn Ihre Referenz nicht akzeptiert wird, können Sie sie erneut einreichen, bis Sie erfolgreich sind, sofern dies noch vor Ablauf der Zertifizierung der Fall ist.
 
@@ -272,7 +272,7 @@ Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
-Im Folgenden finden Sie empfohlene Ressourcen:
+Hier werden Ressourcen vorgeschlagen:
 
 * [Beispielprüfung](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] Produktdokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de){target="_blank"}
