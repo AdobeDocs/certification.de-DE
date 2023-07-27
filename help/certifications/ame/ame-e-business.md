@@ -4,12 +4,12 @@ description: Erfahren Sie, wie Sie ein zertifizierter Adobe-Business-Practice-Ex
 solution: Marketo Engage
 product: Marketo
 role: User
-badge: label="Test AD0-E559" type="positive"
+badge: label="Prüfung AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 49dc037af5b72c804ae00af908b33ae20c75f5c3
 workflow-type: tm+mt
-source-wordcount: '1428'
+source-wordcount: '1425'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 * CRM-Grundlagen
 * Social-Media-Plattformen wie Facebook und LinkedIn
 * Microsoft Office
-* Einfache HTML
+* Grundlegende HTML
 
 >[!NOTE]
 >
@@ -67,12 +67,12 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 50.32.50
+* Übergeben der Punktzahl: 32/50
 * Zeit: 110 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch &amp; Japanisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E559
+* Verfügbare Sprachen: Englisch und Japanisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E559
 
 **Eigenbewertung der Bereitschaft**
 
@@ -87,7 +87,7 @@ Abschnitt 1: Verwaltung und Wartung (12%)
 * Unterschiede zwischen Benutzern und Rollen erkennen
 * Identifizieren Sie in einem Szenario die beste Anpassung für die Verwendung von Workspace und Partitionen
 * CRM-Plattformen mit nativer Marketo-Synchronisierung identifizieren
-* Suchen Sie bei einem Szenario, wo auf Informationen verwiesen wird.
+* Suchen Sie bei einem Szenario nach dem Ort, an dem auf Informationen verwiesen wird
 
 Abschnitt 2: Marketingaktivitäten/Campaign Management (46%)
 
@@ -98,7 +98,7 @@ Abschnitt 2: Marketingaktivitäten/Campaign Management (46%)
 * Die richtige Konfiguration für Interaktionsprogramme demonstrieren/anwenden
 * Beispiele für die Verwendung für verschiedene Typen von Token
 * Zusammenfassen der Nützlichkeit von Webhooks in Marketo und deren Verwendung
-* die entsprechende Nutzung des PMCF zu identifizieren und anzuwenden
+* Identifizieren und Anwenden der entsprechenden Nutzung des PMCF
 * Erläuterung der Vorteile von Global Assets und deren Verwendung
 * Formularfunktionen demonstrieren
 * Durchführen und Analysieren einer A/B-Teststrategie
@@ -106,7 +106,7 @@ Abschnitt 2: Marketingaktivitäten/Campaign Management (46%)
 * Fehlerbehebung bei Kommunikationsbeschränkungen
 * Verwenden von Webinar-Anbieterinformationen in einem Veranstaltungsprogramm
 
-Abschnitt 3: Lead-Management (12%)
+Abschnitt 3: Leitung (12%)
 
 * Erläuterung der wichtigsten Entscheidungspunkte bei der Definition des Lebenszyklusmodells
 * Best Practices für die Lead-Bewertung anwenden
@@ -114,14 +114,14 @@ Abschnitt 3: Lead-Management (12%)
 * Interpretieren des Lead-Aktivitätsprotokolls
 * Geben Sie bei einem Szenario die Erstellungsquelle an
 
-Abschnitt 4: Daten-Management (10 %)
+Abschnitt 4: Daten-Management (10%)
 
 * Einrichten eines Datenverwaltungsprogramms
 * Analysieren der Datenqualität einer Instanz
 * Identifizieren einiger wichtiger Marketo-Richtlinien zur Datenaufbewahrung im Zusammenhang mit Smart-Listen
 * Zusammenfassen der Funktionsweise der Segmentierung
 
-Abschnitt 5: Berichterstellung (4 %)
+Abschnitt 5: Berichterstattung (4%)
 
 * Legen Sie anhand des Ergebnisses einer Kampagne fest, wie ein Programm zur Bereitstellung der besten Berichterstellung eingerichtet werden soll.
 * In einem Szenario können Sie das entsprechende Akquiseprogramm untersuchen und zuweisen
@@ -134,24 +134,24 @@ Abschnitt 6: Best Practices (16%)
 * Verfahren zur Durchführung einer Qualitätsprüfung für ein beliebiges Marketo-Programm erläutern
 * Prozess zur Durchführung einer Qualitätsprüfung für eine E-Mail erläutern
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-**Abschnitt 1: Verwaltung und Wartung**
+**Abschnitt 1: Verwaltung und Instandhaltung**
 
 * [Grundlagen zum [!DNL Salesforce] Synchronisieren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
 * [[!DNL Marketo]: Administration für Geschäftspraktiker](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&amp;lp_id=undefined){target="_blank"}
 * [Exportieren einer Liste aller [!DNL Marketo] API-Feldnamen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html){target="_blank"}
 * [Glossar zum benutzerdefinierten Feldtyp](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary.html){target="_blank"}
 * [Sprache, Gebietsschema und Zeitzone auswählen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/select-your-language-locale-and-time-zone.html){target="_blank"}
-* [Grundlegendes zu Arbeitsbereichen und Personen-Partitionen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
+* [Grundlagen zu Arbeitsbereichen und Personen-Partitionen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 * [Audit-Protokoll - Überblick](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html){target="_blank"}
 
 
-**Abschnitt 2: Marketing-Aktivitäten/Kampagnenverwaltung**
+**Abschnitt 2: Marketingaktivitäten/Kampagnenverwaltung**
 
 * [Suchen und Hinzufügen von Filtern zu einer Smart-Liste](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.html){target="_blank"}
 * [Smart-Kampagnen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html){target="_blank"}
@@ -167,7 +167,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Webhook erstellen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html){target="_blank"}
 
 
-**Abschnitt 3: Lead-Management**
+**Abschnitt 3: Leitung**
 
 * [Festlegen eines Werts für ein ausgeblendetes Formularfeld](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html){target="_blank"}
 * [Bewertung ändern](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html){target="_blank"}
@@ -178,7 +178,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Grundlagen zu Umsatzmodellen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
 
-**Abschnitt 4: Data Management**
+**Abschnitt 4: Daten-Management**
 
 * [Datenwert ändern](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html){target="_blank"}
 * [Definieren von Werten in einem Optionsfeld oder in einem ausgewählten Feld in einem Formular](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.html){target="_blank"}
@@ -187,7 +187,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Verwenden von Segmentfiltern in einer Smart-Liste](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.html){target="_blank"}
 
 
-**Abschnitt 5: Berichterstellung**
+**Abschnitt 5: Berichterstattung**
 
 * [Berichtstyp - Übersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [Grundlegendes zur Programmmitgliedschaft](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
@@ -197,7 +197,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 6: Best Practices**
 
-* [Best Practice: Organisieren Ihrer Programme](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html){target="_blank"}
+* [Best Practice: Anleitung zur Organisation Ihrer Programme](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html){target="_blank"}
 * [Senden einer Beispiel-E-Mail](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.html){target="_blank"}
 * [Vorschau einer E-Mail mit dynamischem Inhalt](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.html){target="_blank"}
 * [Bewertung ändern](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html){target="_blank"}
@@ -220,7 +220,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E559).
+## Prüfen (AD0-E559)
 
 ### Verfügbare Optionen
 
@@ -228,19 +228,17 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
 
-*ENGLISCH*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Englischprüfung
 </span>
 </a>
 
-*JAPANISCH*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559-j" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Japanische Prüfung
 </span>
 </a>
 
