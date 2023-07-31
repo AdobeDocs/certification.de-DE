@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
+source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '544'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ Beachten Sie, dass Sie die Zertifizierungsprüfung, die NICHT kostenlos ist, ern
 
 >[!TAB Sachverständige und Übergeordnete]
 
-## Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
+## Sie müssen über mindestens eine der folgenden **active** zu verlängern:
 
 * [!DNL Adobe Target] Geschäftspraktiker-Experte
 * [!DNL Adobe Target] Architekten Übergeordnet
@@ -50,8 +50,7 @@ Beachten Sie, dass Sie die Zertifizierungsprüfung, die NICHT kostenlos ist, ern
 * **Schritt 3:** Wählen Sie aus den folgenden Optionen aus, um Ihre Verlängerung abzuschließen.
 
   **Option A:**
-
-  Auswählen **drei Kurse** die Kursbewertungen mit einer Punktzahl von 80% oder höher abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
+Auswählen **drei Kurse** die Kursbewertungen mit einer Punktzahl von 80% oder höher abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
 
   **Option B:**
 Wählen Sie zuerst **zwei Kurse** die Kursbewertungen mit einer Punktzahl von 80% oder höher abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
@@ -64,7 +63,7 @@ Wählen Sie zuerst **zwei Kurse** die Kursbewertungen mit einer Punktzahl von 80
 
 >[!NOTE]
 >
->Wenn mehrere [!DNL Adobe Target] Zertifizierungen auf Übergeordneter und fachlicher Ebene, die Erneuerungsanforderungen für nur eine Zertifizierung erfüllen und der Rest wird automatisch erneuert.
+>Wenn mehrere [!DNL Adobe Target] Erfahrene und Übergeordnete Zertifizierungen, die Erneuerungsanforderungen für nur eine Zertifizierung erfüllen, und der Rest wird automatisch erneuert.
 
 ## Kurse und Kursbewertungen für Sachverständige und Übergeordnete:
 
