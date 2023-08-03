@@ -4,17 +4,28 @@ description: Erfahren Sie, wie Sie ein zertifizierter Architekt werden können, 
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
-badge: label="Test AD0-E117" type="positive"
+badge: label="Prüfung AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 48d3e064145c10fce3493d9fe20e5435c2ab6f23
 workflow-type: tm+mt
-source-wordcount: '1449'
-ht-degree: 28%
+source-wordcount: '1514'
+ht-degree: 27%
 
 ---
 
 # Zertifizierungs-Journey zur Adobe [!DNL Experience Manager Sites] Architekten Übergeordnet
+
+>[!NOTE]
+>
+>Diese Prüfung (AD0-E117) wird durchgeführt und ist vorübergehend nicht verfügbar. Wir entschuldigen uns aufrichtig für die Unannehmlichkeiten. Verwenden Sie die Schaltfläche unten, um sich für eine Benachrichtigung zu registrieren, wenn sie wieder verfügbar ist.
+
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Benachrichtigen
+</span>
+</a>
 
 Erfahren Sie, wie Sie ein zertifizierter Architekt Übergeordnet werden.
 
@@ -36,18 +47,18 @@ Darüber hinaus sollten Sie die folgenden Aufgaben ausführen können:
 * Übergeordnete Aufwandsschätzungen für die Ersteinrichtung und die Bereitstellung von Funktionen bereitstellen
 * Funktion und Anwendungsfälle der Internationalisierung festlegen
 * Strategien zur Unterstützung von mehrsprachigen und Site-übergreifenden
-* Bestimmen Sie die richtigen Konfigurationsmechanismen für Softwaremodule.
+* Ermitteln Sie die richtigen Konfigurationsmechanismen für Softwaremodule.
 * Integration von Drittanbieter- und Adobe-Produkten in AEM
 * Definition von Migrations- und Upgrade-Strategien (Produkte und Inhalte)
-* Grundlegendes zu Bereitstellungsmethoden (Inhalt und Code)
+* Bereitstellungsmethoden (Inhalt und Code) verstehen
 * Infrastruktur-/Bereitstellungsdiagramme erstellen und bereitstellen
 * Ermitteln von Informationsmodellen für AEM Anwendungen
 * Sicherheitsmodelle für Authentifizierung und Autorisierung definieren
-* Bestimmen Sie Persistenzmodelle basierend auf den Anforderungen der Kunden (binärer Speicher, Bereitstellungsszenario usw.).
+* Persistenzmodelle basierend auf den Anforderungen des Kunden bestimmen (binärer Speicher, Bereitstellungsszenario usw.)
 * Entwerfen von Workflow-Modellen für Geschäftsprozesse
 * Strategien für Plattformleistung und Penetration/Sicherheitstests festlegen
 * Wiederverwenden von Inhalten über mehrere Kanäle hinweg
-* Berücksichtigen Sie Cloud-fokussierte Überlegungen, z. B.: Automatische Skalierung, Replikation, Asset-Verwaltung, Auswirkungen und Unterschiede zwischen lokalen und verwalteten Diensten, Cloud Manager, Package Management
+* Berücksichtigen Sie Cloud-fokussierte Überlegungen, wie z. B. automatische Skalierung, Replikation, Asset-Verwaltung, Implikationen und Unterschiede zwischen lokalen und verwalteten Diensten, Cloud Manager, Paketverwaltung
 
 >[!NOTE]
 >
@@ -68,12 +79,12 @@ Darüber hinaus sollten Sie die folgenden Aufgaben ausführen können:
 **Prüfungsdetails:**
 
 * Ebene: Übergeordnet (3-5 Jahre Erfahrung)
-* Übergeben der Punktzahl: 29.05.50
+* Übergeben der Punktzahl: 29/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
 * Verfügbare Sprachen: Englisch, Japanisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E117
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E117
 
 **Selbstbewertung der Bereitschaft**
 
@@ -81,10 +92,10 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Ermittlung (18 %)
+Abschnitt 1: Entdeckung (18%)
 
-* Übersetzen von Geschäftszielen auf hoher Ebene in funktionale Anforderungen
-* In einem Szenario wird der aktuelle Status einer Architektur bewertet
+* Übersetzen Sie allgemeine Geschäftsziele in funktionale Anforderungen.
+* Wenn ein Szenario vorliegt, bewerten Sie den aktuellen Status einer Architektur
 * Bestimmen Sie nicht funktionale technische Anforderungen an den Lösungsentwurf.
 
 Abschnitt 2: Lösungsdesign (44%)
@@ -98,10 +109,10 @@ Abschnitt 2: Lösungsdesign (44%)
 
 Abschnitt 3: Umsetzung (22%)
 
-* Identifizieren und beheben Sie bei einem Szenario Designprobleme, die während der Implementierungsphase aufgedeckt wurden
+* Identifizieren und beheben Sie bei einem Szenario Designprobleme, die während der Implementierungsphase aufgedeckt wurden.
 * In einem Szenario empfehlen Sie Implementierungskonzepte basierend auf Anforderungen.
 * Ermitteln Sie geeignete Methoden zum Prototypen von Lösungen für den Nachweis von Konzepten.
-* In einem Szenario können Sie Probleme diagnostizieren und beheben, die während der Implementierung aufgetreten sind
+* Diagnose und Behebung von Problemen, die bei der Implementierung aufgetreten sind
 
 Abschnitt 4: Wartung (16%)
 
@@ -109,7 +120,7 @@ Abschnitt 4: Wartung (16%)
 * Anwenden von Verfahrenskonzepten zur Planung der Verwendung neuer Funktionen und Upgrades
 * Optimieren Sie die Lösung für nicht funktionale Anforderungen in einem Szenario.
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -121,7 +132,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 [Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
-**Abschnitt 1: Ermittlung**
+**Abschnitt 1: Entdeckung**
 
 * [AEM 6.5-Entwickleranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=de){target="_blank"}
 * [Assets-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=de){target="_blank"}
@@ -141,9 +152,9 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 **Abschnitt 2: Lösungsdesign**
 
 * [Videos und Tutorials zu AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=de){target="_blank"}
-* [SPA/SEO: Eine einseitige App-Anleitung zur ersten Seite von Google](https://snipcart.com/spa-seo){target="_blank"}
+* [SPA/SEO: Ein einseitiger App-Leitfaden zur ersten Seite von Google](https://snipcart.com/spa-seo){target="_blank"}
 * [Kontextabhängige Konfiguration von Sling](https://cqdump.wordpress.com/2018/04/24/sling-context-aware-configuration/){target="_blank"}
-* [Konferenzgespräch: Kontextabhängige Konfiguration von Sling](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
+* [Konferenzgespräch: kontextabhängige Konfiguration von Sling](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
 * [Videos und Tutorials zu AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=de){target="_blank"}
 * [Ein-/Ausblenden von Seiteneigenschaften basierend auf Vorlage in AEM 6.4](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
 * [Benutzerdefinierte Rendering-Bedingungen AEM Granite](https://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
@@ -165,7 +176,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [[!DNL AEM Sites as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html){target="_blank"}
 * [AEM 6.4-Bereitstellungshandbuch für Benutzer](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=de){target="_blank"}
 
-**Abschnitt 3: Implementierung**
+**Abschnitt 3: Umsetzung**
 
 * [AEM 6.5-Bereitstellungshandbuch für Benutzer](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=de){target="_blank"}
 * [Dokumentation zu Adobe Enterprise](https://experienceleague.adobe.com/docs/?lang=de){target="_blank"}
@@ -188,7 +199,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [AEM 6.5-Administratorenhandbuch](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=de){target="_blank"}
 * [Oak TarMK Memory Mapped Files](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/oak-tarmk-memory-mapped-files/td-p/218220){target="_blank"}
 * [Dispatcher-Übersicht](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
-* [Apache Sling: Zuordnungen zur Ressourcenauflösung](https://sling.apache.org/documentation/the-sling-engine/mappings-for-resource-resolution.html){target="_blank"}
+* [Apache Sling: Zuordnungen für die Ressourcenauflösung](https://sling.apache.org/documentation/the-sling-engine/mappings-for-resource-resolution.html){target="_blank"}
 * [AEM Suche im Vergleich zur Solr-Suche](https://blog.3sharecorp.com/aem-search-vs-solr-search){target="_blank"}
 * [TarMK: Fakten und Zahlen](https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf/_jcr_content/renditions/original./adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf){target="_blank"}
 * [Einführung in Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=de){target="_blank"}
@@ -216,23 +227,14 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 ### Verfügbare Optionen
 
-{{PSI-note}}
+>[!NOTE]
+>
+>Diese Prüfung (AD0-E117) wird durchgeführt und ist vorübergehend nicht verfügbar. Wir entschuldigen uns aufrichtig für die Unannehmlichkeiten. Verwenden Sie die Schaltfläche unten, um sich für eine Benachrichtigung zu registrieren, wenn sie wieder verfügbar ist.
 
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Benachrichtigen
 </span>
 </a>
 
