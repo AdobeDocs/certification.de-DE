@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Prüfung AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 5109b4c8de4928a46f0241cea86f858982d2236c
+source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
 workflow-type: tm+mt
-source-wordcount: '1498'
-ht-degree: 27%
+source-wordcount: '1722'
+ht-degree: 24%
 
 ---
 
@@ -19,6 +19,8 @@ ht-degree: 27%
 >[!NOTE]
 >
 >Diese Prüfung (AD0-E117) wird durchgeführt und ist vorübergehend nicht verfügbar. Wir entschuldigen uns aufrichtig für die Unannehmlichkeiten. [Melden Sie sich zur Benachrichtigung an](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wenn sie wieder verfügbar ist.
+>
+>**Fragen?** Siehe unsere [FAQs](#AEM-FAQ) unten auf dieser Seite.
 
 Erfahren Sie, wie Sie ein zertifizierter Architekt Übergeordnet werden.
 
@@ -211,7 +213,6 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
-
 ## Über die Prüfung
 
 {{about-certification-exam}}
@@ -223,6 +224,8 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >[!NOTE]
 >
 >Diese Prüfung (AD0-E117) wird durchgeführt und ist vorübergehend nicht verfügbar. Wir entschuldigen uns aufrichtig für die Unannehmlichkeiten. [Melden Sie sich zur Benachrichtigung an](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wenn sie wieder verfügbar ist.
+>
+>**Fragen?** Siehe unsere [FAQs](#AEM-FAQ) unten auf dieser Seite.
 
 >[!ENDTABS]
 
@@ -231,3 +234,23 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+
+## Häufig gestellte Fragen zur Übergeordneten Prüfung von Adobe Experience Manager Sites Architect (AD0-E117) {#AEM-FAQ}
+
+Die Zertifizierungsprüfung AD0-E117 wird derzeit gewartet und ist vorübergehend nicht verfügbar. Wir entschuldigen uns aufrichtig für die Unannehmlichkeiten. [Melden Sie sich zur Benachrichtigung an](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wenn sie wieder verfügbar ist.
+
+**Was passiert, wenn ich meine Prüfung bereits geplant habe?**
+
+Alle geplanten AD0-E117 Prüfungen wurden abgebrochen. Bewerber, die betroffen sind, müssen die Prüfung erneut planen, sobald die neue Version verfügbar ist.
+
+**Ich habe schon für die Prüfung bezahlt. Erhalte ich eine Rückerstattung?**
+
+* Wenn Sie Ihre Prüfung mit einer Kreditkarte über Examity beglichen haben, erhalten Sie eine vollständige Rückerstattung.  
+* Wenn Sie mit einem Gutschein bezahlt haben, wird Ihr Code zurückgesetzt und Sie können ihn auf Ihren neuen Prüfungstermin anwenden.  
+* Wenn Ihr Gutschein abläuft, bevor Sie ihn verwenden können, geben wir Ihnen einen neuen Gutschein aus, sobald Sie bereit sind, ihn zu planen.
+
+**Ich muss mein Zertifikat vor Oktober erneuern. Wird sich dies auf meine Verlängerung auswirken?**
+
+Nein. Sie können sich durch kontinuierliches Lernen erneuern. Befolgen Sie dabei die Anweisungen und Prozesse unter [Zertifizierung verlängern](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
+
+
