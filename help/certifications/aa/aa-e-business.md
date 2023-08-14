@@ -4,19 +4,19 @@ description: Erfahren Sie, wie Sie als Adobe Business Practitioner-Experte zerti
 solution: Analytics
 product: Analytics
 role: User
-badge: label="Test AD0-E208" type="positive"
+badge: label="Prüfung AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1001'
 ht-degree: 15%
 
 ---
 
-# Zertifizierungs-Journey für [!DNL Adobe Analytics] Geschäftspraktiker-Experte
+# Journey für die Zertifizierung [!DNL Adobe Analytics] Geschäftspraktiker-Experte
 
-Erfahren Sie, wie Sie ein zertifizierter Analytics Business Practitioner-Experte werden.
+Erfahren Sie, wie Sie ein zertifizierter Analytics Business Practices-Experte werden.
 
 ## Minimales Erlebnis
 
@@ -24,11 +24,11 @@ Sie sollten über Folgendes verfügen:
 
 * 2 Jahre Erfahrung mit digitalen Analysen mit Marketing-Hintergrund
 * Ein tiefgehendes Verständnis der Metriken und Dimensionen der digitalen Analyse
-* Verständnis des Geschäftswerts von Web-Technologien
+* Ein Verständnis des Geschäftswerts von Web-Technologien
 * Die Fähigkeit, Geschäftsanforderungen in Metriken oder KPIs zu übersetzen
 * Die Fähigkeit, Berichte zu erstellen und zu interpretieren
 * Möglichkeit der Übermittlung von Ergebnissen und der Vorschlagen einer auf der Auswertung von Berichten basierenden Vorgehensweise
-* Hilft Kunden zu verstehen, wie sie die gewünschten Informationen extrahieren/abrufen (z. B. bei der Definition ihrer Geschäftsfragen)
+* Hilft Kunden, die gewünschten Informationen zu extrahieren/abzurufen (z. B. bei der Definition ihrer Geschäftsfragen)
 * Ein Verständnis, wie die Technologie funktioniert und wie sie die Implementierung eines Kunden versteht (z. B. wo sich die Daten befinden, wie sie erfasst werden können, wie sie verfolgt werden), und zwar aus funktionaler Sicht
 * Mindestens ein Jahr [!DNL Adobe Analytics] Praktisches Erlebnis
 * Grundlegendes dazu, wie digitale Analysen Daten filtern/strukturieren
@@ -38,13 +38,13 @@ Sie sollten über Folgendes verfügen:
 
 * FTP-Client
 * Aktuell [!DNL Adobe Analytics] Workspace-Funktionen und andere Berichtsoptionen außerhalb von Workspace (z. B. Projekte planen und Berichte planen)
-* Debugging-Tools, die für [!DNL Adobe Analytics] (Paketmonitor, z. B. ein Adobe Debugger, Browser-Entwicklertools, Charles)
+* Debugging-Tools für [!DNL Adobe Analytics] (Paketmonitor, z. B. ein Adobe Debugger, Browser-Entwicklertools, Charles)
 * Admin Console (Analytics Report Suite Admin Console und Experience Cloud Admin Console)
-* Grundlagen/Grundlagen zu Adobe Launch
+* Adobe Launch-Grundlagen/Grundlagen
 * Grundlegendes zu Apps, SPA und Websites
 * Mobile Services-Benutzeroberfläche
 * Adobe Help Center
-* Datenexportoptionen (z. B. Rechtsklick zum Exportieren, .csv-Download, Daten-Feeds, Data Warehouse Extract)
+* Datenexportoptionen (z. B. Rechtsklick zum Exportieren, .csv-Download, Daten-Feeds, Data Warehouse-Extraktion)
 
 >[!NOTE]
 >
@@ -86,14 +86,14 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 Abschnitt 1: Grundlegendes zu Analytics im Adobe Experience Cloud-Ökosystem (10 %)
 
 * Verwenden der Adobe Experience Cloud ID
-* Verstehen von Adobe Launch
-* Verstehen allgemeiner Integrationen im Adobe Experience Cloud-Ökosystem
+* Adobe Launch-Kenntnisse demonstrieren
+* Verstehen geblicher Integrationen im gesamten Adobe Experience Cloud-Ökosystem
 
 Abschnitt 2: Berichterstattung und Dashboards für Projekte (30%)
 
 * Erwägen Sie die Vorteile der Verwendung eines Reporting-Tools, das auf einem bestimmten Szenario basiert
 * Fallout- und Flussvisualisierung vergleichen und geeignete Variablentypen für die Berichterstellung
-* Anwenden des Prozesses zum Planen von Projekten und Data Warehousen
+* Anwenden des Verfahrens auf die Planung von Projekten und Data Warehouse
 * Wenden Sie den Prozess an, um die Dashboards &quot;Projekte&quot;und &quot;Berichte und Analysen&quot;für verschiedene Benutzer und/oder Gruppen freizugeben
 * Anwenden des Prozesses zum Festlegen von Warnhinweisen
 * Anwenden des Prozesses zum Nachschlagen der Dimensionen/Komponenten
@@ -114,7 +114,7 @@ Abschnitt 4: Allgemeine Kenntnisse über Tools und Fehlerbehebung (12 %)
 * Berichte analysieren und Probleme mit der Datenqualität identifizieren
 * Definieren verschiedener Typen von Dimensionen und Parametern, die in vorhanden sind [!DNL Adobe Analytics] (eVars, Props und Ereignisse)
 * Ermitteln, wie Daten in und aus [!DNL Adobe Analytics]
-* Informationen aus Marketing-URLs identifizieren
+* Identifizieren von Informationen aus Marketing-URLs
 
 Abschnitt 5: Verwaltung (10%)
 
@@ -124,7 +124,7 @@ Abschnitt 5: Verwaltung (10%)
 * Verwenden Sie die [!UICONTROL Daten-Feed] Administrator-Benutzeroberfläche
 * Grundlagen zur Data Governance
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -137,7 +137,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Über die Datenerfassung](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=de){target="_blank"}
 * [Analytics-Daten-Feed-Dokumentation](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=de){target="_blank"}
 
-**Abschnitt 2: Berichterstellung und Dashboards für Projekte**
+**Abschnitt 2: Berichterstattung und Dashboards für Projekte**
 
 * [Erste Schritte mit Reports &amp; Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=de){target="_blank"}
 * [[!DNL Adobe Analytics] Dashboards - Übersicht](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=de){target="_blank"}
@@ -153,9 +153,9 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 **Abschnitt 4: Allgemeine Kenntnisse über Tools und Fehlerbehebung**
 
 * [Handbuch für Analytics-Tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=de){target="_blank"}
-* [Analysis Workspace – Übersicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=de){target="_blank"}
+* [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=de){target="_blank"}
 
-**Abschnitt 5: Administration**
+**Abschnitt 5: Verwaltung**
 
 * [Analytics-Administratorenhandbuch](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=de){target="_blank"}
 * [Häufig gestellte Fragen](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
@@ -167,37 +167,22 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 >
 >Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+>Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn der Proktor die Prüfung nicht mit den gleichen Informationen oder einer Inkongruenz beendet, muss er den Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.
 
 ## Einen Praxistest durchführen
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E208)
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E208 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 
