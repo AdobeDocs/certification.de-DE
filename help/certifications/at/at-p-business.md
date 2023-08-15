@@ -1,22 +1,22 @@
 ---
-title: Berufliche Zertifizierung durch Geschäftspraktiker
+title: Berufliche Zertifizierung durch Business Practice
 description: Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Business Practitioner Professional.
 solution: Target
 product: Target
 role: User
-badge: label="Test AD0-E408" type="positive"
+badge: label="Prüfung AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '867'
 ht-degree: 8%
 
 ---
 
-# Zertifizierungs-Journey für [!DNL Adobe Target] Geschäftspraktiker/innen
+# Journey für die Zertifizierung [!DNL Adobe Target] Geschäftspraktiker/innen
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner Professional werden.
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Business Practitioner Professional.
 
 ## Minimales Erlebnis
 
@@ -46,13 +46,13 @@ Sie sollten über Folgendes verfügen:
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 50.31.50
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 31/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E408
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E408
 
 **Prüfungsziele und -umfang**
 
@@ -67,7 +67,7 @@ Abschnitt 1: Planung und Strategie (26%)
 * In einem Szenario sollten Sie die Zielgruppenanforderungen bewerten
 * Beschreiben Sie geeignete Analytics-Berichtsquellen (d. h. Target oder Adobe Analytics).
 
-Abschnitt 2: Konfiguration, Ausführung und Verwaltung (50 %)
+Abschnitt 2: Konfiguration, Ausführung und Verwaltung (50%)
 
 * Die Verwendung von Form-Based Experience Composer und Visual Experience Composer erläutern
 * Beschreiben Sie Verfahren zum Erstellen eines Erlebnisses mit VEC.
@@ -84,22 +84,22 @@ Abschnitt 2: Konfiguration, Ausführung und Verwaltung (50 %)
 * Beschreiben Sie die Verfahren zur Durchführung von Aktivitäts-QA
 * Beschreiben Sie die Verfahren zum Verwalten von Aktivitäten und Zielgruppen in Target.
 
-Abschnitt 3: Analyse und Berichterstellung (16 %)
+Abschnitt 3: Analyse und Berichterstellung (16%)
 
 * Beschreiben Sie die Einstellungen, um die in einem Bericht angezeigten Elemente festzulegen.
-* den Unterschied in [!DNL Adobe Target] Einstellungen des Stichprobengrößenrechners zwischen Planung und Validierung
+* Beschreiben Sie den Unterschied in [!DNL Adobe Target] Einstellungen des Stichprobengrößenrechners zwischen Planung und Validierung
 * Beschreibung häufiger Probleme im Zusammenhang mit A/B-Tests
 * Ermitteln, wie sich die Automated Personalization-Zusammenfassungsberichte von anderen Berichten unterscheiden
 * Beschreiben der Funktionen von Experience Performance-Berichten (MVT)
 * Beschreiben Sie Best Practices, die bei der Ausführung von A/B-Tests befolgt werden sollten.
 
-Abschnitt 4: Fehlerbehebung (8 %)
+Abschnitt 4: Fehlerbehebung (8%)
 
 * Identifizieren Sie in einem Szenario Probleme mit der Aktivitätsqualifikation.
 * Ermitteln der Funktionen der Browser-Debugging-Tools (einschließlich Experience Cloud Debugger)
 * Identifizieren von Metriken und Berichten
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -120,7 +120,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Erfolgsmetriken](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=de){target="_blank"}
 * [Kategorien für Zielgruppen](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html){target="_blank"}
 
-**Abschnitt 2: Konfiguration, Ausführung und Verwaltung**
+**Abschnitt 2: Konfigurieren, Ausführen und Verwalten**
 
 * [Visual Experience Composer (VEC))](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
 * [[!DNL Adobe Target] Willkommensset](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
@@ -131,7 +131,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Erstellen von Zielgruppen](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=de){target="_blank"}
 * [Aktivitäts-QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 
-**Abschnitt 3: Analyse und Reporting**
+**Abschnitt 3: Analyse und Berichterstellung**
 
 * [Berichtseinstellungen](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
 * [A/B-Test - Überblick](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
@@ -150,31 +150,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E408).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E408" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E408 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E408" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

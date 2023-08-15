@@ -1,55 +1,55 @@
 ---
-title: Übergeordnete Architekturzertifizierung
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Architect werden, der in der Adobe Übergeordnet ist. [!DNL Commerce].
+title: ArchitekturMaster-Zertifizierung
+description: Erfahren Sie, wie Sie in Adobe ein zertifizierter Adobe Architect-Master werden. [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="Test AD0-E718" type="positive"
+badge: label="Prüfung AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '850'
 ht-degree: 2%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Commerce] Architekten Übergeordnet
+# Journey für die Zertifizierung [!DNL Adobe Commerce] Architekturmeister
 
-Erfahren Sie, wie Sie Übergeordnet ein zertifizierter Adobe Architect werden.
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Commerce] Architekturmeister.
 
 ## Minimales Erlebnis
 
-Sie sollten mindestens über eine Erfahrung von 3 bis 5 Jahren verfügen [!DNL Commerce] Entwicklungsprojekte zu entwickeln, zu integrieren, zu implementieren und Lösungen für Geschäftsprobleme zu erklären, indem Adobe genutzt wird. [!DNL Commerce] zusammen mit den zugehörigen Diensten.
+Sie sollten mindestens über eine Erfahrung von 3 bis 5 Jahren verfügen [!DNL Commerce] Entwicklungsprojekte zu entwickeln, zu integrieren, zu implementieren und Lösungen für Geschäftsprobleme zu erklären, indem sie [!DNL Adobe Commerce] zusammen mit den zugehörigen Diensten.
 
 Darüber hinaus sollten Sie sich mit den folgenden Aktivitäten und Technologien auskennen:
 
 * Erweiterung der Kernfunktionen
-* Adobe konfigurieren [!DNL Commerce] vollständig
+* Konfigurieren [!DNL Adobe Commerce] vollständig
 * Erstellen Sie einen vollständigen Entwurf, in dem beschrieben wird, wie eine Erweiterung funktionieren sollte, Anforderungen des Unternehmens, um eine Übersicht darüber zu erhalten, wie sie funktionieren sollte, ohne in den Code eingebunden werden zu müssen.
 * Grundlegendes zu Geschäftsanforderungen/Funktionen
 * Leistungsauswirkungen von Lösungen und Erweiterungen
 * Logik von Dienstverträgen
 * GraphQL
 * Verstehen von Composer als Abhängigkeitstool
-* Einrichten und Konfigurieren der Arbeitsinstanz der Adobe [!DNL Commerce] von Grund auf
+* Einrichten und Konfigurieren der Arbeitsinstanz von Adobe [!DNL Adobe Commerce] von Grund auf
 * Anpassen des Admin-Dashboards, Erstellen von Rastern und Formularen
-* Cache- und Indexverwaltung; Erstellen eines benutzerdefinierten Index
+* Cache- und Indexverwaltung; Erstellung eines benutzerdefinierten Index
 * Neuen Cache-Typ erstellen
 * Fehlerbehebung und Fehlerbehebung bei verschiedenen Problemen in der Umgebung
 * Erweitern und Verwalten von Datenbankschemata
 * Sicherheitsfunktionen, sichere Installation und Entwicklererweiterung
-* Serverbasierte Dienste durchführen, die [!DNL Commerce] Verbindungen (Redis, Verwaltung der varnish-Konfiguration)
+* Serverbasierte Dienste durchführen, die [!DNL Adobe Commerce] Verbindungen (Redis, Verwaltung der varnish-Konfiguration)
 * im Bewusstsein bewährter Kodierungsstandards, Kodierungsstandards, PSR, SOLID-Prinzipien
-* Einrichtung und Verwendung [!DNL Commerce] Services Connector (und zugehörige Dienste)
+* Einrichtung und Verwendung [!DNL Adobe Commerce] Services Connector (und zugehörige Dienste)
 * Staging-Content-Management
-* Grundlagen zur Adobe [!DNL Commerce] Standardeinstellung, wenn verfügbar und nicht verfügbar
-* Umfassendes Wissen über alle damit zusammenhängenden Fragen [!DNL Commerce] domain
+* Grundlagen [!DNL Adobe Commerce] Standardeinstellung, wenn verfügbar und nicht verfügbar
+* Umfassendes Wissen über alle damit zusammenhängenden Fragen [!DNL Adobe Commerce] domain
 * Architektur von Designprojekten
-* Optimieren der Leistung der Adobe [!DNL Commerce] default
+* Optimieren der Leistung von [!DNL Adobe Commerce] default
 * Erstellen und Ändern von B2B
-* AMQP-Protokoll und -Adapter in Adobe [!DNL Commerce] (S3)
+* AMQP-Protokoll und -Adapter in [!DNL Adobe Commerce] (S3)
 
 >[!NOTE]
 >
@@ -61,11 +61,11 @@ Darüber hinaus sollten Sie sich mit den folgenden Aktivitäten und Technologien
 
 **Vorgesehene Zielgruppe:**
 
-* Lead-Software/[!DNL Commerce] Architekt
+* Lead-Software/[!DNL Adobe Commerce] Architekt
 * Technischer Architekt
 * Lösungsarchitektur
 * Technischer Leiter
-* Technische Experten
+* Technischer Experte
 * Entwickler für vollständige Stapel
 * Lead-Ingenieur
 * Technischer Architekt zuordnen
@@ -75,13 +75,13 @@ Darüber hinaus sollten Sie sich mit den folgenden Aktivitäten und Technologien
 
 **Prüfungsdetails:**
 
-* Ebene: Übergeordnet (3-5 Jahre Erfahrung)
-* Übergeben der Punktzahl: 29.05.50
+* Stufe: Master (3-5 Jahre Erfahrung)
+* Übergeben der Punktzahl: 29/50
 * Zeit: 120 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E718
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E718
 
 **Eigenbewertung der Bereitschaft**
 
@@ -91,7 +91,7 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 
 Abschnitt 1: Design (46%)
 
-* Optimale Lösungen für die Adobe konzipieren und implementieren [!DNL Commerce] zur Erfüllung geschäftlicher Anforderungen
+* Optimale Lösungen für Adobe entwerfen und implementieren [!DNL Commerce] zur Erfüllung geschäftlicher Anforderungen
 * Logische und technische Abläufe erstellen
 * Anpassen [!DNL Commerce] Funktionen
 * Adobe integrieren [!DNL Commerce] mit externen Systemen und Diensten
@@ -99,26 +99,26 @@ Abschnitt 1: Design (46%)
 
 Abschnitt 2 - Überprüfung (32%)
 
-* Vorhandene Adobe überprüfen und umgestalten [!DNL Commerce] Anpassungen
+* Bestehende Adobe überprüfen und umgestalten [!DNL Commerce] Anpassungen
 * Ausnutzen [!DNL Commerce] Test-Frameworks für den gesamten Workflow
-* Optimieren der Leistung und Skalierbarkeit für die Adobe [!DNL Commerce]
+* Optimieren der Leistung und Skalierbarkeit für Adobe [!DNL Commerce]
 * Fehlerbehebung zur Identifizierung der Hauptursache von Problemen mit Adobe [!DNL Commerce]
 * Codierungsstandards durchsetzen
 
 Abschnitt 3: Konfigurieren und Bereitstellen (22 %)
 
-* Adobe konfigurieren [!DNL Commerce] und stellen Sie sicher, dass das Projekt optimal eingerichtet ist.
-* Alle Aspekte der Adobe konfigurieren [!DNL Commerce] Cloud
+* Adobe konfigurieren [!DNL Commerce] und stellen Sie sicher, dass das Projekt optimal eingerichtet ist
+* Alle Aspekte des Adobe konfigurieren [!DNL Commerce] Cloud
 * Implementierungsprozess beobachten und verbessern
 * Fehlerbehebung bei Infrastruktur- und Konfigurationsproblemen
 
-Abschnitt 4: Grundlagen zur Kompatibilität/Sicherheit (13 %)
+Abschnitt 4: Grundlagen zur Einhaltung/Sicherheit (13%)
 
 * Grundlegende Informationen zur Einhaltung von Datenschutzgesetzen und zur Zahlungssicherheit
-* Gemeinsame Sicherheitsaspekte einer Adobe identifizieren [!DNL Commerce] Projekt
+* Identifizieren gemeinsamer Sicherheitsaspekte eines Adobe [!DNL Commerce] Projekt
 * Best Practices und rechtliche Anforderungen an die Barrierefreiheit zu identifizieren
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -143,7 +143,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [-Authentifizierung](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
 * [Übersicht über GraphQL](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
 
-**Abschnitt 2: Überprüfen**
+**Abschnitt 2: Überprüfung**
 
 * [Einführung](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
 * [Benutzerdefiniertes Textfeld-Attribut hinzufügen](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
@@ -169,31 +169,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E718).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E718 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

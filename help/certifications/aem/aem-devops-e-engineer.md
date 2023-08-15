@@ -4,19 +4,19 @@ description: Erfahren Sie, wie Sie ein zertifizierter Adobe Experience Manager D
 solution: Experience Manager
 product: Experience Manager
 role: Developer
-badge: label="Test AD0-E124" type="positive"
+badge: label="Prüfung AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '926'
 ht-degree: 10%
 
 ---
 
 # Zertifizierungs-Journey für Adobe Experience Manager DevOps Engineer Expert
 
-Erfahren Sie, wie Sie ein zertifizierter Entwickler-Experte für Adobe DevOps werden.
+Erfahren Sie, wie Sie ein zertifizierter Adobe DevOps Engineer Expert werden.
 
 ## Minimales Erlebnis
 
@@ -25,7 +25,7 @@ Sie sollten über Folgendes verfügen:
 * Mindestens 1-3 Jahre Erfahrung mit der Verwendung und Konfiguration von Adobe Cloud Manager
 * Mindestens zwei Jahre Erfahrung bei der Konfiguration, Implementierung und Verwaltung von Aufgaben für die kontinuierliche Integration/kontinuierliche Bereitstellung
 
-Sie sollten sich mit der Arbeit in Adobe Managed Services und Adobe Experience Manager as a Cloud Service vertraut machen und in der Lage sein, Adobe Experience Manager-Umgebungen und -Infrastruktur einzurichten.
+Sie sollten sich mit Adobe Managed Services und Adobe Experience Manager as a Cloud Service auskennen und in der Lage sein, Adobe Experience Manager-Umgebungen und -Infrastruktur einzurichten.
 
 Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sein:
 
@@ -35,7 +35,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Cloud-Übergangstools
 * Dispatcher-Konverter
 * Repository Moderizer
-* Entwicklungs-Staging und -Produktion
+* Entwicklung und Produktion
 * Entwicklungs-Sandbox
 * Lokale Umgebung
 
@@ -61,12 +61,12 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 50.30 Uhr
+* Übergeben der Punktzahl: 30/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E124
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E124
 
 **Eigenbewertung der Bereitschaft**
 
@@ -85,7 +85,7 @@ Abschnitt 2: Verwenden der Cloud Manager- und Cloud Manager-API (20 %)
 * Bestimmen der richtigen Methode zum Verwalten von Cloud Manager-Umgebungseinstellungen über die Benutzeroberfläche
 * Bestimmen der richtigen Methode für die Bereitstellung von Programmen und Umgebungen in Cloud Manager
 * Bestimmen der richtigen Methode für die Migration zu Adobe Experience Manager as a Cloud Service
-* Bestimmen der richtigen Methode zum Einrichten von Integrationen in Adobe I/O
+* Bestimmen der richtigen Methode zum Einrichten von Integrationen auf dem Adobe I/O
 
 Abschnitt 3: Web-Proxy-Infrastruktur konfigurieren (12 %)
 
@@ -99,17 +99,17 @@ Abschnitt 4: Build und Bereitstellungen (28 %)
 * Bestimmen der richtigen Methode zum Verwalten von Inhaltspaketen über mehrere Adobe Experience Manager-Instanzen hinweg
 * Bestimmen Sie die richtige Methode, um Änderungen an Maven-Dateien vorzunehmen, um Pipelines zu unterstützen.
 
-Abschnitt 5: Qualitätsmetriken überwachen und berichten (14 %)
+Abschnitt 5: Qualitätsmetriken überwachen und Berichte dazu erstellen (14%)
 
 * Bestimmen der richtigen Methode zur Erfassung von Leistungsmetriken und -berichten
 * Bestimmen der richtigen Methode zum Skalieren der Infrastruktur
 
-Abschnitt 6: Admin Console bedienen (8%)
+Abschnitt 6: Betrieb der Admin Console (8%)
 
 * Bestimmen der richtigen Methode zum Senden einer Support-Anfrage in der Admin Console
 * Bestimmen Sie die richtige Methode zum Konfigurieren von Federated SSO und Synchronisieren von Adobe Experience Manager-Benutzern und -Gruppen.
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -134,7 +134,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 4: Erstellen und Bereitstellen**
 
-* [Code-Bereitstellung](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html){target="_blank"}
+* [Code-Bereitstellung](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html?lang=de){target="_blank"}
 * [Konfigurieren von Produktions-Pipelines](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
 * [Arbeiten mit Paketen](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=de){target="_blank"}
 * [Struktur von AEM-Projekten](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=de){target="_blank"}
@@ -146,7 +146,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Einführung in die Architektur AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/core-concepts/architecture.html?lang=de){target="_blank"}
 * [Automatische Skalierung](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html#autoscaling){target="_blank"}
 
-**Abschnitt 6: Admin Console bearbeiten**
+**Abschnitt 6: Betrieb der Admin Console**
 
 * [IMS-Unterstützung für AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html?lang=de#accessing-cloud-manager){target="_blank"}
 * [Adobe IMS-Benutzergruppen und -AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=de){target="_blank"}
@@ -163,31 +163,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E124)
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E124 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

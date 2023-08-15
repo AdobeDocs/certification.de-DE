@@ -1,23 +1,23 @@
 ---
-title: Berufliche Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie als Adobe zertifiziert werden. [!DNL Advertising Search] Business Practitioner Professional.
+title: Berufliche Zertifizierung durch Business Practice
+description: Erfahren Sie, wie Sie als Adobe zertifiziert werden [!DNL Advertising Search] Business Practitioner Professional.
 solution: Advertising
 product: Advertising Cloud
 level: Experienced
 role: User
-badge: label="Test AD0-E501" type="positive"
+badge: label="Prüfung AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '880'
 ht-degree: 5%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Advertising Search] Geschäftspraktiker/innen
+# Journey für die Zertifizierung [!DNL Adobe Advertising Search] Geschäftspraktiker/innen
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Advertising Search] Business Practitioner Professional.
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Advertising Search] Business Practitioner Professional.
 
 ## Minimales Erlebnis
 
@@ -30,7 +30,7 @@ Sie sollten über Folgendes verfügen:
 
 Erfahrung mit den folgenden Funktionen:
 
-* Erstellen der einzelnen Portfolio-Aspekte
+* Erstellen der einzelnen Aspekte eines Portfolios
 * Erstellen benutzerdefinierter Simulationen, um zu bestimmen, wann Portfolios zur Optimierung bereit sind
 * Portfoliogenauigkeit überwachen
 * Vorbereiten von Portfolios auf ausreichende Daten zur Optimierung
@@ -61,19 +61,19 @@ Erfahrung mit den folgenden Funktionen:
 
 **Vorgesehene Zielgruppe:**
 
-* Suchmaschinen-Marketing-Kampagnenverantwortliche
-* Marketing-Experten suchen
+* Suchmaschinen-Marketing-Kampagnen
+* Suchmarketingpraktiker
 * Personen, die regelmäßig mit der Suche Suchkampagnen ausführen und verwalten
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 50.35.50
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 35/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E501
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E501
 
 **Eigenbewertung der Bereitschaft**
 
@@ -84,11 +84,11 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 Abschnitt 1: Portfolio und Optimierungen (54%)
 
 * Wählen Sie für ein Szenario automatisierte Angebotsstrategien aus und richten Sie diese ein
-* Bei Geschäftsstrategien definieren und erstellen Sie Portfolio-KPI-Ziele
-* Legen Sie mithilfe von Geschäftsstrategien geeignete Portfolio-Einstellungen fest und erstellen Sie diese
+* Definieren und Erstellen von Portfolio-KPI-Zielen anhand von Geschäftsstrategien
+* Definieren und erstellen Sie mithilfe von Geschäftsstrategien geeignete Portfolio-Einstellungen
 * Erstellen und Verwalten von Einschränkungen aufgrund von Leistungsanforderungen
 * Führen Sie bei einem Szenario eine Bewertung und Fehlerbehebung für die Leistung des Portfolios durch.
-* Legen Sie bei einem Szenario fest, wie Sie die Portfolio-Einstellungen laufend anpassen können
+* Legen Sie für ein Szenario fest, wie Sie die Portfolio-Einstellungen laufend anpassen können.
 
 Abschnitt 2: Berichte, Einblicke und Werkzeuge (14 %)
 
@@ -96,7 +96,7 @@ Abschnitt 2: Berichte, Einblicke und Werkzeuge (14 %)
 * Legen Sie mithilfe der verfügbaren Platform AI-Tools eine optimale Budgetzuweisung für alle Portfolios fest und wenden Sie sie bei Bedarf an.
 * Erstellen und definieren Sie für einen Anwendungsfall benutzerdefinierte Simulationen für die Analyse und Prognose von Portfolios
 
-Abschnitt 3: Administration von Campaign (22%)
+Abschnitt 3: Verwaltung der Kampagne (22%)
 
 * Einrichten von Konten
 * Erstellen, verwalten und organisieren Sie alle Aspekte von Kampagnen
@@ -104,9 +104,9 @@ Abschnitt 3: Administration von Campaign (22%)
 Abschnitt 4: Messung (10%)
 
 * Legen Sie in einem Geschäftsszenario einen Ansatz für das Kampagnenkonversions-Tracking fest und wenden Sie
-* Beheben Sie Probleme mit den Kampagnenkonversionsmetriken in einem Szenario.
+* In einem Szenario Probleme mit der Konversionsmetrik einer Kampagne beheben
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -114,10 +114,10 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 1: Portfolio und Optimierungen**
 
-* [Einführung in die Adobe [!DNL Analytics] für Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
+* [Einführung in Adobe [!DNL Analytics] für Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
 * [Übersicht über [!DNL Analytics] für [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=de){target="_blank"}
 * [Leistungsoptimierung](https://business.adobe.com/in/products/advertising/performance-optimization.html){target="_blank"}
-* [Grundlegendes zu KPIs in Enhanced Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
+* [KPIs in Enhanced Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
 * [Eine Beschränkung zu einem Smart-Listenfilter hinzufügen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html){target="_blank"}
 * [Optimierungsziele und Verwendung](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/optimization/optimization-goals.html){target="_blank"}
 
@@ -126,12 +126,12 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [[!DNL Analytics] Tools-Anleitung](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=de){target="_blank"}
 * [Erste Schritte mit [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=de){target="_blank"}
 * [[!DNL Campaign] Reporting](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
-* [Erstellen [!DNL Analytics] Profile für die Adobe [!DNL Advertising] Aktivierung und Berichterstellung](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
+* [Erstellen [!DNL Analytics] Profile für Adobe [!DNL Advertising] Aktivierung und Berichterstellung](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
 * [Bericht über [!DNL Advertising] Daten in Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
 * [Berichtszeitverarbeitung](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html?lang=de){target="_blank"}
 * [Adobe [!DNL Analytics] Scorecard Builder für Dashboards](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=de){target="_blank"}
 
-**Abschnitt 3: Campaign-Administration**
+**Abschnitt 3: Administration der Kampagne**
 
 * [Erste Schritte mit [!DNL Campaign] Administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 * [Erfahren Sie, wie Sie funktionieren](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
@@ -156,31 +156,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E501).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E501" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E501 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E501" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

@@ -1,22 +1,22 @@
 ---
 title: Zertifizierung für Entwickler
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe-Business-Practice-Experte in [!DNL Experience Manager Sites].
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner-Experte in [!DNL Experience Manager Sites].
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
-badge: label="Test AD0-E123" type="positive"
+badge: label="Prüfung AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '708'
+source-wordcount: '697'
 ht-degree: 20%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Experience Manager Sites] Entwickler Professional
+# Zertifizierungs-Journey für Adobe [!DNL Experience Manager Sites] Entwickler Professional
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner-Experte werden.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager Sites] Entwickler Professional.
 
 ## Minimales Erlebnis
 
@@ -42,17 +42,17 @@ Sie sollten Anwendungsentwickler sein und über Folgendes verfügen:
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 50.31.50
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 31/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E123
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E123
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Konfigurationen (26 %)
+Abschnitt 1: Konfigurationen (26%)
 
 * Erkennen des Zwecks AEM Dispatcher-Konfigurationen und Caching
 * Bestimmen Sie die richtigen Schritte zum Konfigurieren von Multi-Site in AEM
@@ -60,7 +60,7 @@ Abschnitt 1: Konfigurationen (26 %)
 * Festlegen der richtigen Schritte zum Verwalten benutzerdefinierter OAK-Indizes
 * Bestimmen der richtigen Schritte zum Konfigurieren der OOTB SAML- oder IMS-Integration
 
-Abschnitt 2: AEM (40 %)
+Abschnitt 2: AEM (40%)
 
 * Bestimmen der richtigen Schritte zur Implementierung von Kernkomponenten
 * Komponentenfunktionalität, einschließlich HTL, Modelle und Dienste verbinden
@@ -72,14 +72,14 @@ Abschnitt 3: Erstellen und Bereitstellen (12 %)
 * Definieren der Maven-Projektstruktur
 * Projekte aus Archetypen konfigurieren
 
-Abschnitt 4: Wartung der Umgebung (22 %)
+Abschnitt 4: Instandhaltung der Umgebung (22%)
 
 * Legen Sie bei einem Szenario die Schritte fest, die zum Debuggen von Problemen in AEM Umgebungen erforderlich sind
 * AEM Maintenance Releases erläutern
 * Ermitteln, wie AEM Topologien konfiguriert werden
 * Bestimmen Sie die erforderlichen Schritte für die Planung und Migration auf AEM as a Cloud Service
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -111,15 +111,15 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Erste Schritte mit [!DNL AEM Sites] - WKND-Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=de){target="_blank"}
 
 
-**Abschnitt 4: Umgebungswartung**
+**Abschnitt 4: Instandhaltung der Umgebung**
 
 * [AEM 6.4-Bereitstellungshandbuch für Benutzer](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=de){target="_blank"}
 * [AEM 6.4-Entwickleranleitung](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
 * [Vorgangs-Dashboard](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en#automated-maintenance-tasks){target="_blank"}
-* [Versionshinweise zur Adobe [!DNL Experience Manager] 6,5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=de){target="_blank"}
+* [Versionshinweise für Adobe [!DNL Experience Manager] 6,5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=de){target="_blank"}
 * Übersicht über [[!DNL Experience Manager as a Cloud Service] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=de){target="_blank"}
 * [Einführung in Kernkomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=de)
-* [[!DNL AEM as Cloud Service] Videos und Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=de){target="_blank"}
+* [[!DNL AEM as Cloud Service] Videos und Übungen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=de){target="_blank"}
 * [Adobe [!DNL Experience Manager] Versionsupdates und Roadmap](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=de){target="_blank"}
 
 >[!TAB Zertifizieren]
@@ -130,24 +130,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E123)
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E123 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E123" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

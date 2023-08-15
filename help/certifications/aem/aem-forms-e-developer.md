@@ -1,22 +1,22 @@
 ---
 title: AEM Forms Backend Developer Professional-Zertifizierung
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Experience Manager Forms] Backend-Entwickler-Expert.
+description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager Forms] Backend-Entwickler-Expert.
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="Test AD0-E125" type="positive"
+badge: label="Prüfung AD0-E125" type="positive"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '798'
 ht-degree: 9%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Experience Manager Forms] Entwicklerexperte
+# Zertifizierungs-Journey für Adobe [!DNL Experience Manager Forms] Entwicklerexperte
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Experience Manager Forms] Entwicklerexperte.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager Forms] Entwicklerexperte.
 
 ## Minimales Erlebnis
 
@@ -65,19 +65,19 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 **Vorgesehene Zielgruppe:**
 
 * AEM Entwickler
-* AEM Entwickler im Höheren Dienst
+* AEM Entwickler
 * AEM Berater
 * AEM Architekten
 
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 27.05.50
+* Übergeben der Punktzahl: 27/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E125
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E125
 
 **Eigenbewertung der Bereitschaft**
 
@@ -85,14 +85,14 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Erstellung und Verwaltung von Forms (36 %)
+Abschnitt 1: Erstellung und Verwaltung der Forms (36%)
 
 * Forms erstellen
 * Forms-Datenmodell konfigurieren
 * Passen Sie AEM Forms an
 * Entwickeln und Verwenden von JavaScript ClientLib mit GuideBridge API
 
-Abschnitt 2: Prozesse und Workflows (34 %)
+Abschnitt 2: Prozesse und Workflows (34%)
 
 * Erstellen und Orchestrieren eines Arbeitsablaufs für die Formulargenehmigung
 * Entwickeln eines OSGi-Bundles mit der Document Services-API
@@ -118,7 +118,7 @@ Abschnitt 5: Interaktive Kommunikation (4 %)
 
 * Entwerfen, demonstrieren und implementieren von Prozessen für die interaktive Kommunikation
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -134,19 +134,19 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 **Abschnitt 2: Prozesse und Workflow**
 
 * [Tutorials und Videos zu AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=de){target="_blank"}
-* [Benutzerdefinierter Speicher für Entwürfe und Übermittlungen](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html){target="_blank"}
+* [Benutzerdefinierter Speicher für Entwürfe und Sendungen](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html){target="_blank"}
 * [Ausgabe-Service](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html#generating-non-interactive-form-documents){target="_blank"}
 
-**Abschnitt 3: Administration und Fehlerbehebung**
+**Abschnitt 3: Verwaltung und Fehlerbehebung**
 
 * [Debugging von AEM as a Cloud Service mithilfe von Protokollen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html#:~:text=aemerror%20is%20the%20Java%20error%20log%20%28found%20at,log%20levels%20for%20custom%20loggers%20per%20environment%20type%3A){target="_blank"}
 * [Aktivieren der Protokollierung für HTML5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html){target="_blank"}
 * [Versionshinweise zum neuesten Service Pack von Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=de){target="_blank"}
 * [Konfigurieren des Dispatchers](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=de){target="_blank"}
 
-**Abschnitt 4: API-Endpunkte und -Integrationen**
+**Abschnitt 4: API-Endpunkte und Integrationen**
 
-* [Integrieren von Adobe Experience Manager Forms as Cloud Service in Acrobat Sign | Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
+* [Integrieren von Adobe Experience Manager Forms as Cloud Service in Acrobat Sign | ADOBE EXPERIENCE MANAGER](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
 
 **Abschnitt 5: Interaktive Kommunikation**
 
@@ -163,31 +163,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E125)
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E125" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E125 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E125" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

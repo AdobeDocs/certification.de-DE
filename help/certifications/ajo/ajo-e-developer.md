@@ -1,21 +1,21 @@
 ---
 title: Zertifizierung durch Experten
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Journey Optimizer] Entwicklerexperte.
+description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Journey Optimizer] Entwicklerexperte.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
-badge: label="Test AD0-E603" type="positive"
+badge: label="Prüfung AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '733'
 ht-degree: 13%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Journey Optimizer] Entwicklerexperte
+# Zertifizierungs-Journey für Adobe [!DNL Journey Optimizer] Entwicklerexperte
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Journey Optimizer] Entwicklerexperte.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Journey Optimizer] Entwicklerexperte.
 
 ## Minimales Erlebnis
 
@@ -58,12 +58,12 @@ Sie sollten über mindestens ein Jahr Erfahrung mit verschiedenen CDP- und Marke
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 51.03.51
+* Übergeben der Punktzahl: 31/51
 * Zeit: 110 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E603
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E603
 
 **Eigenbewertung der Bereitschaft**
 
@@ -71,12 +71,12 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Administration und Konfiguration (17 %)
+Abschnitt 1: Administration und Konfiguration (17%)
 
 * Rollen und Berechtigungen für die einzelnen Rollen identifizieren
-* Beschreiben Sie, wie Sie eine Sandbox zuweisen/zurücksetzen/löschen.
+* Beschreiben, wie Sie eine Sandbox zuweisen/zurücksetzen/löschen
 * Verstehen der Kanalverwaltung
-* Demonstration eines Verständnisses von Ereignissen/Aktionen/Data Sources
+* Demonstration eines Verständnisses von Ereignissen/Aktionen/Datenquellen
 
 Abschnitt 2: Adobe Experience Platform Foundation (33%)
 
@@ -86,15 +86,15 @@ Abschnitt 2: Adobe Experience Platform Foundation (33%)
 * Erläuterung der Konfiguration von Schemas für AJO
 * Verhalten des Echtzeit-Kundenprofils auf AJO ermitteln
 
-Abschnitt 3: offer decisioning (11 %)
+Abschnitt 3: Offer decisioning (11%)
 
 * Erstellung und Verwaltung von Angeboten und Komponenten
 * Verwendung von Testprofilen zur Durchführung der Angebotssimulation
 
-Abschnitt 4: Inhaltserstellung (20 %)
+Abschnitt 4: Inhaltserstellung (20%)
 
 * Grundlagen zum Erstellen von E-Mails, SMS, In-App-Nachrichten und Push-Benachrichtigungen
-* Verstehen der Inhaltsbearbeitung und Personalisierung mithilfe von Hilfsfunktionen
+* Verstehen der Inhaltsbearbeitung und -personalisierung mithilfe von Hilfsfunktionen
 * Nachweis eines Verständnisses für die Validierung, den Testversand und die Veröffentlichung einer Nachricht
 
 Abschnitt 5: Journey Orchestration (19%)
@@ -103,13 +103,13 @@ Abschnitt 5: Journey Orchestration (19%)
 * Ermitteln, wo auf die Bericht-Dashboards zugegriffen werden kann
 * Testen und Validieren eines Journey
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-**Abschnitt 1: Administration und Konfiguration**
+**Abschnitt 1: Verwaltung und Konfiguration**
 
 * [Dokumentation zu Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 
@@ -130,17 +130,17 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
    * Handbuch zum Echtzeit-Kundenprofil
    * Handbuch zum Platform Identity Service
    * einen Datenfluss konfigurieren
-   * Handbuch zu Quell-Connectoren
+   * Anleitung zu Quell-Connectoren
    * Datenerfassungshandbuch
    * Handbuch zum Segmentierungsdienst
    * Schemata
 
-* [Einführung in die Adobe [!DNL Experience Platform] Kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=de){target="_blank"}
+* [Einführung in Adobe [!DNL Experience Platform] Kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=de){target="_blank"}
 * [Erste Schritte mit Adobe [!DNL Experience Platform] Kurs für Dateningenieure](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=de){target="_blank"}
 * [Data Ingestion-Kurs für Dateningenieure](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=de){target="_blank"}
 * [Blueprints für digitale Erlebnisse](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=de){target="_blank"}
 
-**Abschnitt 3: offer decisioning**
+**Abschnitt 3: Offer decisioning**
 
 * [Dokumentation zu Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 
@@ -181,31 +181,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E603).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E603 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

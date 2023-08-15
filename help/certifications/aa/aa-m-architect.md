@@ -1,23 +1,23 @@
 ---
-title: Übergeordnete Architekturzertifizierung
-description: Erfahren Sie, wie Sie als [!DNL Adobe Analytics] Architekt Übergeordnet.
+title: ArchitekturMaster-Zertifizierung
+description: Erfahren Sie, wie Sie als [!DNL Adobe Analytics] Architekturmeister.
 solution: Analytics
 product: Analytics
 level: Experienced
 role: Data Architect,Developer
-badge: label="Test AD0-E207" type="positive"
+badge: label="Prüfung AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '900'
-ht-degree: 18%
+source-wordcount: '755'
+ht-degree: 22%
 
 ---
 
-# Zertifizierungs-Journey für [!DNL Adobe Analytics] Architekten Übergeordnet
+# Journey für die Zertifizierung [!DNL Adobe Analytics] Architekturmeister
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Analytics] Architekt Übergeordnet.
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Analytics] Architekturmeister.
 
 ## Minimales Erlebnis
 
@@ -52,17 +52,17 @@ Darüber hinaus sind Sie für die Übersetzung von Geschäftsanforderungen in Tr
 
 **Prüfungsdetails:**
 
-* Ebene: Übergeordnet (3-5 Jahre Erfahrung)
-* Übergeben der Punktzahl: 50.33.50
+* Stufe: Master (3-5 Jahre Erfahrung)
+* Übergeben der Punktzahl: 33/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E207
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E207
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Ermittlung (18 %)
+Abschnitt 1: Entdeckung (18%)
 
 * Nachweis der Fähigkeit zur Prüfung von Sites
 * Untersuchung der Kundenanforderungen zum Erstellen von Geschäftsanforderungen
@@ -75,17 +75,17 @@ Abschnitt 2: Lösungsdesign (54%)
 * Für ein Szenario empfehlen Sie die besten Methoden zum Erfassen von Daten
 * Technische Spezifikationen für Tagging-Ingenieure schreiben
 * Technische Spezifikationen für Site-Entwickler schreiben
-* Erstellen von Experience Cloud-Benutzern/-Gruppen
+* Erstellen von Experience Cloud-Benutzern/Gruppen
 
 Abschnitt 3: Nach der Implementierung (28%)
 
-* Validieren Sie das Tracking anhand einer Reihe von Anforderungen über Browser-Entwickler-Tools und Adobe-Berichte
+* Validieren Sie bei einer Reihe von Anforderungen das Tracking über Browser-Entwickler-Tools und Adobe-Berichte
 * Anwenden von Verfahrenskonzepten zur Verwaltung von Datenextraktion und -beziehungen
 * Bewerten der Datenschutzanforderungen zur Einrichtung eines Data Governance-Modells
 * Bei einem Szenario können Sie Datenquellen und Connectoren verwalten
 * Konfigurieren der erforderlichen Segmente und berechneten Metriken zur Erfüllung der Geschäftsanforderungen
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -97,7 +97,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 [Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
 
-**Abschnitt 1: Ermittlung**
+**Abschnitt 1: Entdeckung**
 
 * [Implementieren von  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=de){target="_blank"}
 * [[!DNL Analytics] Komponentenhandbuch](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=de){target="_blank"}
@@ -118,7 +118,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Übersicht in der Admin Console](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
 * [Benutzer einzeln verwalten](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
 
-**Abschnitt 3: Implementierung nach der Implementierung**
+**Abschnitt 3: Post-Implementierung**
 
 * [Implementieren von  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=de){target="_blank"}
 * [[!DNL Analytics] Komponentenhandbuch](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=de){target="_blank"}
@@ -130,7 +130,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [[!DNL Analytics] Importhandbuch](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=de){target="_blank"}
 * [[!DNL Analytics] Tools-Anleitung](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=de){target="_blank"}
 * [Dateneinfüge-Prozess](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
-* [Tutorial zum Implementieren des Experience Cloud in Websites mit Tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=de){target="_blank"}
+* [Tutorial zum Implementieren von Experience Cloud in Websites mit Tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=de){target="_blank"}
 
 >[!TAB Zertifizieren]
 
@@ -141,44 +141,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch
-
-Adobe verwendet zwei Anbieter, um die verarbeiteten Prüfungen zu verwalten: PSI und Examity.
-
-* **PSI** bietet Testcenter- und japanische Prüfungsoptionen (sofern verfügbar)
-* **[!DNL Examity]** bietet eine Remote-Online-Option
-
-Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. So einfach ist es!
-
-Ihr Profilname im Adobe Credential Management System muss genau mit Ihrer Government ID übereinstimmen. Wenn der Proktor die Prüfung nicht mit den gleichen Informationen oder einer Inkongruenz beendet, muss er den Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.
-
-Stornierungen und Umschulungen sind möglich, wenn sie vor 48 Stunden vor dem geplanten Prüfungstermin begonnen werden. Die Kandidaten müssen diese Ernennung selbst ändern.
-
-## Führen Sie die Prüfung durch (AD0-E207).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E207 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

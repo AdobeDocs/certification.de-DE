@@ -3,19 +3,19 @@ title: Professional-Zertifizierung für Projektmanager
 description: Erfahren Sie, wie Sie in Adobe ein zertifizierter Adobe Project Manager Professional werden. [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Test AD0-E903" type="positive"
+badge: label="Prüfung AD0-E903" type="positive"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1573'
+source-wordcount: '1549'
 ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Workfront] Projektmanager
+# Zertifizierungs-Journey für Adobe [!DNL Workfront] Projektmanager
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Project Manager Professional werden.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Workfront] Project Manager Professional.
 
 ## Minimales Erlebnis
 
@@ -36,7 +36,7 @@ Sie sollten über Folgendes verfügen:
 **Vorgesehene Zielgruppe:**
 
 * Projektmanager, Arbeitsmanager, Planer
-* SCRUM Übergeordnet
+* SCRUM Master
 * [!DNL Workfront] Power User
 * Systemadministrator
 * Programm-Manager, Portfolio-Manager
@@ -45,13 +45,13 @@ Sie sollten über Folgendes verfügen:
 
 **Prüfungsdetails - Adobe [!DNL Workfront] Projektmanager**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
+* Niveau: Professional (0-12 Monate Erfahrung)
 * Übergeben der Punktzahl: 45/70
 * Zeit: 140 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E903
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E903
 
 **Eigenbewertung der Bereitschaft**
 
@@ -61,7 +61,7 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 
 Abschnitt 1: Aufnahme und Planung (30%)
 
-* Identifizieren verschiedener Möglichkeiten zur Benachrichtigung über eine Arbeitserforderung
+* Identifizieren verschiedener Möglichkeiten zur Benachrichtigung über eine Arbeitsanforderung
 * Überprüfen Sie bei einer Anfrage die benutzerdefinierten Daten, um die geeignete Aktion zu bestimmen.
 * Legen Sie für ein Szenario die für eine Aktivität erforderlichen Freigabeberechtigungen fest
 * Legen Sie für ein Szenario die entsprechenden Aufgabeneinstellungen fest, um die Ausführung einer Aufgabe in einem bestimmten Zeitrahmen zu planen.
@@ -69,7 +69,7 @@ Abschnitt 1: Aufnahme und Planung (30%)
 * Identifizieren verschiedener Möglichkeiten zur Verfolgung des Projektrisikos
 * Die richtige Hierarchie von Objekten in [!DNL Workfront]
 * Identifizieren Sie das entsprechende Feld, um eine bestimmte zugewiesene Ressource anzuzeigen
-* Bestimmen Sie bei einer Person die Aufnahme- oder Planungsberichte/Dashboards, die für die Person während der Arbeitsinstallation oder Planungsphase des Projekts/Arbeitsprozesses hilfreich sind
+* Bestimmen Sie bei einer Person die Aufnahme- oder Planungsberichte/Dashboards, die für die Person während der Arbeitsinstallation oder Planungsphase des Projekts/Arbeitsprozesses hilfreich sind.
 
 Abschnitt 2: Ausführen (50%)
 
@@ -86,7 +86,7 @@ Abschnitt 2: Ausführen (50%)
 * Erläutern Sie anhand eines Gantt-Diagramms die Objektbeziehungen im Diagramm.
 * Unterschiede zwischen Bedingungen und Fortschrittsstatus vergleichen
 * Identifizieren, wie [!DNL Workfront] Teams und [!DNL Workfront] Gruppen können verwendet werden
-* Beschreiben Sie in einem Szenario, wie Sie Interessengruppen die benötigten Informationen bereitstellen können.
+* Beschreiben Sie in einem Szenario, wie Sie den Interessengruppen die benötigten Informationen zur Verfügung stellen.
 * Legen Sie für ein Szenario fest, wie sich Datumstypen und -dauer auf die Projektbedingungen auswirken.
 * In einem Szenario müssen Sie die benutzerdefinierten Status ermitteln.
 * die verschiedenen Berichtstypen zu identifizieren, die in [!DNL Workfront]
@@ -96,10 +96,10 @@ Abschnitt 3: Schließung (20%)
 
 * Legen Sie für einen bestimmten Objektstatus fest, welche Aktivitäten ausgeführt werden müssen oder welche Aktionen ausgelöst werden.
 * Legen Sie bei einem Szenario den Berichtstyp und das Berichterstellungselement fest, die zum Ändern einer Aufgabenliste oder eines Berichts verwendet werden sollen
-* Identifizieren der verschiedenen Platzhalter, die für die Berichterstellung verwendet werden können
+* Identifizieren der verschiedenen Platzhalter, die in Berichten verwendet werden können
 * Identifizieren der Projektelemente, die zum Messen des Projekterfolgs verwendet werden können
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -123,10 +123,10 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Aufgabendauer und -dauer](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTaskDurtn%2F_task-duration-duration-type.htm&amp;_LANG=en){target="_blank"}
 * [Verwenden von Aufgabenvorgängen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FUse_Prdcssrs%2F_use-task-predecessors.htm&amp;_LANG=en){target="_blank"}
 * [Aufgabeninformationen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTask_information%2F_task-information.htm&amp;_LANG=en){target="_blank"}
-* [Arbeiten an einem Projekt aktualisieren](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
+* [Aktualisieren von Arbeiten an einem Projekt](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
 * [Projekte verwalten](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FManage_projects%2F_manage-projects-overview.htm&amp;_LANG=en){target="_blank"}
 * [Adobe [!DNL Workfront] Grundlagen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2F_workfront-basics.htm&amp;_LANG=en){target="_blank"}
-* [Navigieren in der Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2FNavigate_Workfront%2F_navigate-workfront.htm&amp;_LANG=en){target="_blank"}
+* [Adobe navigieren [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2FNavigate_Workfront%2F_navigate-workfront.htm&amp;_LANG=en){target="_blank"}
 * [Aufgaben zuweisen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FAssign_tasks%2F_assign-tasks.htm&amp;_LANG=en){target="_blank"}
 * [Erste Schritte mit agile in Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FGet_Started_with_Agile_in_Workfront%2F_get-started-with-agile.htm&amp;_LANG=en){target="_blank"}
 * [Berichte erstellen und verwalten](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FCreating_and_Managing_Reports%2F_create-manage-reports.htm&amp;_LANG=en){target="_blank"}
@@ -149,13 +149,13 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Gruppenrollen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FGroup_roles%2F_group-roles.htm&amp;_LANG=en){target="_blank"}
 * [Arbeiten mit Objekten einer Gruppe](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FWork_with_group_objects%2F_work-with-a-groups-objects.htm&amp;_LANG=en){target="_blank"}
 * [Arbeiten mit Gruppen und Teams](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FPeople_Teams_and_Groups%2FWork_with_Groups_and_Teams%2F_work-with-groups-and-teams.htm&amp;_LANG=en){target="_blank"}
-* [Arbeiten an einem Projekt aktualisieren](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
+* [Aktualisieren von Arbeiten an einem Projekt](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
 * [Status und Prioritätsbezeichnungen](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreating_Custom_Status_and_Priority_Labels%2F_create-custom-status-and-priority-labels.htm&amp;_LANG=en){target="_blank"}
 
-**Abschnitt 3: Closeout**
+**Abschnitt 3: Schließung**
 
 * [Übersicht über Berichterstellungselemente](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FReporting_Elements%2F_reporting-elements-overview.htm&amp;_LANG=en){target="_blank"}
-* [Erstellen und Verwalten von Timesheets in Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FTimesheets%2FCreate_and_Manage_Timesheets%2F_create-and-manage-timesheets.htm&amp;_LANG=en){target="_blank"}
+* [Erstellen und Verwalten von Timesheets im Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FTimesheets%2FCreate_and_Manage_Timesheets%2F_create-and-manage-timesheets.htm&amp;_LANG=en){target="_blank"}
 * [Portfolio-Management](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
 * [Projekt-Timeline](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
 * [Projekte erstellen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&amp;_LANG=enus){target="_blank"}
@@ -169,31 +169,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E903).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E903" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E903 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E903" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

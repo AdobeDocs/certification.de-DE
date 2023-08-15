@@ -1,25 +1,25 @@
 ---
-title: Übergeordnete neue Zertifizierung
-description: Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Architekt Übergeordnet.
+title: Architekturleiter - Neues Zertifikat
+description: Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Architekturmeister.
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Test AD0-E409" type="positive"
+badge: label="Prüfung AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1112'
-ht-degree: 15%
+source-wordcount: '943'
+ht-degree: 17%
 
 ---
 
-# Zertifizierungs-Journey für [!DNL Adobe Target] Architekten Übergeordnet
+# Journey für die Zertifizierung [!DNL Adobe Target] Architekturmeister
 
-Erfahren Sie, wie Sie Übergeordnet ein zertifizierter Adobe Architect werden.
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Architekturmeister.
 
 >[!NOTE]
 >
->Dies ist die neueste Übergeordnete Prüfung zum Adobe Target Architect. Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](at-m-architect.md) Sie haben bis zum 8. September 2023 Zeit, um sie abzuschließen.
+>Das ist das Neueste [!DNL Adobe Target] Architekten-Master-Prüfung. Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](at-m-architect.md) Sie haben bis zum 8. September 2023 Zeit, um sie abzuschließen.
 
 ## Minimales Erlebnis
 
@@ -70,33 +70,33 @@ Umgebungen:
 
 **Prüfungsdetails:**
 
-* Ebene: Übergeordnet (3-5 Jahre Erfahrung)
-* Übergeben der Punktzahl: 50.32.50
+* Stufe: Master (3-5 Jahre Erfahrung)
+* Übergeben der Punktzahl: 32/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E409
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E409
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: [!DNL Adobe Target] Fundamentaldaten (13 %)
+Abschnitt 1: [!DNL Adobe Target] Grundlagen (13%)
 
 * Identifizieren Sie die geeignete [!DNL Adobe Target] Verwendung für ein bestimmtes Szenario
 * Die grundlegenden Technologien eines [!DNL Adobe Target] Implementierung
 
-Abschnitt 2: Integrieren mit [!DNL Adobe Target] (18%)
+Abschnitt 2: Integration in [!DNL Adobe Target] (18%)
 
 * Anwenden der Integration [!DNL Adobe Target] mit Adobe Analytics (A4T)
 * Anwenden der Integration [!DNL Adobe Target] zu Adobe Experience Manager
 * Integration mit Adobe Experience Cloud-Lösungen und Adobe Experience Platform-Lösungen beschreiben
 * Integration mit Adobe Experience Cloud-Zielgruppen beschreiben
 
-Abschnitt 3: [!DNL Adobe Target] Verwaltung und Governance (6 %)
+Abschnitt 3: [!DNL Adobe Target] Verwaltung und Politikgestaltung (6 %)
 
 * Definieren eines fortlaufenden [!DNL Adobe Target] Implementierungsstrategie und Systemsteuerung
 * Anwendung des Prozesses und der Best Practices zur Verwaltung von Benutzern
-* Beschreiben Sie die Verwaltungsaspekte des Implementierungs-Setups.
+* Beschreiben Sie die Verwaltungsaspekte des Implementierungs-Setups
 
 Abschnitt 4: [!DNL Adobe Target] und unterstützte Touchpoints (6 %)
 
@@ -122,7 +122,7 @@ Abschnitt 7: Fehlerbehebung (28 %)
 * Integrationsfehler verstehen
 * Fehlerbehebung [!DNL Adobe Target] Recommendations-Fehler
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -187,26 +187,18 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
 
-**Führen Sie die Zertifizierungsprüfung durch.**
+## Über die Zertifizierungsprüfung
 
-Adobe verwendet zwei Anbieter, um die verarbeiteten Prüfungen zu verwalten: PSI und Examity.
+{{about-certification-exam}}
 
-* **PSI** bietet Testcenter- und japanische Prüfungsoptionen (sofern verfügbar)
-* **[!DNL Examity]** bietet eine Remote-Online-Option
+## Prüfung AD0-E409 planen oder durchführen
 
-Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. So einfach ist es!
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Ihr Profilname im Adobe Credential Management System muss genau mit Ihrer Government ID übereinstimmen. Wenn der Proktor die Prüfung nicht mit den gleichen Informationen oder einer Inkongruenz beendet, muss er den Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.
-
-Stornierungen und Umschulungen sind möglich, wenn sie vor 48 Stunden vor dem geplanten Prüfungstermin begonnen werden. Die Kandidaten müssen diese Ernennung selbst ändern.
-
-### Prüfnummer: AD0-E409
-
-[!BADGE Prüfung]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
-
-Sie können Ihre Zertifizierungsprüfung mit Gutschein oder Kreditkarte bezahlen. Um einen Prüfgutschein zu erwerben, gehen Sie zu: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie einen Rabatt haben, wird er beim Checkout angewendet.
+<span class="spectrum-Button-label has-no-wrap">
+   Gehen Sie zum Portal "Examity"
+</span>
+</a>
 
 >[!ENDTABS]
 

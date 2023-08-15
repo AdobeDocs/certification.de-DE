@@ -1,26 +1,26 @@
 ---
 title: Zertifizierung durch Entwickler
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte für Adobe werden. [!DNL Commerce].
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte im Adobe werden. [!DNL Commerce].
 solution: Commerce
 role: Developer
 level: Experienced
-badge: label="Test AD0-E716" type="positive"
+badge: label="Prüfung AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1854'
+source-wordcount: '1850'
 ht-degree: 2%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Commerce] Entwicklerexperte
+# Journey für die Zertifizierung [!DNL Adobe Commerce] Entwicklerexperte
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte werden.
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Commerce] Entwicklerexperte.
 
 ## Minimales Erlebnis
 
-Sie sollten mindestens 1-3 Jahre Erfahrung mit der Adobe haben [!DNL Commerce] und Sie mit den folgenden Technologien und Umgebungen vertraut sind:
+Sie sollten mindestens 1-3 Jahre Erfahrung mit Adobe haben [!DNL Commerce] und Sie mit den folgenden Technologien und Umgebungen vertraut sind:
 
 * Adobe [!DNL Commerce] - Version 2.4
 * PHP
@@ -52,12 +52,12 @@ Sie sollten mindestens 1-3 Jahre Erfahrung mit der Adobe haben [!DNL Commerce] u
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 06.04.69
+* Übergeben der Punktzahl: 41/69
 * Zeit: 138 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E716
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E716
 
 **Eigenbewertung der Bereitschaft**
 
@@ -67,32 +67,32 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 
 Abschnitt 1: Adobe [!DNL Commerce] Architektur- und Anpassungstechniken (36 %)
 
-* Demonstrieren der effektiven Verwendung des Caches in Adobe [!DNL Commerce]
+* Demonstrieren der effektiven Verwendung des Caches im Adobe [!DNL Commerce]
 * Erstellen, Verwenden und Bearbeiten benutzerdefinierter Erweiterungsattribute
 * Empfohlene Lösungen für die Anwendung benutzerdefinierter Designaktualisierungen auf Produkt-/Kategorieseiten
 * Korrektes Anwenden von Beobachtern, Voreinstellungen und Plug-ins (Auswirkungen der Sortierreihenfolge)
-* Verwenden der Konfigurationsebene in Adobe [!DNL Commerce]
-* Funktionsweise von Routen in der Adobe demonstrieren [!DNL Commerce]
+* Verwenden der Konfigurationsebene im Adobe [!DNL Commerce]
+* Funktionsweise von Routen im Adobe demonstrieren [!DNL Commerce]
 * Anpassungsfähigkeit des Seitenleiters demonstrieren
 * Auswirkungen und Einschränkungen der Konfiguration mehrerer Sites auf einer Instanz ermitteln
 * Beschreiben Sie die Funktionen und Einschränkungen der Abhängigkeitseinspritzung
 * Beschreiben Sie, wie Sie Felder in Speichereinstellungen hinzufügen und konfigurieren.
-* Erläuterung der Anwendungsfälle für Git-Patches und der Änderungen auf Dateiebene in Composer
+* Anwendungsbeispiele für Git-Patches und Änderungen auf Dateiebene in Composer
 * Neue Befehle in CLI erstellen
 * Erstellen eines Integrationstests
 * Adobe identifizieren [!DNL Commerce] Sicherheitsfunktion (CSP, Escaping, Formularschlüssel, Bereinigung, reCAPTCHA, Eingabevalidierung)
-* Erläuterung der Funktionsweise des CRON-Planungssystem
+* Erläuterung der Funktionsweise des CRON-Planungs-Systems
 * Daten laden und bearbeiten
-* Verwenden der App-Emulation
+* Verwenden der App-Emulation demonstrieren
 
-Abschnitt 2: Arbeiten mit Datenbanken und EAV (10 %)
+Abschnitt 2: Arbeiten mit Datenbanken und EAV (10%)
 
 * EAV-Attribute und Attributsätze programmgesteuert bearbeiten
 * Möglichkeiten zur Erweiterung des Datenbankschemas demonstrieren
 * Importieren/Exportieren von Daten aus Adobe Commerce
 * Beschreiben Sie, wie Sie mit Patches und wiederkehrenden Setups die Datenbank ändern können.
 
-Abschnitt 3: Entwickeln mit Admin (6 %)
+Abschnitt 3: Entwicklung mit Admin (6%)
 
 * Tabellen und Formulare aktualisieren und erstellen
 * Erweitern von Rasteraktionen
@@ -103,7 +103,7 @@ Abschnitt 4: Anpassen des Katalogs (6 %)
 
 * Anwenden von Änderungen auf bestehende Produkttypen und Erstellen neuer
 * Vorhandene Katalogentitäten ändern und erweitern
-* Indizes verwalten und Preisausgabe anpassen
+* Die Möglichkeit zur Verwaltung von Indizes und zur Anpassung der Preisausgabe
 * Erläuterung der Auswirkungen des Bestands aus mehreren Quellen (Programmebene)
 
 Abschnitt 5: Anpassen der Verkaufsvorgänge (6 %)
@@ -111,7 +111,7 @@ Abschnitt 5: Anpassen der Verkaufsvorgänge (6 %)
 * Entwicklung neuer Zahlungsmethoden oder Anpassung vorhandener Zahlungsmethoden
 * Möglichkeiten zum Hinzufügen und Anpassen von Versandmethoden demonstrieren
 * Möglichkeiten zur Anpassung von Verkaufsvorgängen demonstrieren
-* Anpassen der Summen
+* Erläuterung der Anpassung der Summen
 
 Abschnitt 6: APIs und Dienste (4 %)
 
@@ -120,9 +120,9 @@ Abschnitt 6: APIs und Dienste (4 %)
 
 Abschnitt 7: Adobe [!DNL Commerce] Cloud-Architektur (16 %)
 
-* Adobe demonstrieren [!DNL Commerce] Architektur-/Umgebungs-Workflow
+* Adobe-Kenntnisse [!DNL Commerce] Architektur-/Umgebungs-Workflow
 * Arbeiten mit Cloud-Projektdateien, Berechtigungen und Strukturen demonstrieren
-* Demonstration der Möglichkeit, domänenbasierte Stores auf Adobe einzurichten [!DNL Commerce] Cloud (Multi-Domain-Sites - Kombination aus Entwicklungs- und Support-Leistungen)
+* Die Möglichkeit, domänenbasierte Stores auf Adobe einzurichten [!DNL Commerce] Cloud (Multi-Domain-Sites - Kombination aus Entwicklungs- und Support-Leistungen)
 * Allgemeine Kenntnisse der Anwendungsdienste und deren Verwaltung (YAML, PHP, MariaDB, Redis, RabbitMQ usw.)
 * Ermitteln, wie Sie auf verschiedene Protokolltypen zugreifen können
 * Bereitstellung eines Projekts demonstrieren (Hauptschritte der Bereitstellung)
@@ -132,11 +132,11 @@ Abschnitt 7: Adobe [!DNL Commerce] Cloud-Architektur (16 %)
 * Ermitteln Sie, wann Sie Support *Yaml-Dateien und Einschränkungen (DIY vs. Support-Tickets) kontaktieren.
 * Grundlegende Kenntnisse der OOTB FASTLY-Funktionskonfiguration und -Installation demonstrieren
 
-Abschnitt 8: Adobe einrichten/konfigurieren [!DNL Commerce] Cloud (10 %)
+Abschnitt 8: Einrichten/Konfigurieren von Adobe [!DNL Commerce] Cloud (10 %)
 
-* Beschreiben Sie, wie Sie die Adobe einrichten/konfigurieren [!DNL Commerce] Cloud
+* Beschreiben Sie, wie Sie Adobe einrichten/konfigurieren [!DNL Commerce] Cloud
 * Grundlegende Kenntnisse zur Fehlerbehebung in der Cloud anwenden (Hierarchie der Web-Benutzeroberfläche und Variablen, Konfigurationspräferenz)
-* Wissenswertes über Cloud-Benutzerverwaltung und Onboarding-Benutzeroberfläche
+* Verstehen der Cloud-Benutzerverwaltung und der Onboarding-Benutzeroberfläche
 * Beschreiben Sie, wie Sie Cloud-Variablen über die Benutzeroberfläche aktualisieren
 * Beschreiben der Umgebungsverwaltung mithilfe der Benutzeroberfläche
 * Verzweigungen mithilfe der Benutzeroberfläche demonstrieren
@@ -145,17 +145,17 @@ Abschnitt 8: Adobe einrichten/konfigurieren [!DNL Commerce] Cloud (10 %)
 Abschnitt 9: [!DNL Commerce] Cloud-CLI-Tool (Teil verwalten) (6 %)
 
 * Erläuterung der Aktualisierung von Cloud-Variablen mithilfe von CLI
-* Verstehen des Umgebungsmanagements mithilfe von CLI (CLI-Funktionen: E-Mails aktivieren, Umgebung neu starten, Schnappschuss, DB-Dump, lokale Umgebung einrichten)
+* Verstehen des Umgebungsmanagements mithilfe von CLI (CLI-Funktionen: E-Mails aktivieren, Umgebung neu starten, Snapshot, DB-Dump, lokale Umgebung einrichten)
 * Verzweigungen mithilfe von CLI demonstrieren
 * Veranschaulichen Sie, wie Sie eine Fehlerbehebung bei Cloud Services durchführen können. (My SQL, Redis, tunnel:info)
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-**Abschnitt 1: Adobe [!DNL Commerce] Architektur und Anpassungstechniken**
+**Abschnitt 1: Adobe [!DNL Commerce] Architektur und Anpassungsverfahren**
 
 * [[!DNL Commerce] für Entwickler - Übersicht](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html#video-content){target="_blank"}
 * [[!DNL Commerce] für Entwickler - Entwicklungs-Workflow](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html){target="_blank"}
@@ -173,9 +173,9 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [[!DNL Commerce] für Entwickler - Grundlagen zur Entwicklung](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html){target="_blank"}
 * [[!DNL Commerce] für Entwickler - Post-Installation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html){target="_blank"}
 * [[!DNL Commerce] für Entwickler - Routing](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html){target="_blank"}
-* [Neue Seite erstellen](https://devdocs.magento.com/videos/fundamentals/create-a-new-page/){target="_blank"}
+* [Erstellen einer neuen Seite](https://devdocs.magento.com/videos/fundamentals/create-a-new-page/){target="_blank"}
 * [Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
-* [Was ist Page Builder](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
+* [Was ist Page Builder?](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
 * [Einrichten mehrerer Websites oder Stores](https://devdocs.magento.com/cloud/project/project-multi-sites.html){target="_blank"}
 * [Mehrere Websites oder Stores](https://devdocs.magento.com/guides/v2.4/config-guide/multi-site/ms_over.html){target="_blank"}
 * [Beispiel für eine Injektion von Abhängigkeiten](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html?lang=de){target="_blank"}
@@ -206,18 +206,18 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Lagerbestand importieren und exportieren](https://docs.magento.com/user-guide/catalog/inventory-import-export.html){target="_blank"}
 * [Daten- und Schema-Patches entwickeln](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/data-patches.html){target="_blank"}
 
-**Abschnitt 3: Entwickeln mit Admin**
+**Abschnitt 3: Entwicklung mit Admin**
 
 * [[!DNL Commerce] für Entwickler - Erstellen einer Admin Page](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html){target="_blank"}
 * [Admin-Raster hinzufügen](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/admin-grid.html){target="_blank"}
 * [Auflisten (Raster) der Komponente](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-listing-grid.html){target="_blank"}
-* [Formular-Komponente](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-form.html){target="_blank"}
+* [Formularkomponente](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-form.html){target="_blank"}
 * [ActionsColumn-Komponente](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-actionscolumn.html){target="_blank"}
 * [PHP-Modifikatoren](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/concepts/ui_comp_modifier_concept.html){target="_blank"}
 * [Mit einer Modifikatorklasse anpassen](https://devdocs.magento.com/guides/v2.4/howdoi/customize-modifier-class.html){target="_blank"}
 * [Erstellen einer ACL-Regel (Access Control List)](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/create-access-control-list-rule.html){target="_blank"}
 
-**Abschnitt 4: Katalog anpassen**
+**Abschnitt 4: Anpassen des Katalogs**
 
 * [Produkte erstellen](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
 * [Hinzufügen von Erweiterungsattributen zu Entitäten](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/extension_attributes/adding-attributes.html){target="_blank"}
@@ -256,9 +256,9 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [ECE-Tools-Paket](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
 
 
-**Abschnitt 8: Adobe einrichten/konfigurieren [!DNL Commerce] Cloud**
+**Abschnitt 8: Einrichten/Konfigurieren von Adobe [!DNL Commerce] Cloud**
 
-* [Benutzerzugriff verwalten](https://devdocs.magento.com/cloud/project/user-admin.html#cloud-user-webinterface){target="_blank"}
+* [Verwalten des Benutzerzugriffs](https://devdocs.magento.com/cloud/project/user-admin.html#cloud-user-webinterface){target="_blank"}
 * [Sichere Verbindungen zu Remote-Umgebungen](https://devdocs.magento.com/cloud/before/before-workspace-ssh.html#add-key-web){target="_blank"}
 * [Cloud-Infrastrukturprojekt](https://devdocs.magento.com/cloud/setup/first-time-setup-import-prepare.html#add-authentication-keys){target="_blank"}
 * [Verwalten von Zweigen mit der CLI](https://devdocs.magento.com/cloud/project/project-webint-branch.html){target="_blank"}
@@ -282,20 +282,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E716).
-
-### Verfügbare Optionen
-
-**[!DNL Examity]** ( *online* )
+### Prüfung AD0-E716 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E716" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

@@ -1,22 +1,22 @@
 ---
 title: Zertifizierung durch Experten
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Experience Manager] Experten.
+description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager] Experten.
 solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
-badge: label="Test AD0-E136" type="positive"
+badge: label="Prüfung AD0-E136" type="positive"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 11%
+source-wordcount: '817'
+ht-degree: 12%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Experience Manager] as a Cloud Service Migrationsexperte
+# Zertifizierungs-Journey für Adobe [!DNL Experience Manager] as a Cloud Service Migrationsexperte
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Experience Manager] Experten.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager] Experten.
 
 ## Minimales Erlebnis
 
@@ -37,7 +37,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * AEM Modernisierung
 * Repository-Browser
 * Developer Console
-* Tool für die Benutzerzuordnung für die IMS-Adobe
+* Benutzerzuordnungstool für IMS-Adobe
 * I/O-Befehl-Tool
 * New Relic
 * Lokales Cloud-SDK
@@ -56,7 +56,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 **Vorgesehene Zielgruppe:**
 
-* Entwickler mit Erfahrung in der Adobe [!DNL Experience Manager]
+* Entwickler, die Erfahrung mit Adobe haben [!DNL Experience Manager]
 * Entwickler, die an mindestens einer Cloud-Migration teilgenommen haben
 * Adobe [!DNL Experience Manager] Sites-Entwickler
 * Adobe [!DNL Experience Manager] Sites-Architekt
@@ -67,12 +67,12 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 **Prüfungsdetails**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 50.31.50
+* Übergeben der Punktzahl: 31/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E136
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E136
 
 **Prüfungsziele und -umfang**
 
@@ -93,7 +93,7 @@ Abschnitt 2: Design (16%)
 * Vorbereiten der Konfiguration für Asset-Microservices
 * Cachestrategie erläutern
 
-Abschnitt 3: Bereitstellung (16 %)
+Abschnitt 3: Bereitstellung (16%)
 
 * Cloud Manager-Pipelines konfigurieren und mit Umgebungen verknüpfen
 * Bereitstellung von AEMaaCS-Umgebungen (Entwicklung, Staging, Produktion - Autor, Veröffentlichung, Vorschau)
@@ -109,12 +109,12 @@ Abschnitt 4: Migration (20%)
 
 Abschnitt 5: Umsetzung (16%)
 
-* Zusammenführen mehrerer Projekte zu einem einzigen Projekt, das über die Adobe Pipeline bereitgestellt werden soll
+* Zusammenführen mehrerer Projekte zu einem einzigen Projekt, das über die Adobe-Pipeline bereitgestellt werden soll
 * Repository-Skripte für Benutzer-/Gruppenberechtigungen verwalten
 * Einrichten lokaler SDKs
 * Aktualisieren von Konfigurationen basierend auf den auf AEM as a Cloud Service verfügbaren Ausführungsmodi
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -130,7 +130,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 **Abschnitt 2: Design**
 
 * [Adobe [!DNL Experience Manager] as a Cloud Service Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de){target="_blank"}
-* [Einführung](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html){target="_blank"}
+* [Einführung](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Implementierung**
 
@@ -144,7 +144,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Voraussetzungen für die Verwendung des Content Transfer Tools  ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html){target="_blank"}
 * [Debugging von AEM as a Cloud Service mithilfe von Protokollen](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=de){target="_blank"}
 
-**Abschnitt 5: Implementierung**
+**Abschnitt 5: Umsetzung**
 
 * [Verwenden der CI/CD-Pipeline in Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
 * [Bereitstellen in AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=de){target="_blank"}
@@ -159,20 +159,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E136).
-
-### Verfügbare Optionen
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E136 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E136" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

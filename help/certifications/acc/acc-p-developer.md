@@ -4,25 +4,25 @@ description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer Profession
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
-badge: label="Test AD0-E331" type="positive"
+badge: label="Prüfung AD0-E331" type="positive"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1198'
+source-wordcount: '1174'
 ht-degree: 16%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Campaign Classic] Entwickler Professional
+# Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Entwickler Professional
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Developer Professional werden.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Campaign Classic] Entwickler Professional.
 
 ## Minimales Erlebnis
 
 Sie sollten über Folgendes verfügen:
 
-* Mindestens einjährige Adobe [!DNL Campaign Classic] Software-Erfahrung
+* Mindestens ein Jahr Adobe [!DNL Campaign Classic] Software-Erfahrung
 * Mindestens einjährige Erfahrung in JavaScript-Programmierung, SQL-Entwicklung einschließlich ETL und Web-Technologien (XML, HTML und Web-Services)
 * Grundlegendes zur Marketing-Automatisierung
 * Grundlegendes zu relationalen Datenbankkonzepten
@@ -44,13 +44,13 @@ Sie sollten über Folgendes verfügen:
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 50.33.50
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 33/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E331
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E331
 
 **Eigenbewertung der Bereitschaft**
 
@@ -58,7 +58,7 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Systemkonfiguration (25 %)
+Abschnitt 1: Systemkonfiguration (25%)
 
 * Systemweite Konfiguration der Einstellungen im Knoten Administration demonstrieren
 * Anwenden des Prozesses zur Erweiterung des OOTB-Empfängerschemas
@@ -74,7 +74,7 @@ Abschnitt 1: Systemkonfiguration (25 %)
 * Geschäftsanwendungsfall für Message Center beschreiben
 * V8-API-Datenimportfunktion identifizieren
 
-Abschnitt 2: Anpassung (16 %)
+Abschnitt 2: Anpassung (16%)
 
 * Anwenden des Prozesses zur Bearbeitung von Campaign-Schemata
 * Identifizieren Sie die Einstellungen, um die korrekte Schemaerweiterung sicherzustellen, oder konfigurieren Sie benutzerdefinierte Schemata
@@ -101,7 +101,7 @@ Abschnitt 4: Technische Workflows (29%)
 * Anwenden des Prozesses zum Konfigurieren der Workflow-Eigenschaften
 * Erweitern der Aktivitätsfunktionen mit dem Ausdruckseditor
 * Differenz zwischen den OOTB-Workflows und den vom Benutzer erstellten Workflows unterscheiden
-* Zweck der OOTB-Workflows erläutern
+* Erläuterung des Zwecks der OOTB-Workflows
 * Fehlerbehebung bei benutzerdefinierten Workflows
 * Unterscheiden zwischen Variablentypen und deren Umfang und Verwendung
 * OOTB-Variablen und ihre Verwendung identifizieren
@@ -113,7 +113,7 @@ Abschnitt 5: Wartung der Instanz (4%)
 * Fehler aus verschiedenen Dienstprotokollen identifizieren
 * Workflow-Heatmap-Messungen erläutern
 
-Abschnitt 6: Kampagnenkonfiguration (14 %)
+Abschnitt 6: Kampagnenkonfiguration (14%)
 
 * Anwenden des Prozesses zur Erstellung von Kampagnen mithilfe von Kampagnenvorlagen
 * Beschreiben des Prozesses zum Erstellen von Genehmigungen
@@ -122,7 +122,7 @@ Abschnitt 6: Kampagnenkonfiguration (14 %)
 * Definieren Sie den Prozess zum Erstellen des erweiterten Prozesses in Workflows
 * Workflow-Ausführungsmethoden beschreiben
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -167,7 +167,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Überwachen der Workflow-Ausführung](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=de){target="_blank"}
 * [Einrichten und Verwalten des Genehmigungsprozesses](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=de){target="_blank"}
 
-**Abschnitt 5: Instanzwartung**
+**Abschnitt 5: Wartung der Instanz**
 
 * [Probleme mit Trackinglogs](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/tracking-logs-issues.html){target="_blank"}
 * [Protokollgenauigkeit](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/log-precision.html){target="_blank"}
@@ -192,31 +192,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E331).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E331" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E331 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E331" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

@@ -1,26 +1,26 @@
 ---
 title: Berufliche Zertifizierung
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Experience Manager] Professional.
+description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager] Professional.
 solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
-badge: label="Test AD0-E129" type="positive"
+badge: label="Prüfung AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 9%
+source-wordcount: '823'
+ht-degree: 8%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Experience Manager] Assets Developer Professional
+# Zertifizierungs-Journey für Adobe [!DNL Experience Manager] Assets Developer Professional
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Experience Manager] Professional.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager] Assets Developer Professional.
 
 ## Minimales Erlebnis
 
-Sie sollten sich mit der Arbeit in Adobe Managed Services und Adobe vertraut machen [!DNL Experience Manager as a Cloud Service]und Adobe einrichten können [!DNL Experience Manager] Umgebungen und Infrastruktur.
+Sie sollten sich mit Adobe Managed Services und Adobe vertraut machen [!DNL Experience Manager as a Cloud Service]und Adobe einrichten können [!DNL Experience Manager] Umgebungen und Infrastruktur.
 
 Sie sollten über Folgendes verfügen:
 
@@ -37,7 +37,7 @@ Darüber hinaus sollten Sie über Erfahrungen mit den folgenden Technologien und
 * Cloud-Übergangstools
 * Dispatcher-Konverter
 * Repository Moderizer
-* Entwicklungs-Staging und -Produktion
+* Entwicklung und Produktion
 * Entwicklungs-Sandbox
 * Lokale Umgebung
 
@@ -52,7 +52,7 @@ Darüber hinaus sollten Sie über Erfahrungen mit den folgenden Technologien und
 **Vorgesehene Zielgruppe:**
 
 * AEM Entwickler
-* Entwickler von DevOps
+* Entwicklungstools
 * AEM Architekten
 * Cloud-Techniker
 * Site-Zuverlässigkeitsingenieure
@@ -62,13 +62,13 @@ Darüber hinaus sollten Sie über Erfahrungen mit den folgenden Technologien und
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 50.30 Uhr
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 30/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E129
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E129
 
 **Selbstbewertung der Bereitschaft**
 
@@ -109,9 +109,9 @@ Abschnitt 5: Asset-Funktionssätze und -Funktionen (12 %)
 
 * Beschreibung der häufigen Anwendungsfälle und Vorteile der Verwendung von Brand Portal
 * Beschreibung der häufigen Anwendungsfälle und Vorteile der Verwendung von Dynamic Media
-* Beschreiben Sie die Optionen zur Nutzung von AEM mithilfe von Creative Cloud.
+* Beschreiben Sie Optionen zur Nutzung von AEM mithilfe von Creative Cloud
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -161,20 +161,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E129).
-
-### Verfügbare Optionen
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E129 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E129" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

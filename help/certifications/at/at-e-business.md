@@ -1,22 +1,22 @@
 ---
 title: Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe-Business-Practice-Experte in [!DNL Adobe Target].
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner-Experte in [!DNL Adobe Target].
 solution: Target
 product: Target
 role: User
-badge: label="Test AD0-E406" type="positive"
+badge: label="Prüfung AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1232'
+source-wordcount: '1207'
 ht-degree: 1%
 
 ---
 
-# Zertifizierungs-Journey für [!DNL Adobe Target] Geschäftspraktiker-Experte
+# Journey für die Zertifizierung [!DNL Adobe Target] Geschäftspraktiker-Experte
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner-Experte werden.
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Geschäftspraktiker-Experte.
 
 ## Minimales Erlebnis
 
@@ -45,7 +45,7 @@ Technologien:
 * Adobe Analytics als Berichtsquelle für die Target-spezifische A4T-Integration
 * Browser-Konsole/Browser-Entwicklertools wie Konsole, Registerkarte &quot;Netzwerk&quot;
 * Netzwerkwerkzeuge im Browser
-* Grundlegendes zu anderen Adobe Tools
+* Grundlegendes zu anderen Adobe-Tools
 * Developer Console (beliebiger Webbrowser)
 * [!DNL Adobe Target] Stichprobenrechner
 * Adobe Audience Manager-Grundlagen
@@ -84,12 +84,12 @@ Umgebungen:
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 68.46.2018
+* Übergeben der Punktzahl: 46/68
 * Zeit: 136 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E406
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E406
 
 **Prüfungsziele und -umfang**
 
@@ -98,14 +98,14 @@ Abschnitt 1: Planung und Strategie (31%)
 * Identifizieren von Geschäfts-KPIs und deren erfolgreiche Umsetzung in Optimierungsziele angesichts der wichtigsten Geschäftsanforderungen
 * Identifizieren von Optimierungsmöglichkeiten basierend auf Geschäfts-KPIs und Datenanalyse
 * Priorisieren Sie Testideen basierend auf Geschäftsanforderungen, Aufwand und Steigerungspotenzial.
-* Ermitteln Sie anhand des Stichprobengrößenrechners der Adobe, wie sich Variablen auf die Aktivität auswirken.
+* Ermitteln Sie anhand des Adobe-Stichprobengrößenrechners, wie sich Variablen auf die Aktivität auswirken.
 * Testhypothesen basierend auf einem gegebenen Szenario erstellen und Hypothesenelemente identifizieren
 * Analysieren einer Testhypothese auf der Basis eines bestimmten Szenarios und Identifizieren von Aspekten einer gültigen Hypothese
-* Bestimmen Sie KPI-basierte primäre und sekundäre Erfolgsmetriken.
+* Bestimmen Sie KPI-basierte primäre und sekundäre Erfolgsmetriken
 * Anforderungen an Zielgruppen bewerten
 * Bestimmen Sie die entsprechenden Analytics-Berichtsquellen (d. h. Target oder Adobe Analytics).
 
-Abschnitt 2: Konfiguration, Ausführung und Verwaltung (42 %)
+Abschnitt 2: Konfiguration, Ausführung und Verwaltung (42%)
 
 * Die Verwendung von Form-Based Experience Composer und Visual Experience Composer erläutern
 * Anwenden von Verfahren zum Erstellen eines Erlebnisses mit VEC
@@ -122,7 +122,7 @@ Abschnitt 2: Konfiguration, Ausführung und Verwaltung (42 %)
 * Anwenden von Verfahren zur Durchführung von Aktivitäts-QA
 * Anwenden von Verfahren zur Verwaltung von Aktivitäten und Zielgruppen in Target
 
-Abschnitt 3: Analyse und Berichterstellung (17 %)
+Abschnitt 3: Analyse und Berichterstellung (17%)
 
 * Berichtseinstellungen definieren und auswerten, um die in einem Bericht angezeigten Elemente leichter festlegen zu können
 * Bewerten und Vergleichen [!DNL Adobe Target] Stichprobengrößenrechnereinstellungen bei der Planung von Target-Aktivitäten und der Validierung von Target-Aktivitätsberichten
@@ -134,10 +134,10 @@ Abschnitt 3: Analyse und Berichterstellung (17 %)
 Abschnitt 4: Fehlerbehebung (10 %)
 
 * Probleme bei der Aktivitätsqualifizierung diagnostizieren
-* Verwenden Sie Browser-Debugging-Tools (einschließlich Experience Cloud Debugger), um die Implementierung zu überprüfen.
+* Verwenden Sie Browser-Debugging-Tools (einschließlich Experience Cloud Debugger) zur Überprüfung der Implementierung
 * Überprüfen von Metriken und Berichten
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -152,23 +152,23 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Einführung in die Administrationseinstellungen](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.3-intro-to-admin-setup.html){target="_blank"}
 * [Einrichten von Eigenschaften in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-properties.html){target="_blank"}
 
-**Abschnitt 2: Konfiguration, Ausführung und Verwaltung**
+**Abschnitt 2: Konfigurieren, Ausführen und Verwalten**
 
 * [Einführung in [!DNL Adobe Target] Implementierung](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.1-intro-to-target-implementation.html){target="_blank"}
 * [Target mit Tags integrieren](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/3.1-target-launch.html){target="_blank"}
 * [Vorteile der Verwendung von Standorten](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.2-benefits-of-locations.html){target="_blank"}
 * [Einführung in Target-Anforderungen](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.3-intro-to-target-requests.html){target="_blank"}
 * [Einführung in Target-Parameter](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.4-intro-to-target-params.html){target="_blank"}
-* [Grundlegendes zu [!DNL Adobe Target]&quot;s at.js 2.0 funktioniert](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works.html){target="_blank"}
+* [Grundlegendes zu [!DNL Adobe Target]&quot;s at.js 2.0 funktioniert&quot;](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works.html){target="_blank"}
 * [Implementierung [!DNL Adobe Target]&quot;s at.js 2.0 in einer Einzelseiten-App (SPA)](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html){target="_blank"}
 * [Erstellen einer Target-Implementierung](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
 * [Nächste Schritte zum Entwerfen einer Target-Implementierung](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.6-next-steps-design-target-implementation.html){target="_blank"}
 
-**Abschnitt 3: Analyse und Reporting**
+**Abschnitt 3: Analyse und Berichterstellung**
 
 * [Verwenden der Personalization Insights-Berichte](https://experienceleague.adobe.com/docs/target-learn/tutorials/reports/use-the-personalization-insights-reports.html){target="_blank"}
 * [Target in Analytics integrieren](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html){target="_blank"}
-* [Verwenden von Adobe Analytics als Datenquelle für [!DNL Adobe Target] (A4T)](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/use-analytics-as-a-data-source-a4t.html){target="_blank"}
+* [Adobe Analytics als Datenquelle für [!DNL Adobe Target] (A4T)](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/use-analytics-as-a-data-source-a4t.html){target="_blank"}
 * [Einrichten von A4T-Berichten in Analysis Workspace für Aktivitäten mit automatischem Targeting](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=de){target="_blank"}
 
 **Abschnitt 4: Fehlerbehebung**
@@ -191,31 +191,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E406).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E406" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E406 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

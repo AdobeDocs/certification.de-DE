@@ -1,28 +1,28 @@
 ---
 title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre Adobe verlängern können [!DNL Advertising] -Zertifizierung vor ihrem Ablauf.
+description: Erfahren Sie, wie Sie Ihre Adobe erneuern können [!DNL Advertising] -Zertifizierung vor ihrem Ablauf.
 solution: Advertising
 product: Advertising Cloud
 role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 2%
 
 ---
 
-# Verlängern Sie Ihre [!DNL Advertising] Zertifizierung
+# Verlängern [!DNL Adobe Advertising] Zertifizierung
 
 Wenn Sie eine Zertifizierungsprüfung bestehen, gilt Ihr Zertifikat für zwei Jahre.
 
-Wir freuen uns, Ihnen mitteilen zu können, dass Sie jetzt Ihr Zertifikat in einem neuen, kostenlosen Format erneuern können. Es umfasst die Verwendung von On-Demand-Experience League-Kursen und -Tutorials - Schließen Sie einfach drei Aktivitäten ab, um Ihre Zertifizierung kostenlos zu erneuern. Vor Ablauf der Zertifizierung müssen Sie eine Verlängerung beantragen. Andernfalls müssen Sie die vollständige Prüfung ablegen, um wieder zertifiziert zu werden.
+Wir freuen uns, Ihnen mitteilen zu können, dass Sie jetzt Ihr Zertifikat in einem neuen, kostenlosen Format erneuern können. Es beinhaltet die Verwendung von On-Demand-Experience League-Kursen und -Tutorials - einfach drei Aktivitäten zu absolvieren, um Ihre Zertifizierung kostenlos zu erneuern. Vor Ablauf der Zertifizierung müssen Sie eine Verlängerung beantragen. Andernfalls müssen Sie die vollständige Prüfung ablegen, um wieder zertifiziert zu werden.
 
 >[!IMPORTANT]
 >
->Die folgenden Examenslinks werden **only** Funktion nach einer **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Examenslinks werden **only** -Funktion nach einer **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -42,7 +42,7 @@ Wir freuen uns, Ihnen mitteilen zu können, dass Sie jetzt Ihr Zertifikat in ein
 
 >[!NOTE]
 >
->Übergeordnete Erneuerung in Kürze.
+>Master Erneuerung in Kürze.
 
 >[!ENDTABS]
 

@@ -1,34 +1,34 @@
 ---
 title: Frontend-Zertifizierung für Entwickler
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Profi für die Adobe werden. [!DNL Commerce] .
+description: Erfahren Sie, wie Sie zu einem zertifizierten Adobe Developer-Profi für Adobe werden. [!DNL Commerce] .
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Test AD0-E719" type="positive"
+badge: label="Prüfung AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '1049'
 ht-degree: 1%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Commerce] Frontend-Entwickler Professional
+# Zertifizierungs-Journey für Adobe [!DNL Commerce] Frontend-Entwickler Professional
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Developer Professional werden.
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Commerce] Entwickler Professional.
 
 >[!NOTE]
 >
->Diese Prüfung für Adobe Commerce Front End Developer Professional (AD0-E719) wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 18. August 2023 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir Ihnen, die [neueste Version dieser Prüfung](ac-p-fedeveloper0623.md).
+>Diese Prüfung, [!DNL Adobe Commerce] Front End Developer Professional (AD0-E719) wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 18. August 2023 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir Ihnen, die [neueste Version dieser Prüfung](ac-p-fedeveloper0623.md).
 
 ## Minimales Erlebnis
 
-Sie sollten über eine 0-12-monatige praktische Erfahrung mit der Adobe verfügen [!DNL Commerce] Frontend-Entwicklung und die Fähigkeit, mit technischen Lösungen zu arbeiten, um individuelle Komponenten bereitzustellen.
+Sie sollten über eine 0-12-monatige praktische Erfahrung mit Adobe verfügen [!DNL Commerce] Frontend-Entwicklung und die Fähigkeit, mit technischen Lösungen zu arbeiten, um individuelle Komponenten bereitzustellen.
 
 Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 
-* Starkes Verständnis der Adobe [!DNL Commerce] Version 2.4.3
+* Starkes Verständnis von Adobe [!DNL Commerce] Version 2.4.3
 * Grundlegendes zur Frontend-Struktur und zum Layout
 * Erlebnis und Verständnis von HTML, CSS (und Präprozessoren), LESS, JavaScript- und UI-Komponenten, jQuery, Underscore, Require.JS, Knockout, auch PHP-Vorlagen, DB-Kenntnissen und Content Management
 * Kenntnis der Plattform, der CMS-Blöcke, Widgets, CMS-Seiten, Kategorieseiten, Produktseiten, Warenkorb und Checkout sowie des Bereichs Konto-Dashboard
@@ -43,7 +43,7 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 * Implementierung der Übersetzung
 * Funktionsweise mit E-Mail-Vorlagen
 * Grundlegendes zu XML
-* Grundlegendes zu vordefinierten SEO-, Optimierungs- und Leistungstechniken
+* Grundlegendes zu vordefinierten SEO-, Optimierungs- und Leistungsmethoden
 * Grundlegendes zu kanonischen Links sowie Zusammenführen von JavaScript und CSS
 
 >[!BEGINTABS]
@@ -59,28 +59,28 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 50.31.50
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 31/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E719
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E719
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Designverwaltung (Designhierarchie, Bildkonfiguration, Übersetzungen) (14 %)
+Abschnitt 1: Designverwaltung (Themenhierarchie, Bildkonfiguration, Übersetzungen) (14 %)
 
 * Adobe beschreiben [!DNL Commerce] Designordnerstruktur
 * Möglichkeiten zur Erstellung neuer oder Erweiterung vorhandener Designs demonstrieren
-* Möglichkeit zum Hinzufügen benutzerdefinierter Übersetzungsausdrücke demonstrieren
+* Verwendung benutzerdefinierter Übersetzungssätze demonstrieren
 
-Abschnitt 2: Layout-XML und Vorlagen (28 %)
+Abschnitt 2: Layout-XML und Vorlagen (28%)
 
 * Verwenden grundlegender XML-Anweisungen für Layouts
 * Verwenden vorhandener Seitenlayouts
 * Beschreiben der Schritte zum Erweitern und Überschreiben von XML
-* Möglichkeiten zum Erstellen und Anpassen von Vorlagen demonstrieren
+* Erstellen und Anpassen von Vorlagen demonstrieren
 * Beschreiben Sie die Vorlagensicherheit (Escaping-Ausgabe).
 
 Abschnitt 3: Stile (24 %)
@@ -92,20 +92,20 @@ Abschnitt 3: Stile (24 %)
 * Hierarchie der Stile erklären ( lib, modules, themes)
 * Client- und Server-seitige Kompilierung erläutern
 
-Abschnitt 4: JavaScript (16 %)
+Abschnitt 4: JavaScript (16%)
 
 * JavaScript-Komponenten initialisieren und aufrufen
 * Verwendung von RequireJS demonstrieren
 * Beschreiben der Verwendung von Mixins
-* Beschreiben Sie, wie Sie eine Übersetzung in JS hinzufügen.
+* Beschreiben, wie eine Übersetzung in JS hinzugefügt wird
 * Beschreiben der Verwendung von Knockout JS
 * Verwendung von jQuery-Widgets beschreiben
 
-Abschnitt 5: Admin-Konfiguration und Pagebuilder (12 %)
+Abschnitt 5: Admin-Konfiguration und Pagebuader (12%)
 
 * Grundlegende Verwendung des Content Managements demonstrieren
 * Beschreiben Sie die Schritte zum Anwenden/Planen eines Designs auf einen bestimmten Bereich (Website, Store, Store-Ansicht)
-* Beschreiben Sie die Schritte zum Anwenden von Designänderungen auf Kategorien, Produkte und CMS-Seiten mithilfe der Admin-Konfiguration.
+* Beschreiben Sie die Schritte zum Anwenden von Designänderungen auf Kategorien, Produkte und CMS-Seiten mithilfe der Admin-Konfiguration
 * Beschreibung der Schritte zum Anpassen von Transaktions-E-Mails
 
 Abschnitt 6: Tools (CLI und Grunt) (6 %)
@@ -114,7 +114,7 @@ Abschnitt 6: Tools (CLI und Grunt) (6 %)
 * Beschreiben Sie die Verwendung von Composer-Befehlen (installieren, aktualisieren, benötigen, entfernen)
 * Den geeigneten Anwendungsfall für Bereitstellungsmodi unterscheiden
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -157,7 +157,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Einführung in JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/bk-javascript-dev-guide.html){target="_blank"}
 * [jQuery-Widgets](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/widgets/jquery-widgets-about.html){target="_blank"}
 
-**Abschnitt 5: Admin-Konfiguration und -Pfad**
+**Abschnitt 5: Admin-Konfiguration und -Ordner**
 
 * [Konfigurationshandbuch](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
 * [Einführung in den Seitenaufbau](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
@@ -182,31 +182,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Prüfen (AD0-E719)
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E719 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

@@ -1,23 +1,23 @@
 ---
 title: Plattformzertifizierung
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Experience Platform] Experten.
+description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Platform] Experten.
 solution: Experience Platform
 product: Experience Platform
 role: Developer
-badge: label="Test AD0-E600 & AD7-E601" type="positive"
+badge: label="Prüfung AD0-E600 &amp; AD7-E601" type="positive"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1686'
-ht-degree: 10%
+source-wordcount: '1530'
+ht-degree: 11%
 
 ---
 
 
-# Zertifizierungs-Journey zur Adobe [!DNL Experience Platform] Expert
+# Zertifizierungs-Journey für Adobe [!DNL Experience Platform] Expert
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Experience Platform] Experten.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Platform] Experten.
 
 ## Minimales Erlebnis
 
@@ -25,7 +25,7 @@ Um eine Zertifizierung mit einer Prüfung zu erhalten, müssen Sie 2 verschieden
 
 Sie sollten über Folgendes verfügen:
 
-* Grundkenntnisse [!DNL Experience Platform] und kann durch die Benutzeroberfläche navigieren
+* Grundlagenkenntnisse [!DNL Experience Platform] und kann durch die Benutzeroberfläche navigieren
 * Die Möglichkeit, Segmente zu erstellen und Zielgruppen zu erstellen (Logik ist darin enthalten)
 * Die Möglichkeit, Ziele zu konfigurieren
 * Die Fähigkeit, Segmente mit Zielen zu verbinden
@@ -56,23 +56,23 @@ Sie sollten über Folgendes verfügen:
 * Technischer Berater
 
 
-**Anforderung 1: AD0-E600-Adobe [!DNL Experience Platform] Technische Stiftungen**
+**Anforderung 1: AD0-E600 Adobe [!DNL Experience Platform] Technische Stiftungen**
 
-Die Prüfung AD0-E600 validiert Fähigkeiten und Kenntnisse, die die Grundfunktionen und häufig durchgeführten Aufgaben der Adobe abdecken [!DNL Experience Platform] auf Expertenebene.
+Die Prüfung AD0-E600 validiert Fähigkeiten und Kenntnisse, die die Grundfunktionen und häufig durchgeführten Aufgaben des Adobe abdecken. [!DNL Experience Platform] auf Expertenebene.
 
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 50.35.50
+* Übergeben der Punktzahl: 35/50
 * Zeit: 105 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Sprache: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E600
+* Sprache: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E600
 
 **Prüfungsziele und -bereich**
 
-Abschnitt 1: Datenmodellierung (20 %)
+Abschnitt 1: Datenmodellierung (20%)
 
 * Analysieren Sie Quelldaten, um die primäre und sekundäre Identität für die Profilzuordnung zu bewerten.
 * Veranschaulichen Sie, wie Sie die Benutzeroberfläche zum Erstellen/Bearbeiten von XDM-Schemas verwenden.
@@ -83,11 +83,11 @@ Abschnitt 2: Datenerfassung (36%)
 * Formatieren und Vorbereiten von Daten für die Aufnahme demonstrieren
 * Erfahren Sie, wie Sie mithilfe von OOTB-Connectoren Datenquellen verbinden
 * Quelldaten über Batch und Streaming erfassen
-* Beschreiben Sie, wie Sie Datenübertragungen überwachen.
+* Beschreiben Sie, wie Sie Datenübertragungen überwachen
 * Ermitteln der Datenerkennung an Quelldaten
 * Demonstration der Umwandlung von Daten in eine XDM-Übereinstimmung
 
-Abschnitt 3: Profile vereinheitlichen (34 %)
+Abschnitt 3: Vereinheitlichung der Profile (34%)
 
 * Überprüfen von Profilen und Ereignisdaten nach der Erfassung
 * Definieren von IdentitätsnamensLeerzeichen
@@ -95,7 +95,7 @@ Abschnitt 3: Profile vereinheitlichen (34 %)
 * Ermitteln der Anreicherung von Profilen durch Data Science Workspace-Modellierungsdienste
 * So erstellen Sie ein Segment mit Segment Builder und wie der Segmentierungsdienst funktioniert
 
-Abschnitt 4: Aktivierung (10 %)
+Abschnitt 4: Aktivierung (10%)
 
 * Demonstrieren, wie ein Ziel eingerichtet wird und wie die Segmentaktivierung funktioniert
 * Datenzugriffs-API demonstrieren und verstehen und Daten über Real-Time CDP exportieren
@@ -103,7 +103,7 @@ Abschnitt 4: Aktivierung (10 %)
 Sehen Sie sich einen Fragebogen an, um herauszufinden, ob Sie die Mindestanforderungen erfüllen.
 
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -112,7 +112,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 **Abschnitt 1: Datenmodellierung**
 
 * [Grundlegendes zu Schemata](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=de){target="_blank"}
-* [Schema und XDM-Übersicht/-Adobe [!DNL Experience Platform]: Datenmodellierung und -aufnahme](https://video.tv.adobe.com/v/27105){target="_blank"}
+* [Schema und XDM-Übersicht/Adobe [!DNL Experience Platform]: Datenmodellierung und -aufnahme](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [Modelldaten in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
 * [Schema- und XDM-Übersicht](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=de){target="_blank"}
 
@@ -142,26 +142,19 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch
+## Prüfung AD0-E600 planen oder durchführen
 
-Adobe verwendet zwei Anbieter, um die verarbeiteten Prüfungen zu verwalten: PSI und Examity.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* **PSI** bietet Testcenter- und japanische Prüfungsoptionen (sofern verfügbar)
-* **[!DNL Examity]** bietet eine Remote-Online-Option
+<span class="spectrum-Button-label has-no-wrap">
+   Gehen Sie zum Portal "Examity"
+</span>
+</a>
 
-Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. Das ist so einfach!
-
-Ihr Profilname im Adobe Credential Management System muss genau mit Ihrer Government ID übereinstimmen. Wenn der Proktor die Prüfung nicht mit den gleichen Informationen oder einer Inkongruenz beendet, muss er den Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.
-
-Stornierungen und Umschulungen sind möglich, wenn sie vor 48 Stunden vor dem geplanten Prüfungstermin begonnen werden. Die Kandidaten müssen diese Ernennung selbst ändern.
-
-### Prüfnummer: AD0-E600
-
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E600 newtab=true"}[!BADGE Prüfung]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600 newtab=true"}
 
 >[!ENDTABS]
 
@@ -171,17 +164,17 @@ Stornierungen und Umschulungen sind möglich, wenn sie vor 48 Stunden vor dem ge
 
 **Anforderung 2: AD7-E601 Adobe Real-Time CDP Technical Practitioner**
 
-Die Prüfung AD7-E601 umfasst die Erstellung, Verwaltung und das Verständnis von Kundenprofil, Segmentierung, Zielen über Quellen hinweg und andere Themen. Die Prüfung validiert die grundlegenden Fertigkeiten und Kenntnisse, die erforderlich sind, um die Echtzeit-Kundendatenplattform für Zielgruppensegmentierung, Zielexporte und Aktivierung in Echtzeit für einheitliche Profile zu verwenden, die den Daten- und Datenschutzbestimmungen entsprechen. Bewerber sollten Erfahrung mit Kundendatenplattformen (CDP) und Kenntnisse über die Adobe haben [!DNL Experience Platform].
+Die Prüfung AD7-E601 umfasst die Erstellung, Verwaltung und das Verständnis von Kundenprofil, Segmentierung, Zielen über Quellen hinweg und andere Themen. Die Prüfung validiert die grundlegenden Fertigkeiten und Kenntnisse, die erforderlich sind, um die Echtzeit-Kundendatenplattform für Zielgruppensegmentierung, Zielexporte und Aktivierung in Echtzeit für einheitliche Profile zu verwenden, die den Daten- und Datenschutzbestimmungen entsprechen. Bewerber sollten Erfahrung mit Kundendatenplattformen (CDP) und Kenntnisse im Adobe haben. [!DNL Experience Platform].
 
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 34.25.
+* Übergeben der Bewertung: 25/34
 * Zeit: 51 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Sprache: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD7-E601
+* Sprache: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD7-E601
 
 **Eigenbewertung der Bereitschaft**
 
@@ -197,7 +190,7 @@ Abschnitt 1: Validierung(41%)
 * Überwachen des Segmentexports nach Ziel
 * Anwenden von Konzepten zur Validierung von Data Governance-Richtlinien
 
-Abschnitt 2: Segmentierung (32 %)
+Abschnitt 2: Segmentierung (32%)
 
 * Grundlagen zum Erstellen von Segmenten basierend auf Geschäftsanforderungen
 * Ermitteln eines Verständnisses dafür, wie Segmentbewertungen auf der Grundlage der erfassten Daten ermittelt werden
@@ -207,7 +200,7 @@ Abschnitt 3: Ziele (27%)
 * Anwenden von Konzepten, die zum Konfigurieren eines oder mehrerer Ziele erforderlich sind, wenn Zielgruppen basierend auf geschäftlichen Anwendungsfällen gesendet/exportiert werden
 * Demonstration eines Verständnisses für den Export von Segmenten über das Ziel
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 **Abschnitt 1: Validierung**
 
@@ -248,7 +241,7 @@ Abschnitt 3: Ziele (27%)
 * [Segmente mit B2B-Daten erstellen](https://video.tv.adobe.com/v/338252/){target="_blank"}
 * [Demo der Streaming-Segmentierung](https://video.tv.adobe.com/v/36184){target="_blank"}
 * [Erstellen und Aktivieren von Segmenten in Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
-* [Bewerten eines Segments](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=de){target="_blank"}
+* [Auswerten eines Segments](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Ziele**
 
@@ -267,7 +260,7 @@ Abschnitt 3: Ziele (27%)
 * [Marketo-Ziel konfigurieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-marketo-destination.html){target="_blank"}
 * [Dateibasierter Cloud-Speicher oder E-Mail-Marketing-Ziel konfigurieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html){target="_blank"}
 * [Konfigurieren eines sozialen Ziels](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html){target="_blank"}
-* [Daten für Nicht-Adobe-Anwendungen aktivieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html?lang=de){target="_blank"}
+* [Daten für Nicht-Adobe-Anwendung aktivieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html?lang=de){target="_blank"}
 
 >[!TAB Zertifizieren]
 
@@ -281,33 +274,19 @@ Abschnitt 3: Ziele (27%)
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E601).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E601 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
+
 
 >[!ENDTABS]
 

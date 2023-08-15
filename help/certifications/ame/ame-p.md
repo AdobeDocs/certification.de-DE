@@ -1,22 +1,22 @@
 ---
 title: Berufliche Zertifizierung
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Marketo Engage] Professional.
+description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Marketo Engage] Professional.
 solution: Marketo Engage
 product: Marketo
 role: User
-badge: label="Test AD0-E555" type="positive"
+badge: label="Prüfung AD0-E555" type="positive"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1043'
+source-wordcount: '1019'
 ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Marketo Engage] Professional
+# Zertifizierungs-Journey für Adobe [!DNL Marketo Engage] Professional
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Marketo] Professional.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Marketo] Professional.
 
 ## Minimales Erlebnis
 
@@ -25,8 +25,8 @@ Sie sollten über Folgendes verfügen:
 * Praktisches Erlebnis über ca. 6 Monate
 * Die Fähigkeit, die von Aufgabenanforderungen ausgedrückten Marketing-Anforderungen zu verstehen, um eine technische Lösung anzuwenden
 * Die Fähigkeit, ein einfaches Programm von Anfang bis Ende zu erstellen
-* Die Möglichkeit, eine Smart-Liste und eine Smart-Kampagne zu erstellen
-* Grundlagen zum Erstellen von Segmentierungen
+* Möglichkeit zur Erstellung einer Smart-Liste und einer Smart-Kampagne
+* Kenntnisse über das Erstellen von Segmentierungen
 * Grundlagen zur Datenüberprüfung (Bereinigung)
 * Grundlagen zur Datenbank (Erstellung von Personen, Aktivitätsprotokoll, Abmeldung, Blockierungsliste, ungültige E-Mail-Konzepte)
 * Fähigkeit, die Bedeutung von Datenschutzbestimmungen zu verstehen
@@ -63,13 +63,13 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 55.36.55
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 36/55
 * Zeit: 110 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E555
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E555
 
 **Eigenbewertung der Bereitschaft**
 
@@ -86,7 +86,7 @@ Abschnitt 1: Erstellung und Verwaltung von Programmen (39%)
 * Zusammenfassende Analyse der Berichtsdaten und Erarbeitung von Schlussfolgerungen
 * Erkennung von Ausreißern und Anomalien in Berichten
 
-Abschnitt 2: Erstellen von Assets (19 %)
+Abschnitt 2: Erstellen von Assets (19%)
 
 * Bearbeiten von Dateien in Design Studio (Hochladen/Ersetzen von Bildern und Dateien).
 * Erstellen/Ändern Sie ein Formular mit dem Formular-Editor.
@@ -94,9 +94,9 @@ Abschnitt 2: Erstellen von Assets (19 %)
 * Erstellen/bearbeiten Sie eine Landingpage mit dem Landingpage-Editor.
 * Erstellen/bearbeiten Sie ein Snippet im Snippet-Editor.
 * Unterscheiden Sie die Differenz zwischen Entwurf und genehmigten Assets.
-* Unterscheidung der Unterschiede zwischen lokalen und globalen Assets.
+* Unterscheidung zwischen lokalen und globalen Assets.
 
-Abschnitt 3: Zielgruppenbestimmung (33%)
+Abschnitt 3: Zielgruppenbestimmung und -bestimmung (33%)
 
 * Erstellen/Ändern von Smart-Listen.
 * Grundlegendes zu den Workflow-Schritten für intelligente Kampagnen.
@@ -111,13 +111,13 @@ Abschnitt 3: Zielgruppenbestimmung (33%)
 * Erfahren Sie, wie die Trigger und Filter von Smart Campaign funktionieren.
 * Unterscheiden Sie die verschiedenen Listenimporte.
 
-Abschnitt 4: Analyse und Erstellung von Berichten (9 %)
+Abschnitt 4: Analyse und Erstellung von Berichten (9%)
 
 * Die standardmäßige Adobe erläutern [!DNL Marketo Engage] und wann sie verwendet werden sollten (E-Mail-Link-Leistung, E-Mail-Leistung, Landingpage-Leistung, Personenleistung, Programmleistung, Web-Seitenaktivität usw.)
 * Vergleichen von Dashboard-Informationen und -Metriken (E-Mail-Programm-Dashboard, Interaktionsprogramm-Dashboard)
 * Vergleichen von E-Mail-Insights-Metriken
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -135,18 +135,18 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Grundlagen zu E-Mail-Programmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html){target="_blank"}
 * [Grundlegendes zu Interaktionsmaßnahmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
 * [Grundlagen zu Ereignisprogrammen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
-* [Grundlegendes zu meinen Token in einem Programm](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html){target="_blank"}
+* [Grundlagen zu meinen Token in einem Programm](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html){target="_blank"}
 * [Marketo-Glossar](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html){target="_blank"}
 * [Grundlegendes zur Programmmitgliedschaft](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
 
 **Abschnitt 2: Erstellen von Assets**
 
 * [Grundlegendes zu lokalen Assets in einem Programm](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.html){target="_blank"}
-* [Erstellen eines Formulars](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form.html){target="_blank"}
+* [Formular erstellen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/create-a-form.html){target="_blank"}
 * [Token-Übersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.html){target="_blank"}
 * [Grundlegendes zu Landingpages](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
 
-**Abschnitt 3: Zielgruppenbestimmung**
+**Abschnitt 3: Zielgruppenbestimmung und -bestimmung**
 
 * [Smart-Kampagnen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html){target="_blank"}
 * [Best Practices für Smart-Listen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
@@ -169,31 +169,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E555).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E555" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E555 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E555" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

@@ -3,14 +3,14 @@ title: Überblick über die Experience Manager-Zertifizierung
 description: Überblick über die Zertifizierungsoptionen für Adobe Experience Manager
 solution: Experience Manager
 exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '347'
 ht-degree: 1%
 
 ---
 
-# Überblick über die Experience Manager-Zertifizierung
+# Adobe [!DNL Experience Manager] Zertifizierungsübersicht
 
 Wählen Sie Ihr Niveau und Ihre berufliche Rolle aus, um weitere Informationen zur Zertifizierung zu erhalten, an der Sie interessiert sind.
 
@@ -36,7 +36,7 @@ Wenn Sie Informationen zur Verlängerung Ihrer bestehenden Zertifizierung benöt
 
 >[!NOTE]
 >
->Die **Übergeordnete Prüfung für Adobe Experience Manager Architect Sites (AD0-E117)** wird gewartet und ist vorübergehend nicht verfügbar. Wir entschuldigen uns aufrichtig für die Unannehmlichkeiten. [Melden Sie sich zur Benachrichtigung an](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wenn sie wieder verfügbar ist.
+>Die **Adobe Experience Manager Architect Sites Master-Prüfung (AD0-E117)** wird gewartet und ist vorübergehend nicht verfügbar. Wir entschuldigen uns aufrichtig für die Unannehmlichkeiten. [Melden Sie sich zur Benachrichtigung an](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wenn sie wieder verfügbar ist.
 >
 >**Fragen?** Siehe unsere [FAQs](#AEM-FAQ) unten auf dieser Seite.
 
@@ -44,7 +44,7 @@ Wenn Sie Informationen zur Verlängerung Ihrer bestehenden Zertifizierung benöt
 
 
 
-## Häufig gestellte Fragen zur Übergeordneten Prüfung von Adobe Experience Manager Sites Architect (AD0-E117) {#AEM-FAQ}
+## Häufig gestellte Fragen zur Adobe Experience Manager Sites Architect Master-Prüfung (AD0-E117) {#AEM-FAQ}
 
 Die Zertifizierungsprüfung AD0-E117 wird derzeit gewartet und ist vorübergehend nicht verfügbar. Wir entschuldigen uns aufrichtig für die Unannehmlichkeiten. [Melden Sie sich zur Benachrichtigung an](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wenn sie wieder verfügbar ist.
 

@@ -1,28 +1,28 @@
 ---
 title: Zertifizierung durch Entwickler
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe Developer Expert-Adobe werden. [!DNL Campaign Standard].
+description: Erfahren Sie, wie Sie ein zertifiziertes Adobe Developer Expert Adobe werden. [!DNL Campaign Standard].
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
-badge: label="Test AD0-E306" type="positive"
+badge: label="Prüfung AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1096'
-ht-degree: 14%
+source-wordcount: '1073'
+ht-degree: 15%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Campaign Standard] Entwicklerexperte
+# Zertifizierungs-Journey für Adobe [!DNL Campaign Standard] Entwicklerexperte
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte werden.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Campaign Standard] Entwicklerexperte.
 
 ## Minimales Erlebnis
 
 Sie sollten über Folgendes verfügen:
 
-* Mindestens zwei Jahre [!DNL Campaign] Software-Erfahrung
+* Mindestens zwei Jahre Adobe [!DNL Campaign Standard] Software-Erfahrung
 * Mindestens zwei Jahre Erfahrung mit relevanten kanalübergreifenden digitalen Marketingkampagnen und Webentwicklung (z. B. REST-API)
 * Die Fähigkeit, Aufgaben in Adobe Campaign auszuführen, einschließlich Vorlagenentwicklung, technische Workflows, Schemaentwicklung und Integrationen, und die Instanz mithilfe des Control Panels zu überwachen
 * Erlebnis, das in einer Kanalbereitstellungsumgebung (E-Mail, Briefpost, Mobile und Social) arbeitet
@@ -31,13 +31,13 @@ Sie sollten über Folgendes verfügen:
 * Experience-Verwaltung einer Marketing-Automatisierungsplattform
 * Grundlegendes zu CSS, HTML und JavaScript, E-Mails
 * Grundlegendes Wissen über relationale Datenbanken und Datenmodellierung
-* Grundlegendes zu technischen Workflows und deren Konfiguration
-* Erweiterung der Empfängertabelle oder des Empfängerschemas und des Daten-Managements
+* Technische Workflows und ihre Konfiguration
+* Erweiterung der Empfängertabelle oder des Empfängerschemas und Datenverwaltung
 * Erstellte Typologieregeln, Workflows, Versand- und Kampagnenvorlagen
 * Konfigurierte Rollen und Berechtigungen
-* Erlebnis mit Administration Console und Integration mit anderen Adobe Apps
+* Erfahren Sie mehr über Administration Console und die Integration mit anderen Adobe-Applikationen
 * Bewusstsein für Adobe I/O und Adobe I/O Runtime
-* Erlebnis mit Transaktionsnachrichten und Nachrichtenversand auf mehreren Kanälen
+* Erfahrung mit Transaktionsnachrichten und Nachrichtenversand auf mehreren Kanälen
 * Erlebnis mit verwalteten Paketen
 
 >[!NOTE]
@@ -60,12 +60,12 @@ Sie sollten über Folgendes verfügen:
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 29.05.50
+* Übergeben der Punktzahl: 29/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E306
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E306
 
 **Eigenbewertung der Bereitschaft**
 
@@ -73,9 +73,9 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Datenmodellierung und -verwaltung (26 %)
+Abschnitt 1: Datenmodellierung und -verwaltung (26%)
 
-* Wandeln Sie bei einem Szenario eine Kundenanforderung in eine benutzerdefinierte Ressource um
+* Umwandeln einer Kundenanforderung in eine benutzerdefinierte Ressource
 * Konfigurieren von Bildschirm- und Filterdefinitionen
 * Legen Sie für ein Szenario die richtige Strategie zum Definieren von Schlüsseln, Indizes und Links fest.
 * Bestimmen der richtigen Methode zum Veröffentlichen von Ressourcenaktualisierungen
@@ -104,7 +104,7 @@ Abschnitt 3: Verwaltung (24%)
 * Bestimmen des richtigen Ansatzes zum Erstellen von Marken
 * Bestimmen des richtigen Ansatzes zur Entwicklung von Kanalkonfigurationen
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -117,7 +117,7 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 * [Filterdefinition konfigurieren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-filter-definition.html){target="_blank"}
 * [Verknüpfen benutzerdefinierter Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
 * [Datenstruktur der Ressource konfigurieren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
-* [Validierungsprozesse](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
+* [Genehmigungsverfahren](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
 * [Datenbankstruktur aktualisieren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
 * [Technische Workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=de){target="_blank"}
 
@@ -138,7 +138,7 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 * [Campaign E-Mail-Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=de){target="_blank"}
 * [Erste Schritte mit dynamischen Berichten](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=de){target="_blank"}
 
-**Abschnitt 3: Administration**
+**Abschnitt 3: Verwaltung**
 
 * [Verwalten von Gruppen und Benutzern](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
 * [Organisationseinheiten](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html?lang=de){target="_blank"}
@@ -163,31 +163,16 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E306).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E306 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

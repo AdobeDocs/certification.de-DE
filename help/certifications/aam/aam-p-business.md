@@ -1,27 +1,27 @@
 ---
-title: Berufliche Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie als Adobe zertifiziert werden. [!DNL Audience Manager] Business Practitioner Professional.
+title: Berufliche Zertifizierung durch Business Practice
+description: Erfahren Sie, wie Sie als Adobe zertifiziert werden [!DNL Audience Manager] Business Practitioner Professional.
 solution: Audience Manager
 product: Audience Manager
 role: User
 level: Experienced
-badge: label="Test AD0-E458" type="positive"
+badge: label="Prüfung AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '909'
+source-wordcount: '907'
 ht-degree: 15%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Audience Manager] Geschäftspraktiker/innen
+# Zertifizierungs-Journey für Adobe [!DNL Audience Manager] Geschäftspraktiker/innen
 
 Erfahren Sie, wie Sie als [!DNL Audience Manager] Business Practitioner Professional.
 
 ## Minimales Erlebnis
 
-Sie sollten über grundlegende Kenntnisse der Datenflüsse, Geschäftsziele und KPIs verfügen, mit einigen Erfahrungen rund um Datenanalyse und Strategien
+Sie sollten ein grundlegendes Verständnis der Datenflüsse, Geschäftsziele und KPIs haben, mit einigen Erfahrungen rund um Datenanalyse und Strategien
 
 >[!BEGINTABS]
 
@@ -32,20 +32,20 @@ Sie sollten über grundlegende Kenntnisse der Datenflüsse, Geschäftsziele und 
 * Digital Marketing Specialist
 * Marketingtechnologieberater
 * Zielgruppenstratege
-* Verhaltensberater
+* Behavioral Consultant
 * Digital Marketing Analytics
 * Marketing Data Analytics
 * Data Platform Manager
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 50.31.50
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 31/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E458
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E458
 
 **Prüfungsziele und -umfang**
 
@@ -53,16 +53,16 @@ Abschnitt 1: Erstellung und Syndikation von Segmenten (32 %)
 
 * Ermitteln von Möglichkeiten zur Verwendung von Erstanbieter-, Zweit- und Drittanbieterdaten für Targeting- und Analysezwecke.
 * Beschreiben Sie den grundlegenden Prozess für die Aktivierung von Geschäfts- oder Kampagnenzielen.
-* Unterscheiden der Methoden zur Segmentaktivierung
+* die Methoden zur Segmentaktivierung unterscheiden
 * Identifizieren der verschiedenen Zieltypen
 * Identifizieren der verschiedenen Quellen
 
-Abschnitt 2: Erstellung von Eigenschaften (16 %)
+Abschnitt 2: Erstellung von Eigenschaften (16%)
 
 * Identifizieren von Signalen, Eigenschaften, Segmenten und Zielgruppen
 * Verwendung verschiedener Eigenschaftstypen identifizieren
 
-Abschnitt 3: Berichterstattung und Messungen (16 %)
+Abschnitt 3: Berichterstattung und Messungen (16%)
 
 * Generieren Sie in einem Szenario Berichte zur Messung der Aktivierung oder der Kampagnenziele
 * Vergleichen Sie in einem Szenario Zielgruppen anhand von Übereinstimmungsraten.
@@ -70,7 +70,7 @@ Abschnitt 3: Berichterstattung und Messungen (16 %)
 Abschnitt 4: Fehlerbehebung (10 %)
 
 * In einem Szenario führen Sie eine Fehlerbehebung bei eingehenden Daten aus verschiedenen Quellen und Quelltypen durch
-* Validieren des Formats für eingehende Datendateien
+* Format für eingehende Datendateien überprüfen
 
 Abschnitt 5: Taxonomie (12%)
 
@@ -82,7 +82,7 @@ Abschnitt 6: Profilzusammenführung, ID-Synchronisierung und Audience Marketplac
 * Organisieren von Benutzereigenschaften in einem einheitlichen Profil, um auf Haushalts- oder Gerätebasis basierende Zielgruppen zu erstellen
 * Aktivierung mithilfe von Audience Marketplace identifizieren
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -96,7 +96,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 **Abschnitt 1: Erstellung und Syndikation von Segmenten**
 
-* [Nutzung von Massen-Upload-Daten in Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.html){target="_blank"}
+* [Massenupload der Datennutzung in Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.html){target="_blank"}
 * [Über Segmente](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=de){target="_blank"}
 * [Erstellen Sie eine Konversionseigenschaft in [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html){target="_blank"}
 * [[!DNL Audience Manager] Tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
@@ -108,14 +108,14 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 * [Signale, Eigenschaften und Segmente](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=de){target="_blank"}
 * [Segmente: Zweck, Zusammensetzung und Regeln](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
-* [Segmentfreigabe in Experience Platform mit [!DNL Audience Manager] und anderen Experience Cloud-Lösungen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=de){target="_blank"}
+* [Experience Platform der Segmentfreigabe mit [!DNL Audience Manager] und anderen Experience Cloud-Lösungen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=de){target="_blank"}
 * [Referenz: Eigenschafts- und Segmentqualifikationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
 * [Eigenschafts- und Segmentpopulationsdaten in Segment Builder](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder-data.html?lang=de){target="_blank"}
 
-**Abschnitt 3: Berichterstattung und Messungen**
+**Abschnitt 3 Berichterstattung und Messungen**
 
 * [Verwenden von Audience Optimizationen-Berichten zum Überblicken der Medienwirksamkeit](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
-* [Segmentfreigabe in Experience Platform mit [!DNL Audience Manager] und anderen Experience Cloud-Lösungen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=de){target="_blank"}
+* [Experience Platform der Segmentfreigabe mit [!DNL Audience Manager] und anderen Experience Cloud-Lösungen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=de){target="_blank"}
 * [Übereinstimmungsraten verstehen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html){target="_blank"}
 * [Datenquelle für Analytics-Daten erstellen](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/data-sources/create-a-data-source-for-analytics-data.html?lang=ru){target="_blank"}
 
@@ -137,7 +137,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 **Abschnitt 6: Profilzusammenführung, ID-Synchronisierung und Audience Marketplace**
 
-* [Auswirkungen von Profilzusammenführungsrichtlinien-Verbesserungen auf die Segmentierung, Aktivierung und Berichterstellung](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.html){target="_blank"}
+* [Auswirkungen von Profilzusammenführungsrichtlinien-Verbesserungen auf Segmentierung, Aktivierung und Reporting](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.html){target="_blank"}
 * [Erstellen Sie eine Konversionseigenschaft in [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html){target="_blank"}
 * [Aktivieren von Zielgruppensegmenten bei Bedarf für Batch-Ziele über die Ad-hoc-Aktivierungs-API](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html){target="_blank"}
 * [Profile und Segmente für ein Ziel aktivieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
@@ -150,20 +150,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E458).
-
-### Verfügbare Optionen
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E458 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E458" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

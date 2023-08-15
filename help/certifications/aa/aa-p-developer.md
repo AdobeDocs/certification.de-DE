@@ -8,16 +8,16 @@ level: Experienced
 badge: label="Prüfung AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1141'
+source-wordcount: '1120'
 ht-degree: 10%
 
 ---
 
 # Journey für die Zertifizierung [!DNL Adobe Analytics] Entwickler Professional
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Analytics] Entwickler Professional.
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Analytics] Entwickler Professional.
 
 ## Minimales Erlebnis
 
@@ -170,35 +170,20 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
-## Über die Prüfung
-
-{{about-certification-exam}}
-
 ## Einen Praxistest durchführen
 
 {{practice-test}}
 
-## Führen Sie die Prüfung durch (AD0-E213)
+## Über die Zertifizierungsprüfung
 
-### Verfügbare Optionen
+{{about-certification-exam}}
 
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E213 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

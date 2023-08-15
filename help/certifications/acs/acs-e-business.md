@@ -1,30 +1,30 @@
 ---
 title: Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie ein zertifizierter Business-Practice-Experte für Adoben in Adobe werden. [!DNL Campaign Standard]
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner-Experte im Adobe werden. [!DNL Campaign Standard]
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
-badge: label="Test AD0-E307" type="positive"
+badge: label="Prüfung AD0-E307" type="positive"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '813'
-ht-degree: 12%
+source-wordcount: '790'
+ht-degree: 13%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Campaign Standard] Geschäftspraktiker-Experte
+# Zertifizierungs-Journey für Adobe [!DNL Campaign Standard] Geschäftspraktiker-Experte
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner-Experte werden.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Campaign Standard] Geschäftspraktiker-Experte.
 
 ## Minimales Erlebnis
 
-Sie sollten Erfahrung mit der Arbeit in einer Kanalbereitstellungsumgebung (E-Mail, Briefpost, Mobile und Social) haben. Kenntnis der Taktiken von Marketing-Kampagnen, wie Multi-Touch, Lebenszyklus und Reaktivierung; und ein Verständnis der Marketing-Metriken wie ROI, Clickthrough-Raten und Konversion.
+Sie sollten Erfahrung in der Arbeit mit einer Umgebung für den Kanalversand (E-Mail, Briefpost, Mobile und Social) haben, sich mit Taktiken von Marketing-Kampagnen wie Multi-Touch, Lebenszyklus und Reaktivierung vertraut machen und Marketingmetriken wie ROI, Clickthrough-Raten und Konversion verstehen.
 
 Zusätzlich sollten Sie Folgendes haben:
 
-* Felderfahrung, die mit [!DNL Campaign Standard] mit regelmäßiger Häufigkeit
+* Felderfahrung beim Arbeiten mit Adobe [!DNL Campaign Standard] mit regelmäßiger Häufigkeit
 * Möglichkeit zur Verarbeitung von Datendateien
 * Grundlegendes zu den Konzepten von relationalen Datenbanken, Triggern, APIs und technischen Workflows
 * Grundlagen zum Erstellen von Marketing-Workflows und zum Verwenden der zugrunde liegenden Daten, um Marketing-Workflows zu starten
@@ -54,12 +54,12 @@ Zusätzlich sollten Sie Folgendes haben:
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 50.30 Uhr
+* Übergeben der Punktzahl: 30/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch &amp; Japanisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E307
+* Verfügbare Sprachen: Englisch und Japanisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E307
 
 **Eigenbewertung der Bereitschaft**
 
@@ -70,7 +70,7 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 Abschnitt 1: Versandverwaltung (25%)
 
 * Best Practices beim Einrichten und Bereitstellen eines Versands anwenden
-* Bestimmen der richtigen Versandkonfiguration
+* Bestimmen der korrekten Versandkonfiguration
 * Anwenden von Email Designer-Funktionen auf das entsprechende Szenario
 
 Abschnitt 2: Kampagnenverwaltung (25%)
@@ -78,12 +78,12 @@ Abschnitt 2: Kampagnenverwaltung (25%)
 * Anwenden von Konfigurationen zum Ausführen von Workflows
 * Best Practices bei der Planung, Gliederung und Änderung einer Kampagne anwenden
 
-Abschnitt 3: Anforderungsanalyse (10 %)
+Abschnitt 3: Anforderungsanalyse (10%)
 
 * Erstellen Sie einen neuen Workflow basierend auf Unternehmens-/Kampagnenanforderungen.
 * Kundenanforderungen interpretieren
 
-Abschnitt 4: Berichterstellung (15 %)
+Abschnitt 4: Berichterstattung (15%)
 
 * Legen Sie bei Kundenanforderungen den zu generierenden Bericht fest.
 * Passen Sie bei einem Szenario einen vordefinierten dynamischen Bericht an
@@ -101,7 +101,7 @@ Abschnitt 6: Datenverwaltung und -administration (15%)
 * Ausführen [!DNL Campaign Standard] Administration
 * Anwenden des Prozesses zum Erstellen zielgerichteter Zielgruppen
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -155,31 +155,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E307).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E307" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E307 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E307" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

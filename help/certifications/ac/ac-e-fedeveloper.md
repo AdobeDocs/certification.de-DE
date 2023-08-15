@@ -1,31 +1,31 @@
 ---
 title: Frontend-Entwicklerexpertenzertifizierung
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte für Adobe werden. [!DNL Commerce].
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte im Adobe werden. [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
 level: Experienced
-badge: label="Test AD0-E710" type="positive"
+badge: label="Prüfung AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1337'
 ht-degree: 1%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Commerce] Frontend-Entwicklerexperte
+# Journey für die Zertifizierung [!DNL Adobe Commerce] Frontend-Entwicklerexperte
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte werden.
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Commerce] Entwicklerexperte.
 
 >[!NOTE]
 >
->Diese Prüfung für Adobe Commerce Frontend Developer Expert (AD0-E710) wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 18. August 2023 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir Ihnen, die [neueste Version dieser Prüfung](ac-e-fedeveloper0623.md).
+>Diese Prüfung [!DNL Adobe Commerce] Frontend-Entwickler-Expert (AD0-E710) wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 18. August 2023 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir Ihnen, die [neueste Version dieser Prüfung](ac-e-fedeveloper0623.md).
 
 ## Minimales Erlebnis
 
-Sie sollten mindestens 1-3 Jahre praktische Erfahrung mit der Adobe haben [!DNL Commerce] Frontend-Entwicklung und die Fähigkeit, die durch Aufgabenanforderungen zum Ausdruck gebrachten Bedürfnisse in eine technische Lösung zu übersetzen.
+Sie sollten mindestens 1-3 Jahre praktische Erfahrung mit Adobe haben [!DNL Commerce] Frontend-Entwicklung und die Fähigkeit, die durch Aufgabenanforderungen zum Ausdruck gebrachten Bedürfnisse in eine technische Lösung zu übersetzen.
 
 Außerdem sollten Sie die folgenden Technologien verwenden:
 
@@ -59,12 +59,12 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 50.33.50
+* Übergeben der Punktzahl: 33/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E710
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E710
 
 **Eigenbewertung der Bereitschaft**
 
@@ -72,13 +72,13 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Designverwaltung (Designhierarchie, Bildkonfiguration, Übersetzungen) (16 %)
+Abschnitt 1: Designverwaltung (Themenhierarchie, Bildkonfiguration, Übersetzungen) (16 %)
 
 * Adobe beschreiben [!DNL Commerce] Struktur des Designordners und wie er mit ordnerbasierten Designs verknüpft ist
 * Demonstration der Möglichkeit, ein neues Design zu erstellen (Vererbung/Fallbacks, Designausnahmen, Designeigenschaften)
 * Möglichkeiten zur Erweiterung vorhandener Themen demonstrieren
 * Möglichkeiten zur Anpassung von Transaktions-E-Mails demonstrieren
-* Anwendung von Übersetzungen
+* Anwendung von Übersetzungen demonstrieren
 * Legen Sie bei einer Reihe von Anwendungsfällen fest, wann Dateien in App/Code oder App/Design platziert werden sollen
 
 Abschnitt 2: Layout-XML und Vorlagen (HTML-Vorlagen) (24 %)
@@ -87,10 +87,10 @@ Abschnitt 2: Layout-XML und Vorlagen (HTML-Vorlagen) (24 %)
 * Möglichkeiten zum Erstellen neuer Seitenlayouts
 * den Unterschied zwischen Erweitern/Zusammenführen und Überschreiben von XML
 * Übergeben und Verwenden von Argumenten an Vorlagen demonstrieren
-* Möglichkeiten zum Erstellen und Anpassen von Vorlagen demonstrieren
+* Erstellen und Anpassen von Vorlagen demonstrieren
 * Anwenden der Vorlagensicherheit (Escapeausgabe)
 
-Abschnitt 3: Stile (18 %)
+Abschnitt 3: Stile (18%)
 
 * Identifizieren Sie den Zweck von styles-m.less, styles-l.less, print.less.
 * Beschreiben Sie den Unterschied zwischen bestimmten partiellen Dateien (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,).
@@ -101,13 +101,13 @@ Abschnitt 3: Stile (18 %)
 * Implementierung und Anpassung von LESS-Bibliothekskomponenten demonstrieren
 * Identifizieren Sie die Unterschiede zwischen der clientseitigen und der serverseitigen Kompilierung und wie sie funktioniert.
 
-Abschnitt 4: JavaScript (Bild-Widgets, Bildbibliothek, Kundendatenmodul, Knock-out-Vorlagen) (22 %)
+Abschnitt 4: JavaScript (Bild-Widgets, Bildbibliothek, Kundendatenmodul, Knock-out-Vorlagen) (22%)
 
 * JavaScript-Komponenten initialisieren und aufrufen
 * Unterscheiden von Anwendungsfällen für verschiedene JavaScript-Komponenten
 * Verwendung von RequireJS demonstrieren
-* Möglichkeiten zur Implementierung verschiedener Mixintypen demonstrieren
-* Beschreiben Sie, wie Sie eine Übersetzung in JS hinzufügen.
+* Möglichkeiten zur Implementierung verschiedener Mixins demonstrieren
+* Beschreiben, wie eine Übersetzung in JS hinzugefügt wird
 * Beschreiben der Interaktionen zwischen UI-Komponenten
 * Verwendung von Knockout JS demonstrieren
 * Verwendung von jQuery-Widgets demonstrieren
@@ -118,7 +118,7 @@ Abschnitt 5: Admin-Konfiguration und PageBuilder (12 %)
 * Verwendung des Content Managements demonstrieren
 * Anwenden/Planen eines Designs auf einen bestimmten Bereich (Website, Store, Store-Ansicht)
 * Anwenden von Designänderungen auf Kategorien, Produkte und CMS-Seiten mithilfe der Admin-Konfiguration
-* Beschreibung der Frontend-Optimierung
+* Beschreibung der Front-End-Optimierung
 * Transaktions-E-Mails anpassen
 * Verwendung von Admin-Entwicklungstools demonstrieren
 
@@ -129,7 +129,7 @@ Abschnitt 6: Tools (CLI und Grunt) (8 %)
 * Den geeigneten Anwendungsfall für Bereitstellungsmodi unterscheiden
 * Festlegen der Einrichtung und Verwendung von Grundes
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -186,7 +186,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [jQuery-Widgets](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/){target="_blank"}
 * [Hinzufügen eines JavaScript-Moduls](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html?lang=de){target="_blank"}
 
-**Abschnitt 5: Admin-Konfiguration und PageBuilder**
+**Abschnitt 5: Administratorkonfiguration und PageBuilder**
 
 * [Inhaltselemente](https://docs.magento.com/user-guide/v2.3/cms/content-elements.html){target="_blank"}
 * [Designkonfiguration](https://docs.magento.com/user-guide/design/configuration.html){target="_blank"}
@@ -216,31 +216,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E710)
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E710 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

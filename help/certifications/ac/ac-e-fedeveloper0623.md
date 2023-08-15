@@ -1,33 +1,33 @@
 ---
 title: Front-End-Entwicklerexperte - neue Zertifizierung
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte für Adobe werden. [!DNL Commerce].
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte im Adobe werden. [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Test AD0-E720" type="positive"
+badge: label="Prüfung AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1046'
 ht-degree: 1%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Commerce] Frontend-Entwicklerexperte
+# Journey für die Zertifizierung [!DNL Adobe Commerce] Frontend-Entwicklerexperte
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte werden.
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Commerce] Entwicklerexperte.
 
 >[!NOTE]
 >
->Dies ist die neueste Adobe Commerce Frontend-Entwicklerexpertenprüfung. Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](ac-e-fedeveloper.md) Sie haben bis zum 18. August 2023 Zeit, um sie abzuschließen.
+>Das ist das Neueste [!DNL Adobe Commerce] Frontend-Entwicklerexpertenprüfung. Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](ac-e-fedeveloper.md) Sie haben bis zum 18. August 2023 Zeit, um sie abzuschließen.
 
 ## Minimales Erlebnis
 
-Der Frontend-Entwickler von Adobe Commerce gilt als Expertenrolle und verfügt über eine mindestens 1-3-jährige praktische Erfahrung mit der Frontend-Entwicklung von Adobe Commerce. Sie sollten in der Lage sein, die durch Aufgabenanforderungen zum Ausdruck gebrachten Bedürfnisse in eine technische Lösung zu übersetzen.
+Die [!DNL Adobe Commerce] Frontend-Entwickler gelten als Expertenrolle und haben mindestens 1-3 Jahre praktische Erfahrung mit der Adobe Commerce Frontend-Entwicklung. Sie sollten in der Lage sein, die durch Aufgabenanforderungen zum Ausdruck gebrachten Bedürfnisse in eine technische Lösung zu übersetzen.
 
 Der Bewerber sollte sich mit folgenden Technologien vertraut machen:
 
-* Adobe Commerce - Version 2.4.6
+* [!DNL Adobe Commerce] - Version 2.4.6
 * Grundlegendes zur Frontend-Struktur und zum Layout
 * Erlebnis und Verständnis von HTML, CSS (und Präprozessoren), LESS, JavaScript- und UI-Komponenten, jQuery, Underscore, Require.JS, Knockout, auch PHP-Vorlagen, DB-Kenntnissen und Content Management
 * Kenntnis der Plattform, der CMS-Blöcke, Widgets, CMS-Seiten, Kategorieseiten, Produktseiten, Warenkorb und Checkout sowie des Bereichs Konto-Dashboard
@@ -41,7 +41,7 @@ Der Bewerber sollte sich mit folgenden Technologien vertraut machen:
 * Grundlegendes zu Code-Paketen
 * Implementierung der Übersetzung
 * Funktionsweise mit E-Mail-Vorlagen
-* Grundlagen zur Adobe Commerce Cloud-Infrastruktur
+* Grundlegendes zur Adobe Commerce Cloud-Infrastruktur
 * Grundlegende Kenntnisse des Befehlszeilenwerkzeugs für Cloud CLI
 
 >[!BEGINTABS]
@@ -57,12 +57,12 @@ Der Bewerber sollte sich mit folgenden Technologien vertraut machen:
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 50.33.50
+* Übergeben der Punktzahl: 33/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E720
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E720
 
 **Eigenbewertung der Bereitschaft**
 
@@ -70,25 +70,25 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Designverwaltung (Designhierarchie, Bildkonfiguration, Übersetzungen) (16 %)
+Abschnitt 1: Designverwaltung (Themenhierarchie, Bildkonfiguration, Übersetzungen) (16 %)
 
 * Beschreiben Sie die Ordnerstruktur des Adobe Commerce-Designs und wie sie mit ordnerbasierten Designs verknüpft ist.
 * Demonstration der Möglichkeit, ein neues Design zu erstellen (Vererbung/Fallbacks, Designausnahmen, Designeigenschaften)
 * Möglichkeiten zur Erweiterung vorhandener Themen demonstrieren
 * Möglichkeiten zur Anpassung von Transaktions-E-Mails demonstrieren
-* Anwendung von Übersetzungen
+* Anwendung von Übersetzungen demonstrieren
 * Legen Sie bei einer Reihe von Anwendungsfällen fest, wann Dateien in App/Code oder App/Design platziert werden sollen
 
-Abschnitt 2: Layout-XML und Vorlagen (HTML-Vorlagen) (22 %)
+Abschnitt 2: Layout-XML und Vorlagen (HTML-Vorlagen) (22%)
 
 * Verwenden von XML-Anweisungen für Layouts demonstrieren
 * Möglichkeiten zum Erstellen neuer Seitenlayouts
 * den Unterschied zwischen Erweitern/Zusammenführen und Überschreiben von XML
 * Übergeben und Verwenden von Argumenten an Vorlagen demonstrieren
-* Möglichkeiten zum Erstellen und Anpassen von Vorlagen demonstrieren
+* Erstellen und Anpassen von Vorlagen demonstrieren
 * Anwenden der Vorlagensicherheit (Escapeausgabe)
 
-Abschnitt 3: Stile (18 %)
+Abschnitt 3: Stile (18%)
 
 * Identifizieren Sie den Zweck von styles-m.less, styles-l.less, print.less.
 * Beschreiben Sie den Unterschied zwischen bestimmten partiellen Dateien (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,).
@@ -99,13 +99,13 @@ Abschnitt 3: Stile (18 %)
 * Implementierung und Anpassung von LESS-Bibliothekskomponenten demonstrieren
 * Identifizieren Sie die Unterschiede zwischen der clientseitigen und der serverseitigen Kompilierung und wie sie funktioniert.
 
-Abschnitt 4: JavaScript (Bild-Widgets, Bildbibliothek, Kundendatenmodul, Knock-out-Vorlagen) (22 %)
+Abschnitt 4: JavaScript (Bild-Widgets, Bildbibliothek, Kundendatenmodul, Knock-out-Vorlagen) (22%)
 
 * JavaScript-Komponenten initialisieren und aufrufen
 * Unterscheiden von Anwendungsfällen für verschiedene JavaScript-Komponenten
 * Verwendung von RequireJS demonstrieren
-* Möglichkeiten zur Implementierung verschiedener Mixintypen demonstrieren
-* Beschreiben Sie, wie Sie eine Übersetzung in JS hinzufügen.
+* Möglichkeiten zur Implementierung verschiedener Mixins demonstrieren
+* Beschreiben, wie eine Übersetzung in JS hinzugefügt wird
 * Beschreiben der Interaktionen zwischen UI-Komponenten
 * Verwendung von Knockout JS demonstrieren
 * Verwendung von jQuery-Widgets demonstrieren
@@ -114,11 +114,11 @@ Abschnitt 4: JavaScript (Bild-Widgets, Bildbibliothek, Kundendatenmodul, Knock-o
 Abschnitt 5: Admin-Konfiguration und PageBuilder (12 %)
 
 * Veranschaulichen der Möglichkeit, den Seitenaufbau-Inhalt anzupassen&quot;
-* Beschreibung der Frontend-Optimierung
+* Beschreibung der Front-End-Optimierung
 * Transaktions-E-Mails anpassen
 * Verwendung von Admin-Entwicklungstools demonstrieren
 
-Abschnitt 6: Tools (CLI und Grunt) (10 %)
+Abschnitt 6: Tools (CLI und Grunt) (10%)
 
 * Verwendung grundlegender bin/Magento-Befehle demonstrieren
 * Beschreiben Sie die Verwendung von Composer-Befehlen (installieren, aktualisieren, benötigen, entfernen)
@@ -126,7 +126,7 @@ Abschnitt 6: Tools (CLI und Grunt) (10 %)
 * Festlegen der Einrichtung und Verwendung von Grundes
 * Beschreiben Sie zusätzliche Tools, die Cloud bereitstellt (Schnelles Herunterladen der Datenbank, Bereitstellung von Inhalten, Verzweigung mithilfe der Benutzeroberfläche).
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -160,7 +160,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Checkout anpassen](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/){target="_blank"}
 * [Beobachtbare Arrays](https://knockoutjs.com/documentation/observableArrays.html){target="_blank"}
 
-**Abschnitt 5: Admin-Konfiguration und PageBuilder**
+**Abschnitt 5: Administratorkonfiguration und PageBuilder**
 
 * [Seiten](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
 * [Was ist Page Builder?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
@@ -184,26 +184,18 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Praktische Tests in Kürze verfügbar**
 
-**Führen Sie die Zertifizierungsprüfung durch.**
+## Über die Zertifizierungsprüfung
 
-Adobe verwendet zwei Anbieter, um die verarbeiteten Prüfungen zu verwalten: PSI und Examity.
+{{about-certification-exam}}
 
-* **PSI** bietet Testcenter- und japanische Prüfungsoptionen (sofern verfügbar)
-* **[!DNL Examity]** bietet eine Remote-Online-Option
+## Prüfung AD0-E720 planen oder durchführen
 
-Um Ihre Prüfung zu planen, zu verschieben oder abzubrechen, klicken Sie einfach auf den gewünschten Anbieter und befolgen Sie die Anweisungen auf dem Bildschirm. So einfach ist es!
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E720" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Ihr Profilname im Adobe Credential Management System muss genau mit Ihrer Government ID übereinstimmen. Wenn der Proktor die Prüfung nicht mit den gleichen Informationen oder einer Inkongruenz beendet, muss er den Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.
-
-Stornierungen und Umschulungen sind möglich, wenn sie vor 48 Stunden vor dem geplanten Prüfungstermin begonnen werden. Die Kandidaten müssen diese Ernennung selbst ändern.
-
-### Prüfnummer: AD0-E720
-
-[!BADGE Prüfung]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E720 newtab=true"}
-
-Sie können Ihre Zertifizierungsprüfung mit Gutschein oder Kreditkarte bezahlen. Um einen Prüfgutschein zu erwerben, gehen Sie zu: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie einen Rabatt haben, wird er beim Checkout angewendet.
+<span class="spectrum-Button-label has-no-wrap">
+   Gehen Sie zum Portal "Examity"
+</span>
+</a>
 
 >[!ENDTABS]
 

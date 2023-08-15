@@ -1,22 +1,22 @@
 ---
-title: Berufliche Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie in eine zertifizierte Adobe Business Practitioner-Fachkraft werden. [!DNL Campaign Classic].
+title: Berufliche Zertifizierung durch Business Practice
+description: Erfahren Sie, wie Sie Adobe Business Practitioner in [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Test AD0-E329" type="positive"
+badge: label="Prüfung AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1217'
-ht-degree: 22%
+source-wordcount: '1215'
+ht-degree: 21%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Campaign Classic] Geschäftspraktiker/innen
+# Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Geschäftspraktiker/innen
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner Professional werden.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Campaign Classic] Business Practitioner Professional.
 
 ## Minimales Erlebnis
 
@@ -25,7 +25,7 @@ Sie sollten über Folgendes verfügen:
 * Mindestens ein Jahr lang Erfahrung mit grundlegender Campaign-Software
 * Grundlagen zum Ausführen einer Abfrage
 * Grundlegendes zum Toolkit, das Adobe Campaign bietet
-* Kenntnisse darüber, wie Geschäftsziele in Workflows übersetzt werden
+* Kenntnisse über die Übersetzung von Unternehmenszielen in Workflows
 * Grundlegendes zur Zielgruppenbestimmung und Segmentierung einer Zielgruppe
 * Erfahrung mit Tests und Versand
 * Praktisches Erlebnis beim Einrichten kanalübergreifender, personalisierter Workflows und beim Versand
@@ -56,13 +56,13 @@ Sie sollten über Folgendes verfügen:
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 50.32.50
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 32/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E329
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E329
 
 **Eigenbewertung der Bereitschaft**
 
@@ -70,7 +70,7 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Erstellen einer Kampagne (29 %)
+Abschnitt 1: Erstellen einer Kampagne (29%)
 
 * Anerkennung der verschiedenen Konzepte und Ziele des digitalen Marketings
 * Identifizieren und Definieren der wichtigsten Tool-Funktionen und -Strukturen in Bezug auf die Benutzeroberfläche
@@ -79,17 +79,17 @@ Abschnitt 1: Erstellen einer Kampagne (29 %)
 * Bestimmen der richtigen Zielgruppe unter Profilen und Analysieren der Ergebnisse der erwarteten Ergebnisse
 * die richtigen Validierungseinstellungen für Kampagnen empfehlen und anwenden
 * Festlegung der Planung anhand der Kampagnenanforderungen
-* Erkennen der Position der Versandergebnisse oder -ausgabe
+* Erkennen, wo die Versandergebnisse oder die Ausgabe zu finden sind
 * Unterscheiden Sie zwischen verschiedenen Fehler- und Warnungstypen (Versand-, Kampagnen- und Workflow-Ebene).
 
-Abschnitt 2: Workflow-Management und Plattformfunktionen (16 %)
+Abschnitt 2: Workflow-Management und Plattformfunktionen (16%)
 
 * Legen Sie für ein Szenario fest, welche Workflow-Aktivitäten ausgewählt werden sollen
 * Unterscheidung zwischen Kampagnen- und technischen Workflows
 * Stellen Sie bei einem Szenario fest, welche Workflow-Lösung für kontinuierliche, Wartezeiten, wiederkehrende, abgebrochene Situationen optimal ist.
-* Ermitteln Sie die neuen Funktionen und Funktionen von Campaign V8 im Vergleich zu früheren Versionen.
+* Ermitteln Sie die neuen Funktionen von Campaign V8 im Vergleich zu früheren Versionen.
 
-Abschnitt 3: Datenvorgänge (20 %)
+Abschnitt 3: Datenvorgänge (20%)
 
 * Bestimmen, wie Spalten in einer Ansicht geändert werden, um Daten/Ausgaben zu testen
 * Beschreiben Sie die Ziele der Zielgruppen-Aktivitäten Vereinigung, Schnittmenge, Ausschluss und Aufspaltung des Workflows.
@@ -98,25 +98,25 @@ Abschnitt 3: Datenvorgänge (20 %)
 * Ermitteln Sie bei einem Szenario, wie Sie eine Zielgruppe segmentieren und als Liste und Zellen speichern
 * Legen Sie bei einem Szenario die beste Methode zum Exportieren von Daten an Ziele fest, indem Sie sie konfigurieren
 
-Abschnitt 4: Versandkonfiguration (28 %)
+Abschnitt 4: Versandkonfiguration (28%)
 
-* Ermitteln Sie für ein Szenario den richtigen Versandtyp
+* Ermitteln Sie für ein Szenario den richtigen Versandtyp.
 * Legen Sie anhand von Geschäftsanforderungen fest, wie Vorlagen erstellt werden.
 * Legen Sie bei Geschäftsanforderungen die richtigen Versandeigenschaften fest.
 * Identifizieren und Anwenden der für einen Versand verfügbaren OOTB-Personalisierungsoptionen (Link zur Mirrorseite, Gruß, Nicht-Unterlink)
 * Legen Sie bei einem Szenario die entsprechende Typologieregel fest (Kontrolle, Filterung, Druck, Kapazität).
 * Die Ursache des Ausschlusses eines Versands durch einen Empfänger im Protokoll identifizieren und die Versanddiagnose überprüfen
-* Geben Sie an, wo/wie Versandinhalt und Personalisierung getestet werden sollen
+* Festlegen, wo/wie Versandinhalt und Personalisierung getestet werden sollen
 * Unterscheiden Sie zwischen den verschiedenen Versandstatus, die während der Verarbeitung auftreten, und wenden Sie Aktionen an.
 
-Abschnitt 5: Verwaltung und Reporting (7 %)
+Abschnitt 5: Verwaltung und Berichterstattung (7%)
 
 * Ermitteln allgemeiner OOTB-Berichte und deren Zugriffsmöglichkeiten
 * Bestimmen, welcher OOTB-Bericht basierend auf Berichtsanforderungen benötigt wird
 * Identifizieren der deskriptiven Analysefunktion in Adobe Campaign
 * Wenden Sie in einem Szenario die richtigen Berechtigungen an, um den Zugriff auf Campaign-Objekte zu beschränken/zu erlauben
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -137,7 +137,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Entwerfen und Ausführen von Marketing-Kampagnen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 * [Über Vorlagen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=de){target="_blank"}
 
-**Abschnitt 2: Workflow-Management- und Plattformfunktionen**
+**Abschnitt 2: Workflow-Management und Plattformfunktionen**
 
 * [Zielgruppenbestimmungsaktivitäten in Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=de){target="_blank"}
 * [Fluss-Steuerungsaktivitäten in Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html?lang=de){target="_blank"}
@@ -163,7 +163,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Erste Schritte bei der Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de){target="_blank"}
 * [Entwerfen und Ausführen von Marketing-Kampagnen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 
-**Abschnitt 5: Verwaltung und Reporting**
+**Abschnitt 5: Verwaltung und Berichterstattung**
 
 * [Über Versandberichte](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
 * [Erste Schritte mit Reporting](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=de#reporting){target="_blank"}
@@ -180,20 +180,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E329).
-
-### Verfügbare Optionen
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E329 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E329" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

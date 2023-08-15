@@ -1,22 +1,22 @@
 ---
 title: Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie als Adobe zertifiziert werden. [!DNL Audience Manager] Business Manager-Expert.
+description: Erfahren Sie, wie Sie als Adobe zertifiziert werden [!DNL Audience Manager] Business Manager-Expert.
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
-badge: label="Test AD0-E457" type="positive"
+badge: label="Prüfung AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '965'
-ht-degree: 10%
+source-wordcount: '940'
+ht-degree: 11%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Audience Manager] Geschäftspraktiker-Experte
+# Journey für die Zertifizierung [!DNL Adobe Audience Manager] Geschäftspraktiker-Experte
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Audience Manager] Geschäftspraktiker
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Audience Manager] Geschäftspraktiker-Experte.
 
 ## Minimales Erlebnis
 
@@ -60,7 +60,7 @@ Umgebungen:
 * Digital Marketing Specialist
 * Marketingtechnologieberater
 * Zielgruppenstratege
-* Verhaltensberater
+* Behavioral Consultant
 * Digital Marketing Analytics
 * Marketing Data Analytics
 * Data Platform Manager
@@ -68,12 +68,12 @@ Umgebungen:
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 50.36.50
+* Übergeben der Punktzahl: 36/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) und 150 $ (Indien)
-* Test-ID: AD0-E457
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) und 150 USD (Indien)
+* Prüfungs-ID: AD0-E457
 
 **Eigenbewertung der Bereitschaft**
 
@@ -84,33 +84,33 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 Abschnitt 1: Erstellung und Syndikation von Segmenten (25 %)
 
 * Bestimmen Sie die geeignete Methode zum Erstellen von Segmenten, indem Sie Erstanbieter-, Zweit- und Drittanbieter-Daten für Targeting- und Analysezwecke verwenden.
-* In einem Szenario empfehlen Sie Segmente zur Aktivierung, die an Unternehmens- oder Kampagnenzielen ausgerichtet sind
+* In einem Szenario empfehlen Sie Segmente zur Aktivierung, die an Geschäfts- oder Kampagnenzielen ausgerichtet sind
 * Bestimmen der geeigneten Methode zum Synchronisieren von Segmenten mit Zielen für die Aktivierung
 * Unterscheiden zwischen den verschiedenen Zieltypen
 
-Abschnitt 2: Erstellung von Eigenschaften (17 %)
+Abschnitt 2: Erstellung von Eigenschaften (17%)
 
 * Eigenschaften für eine bestimmte Zielgruppenstrategie empfehlen
 * Bestimmen der richtigen Methode zum Erstellen und Aktualisieren regelbasierter und/oder integrierter Eigenschaften
 
-Abschnitt 3: Berichterstattung und Messungen (22 %)
+Abschnitt 3: Berichterstattung und Messungen (22%)
 
 * Analysieren Sie Berichte in einem Szenario, um die nächsten Schritte zur Erreichung von Geschäftszielen umsetzbar zu machen.
 * Analysieren Sie die Zielgruppenoptimierung für ein Szenario.
 
-Abschnitt 4: Fehlerbehebung und Verwaltung (26 %)
+Abschnitt 4: Fehlerbehebung und Administration (26%)
 
 * Überprüfen Sie in einem Szenario die Informationen zum Zielgruppenversand, um die geplanten Versandanforderungen sicherzustellen.
 * Ermitteln Sie die geeignete Vorgehensweise zur Validierung von offline eingehenden Dateien.
 * Ermitteln Sie bei einem Szenario die richtige Methode, um eine Qualitätssicherung für die ID-Synchronisierung durchzuführen
-* Bestimmen Sie die geeignete Methode zum Navigieren und Aktivieren über das Adobe-Audience Marketplace.
+* Bestimmen Sie die geeignete Methode zum Navigieren und Aktivieren über die Adobe-Audience Marketplace.
 
 Abschnitt 5: Taxonomie (10%)
 
 * Legen Sie die geeignete Struktur fest, um Eigenschaften und Segmente zu erstellen, die eine klare und konsistente Nomenklatur verwenden.
 * Bestimmen Sie die richtige Technik, um eine organisierte Plattform mithilfe einer klaren Ordnerstruktur zu verwalten.
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -118,8 +118,8 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 1: Erstellung und Syndikation von Segmenten**
 
-* [Berichterstellung zur Datennutzung von Zweit- und Drittanbietern in Audience Marketplace auf Segmentebene](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
-* [Verwenden von Filtern und Empfehlungen zur Auswahl von Drittanbieterdaten in Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
+* [Berichterstellung zur Datennutzung von Zweit- und Drittanbietern im Audience Marketplace auf Segmentebene](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
+* [Verwenden von Filtern und Empfehlungen zur Auswahl von Drittanbieterdaten im Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
 * [Grundlegendes zur Segmentierung](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html){target="_blank"}
 * [Segmente: Zweck, Zusammensetzung und Regeln](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
 * [Segmentierung und Filterung](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html){target="_blank"}
@@ -133,7 +133,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Verwalten von Eigenschaftsregeln](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/manage-trait-rules.html){target="_blank"}
 * [Erstellen regelbasierter oder integrierter Eigenschaften](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html){target="_blank"}
 
-**Abschnitt 3: Berichterstattung und Messungen**
+**Abschnitt 3 Berichterstattung und Messungen**
 
 * [Segment-Trend-Bericht](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html){target="_blank"}
 * [Überwachung und Berichterstellung zur Aktivitätsnutzung](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html){target="_blank"}
@@ -143,7 +143,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 4: Fehlerbehebung und Administration**
 
-* [Segmentfreigabe in Experience Platform mit [!DNL Audience Manager] und anderen Experience Cloud-Lösungen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=de){target="_blank"}
+* [Experience Platform der Segmentfreigabe mit [!DNL Audience Manager] und anderen Experience Cloud-Lösungen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=de){target="_blank"}
 * [Schritte zum Erfassen dateibasierter Daten](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html){target="_blank"}
 * [Anforderungen an den Namen und den Inhalt von ID-Synchronisierungsdateien](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html){target="_blank"}
 * [Erstellen und Verwalten der Datenaktivierung in [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html){target="_blank"}
@@ -166,31 +166,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E457).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E457 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

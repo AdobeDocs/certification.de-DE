@@ -1,28 +1,28 @@
 ---
-title: Übergeordnete Architekturzertifizierung
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Architect werden können, Übergeordnet in [!DNL Campaign Classic].
+title: ArchitekturMaster-Zertifizierung
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Architect Master in [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
-badge: label="Test AD0-E328" type="positive"
+badge: label="Prüfung AD0-E328" type="positive"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1013'
+source-wordcount: '1011'
 ht-degree: 16%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Campaign Classic] Architekten Übergeordnet
+# Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Architekturmeister
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Architect werden können, Übergeordnet in [!DNL Campaign Classic].
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Campaign Classic] Architekturmeister.
 
 ## Minimales Erlebnis
 
 Sie sollten über Folgendes verfügen:
 
-* Erlebnis mit mehreren [!DNL Campaign] Implementierungen
+* Erlebnis mit mehreren Adobe [!DNL Campaign Classic] Implementierungen
 * Grundlegendes dazu, wie Adobe Campaign als Digital-Marketing-Lösung funktioniert und diese anhand von Projektanforderungen implementiert
 * Die Möglichkeit, ein funktionales Designdokument zu erstellen
 * Möglichkeit, einen funktionalen Arbeitsbereich für eine Adobe Campaign-Installation zu erstellen
@@ -48,20 +48,20 @@ Sie sollten über Folgendes verfügen:
 
 **Vorgesehene Zielgruppe:**
 
-* Technischer Leiter mit Adobe [!DNL Campaign Classic] background
-* Adobe Certified Expert - [!DNL Campaign Classic] Entwickler
+* Technischer Lead mit Adobe [!DNL Campaign Classic] background
+* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Entwickler
 * Adobe [!DNL Campaign Classic] Entwickler oder ähnliche Rollen
 * Martech Solution Architect
 
 **Prüfungsdetails:**
 
-* Ebene: Übergeordnet (3-5 Jahre Erfahrung)
-* Übergeben der Punktzahl: 50.30 Uhr
+* Stufe: Master (3-5 Jahre Erfahrung)
+* Übergeben der Punktzahl: 30/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E328
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E328
 
 **Selbstbewertung der Bereitschaft**
 
@@ -69,15 +69,15 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Lösungsdefinition (24 %)
+Abschnitt 1: Lösungsdefinition (24%)
 
 * Legen Sie bei bestimmten Geschäftsanforderungen die für den Lösungsentwurf relevanten Informationen fest.
-* Geben Sie für ein Szenario Leistungs-, Infrastruktur- und Konfigurationsempfehlungen an
+* Stellen Sie in einem Szenario Empfehlungen zu Leistung, Infrastruktur und Konfiguration bereit.
 * Analyse [!DNL Campaign Classic] -Setups zur Beratung hinsichtlich Verbesserungen
 * Bestimmen von Geschäftsanforderungen für die Entwicklung einer Digital Marketing-Lösung
-* Geben Sie für ein Szenario die richtige Methode zur Produkbereitstellung an
+* Geben Sie für ein Szenario die richtige Methode zur Produkbereitstellung an.
 
-Abschnitt 2: Datenlandschaft (24 %)
+Abschnitt 2: Datenlandschaft (24%)
 
 * Geben Sie die Design-Parameter für das Datenmodell und die Integrationszuordnung für eine Campaign-Lösung mit anderen Kundentools an
 * Legen Sie bei einem Szenario den Lösungsentwurf fest, der zur Einhaltung von Gesetzen und Vorschriften erforderlich ist
@@ -86,26 +86,26 @@ Abschnitt 2: Datenlandschaft (24 %)
 Abschnitt 3: Installation und Verwaltung (16%)
 
 * Überprüfen Sie bei einer Reihe von Schlüsselmodulen die Konfiguration der Moduleinrichtung.
-* In einem solchen Fall empfehlen Sie Integrationslösungen, um native und Drittanbieterintegrationen in Adobe zu ermöglichen. [!DNL Campaign Classic]
+* Für ein bestimmtes Szenario empfehlen Sie Integrationslösungen, um native und Drittanbieterintegrationen mit Adobe zu ermöglichen. [!DNL Campaign Classic]
 * Bei einem Szenario müssen die Diagnosemethoden bestimmt werden
 * Integrationsparameter und -ansatz für Adobe- und Nicht-Adobe-Anwendungsintegrationen angeben
 * Bei einem Szenario empfehlen wir die geeignete Hardware-Infrastruktur, die während des Lösungsdesigns benötigt wird
 * Legen Sie bei einem Szenario die richtige Methode für die Lösungsförderung in der entsprechenden Umgebung fest.
 
-Abschnitt 4: Projektleitung (10 %)
+Abschnitt 4: Projektleitung (10%)
 
 * Legen Sie anhand der Kundenanforderungen die erforderlichen Aktivitäten und Ressourcen fest.
 * Analysieren Sie bei einem Szenario die Gesamtlösung, um technische Risiken, Annahmen, Probleme und Abhängigkeiten zu ermitteln.
 * Vermitteln des technischen ACC-Fachwissens an interne und externe Teams
 
-Abschnitt 5: Anpassung (26 %)
+Abschnitt 5: Anpassung (26%)
 
 * Analysieren und Gestalten benutzerdefinierter Funktionen
 * Benutzerdefinierte Integrationen analysieren und entwerfen
 * Bestimmen der richtigen Methode zum Entwerfen komplexer Kampagnenvorlagen und Workflows
 * Bestimmen der richtigen Methode zum Entwerfen von Lösungen mithilfe zusätzlicher Module
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -129,7 +129,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 3: Installation und Verwaltung**
 
-* [Platzierungen erstellen](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html){target="_blank"}
+* [Erstellen von Angebotsplatzierungen](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html){target="_blank"}
 * [CRM-Connectoren](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
 * [Angebot auf einem Inbound-Kanal](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/case-study/offers-on-an-inbound-channel.html){target="_blank"}
 * [Daten-Packages ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=de){target="_blank"}
@@ -160,20 +160,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E328).
-
-### Verfügbare Optionen
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E328 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E328" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

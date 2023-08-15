@@ -1,28 +1,28 @@
 ---
 title: Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe-Business-Practice-Experte in [!DNL Marketo Engage].
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner-Experte in [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: User
 badge: label="Prüfung AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: 49dc037af5b72c804ae00af908b33ae20c75f5c3
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1425'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Marketo Engage] Geschäftspraktiker-Experte
+# Zertifizierungs-Journey für Adobe [!DNL Marketo Engage] Geschäftspraktiker-Experte
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner-Experte werden.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Marketo Engage] Geschäftspraktiker-Experte.
 
 ## Minimales Erlebnis
 
 Sie sollten über Folgendes verfügen:
 
-* Ungefähr 18 Monate Erfahrung mit [!DNL Marketo] Funktionen, die zur Erstellung von Marketing-Kampagnen und zur Verwendung von Kundenverhaltensdaten erforderlich sind
+* Etwa 18 Monate Erfahrung mit Adobe [!DNL Marketo Engage] Funktionen, die zur Erstellung von Marketing-Kampagnen und zur Verwendung von Kundenverhaltensdaten erforderlich sind
 
 Sie sollten Marketing-Experte mit Erfahrung in folgenden Bereichen sein:
 
@@ -216,38 +216,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Prüfen (AD0-E559)
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Englischprüfung
-</span>
-</a>
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559-j" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Japanische Prüfung
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E559 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

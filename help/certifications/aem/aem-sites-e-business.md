@@ -4,19 +4,19 @@ description: Erfahren Sie, wie Sie ein zertifizierter Geschäftspraktiker werden
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
-badge: label="Test AD0-E121" type="positive"
+badge: label="Prüfung AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 19%
+source-wordcount: '1098'
+ht-degree: 20%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Experience Manager Sites] Geschäftspraktiker-Experte
+# Zertifizierungs-Journey für Adobe [!DNL Experience Manager Sites] Geschäftspraktiker-Experte
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner-Experte werden.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager] Geschäftspraktiker-Experte.
 
 ## Minimales Erlebnis
 
@@ -24,8 +24,8 @@ Sie sollten über Folgendes verfügen:
 
 * Erfahren Sie mehr über AEM Funktionen, die erforderlich sind, um Entwickler für die Suche nach Geschäftslösungen zu begeistern
 * Die Möglichkeit, AEM Produkte zur Verwaltung von Inhalten zu verwenden, um digitale Erlebnisse zu fördern
-* Ein Verständnis dessen, welche Module vorhanden sind
-* Einen tieferen Einblick in Module wie [!DNL Sites], [!DNL Assets]und [!DNL Forms]
+* Ein Verständnis der vorhandenen Module
+* Einen tieferen Einblick in Module wie [!DNL Sites], [!DNL Assets], und [!DNL Forms]
 
 Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sein:
 
@@ -70,7 +70,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 **Prüfungsdetails:**
 
-Ebene: Experte (1-3 Jahre Erfahrung) Übergeben der Punktzahl: 32/50 Zeit: 100 Minuten Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt Verfügbare Sprachen: Englische und japanische Kosten: Test-ID für $ 225 (global) / $ 150 (Indien): AD0-E121
+Stufe: Experte (1-3 Jahre Erfahrung) Übergeben der Punktzahl: 32/50 Zeit: 100 Minuten Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt Verfügbare Sprachen: Englisch und Japanisch Kosten: 225 USD (global) / 150 USD (Indien) Prüfkennung: AD0-E121
 
 **Eigenbewertung der Bereitschaft**
 
@@ -86,7 +86,7 @@ Abschnitt 1: Bildung (22%)
 
 Abschnitt 2: Architektur (24%)
 
-* Empfehlen einer Informationsarchitektur zur Nutzung AEM Standardfunktionen, um Geschäftsanforderungen mithilfe einer On-Premise- oder Adobe-gehosteten Umgebung (Cloud) zu erfüllen
+* Empfehlen einer Informationsarchitektur zur Nutzung AEM Standardfunktionen, um Geschäftsanforderungen mithilfe einer On-Premise- oder Adobe-gehosteten (Cloud-)Umgebung zu erfüllen
 * Beschreiben Sie, wie AEM in Dienste von Drittanbietern integriert wird.
 * Festlegen, wie Rollen und Berechtigungen definiert werden
 * Zwischenspeicherungsansätze beschreiben
@@ -100,31 +100,31 @@ Abschnitt 3: Geschäftsanalyse (38%)
 * Ermitteln Sie, wie Sie die Kerngeschäftsziele erreichen, während Sie innerhalb des Budgets und/oder Umfangs bleiben.
 * Bestimmen, wie Fragen von Entwicklern im Hinblick auf die Geschäftsziele beantwortet werden sollen
 
-Abschnitt 4: Einrichtung und Implementierung (16 %)
+Abschnitt 4: Einrichtung und Implementierung (16%)
 
 * Ermitteln Sie, wie Sie Inhaltskomponenten konfigurieren und verwenden, um Best Practices für AEM anzuzeigen.
 * Überprüfen Sie die ordnungsgemäße Implementierung der Funktionen und suchen und beschreiben Sie die aufgetretenen Fehler.
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-**Abschnitt 1: Bildungswesen**
+**Abschnitt 1: Bildung**
 
 * [AEM 6.5-Entwickleranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=de){target="_blank"}
 * [Erfahren Sie mehr über AEM 6.5-Funktionen](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
-* [AEM [!DNL Sites] Videos und Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=de){target="_blank"}
+* [AEM [!DNL Sites] Videos und Übungen](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=de){target="_blank"}
 * [Starts](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=de){target="_blank"}
-* [Erste Schritte für Autoren](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
+* [Erste Schritte für Autorinnen und Autoren](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
 * [Best Practices bei der Inhaltsbearbeitung](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html){target="_blank"}
 * [Erstellen und Organisieren von Seiten](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html?lang=de){target="_blank"}
 * [Konzept der Bearbeitung und Veröffentlichung](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html){target="_blank"}
 
 **Abschnitt 2: Architektur**
 
-* [Einführung in die Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=de){target="_blank"}
+* [Einführung in das Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=de){target="_blank"}
 * [Weitere Informationen zu den Funktionen von AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
 * [ [!DNL Experience Manager] Adobe-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager.html?lang=de){target="_blank"}
 * [Integration mit Drittanbieterdiensten](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html)
@@ -179,31 +179,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E121).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E121" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E121 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

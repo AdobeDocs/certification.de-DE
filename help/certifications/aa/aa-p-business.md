@@ -1,29 +1,29 @@
 ---
-title: Berufliche Zertifizierung durch Geschäftspraktiker
+title: Berufliche Zertifizierung durch Business Practice
 description: Erfahren Sie, wie Sie als [!DNL Adobe Analytics] Geschäftspraktiker.
 solution: Analytics
 product: Analytics
 role: User
-badge: label="Test AD0-E212" type="positive"
+badge: label="Prüfung AD0-E212" type="positive"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '772'
 ht-degree: 12%
 
 ---
 
-# Zertifizierungs-Journey für [!DNL Adobe Analytics] Geschäftspraktiker/innen
+# Journey für die Zertifizierung [!DNL Adobe Analytics] Geschäftspraktiker/innen
 
-Erfahren Sie, wie Sie ein zertifizierter Analytics Business Practitioner Professional werden.
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Analytics] Business Practitioner Professional.
 
 ## Minimales Erlebnis
 
 Sie sollten über mindestens 3 Monate Erfahrung in [!DNL Adobe Analytics] und das folgende Erlebnis:
 
 * Ein Marketing-Hintergrund oder stammt aus einer Marketing-Rolle, kann aber aus einer Vielzahl von Jobrollen stammen.
-* Grundlegende Vertrautheit mit Metriken und Dimensionen der digitalen Analyse.
+* Grundlegende Kenntnis der Metriken und Dimensionen der digitalen Analyse.
 * Die Möglichkeit, mithilfe von Analytics Berichte zu erstellen, Geschäftsfragen zu beantworten und die Ergebnisse zu kommunizieren.
 * Grundlegende Konzepte für digitale Analysen wie Segmentierung, Berichterstellung, Standardmetrikdefinitionen.
 
@@ -50,13 +50,13 @@ Sie sollten über mindestens 3 Monate Erfahrung in [!DNL Adobe Analytics] und da
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 50.31.50
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 31/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E212
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E212
 
 **Eigenbewertung der Bereitschaft**
 
@@ -90,12 +90,12 @@ Abschnitt 3: Segmentierung und berechnete Metriken (19%)
 * Segmente auf Projekte und Komponenten anwenden
 * Anwenden des Prozesses zum Generieren grundlegender berechneter und/oder segmentierter Metriken
 
-Abschnitt 4: Allgemeine Kenntnisse über Tools und Fehlerbehebung (9 %)
+Abschnitt 4: Allgemeine Kenntnisse über Tools und Fehlerbehebung (9%)
 
 * Verstehen verschiedener Typen von Dimensionen und Parametern, die in vorhanden sind [!DNL Adobe Analytics] (eVars, Eigenschaften und Ereignisse)
 * Festlegen, wie Daten exportiert werden sollen [!DNL Adobe Analytics]
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -114,7 +114,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Implementieren von  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=de){target="_blank"}
 * [Data Workbench-Hilfe](https://experienceleague.adobe.com/docs/data-workbench/using/home.html?lang=de){target="_blank"}
 
-**Abschnitt 2: Berichterstellung und Dashboards für Projekte**
+**Abschnitt 2: Berichterstattung und Dashboards für Projekte**
 
 * [Analytics-Administratorenhandbuch](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=de){target="_blank"}
 * [Handbuch für Analytics-Tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=de){target="_blank"}
@@ -139,31 +139,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E212)
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E212" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E212 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E212" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

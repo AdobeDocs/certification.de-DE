@@ -1,25 +1,25 @@
 ---
 title: Verbesserte Connector-Expertenzertifizierung
-description: Erfahren Sie, wie Sie zertifizierter Adobe-Experte für Adobe werden. [!DNL Workfront] für [!DNL Experience Manager]
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe-zertifizierter Experte im Adobe werden. [!DNL Workfront] für [!DNL Experience Manager]
 solution: Workfront
 role: Developer
-badge: label="Test AD0-E906" type="positive"
+badge: label="Prüfung AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '867'
 ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Workfront] für [!DNL Experience Manager] Verbesserter Connector-Experte
+# Zertifizierungs-Journey für Adobe [!DNL Workfront] für [!DNL Experience Manager] Verbesserter Connector-Experte
 
-Erfahren Sie, wie Sie zertifizierter Experte für Adoben werden.
+Erfahren Sie, wie Sie zertifizierter Adobe-Experte werden.
 
 ## Minimales Erlebnis
 
-Sie sollten eine oder mehrere der folgenden Zertifizierungen erhalten haben:
+Sie sollten eines oder mehrere der folgenden Zertifikate erworben haben:
 
 * AEM Assets Developer Certified Expert
 * AEM Sites Developer Certified Expert
@@ -54,16 +54,16 @@ Und Sie sollten:
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 55.34.55
+* Übergeben der Punktzahl: 34/55
 * Zeit: 110 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E906
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E906
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Technische Anforderungen (25 %)
+Abschnitt 1: Technische Anforderungen (25%)
 
 * Verwendung [!DNL Workfront] Benutzerdefinierte Forms
 * In einem Szenario wird die Dokumentenverwaltung demonstriert
@@ -71,7 +71,7 @@ Abschnitt 1: Technische Anforderungen (25 %)
 * Identifizieren Sie bei einem Szenario, wie Werte an übergeben werden. [!DNL Workfront] benutzerdefinierte Formulare
 * Fehlerbehebung für serverseitigen Code
 
-Abschnitt 2: Konfiguration (26 %)
+Abschnitt 2: Konfiguration (26%)
 
 * Best Practices für die Benutzerverwaltung veranschaulichen
 * Anwenden von Verfahrenskonzepten, die zur Änderung bestehender AEM Asset-Workflows erforderlich sind
@@ -82,16 +82,16 @@ Abschnitt 3: Geschäftspraktiken (21%)
 
 * Interpretieren der Kundenanforderungen, um die entsprechenden Workflow-Strategien zu empfehlen
 * Veranschaulichen der Einrichtung [!DNL Workfront] Genehmigungs- und Testversandarbeitsabläufe
-* Identifizieren Sie in einem Szenario die Best Practices für die Verwendung des Testversand-Viewers, der Einstellungen und der Markup-Funktion
+* Identifizieren Sie in einem Szenario die Best Practices für die Verwendung der Funktion zum Testen von Viewer, Einstellungen und Markup
 * Nachweis eines Verständnisses für das Tracking von Sendungen im Rahmen der Kampagnenverwaltung
 * Ermitteln Sie bei einem Szenario die wichtigsten Aspekte des Änderungsverwaltens für ein [!DNL Workfront] Implementierung
 
-Abschnitt 4: Installation und Konfiguration des Connectors (28 %)
+Abschnitt 4: Installation und Konfiguration des Connectors (28%)
 
 * Validieren der Voraussetzungen in AEM
 * Identifizieren Sie bei einem Kundenanwendungsfall die Funktionen des zu implementierenden Connectors.
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -103,7 +103,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 [Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
 
-**Abschnitt 1: Technische Anforderungen**
+**Abschnitt 1 Technische Anforderungen**
 
 * [Übersicht über benutzerdefinierte Formulare](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 * [Dokumentintegrationen konfigurieren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
@@ -117,7 +117,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Best Practices - Onboarding und Adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [Erstellen eines individuellen Benutzerprofils](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
 * [Adobe [!DNL Experience Manager Assets] Integration mit Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
-* [Metadaten und Keywords: Metadaten-Setup](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html%3Flang%3Dzh-Hant){target="_blank"}
+* [Metadaten und Keywords: Metadaten-Einrichtung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html%3Flang%3Dzh-Hant){target="_blank"}
 * [Installieren [!DNL Workfront] für [!DNL Experience Manager] verbesserter Connector](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html){target="_blank"}
 
 **Abschnitt 3: Geschäftspraktiken**
@@ -127,7 +127,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Übersicht über den automatisierten Workflow](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
 * [Testversand überprüfen und genehmigen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html){target="_blank"}
 * [Verfolgen des Fortschritts über die Projekt-Timeline](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
-* [Definieren von Zielen für Ihre Adobe [!DNL Workfront] Implementierung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
+* [Festlegen von Zielen für Ihre Adobe [!DNL Workfront] Implementierung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 
 **Abschnitt 4: Installation und Konfiguration von Connector**
 
@@ -145,31 +145,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E906).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E906" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E906 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E906" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

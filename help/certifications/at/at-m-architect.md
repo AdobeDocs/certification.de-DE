@@ -1,32 +1,32 @@
 ---
-title: Übergeordnete Architekturzertifizierung
-description: Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Architekt Übergeordnet.
+title: ArchitekturMaster-Zertifizierung
+description: Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Architekturmeister.
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Test AD0-E407" type="positive"
+badge: label="Prüfung AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1122'
 ht-degree: 22%
 
 ---
 
-# Zertifizierungs-Journey für [!DNL Adobe Target] Architekten Übergeordnet
+# Journey für die Zertifizierung [!DNL Adobe Target] Architekturmeister
 
-Erfahren Sie, wie Sie Übergeordnet ein zertifizierter Adobe Architect werden.
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Architekturmeister.
 
 >[!NOTE]
 >
->Diese Prüfung, Adobe Target Architect Übergeordnet (AD0-E407), wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 8. September 2023 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir Ihnen, die [neueste Version dieser Prüfung](at-m-architect0623.md).
+>Diese Prüfung, [!DNL Adobe Target] Architekt Master (AD0-E407), wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 8. September 2023 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir Ihnen, die [neueste Version dieser Prüfung](at-m-architect0623.md).
 
 ## Minimales Erlebnis
 
 Sie sollten über Folgendes verfügen:
 
-* Mindestens drei Jahre Erfahrung mit der Optimierung des digitalen Marketings, einschließlich Implementierung von [!DNL Adobe Target] activities
+* Mindestens drei Jahre Erfahrung mit der Optimierung des digitalen Marketings, einschließlich der Implementierung von [!DNL Adobe Target] activities
 * Mindestens zweijährige Erfahrung (oder fünf Interaktionen) bei der Implementierung, Bereitstellung und Fehlerbehebung [!DNL Adobe Target]
 * Integration von Target in Adobe Experience Cloud
 * Grundlegendes zur JavaScript-, HTML-, CSS- und Frontend-Webentwicklung
@@ -73,22 +73,22 @@ Umgebungen:
 
 **Prüfungsdetails:**
 
-* Ebene: Übergeordnet (3-5 Jahre Erfahrung)
-* Übergeben der Punktzahl: 50.34.50
+* Stufe: Master (3-5 Jahre Erfahrung)
+* Übergeben der Punktzahl: 34/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E407
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E407
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: [!DNL Adobe Target] Fundamentaldaten (12 %)
+Abschnitt 1: [!DNL Adobe Target] Grundlagen (12 %)
 
 * Identifizieren Sie die geeignete [!DNL Adobe Target] Verwendung für ein bestimmtes Szenario
 * Die grundlegenden Technologien eines [!DNL Adobe Target] Implementierung
 
-Abschnitt 2: Integrieren mit [!DNL Adobe Target] (16%)
+Abschnitt 2: Integration in [!DNL Adobe Target] (16%)
 
 * Anwenden der Integration [!DNL Adobe Target] mit Adobe Analytics (A4T)
 * Anwenden der Integration [!DNL Adobe Target] zu Adobe Experience Manager
@@ -99,7 +99,7 @@ Abschnitt 3: [!DNL Adobe Target] Verwaltung und Governance (13 %)
 
 * Definieren eines fortlaufenden [!DNL Adobe Target] Implementierungsstrategie und Systemsteuerung
 * Anwendung des Prozesses und der Best Practices zur Verwaltung von Benutzern
-* Beschreiben Sie die Verwaltungsaspekte des Implementierungs-Setups.
+* Beschreiben Sie die Verwaltungsaspekte des Implementierungs-Setups
 
 Abschnitt 4: [!DNL Adobe Target] und unterstützte Touchpoints (15 %)
 
@@ -115,7 +115,7 @@ Abschnitt 5: Nutzung [!DNL Adobe Target] Empfehlungen (9%)
 Abschnitt 6: Architektur, Design und Implementierung [!DNL Adobe Target] (15%)
 
 * Auswählen der richtigen Mbox-Implementierung
-* Entwerfen eines [!DNL Adobe Target] Implementierung
+* Entwerfen einer [!DNL Adobe Target] Implementierung
 * Beschreiben Sie die Implementierung von [!DNL Adobe Target] in nativen mobilen Apps
 
 Abschnitt 7: Fehlerbehebung (20 %)
@@ -125,7 +125,7 @@ Abschnitt 7: Fehlerbehebung (20 %)
 * Integrationsfehler verstehen
 * Fehlerbehebung [!DNL Adobe Target] Recommendations-Fehler
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -140,9 +140,9 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 **Abschnitt 1: [!DNL Adobe Target] Grundlagen**
 
 * [[!DNL Adobe Target] Handbuch für Business-Anwender*innen](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=de){target="_blank"}
-* [Erfahren Sie, wie Sie [!DNL Adobe Target]](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [Verwendung [!DNL Adobe Target]](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
-**Abschnitt 2: Integrieren mit[!DNL Adobe Target]**
+**Abschnitt 2: Integration in[!DNL Adobe Target]**
 
 * [[!DNL Adobe Target] Handbuch für Business-Anwender*innen](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=de){target="_blank"}
 * [Videos und Tutorials zu AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=de){target="_blank"}
@@ -180,12 +180,12 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [[!DNL Adobe Target] Handbuch für Business-Anwender*innen](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=de){target="_blank"}
 * [Hinzufügen [!DNL Adobe Target] mit Tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html){target="_blank"}
 * [Kunden-IDs und Authentifizierungsstatus](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=de){target="_blank"}
-* [Erfahren Sie, wie Sie [!DNL Adobe Target]](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [Verwendung [!DNL Adobe Target]](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Target-API-Referenz](https://developer.adobe.com/client-sdks/documentation/adobe-target/api-reference/#getthirdpartyid){target="_blank"}
 * [[!DNL Adobe Target] Erweiterungsübersicht](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html?lang=de){target="_blank"}
 * [Einführung in die geräteübergreifende Entscheidungsfindung](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning){target="_blank"}
 * [Verwendung von geräteübergreifenden und Edge-Entscheidungen](https://adobetarget-sdks.gitbook.io/docs/best-practices/when-to-use-server-side-vs-on-device-decisioning){target="_blank"}
-* [Lösung: JWT-Zugriffstoken](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-questions/jwt-access-token-how-can-i-change-the-expiration/m-p/324806){target="_blank"}
+* [Behoben: JWT-Zugriffstoken](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-questions/jwt-access-token-how-can-i-change-the-expiration/m-p/324806){target="_blank"}
 
 **Abschnitt 7: Fehlerbehebung**
 
@@ -205,31 +205,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E407).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E407" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E407 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E407" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

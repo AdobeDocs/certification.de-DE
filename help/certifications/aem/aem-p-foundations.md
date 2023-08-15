@@ -1,22 +1,22 @@
 ---
 title: Technische Stiftungen - Professional-Zertifizierung
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Experience Manager] Professional.
+description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager] Professional.
 solution: Experience Manager
 product: Experience Manager
 role: User
-badge: label="Test AD0-E132 type="positive"
+badge: label="Exam AD0-E132 type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '600'
 ht-degree: 16%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Experience Manager] Technical Foundations Professional
+# Zertifizierungs-Journey für Adobe [!DNL Experience Manager] Technical Foundations Professional
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Experience Manager] Professional.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager] Professional.
 
 ## Minimales Erlebnis
 
@@ -54,13 +54,13 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 38.06.60
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 38/60
 * Zeit: 120 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E132
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E132
 
 **Prüfungsziele und -umfang**
 
@@ -92,13 +92,13 @@ Abschnitt 3: Einrichtung und Bereitstellung (13 %)
 * Bereitstellen von Paketen
 * Installieren AEM Instanzen
 
-Abschnitt 4: Wartung und Benutzerverwaltung (12 %)
+Abschnitt 4: Wartung und Benutzerverwaltung (12%)
 
-* Benutzerzugriff verwalten
+* Verwalten des Benutzerzugriffs
 * Ändern von OSGi-Konfigurationen
 * Erstellen von Abfragen
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -112,7 +112,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [[!DNL Experience Manager as a Cloud Service] Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=de){target="_blank"}
 * [Assets-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=de){target="_blank"}
 
-**Abschnitt 2: Implementierung**
+**Abschnitt 2: Umsetzung**
 
 * [AEM Komponenten - Grundlagen](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
 * [Headless-Tutorials für AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=de){target="_blank"}
@@ -140,20 +140,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E132).
-
-### Verfügbare Optionen
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E132 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

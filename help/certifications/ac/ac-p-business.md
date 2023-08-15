@@ -1,30 +1,30 @@
 ---
-title: Berufliche Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie in Adobe ein zertifizierter Adobe Business Practitioner Professional werden. [!DNL Commerce].
+title: Berufliche Zertifizierung durch Business Practice
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner Professional im Adobe werden. [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: User
-badge: label="Test AD0-E712" type="positive"
+badge: label="Prüfung AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '956'
+source-wordcount: '932'
 ht-degree: 3%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Commerce] Geschäftspraktiker/innen
+# Zertifizierungs-Journey für Adobe [!DNL Commerce] Geschäftspraktiker/innen
 
 Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner Professional werden.
 
 ## Minimales Erlebnis
 
-Sie sollten über eine praktische Erfahrung von mindestens 0-12 Monaten mit [!DNL Magento Open Source] Version 2.4.3 unter Verwendung des LUMA- oder BLANK-Themas und grundlegender Kenntnisse der Adobe [!DNL Commerce] Version 2.4.3.
+Sie sollten über eine praktische Erfahrung von mindestens 0-12 Monaten mit [!DNL Magento Open Source] Version 2.4.3 unter Verwendung des LUMA- oder BLANK-Themas und grundlegender Kenntnisse des Adobe [!DNL Commerce] Version 2.4.3.
 
 Darüber hinaus sollten Sie über grundlegende Kenntnisse des eCommerce-Erlebnisses sowie über die folgenden Konzepte verfügen:
 
-* Digital Marketing (SEO, CMS, E-Mail-Marketing, Verkaufstechniken) [Crosssell, Upsell], Analysen, Berichterstellung und Überwachung)
+* Digital Marketing (SEO, CMS, E-Mail-Marketing, Verkaufsmethoden) [Crosssell, Upsell], Analysen, Reporting und Überwachung)
 * E-Commerce-Terminologie (Verkaufs-/Marketingstrategien wie Omnichannel und Multichannel)
 * Preise und Verkaufsförderung
 * Journey zum Kundenkauf
@@ -47,7 +47,7 @@ Darüber hinaus sollten Sie über grundlegende Kenntnisse des eCommerce-Erlebnis
 * Projektmanager
 * Produkteigentümer
 * Berater
-* [!DNL Commerce] Strategen
+* [!DNL Adobe Commerce] Strategen
 * eCommerce-Admin/Director/Manager/Berater
 * Digital Marketing Director/Manager/Entwickler
 * Lösungsspezialisten
@@ -55,13 +55,13 @@ Darüber hinaus sollten Sie über grundlegende Kenntnisse des eCommerce-Erlebnis
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 50.30 Uhr
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 30/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E712
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E712
 
 **Eigenbewertung der Bereitschaft**
 
@@ -71,7 +71,7 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 
 Abschnitt 1: [!DNL Magento Open Source] Kernfunktion (49 %)
 
-* Funktionen von [!DNL Magento Open Source]
+* Identifizieren der Funktionen von [!DNL Magento Open Source]
 * den korrekten Umfang und den Verwendungszeitpunkt unterscheiden
 * Kenntnisse des Katalogmanagements demonstrieren
 * Anpassen der Preisgestaltung mithilfe von [!DNL Magento Open Source] Funktionen
@@ -82,9 +82,9 @@ Abschnitt 1: [!DNL Magento Open Source] Kernfunktion (49 %)
 
 Abschnitt 2: Adobe [!DNL Commerce] Grundlagen (14 %)
 
-* Die wichtigsten in Adobe verfügbaren Funktionen identifizieren [!DNL Commerce]
-* Dienst-Add-ons in Adobe identifizieren [!DNL Commerce]
-* Ermitteln von Hosting-Optionen für die Adobe [!DNL Commerce]
+* Wichtige Funktionen des Adobe identifizieren [!DNL Commerce]
+* Dienst-Add-ons im Adobe identifizieren [!DNL Commerce]
+* Ermitteln von Hosting-Optionen für Adobe [!DNL Commerce]
 
 Abschnitt 3: Grundlagen zu digitalem Marketing und eCommerce (24 %)
 
@@ -92,15 +92,15 @@ Abschnitt 3: Grundlagen zu digitalem Marketing und eCommerce (24 %)
 * Erläuterung der Grundsätze der SEO
 * die grundlegenden Verwendungszwecke gängiger eCommerce-Tools (z. B. Shopping-Feeds) identifizieren;
 * Identifizieren der wichtigsten Funktionen einer eCommerce-Website
-* Identifizieren Sie die grundlegenden eCommerce-Konzepte (einschließlich Storefront-Optionen).
+* die grundlegenden eCommerce-Konzepte identifizieren (einschließlich Storefront-Optionen)
 
-Abschnitt 4: Grundlagen zur Kompatibilität/Sicherheit (13 %)
+Abschnitt 4: Grundlagen zur Einhaltung/Sicherheit (13%)
 
 * Grundlegende Informationen zur Einhaltung von Datenschutzgesetzen und zur Zahlungssicherheit
-* Gemeinsame Sicherheitsaspekte einer Adobe identifizieren [!DNL Commerce] Projekt
+* Identifizieren gemeinsamer Sicherheitsaspekte eines Adobe [!DNL Commerce] Projekt
 * Best Practices und rechtliche Anforderungen an die Barrierefreiheit zu identifizieren
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -115,9 +115,9 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 **Abschnitt 1: [!DNL Magento Open Source] Kernfunktion**
 
 * [Attribute](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
-* [[!DNL Magento] 2 Module Development - Simple Hello World Module](https://www.mageplaza.com/magento-2-module-development/){target="_blank"}
+* [[!DNL Magento] 2-Modulentwicklung - Einfaches Hello World-Modul](https://www.mageplaza.com/magento-2-module-development/){target="_blank"}
 * [Zugehörige Produkte, Up-Sells und Cross-Sells](https://docs.magento.com/user-guide/catalog/related-products-up-sells-cross-sells.html){target="_blank"}
-* [Point of Purchase](https://docs.magento.com/user-guide/sales/point-of-purchase.html){target="_blank"}
+* [Point of purchase](https://docs.magento.com/user-guide/sales/point-of-purchase.html){target="_blank"}
 * [Offline-Zahlungsmethoden](https://docs.magento.com/user-guide/payment/offline-payment-methods.html){target="_blank"}
 * [SEO und Suche](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
 * [Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
@@ -133,7 +133,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 **Abschnitt 2: Adobe [!DNL Commerce] Grundlagen**
 
 * [Cloud-Anleitung für [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html){target="_blank"}
-* [[!DNL Magento] Einführung in die Business Intelligence](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
+* [[!DNL Magento] Business Intelligence-Einführung](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
 * [Seiten](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
 * [Konfigurationshandbuch](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
 * [Einführung in die Live-Suche](https://docs.magento.com/user-guide/live-search/overview.html){target="_blank"}
@@ -149,14 +149,14 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [SEO-Übersicht](https://docs.magento.com/user-guide/marketing/seo-best-practices.html){target="_blank"}
 * [Verwenden einer Sitemap](https://docs.magento.com/user-guide/marketing/sitemap-xml.html){target="_blank"}
 * [Customer Journey](https://docs.magento.com/user-guide/quick-tour/customer-journey.html){target="_blank"}
-* [Business Intelligence Tools](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
+* [Business Intelligence-Tools](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
 
-**Abschnitt 4: Grundlagen zur Kompatibilität/Sicherheit**
+**Abschnitt 4: Grundlagen zur Einhaltung/Sicherheit**
 
 * [Richtlinien zur Barrierefreiheit](https://devdocs.magento.com/guides/v2.4/pattern-library/general/accessibilityguideline/accessibilityGuideline.html#visual){target="_blank"}
 * [Sicherheit](https://docs.magento.com/user-guide/stores/security.html){target="_blank"}
 * [Grundlegendes zur ADA-Compliance und zur Beziehung zu eCommerce-Websites](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
-* [Adobe [!DNL Commerce] Handbuch zu Best Practices für Sicherheit](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
+* [Adobe [!DNL Commerce] Handbuch mit Best Practices für die Sicherheit](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
 
 >[!TAB Zertifizieren]
 
@@ -170,31 +170,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E712).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E712 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

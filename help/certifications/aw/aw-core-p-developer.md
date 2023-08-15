@@ -3,37 +3,37 @@ title: Core Developer Professional-Zertifizierung
 description: Erfahren Sie, wie Sie in Adobe ein zertifizierter Adobe Developer Professional werden. [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Test AD0-E905" type="positive"
+badge: label="Prüfung AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1034'
-ht-degree: 3%
+source-wordcount: '1011'
+ht-degree: 2%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Workfront] Core Developer Professional
+# Zertifizierungs-Journey für Adobe [!DNL Workfront] Core Developer Professional
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Profi werden.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Workfront] Grundlegende Entwicklerexperten.
 
 ## Minimales Erlebnis
 
 Sie sollten über Folgendes verfügen:
 
-* Mindestens 3 - 6 Monate praktische Erfahrung bei der Verwendung von Adobe [!DNL Workfront]
+* Mindestens 3 - 6 Monate praktische Erfahrung mit Adobe [!DNL Workfront]
 * Erlebnis mit Adobe [!DNL Workfront] Funktionalität und Konnektivität durch Aufnahme, Genehmigung, Planung, Ausführung und Reporting
-* Detaillierte Kenntnisse der Adobe [!DNL Workfront] Objekttypen, einschließlich benutzerdefinierter Formulare und Genehmigungs-Workflows, Vorlagen, Zeiträume, Arbeitsaufwand/geplante Stunden
-* Detaillierte Kenntnisse der Adobe [!DNL Workfront] Einrichtung, einschließlich Zugriffsebenen, Layoutvorlagen, Projektvoreinstellungen und anderer Methoden, um das Design für Endbenutzer zu vereinfachen
+* Detaillierte Kenntnisse des Adobe [!DNL Workfront] Objekttypen, einschließlich benutzerdefinierter Formulare und Genehmigungs-Workflows, Vorlagen, Zeiträume, Arbeitsaufwand/geplante Stunden
+* Detaillierte Kenntnisse des Adobe [!DNL Workfront] Einrichtung, einschließlich Zugriffsebenen, Layoutvorlagen, Projektvoreinstellungen und anderer Methoden, um das Design für Endbenutzer zu vereinfachen
 * Grundlegendes zu Prozesszuordnung und Erlebnis
-* Verstehen verschiedener Adoben [!DNL Workfront] Personas und Unterstützung
+* Verstehen verschiedener Adobe [!DNL Workfront] Personas und Unterstützung
 
 Und Sie sollten:
 
-* Vertrautheit mit [!DNL Workfront] API- und API-Explorer, aber nicht notwendigerweise mit API-Aufrufen
+* Vertraulichkeit mit [!DNL Workfront] API- und API-Explorer, aber nicht notwendigerweise mit API-Aufrufen
 * Die Möglichkeit, benutzerdefinierte API-Aufrufe für die Arbeit mit [!DNL Workfront] und andere APIs
-* Vertrautheit mit der Adobe [!DNL Workfront]
-* Kompatibilität mit nativen Connectoren und anderen Adoben [!DNL Workfront] Produkte und Dienstleistungen
+* Kenntnis mit Adobe [!DNL Workfront]
+* Kompatibilität mit nativen Connectoren und anderen Adobe [!DNL Workfront] Produkte und Dienstleistungen
 * Vertrautheit mit dem Projektmanagement, einschließlich agiler und Wasserfall- und Ressourcenmanagementkonzepten
 
 >[!NOTE]
@@ -58,13 +58,13 @@ Und Sie sollten:
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
+* Niveau: Professional (0-12 Monate Erfahrung)
 * Übergeben der Punktzahl: 44/70
 * Zeit: 140 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E905
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E905
 
 **Eigenbewertung der Bereitschaft**
 
@@ -88,7 +88,7 @@ Bereich 3. Anwendererlebnis (25 %)
 
 * Best Practices für die Benutzerverwaltung bei der Erstellung des richtigen Benutzererlebnisses
 * Wenden Sie bei einem Szenario das richtige Setup für Freigabe- und Zugriffsberechtigungen im gesamten System an
-* Beschreiben Sie, was ein Schnellstart ist, und erkennen Sie, wann er verwendet werden soll.
+* Beschreiben Sie, was ein Schnellstart ist, und erkennen Sie, wann er verwendet werden soll
 * Erstellen und Verwenden von Timesheets
 * Zweck und Wert von Connectoren, Plug-ins und Add-ons beschreiben
 
@@ -107,7 +107,7 @@ Bereich 5. Ausführung (24%)
 * Identifizieren Sie die Möglichkeiten zur Zeiteingabe in [!DNL Workfront]
 * Identifizieren Sie die Elemente der finanziellen Verfolgung in [!DNL Workfront]
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -122,15 +122,15 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 **Abschnitt 1: Strategie und Aufnahme**
 
 * [Best Practice - Portfolios und Programme](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/portfolios-programs-bp.html){target="_blank"}
-* [Übersicht über Portfolio in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
+* [Übersicht über Portfolios in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
 * [Erstellen einer Anforderungswarteschlange](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
 * [Anforderungswarteschlangen verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [Übersicht über benutzerdefinierte Formulare](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 * [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
 
-**Abschnitt 2: Budget und Planung**
+**Abschnitt 2: Haushalt und Planung**
 
-* [Ressourcenplanung in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-planning-overview.html){target="_blank"}
+* [Ressourcenplanung im Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-planning-overview.html){target="_blank"}
 * [Was ist der Ressourcen-Planer?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html){target="_blank"}
 * [Best Practice - Ressourcen-Planer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
 * [Erstellen einer Projektvorlage](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
@@ -146,7 +146,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Wie Zugriffsebenen und Berechtigungen zusammenarbeiten](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [Daten in Adobe importieren [!DNL Workfront] Verwendung einer Kick-Start-Vorlage](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
 
-**Abschnitt 4: Metriken und Berichterstellung**
+**Abschnitt 4: Metriken und Berichte**
 
 * [Erstellen benutzerspezifischer Berichte](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
 * [Berichte senden und freigeben](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
@@ -170,31 +170,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E905).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E905 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

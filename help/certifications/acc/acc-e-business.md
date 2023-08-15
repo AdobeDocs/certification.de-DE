@@ -4,25 +4,25 @@ description: Erfahren Sie, wie Sie mit [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Test AD0-E327" type="positive"
+badge: label="Prüfung AD0-E327" type="positive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '914'
 ht-degree: 25%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Campaign Classic] Geschäftspraktiker-Experte
+# Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Geschäftspraktiker-Experte
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner-Experte werden.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Campaign Classic] Geschäftspraktiker-Experte.
 
 ## Minimales Erlebnis
 
 Sie sollten über Folgendes verfügen:
 
-* Mindestens 2 Jahre lang [!DNL Campaign Classic] Software-Erfahrung
+* Mindestens 2 Jahre ausgedehntes Adobe [!DNL Campaign Classic] Software-Erfahrung
 * Mehrjährige Erfahrung bei der Entwicklung von Marketing-Kampagnen und -Taktiken mithilfe von digitalem Omnichannel
 * Erfahrungsaustausch/Übersetzung von Geschäftsanforderungen in umsetzbare Campaign-Ergebnisse
 * Erlebnis mit Marketing-Metriken wie ROI, Clickthrough-Raten und Konversion
@@ -50,12 +50,12 @@ Sie sollten über Folgendes verfügen:
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 50.32.50
+* Übergeben der Punktzahl: 32/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E327
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E327
 
 **Eigenbewertung der Bereitschaft**
 
@@ -66,17 +66,17 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 Abschnitt 1: Kampagnenverwaltung (20%)
 
 * Best Practices zum Erstellen einer Kampagne anwenden
-* Legen Sie für ein Szenario die richtige Kampagnenvorlage fest.
+* Legen Sie für ein Szenario die richtige Kampagnenvorlage fest
 * Bedeutung von Typologien erläutern
 * Zielgruppen-Mappings beschreiben
 * Web-Apps und Web-Formulare konfigurieren
 
-Abschnitt 2: Workflow-Management (22 %)
+Abschnitt 2: Workflow-Management (22%)
 
 * Bewerten einer bestimmten Gruppe von Kampagnenanforderungen und Empfehlungen für den Ablauf der Aktion
 * Analysieren Sie in einem Szenario Workflow-Fehler.
 * Bestimmen Sie anhand einer Reihe von Kampagnenanforderungen das richtige Design eines Marketing-Workflows.
-* Empfohlene Vorgehensweisen bei der Ausführung von Workflows anwenden
+* Anwenden empfohlener Verfahren bei der Ausführung von Workflows
 
 Abschnitt 3: Datenverwaltung (24%)
 
@@ -86,7 +86,7 @@ Abschnitt 3: Datenverwaltung (24%)
 * Legen Sie bei einem Szenario die zu verwendende Datenprüfungsmethode fest.
 * Best Practices beim Erstellen von Listen anwenden
 * Anwenden der Schritte zum Konfigurieren eines vordefinierten Filters
-* Geben Sie bei einer geschäftlichen Anforderung das entsprechende Formular an
+* Geben Sie bei einer geschäftlichen Anforderung das entsprechende Formular an.
 
 Abschnitt 4: Versandverwaltung (14%)
 
@@ -94,7 +94,7 @@ Abschnitt 4: Versandverwaltung (14%)
 * Wählen Sie für ein Szenario die entsprechende Audience für den Testversand für die Validierungen aus und richten Sie sie ein
 * Versandprüfungen analysieren und interpretieren
 
-Abschnitt 5: Berichterstellung (12 %)
+Abschnitt 5: Berichterstattung (12%)
 
 * Legen Sie für ein Szenario die entsprechenden zu generierenden Berichte fest.
 * Interpretieren integrierter Berichte
@@ -106,7 +106,7 @@ Abschnitt 6: Verwaltung (8%)
 * Gewähren Sie aufgrund geschäftlicher Anforderungen die richtigen Berechtigungen und Zugriffe
 * Anwenden der Schritte zum Aktivieren von SFTP über das Control Panel
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -129,7 +129,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Zielgruppenbestimmungsaktivitäten in Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=de){target="_blank"}
 * [Abfrage](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html?lang=de){target="_blank"}
 
-**Abschnitt 3: Data Management**
+**Abschnitt 3: Daten-Management**
 
 * [Datenschemata](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html){target="_blank"}
 * [Aktionsaktivitäten in Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=de){target="_blank"}
@@ -146,12 +146,12 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Über die Schritte zur Erstellung von Sendungen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-about-delivery-creation-steps.html?lang=de){target="_blank"}
 * [Erste Schritte bei der Überwachung eines Versands](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=de){target="_blank"}
 
-**Abschnitt 5: Berichterstellung**
+**Abschnitt 5: Berichterstattung**
 
 * [Über Versandberichte](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
 * [Erste Schritte mit Reporting](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=de#reporting){target="_blank"}
 
-**Abschnitt 6: Administration**
+**Abschnitt 6: Verwaltung**
 
 * [Konfigurationsprinzip](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/configuration-principle.html){target="_blank"}
 * [Erste Schritte mit Berechtigungen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=de#getting-started){target="_blank"}
@@ -170,20 +170,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E327).
-
-### Verfügbare Optionen
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E327 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E327" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

@@ -8,16 +8,16 @@ recommendations: disable, exclude
 badge: label="Prüfung AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '750'
 ht-degree: 14%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Real-Time CDP] Geschäftspraktiker/innen
+# Zertifizierungs-Journey für Adobe [!DNL Real-Time CDP] Geschäftspraktiker/innen
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden. [!DNL Experience Platform] professionell.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Platform] Praktizierender Professional.
 
 ## Minimales Erlebnis
 
@@ -61,17 +61,17 @@ Erlebnis mit Aufgaben, die Folgendes umfassen:
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 28.05.50
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 28/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E602
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E602
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Segmente und Aktivierung (32 %)
+Abschnitt 1: Segmente und Aktivierung (32%)
 
 * Segment erstellen und für Ziel aktivieren
 * Neue Ziele konfigurieren
@@ -89,12 +89,12 @@ Abschnitt 3: Unternehmensanalyse (30%)
 * Datenanalyse zu Kundensegmenten in der Plattform durchführen
 * Grundlagen zu Datenflusskonzepten demonstrieren
 
-Abschnitt 4: Schemata und Profile (18 %)
+Abschnitt 4: Schemata und Profile (18%)
 
-* Adobe verstehen [!DNL Experience Platform] Konzepte
+* Adobe [!DNL Experience Platform] Konzepte
 * Verwenden von Profilfunktionen
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -117,7 +117,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Aktivieren von Zielgruppendaten für Exportziele von Streaming-Profilen](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html){target="_blank"}
 * [Erstellen einer neuen Zielverbindung](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=de){target="_blank"}
 
-**Abschnitt 2: Identity and Data Governance**
+**Abschnitt 2: Identität und Data Governance**
 
 * [Übersicht zu Identitäts-Namespaces](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=de){target="_blank"}
 * [Data Governance – Übersicht](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=de){target="_blank"}
@@ -125,7 +125,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 **Abschnitt 3: Geschäftsanalyse**
 
 * [Datenerfassung – Übersicht](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=de){target="_blank"}
-* [Überwachen von Datenflüssen in Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html){target="_blank"}
+* [Überwachen von Datenflüssen im Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html){target="_blank"}
 * [Privacy Service und Experience Cloud-Anwendungen](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html){target="_blank"}
 * [Richtliniendurchsetzung – Übersicht](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html){target="_blank"}
 
@@ -147,31 +147,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E602).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E602" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E602 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E602" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

@@ -1,26 +1,26 @@
 ---
 title: Zertifizierung für Entwickler
-description: Erfahren Sie, wie Sie in Adobe ein zertifizierter Adobe Developer-Profi werden. [!DNL Commerce].
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Profi im Adobe werden. [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Test AD0-E717" type="positive"
+badge: label="Prüfung AD0-E717" type="positive"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1351'
+source-wordcount: '1348'
 ht-degree: 1%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Commerce] Entwickler Professional
+# Zertifizierungs-Journey für Adobe [!DNL Commerce] Entwickler Professional
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Developer Professional werden.
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Commerce] Entwickler Professional.
 
 ## Minimales Erlebnis
 
-Du solltest dich mit der Arbeit in der Adobe befassen [!DNL Commerce] und ein grundlegendes Verständnis der Adobe haben [!DNL Commerce] Admin-Entwicklung, Architektur, EAV/Datenbank, Layout/Benutzeroberfläche, Checkout und Vertrieb sowie Katalog.
+Du solltest dich mit der Arbeit im Adobe wohl fühlen [!DNL Commerce] und Grundkenntnisse im Adobe haben [!DNL Commerce] Admin-Entwicklung, Architektur, EAV/Datenbank, Layout/Benutzeroberfläche, Checkout und Vertrieb sowie Katalog.
 
 Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sein:
 
@@ -48,13 +48,13 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 77.50 Uhr
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 50/77
 * Zeit: 154 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E717
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E717
 
 **Eigenbewertung der Bereitschaft**
 
@@ -62,10 +62,10 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Arbeiten mit Admin (5 %)
+Abschnitt 1: Arbeiten mit Admin (5%)
 
 * Beschreiben Sie, wie die ACL mit Rollen und Ressourcen funktioniert.
-* Identifizieren Sie die Komponenten, die beim Erstellen oder Ändern des Admin-Rasters/Formulars verwendet werden sollen.
+* Identifizieren Sie die Komponenten, die beim Erstellen oder Ändern des Admin-Rasters/Formulars verwendet werden sollen
 * Identifizieren Sie die Dateien, die beim Erstellen einer Store/Admin-Konfiguration und von Menüelementen verwendet werden sollen.
 
 Abschnitt 2: Architektur (29%)
@@ -96,10 +96,10 @@ Abschnitt 4: Layout/Benutzeroberfläche (15 %)
 
 * Anwenden von Änderungen auf bestehende Produkttypen und Erstellen neuer
 * Vorhandene Katalogentitäten ändern und erweitern
-* Indizes verwalten und Preisausgabe anpassen
+* Die Möglichkeit zur Verwaltung von Indizes und zur Anpassung der Preisausgabe
 * Erläuterung der Auswirkungen des Bestands aus mehreren Quellen (Programmebene)
 
-Abschnitt 5: Checkout und Vertrieb (8 %)
+Abschnitt 5: Checkout und Vertrieb (8%)
 
 * Warenkorbkomponenten beschreiben
 * Eine Regel für Warenkorbangebote beschreiben
@@ -119,15 +119,15 @@ Abschnitt 7: Adobe [!DNL Commerce] Cloud-Architektur (12 %)
 
 * Adobe definieren [!DNL Commerce] Architektur-/Umgebungs-Workflow
 * Beschreiben der Cloud-Projektdateien, Berechtigungen und Strukturen
-* Verfügbare Dienste auf Adobe auflisten [!DNL Commerce] in Cloud
+* Auf Adobe verfügbare Listendienste [!DNL Commerce] in Cloud
 * Beschreiben Sie, wie Sie auf verschiedene Protokolltypen zugreifen.
 * Beschreiben Sie die Schritte zum Anwenden von Patches (Ermitteln Sie, in welchen Ordner Patches eingefügt werden sollen).
 * Beschreiben Sie, wie Sie ECE-Tools verwalten und aktualisieren.
 * Ermitteln Sie, wann Support *Yaml-Dateien und Einschränkungen (DIY vs. Support-Tickets) aufgerufen werden.
 
-Abschnitt 8: Adobe einrichten/konfigurieren [!DNL Commerce] Cloud (4 %)
+Abschnitt 8: Einrichten/Konfigurieren von Adobe [!DNL Commerce] Cloud (4 %)
 
-* Ermitteln, wie die Adobe eingerichtet/konfiguriert wird [!DNL Commerce] Cloud
+* Ermitteln, wie Adobe eingerichtet/konfiguriert wird [!DNL Commerce] Cloud
 * Grundlegende Cloud-Fehlerbehebung definieren (Hierarchie der Web-Benutzeroberfläche und Variablen, Konfigurationspräferenz)
 * Grundlegende Kenntnisse des Cloud-Benutzermanagements und der Onboarding-Benutzeroberfläche
 * Beschreiben der Umgebungsverwaltung mithilfe der Benutzeroberfläche
@@ -136,11 +136,11 @@ Abschnitt 8: Adobe einrichten/konfigurieren [!DNL Commerce] Cloud (4 %)
 
 Abschnitt 9: [!DNL Commerce] Cloud-CLI-Tool (Teil verwalten) (6 %)
 
-* Beschreibung der ausschließlichen Funktionen der Adobe [!DNL Commerce] Cloud-CLI-Tool (CLI - exklusive Funktionen): E-Mails aktivieren, Umgebungen neu berechnen, Snapshot, Db-Dump, Einrichtung der lokalen Umgebung)
+* Beschreibung der exklusiven Funktionen von Adobe [!DNL Commerce] Cloud-CLI-Tool (CLI-Funktionen: E-Mails aktivieren, Umgebungen neu starten, Snapshot, Db-Dump, lokale Umgebung einrichten)
 * Beschreiben der Verzweigung mithilfe der Adobe [!DNL Commerce] Cloud-CLI-Tool
 * Ermitteln Sie, wie Sie eine Verbindung zu Cloud Services herstellen können? (My SQL, Redis, tunnel:info)
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -166,7 +166,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Konfigurationsdateien für die Bereitstellung](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
 * [Befehlszeilen-Tool](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
 * [Ereignisse und Beobachter](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
-* [Einführung in Admin-Systeme](https://docs.magento.com/user-guide/system/tools.html){target="_blank"}
+* [Einführung in Administratorsysteme](https://docs.magento.com/user-guide/system/tools.html){target="_blank"}
 * [Vorlagen](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
 * [Übersetzungen](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
 * [URL-Neuschreibungen](https://docs.magento.com/user-guide/marketing/url-rewrite.html){target="_blank"}
@@ -222,7 +222,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Pro Architektur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
 * [Skalierte Architektur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/scaled-architecture.html){target="_blank"}
 
-**Abschnitt 8: Adobe einrichten/konfigurieren [!DNL Commerce] Cloud**
+**Abschnitt 8: Einrichten/Konfigurieren von Adobe [!DNL Commerce] Cloud**
 
 * [Übersicht über Konfigurationsdateien](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
 * [Eigenschaften für die Anwendungskonfiguration](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html){target="_blank"}
@@ -245,20 +245,16 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E717).
-
-### Verfügbare Optionen
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E717 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E717" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

@@ -3,22 +3,22 @@ title: Target-Zertifizierung - Überblick
 description: Überblick über die Zertifizierungsoptionen für Adobe Target
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 6b681faf4c1d84408f6ab430477fef22285b8c9d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 5%
+source-wordcount: '110'
+ht-degree: 7%
 
 ---
 
-# Target-Zertifizierung - Überblick
+# [!DNL Adobe Target] Zertifizierung – Übersicht
 
 ## Neue Funktionen
 
-Die Übergeordnete Zertifizierung für Adobe Target Architect wurde aktualisiert -
+Die [!DNL Adobe Target] Die Master-Zertifizierung für Architekten wurde aktualisiert -
 
 Die aktuelle Version ist:
 
-* [Adobe Target Architect Übergeordnet (AD0-E409)](/help/certifications/at/at-m-architect.md)
+* [Adobe Target Architect Master (AD0-E409)](/help/certifications/at/at-m-architect.md)
 
 Wenn Sie die Prüfung bereits geplant haben oder mit dem Studium für die aktuelle Prüfung begonnen haben, stellen Sie bitte sicher, dass Sie die Prüfung planen und abschließen **vor dem 8. September 2023**.
 

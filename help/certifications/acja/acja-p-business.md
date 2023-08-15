@@ -1,25 +1,25 @@
 ---
 title: Berufliche Zertifizierung
-description: Erfahren Sie, wie Sie in eine zertifizierte Adobe Professional werden. [!DNL Customer Journey Analytics]
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Professional werden. [!DNL Customer Journey Analytics]
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
 badge: label="Prüfung AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 5d7c136e3d38f3fed5443dcb476c8a2af9fad24d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '619'
 ht-degree: 13%
 
 ---
 
-# Zertifizierungs-Journey für Adobe Customer Journey Analytics Business Practitioner Professional
+# Zertifizierungs-Journey für Adobe [!DNL Customer Journey Analytics] Geschäftspraktiker/innen
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner Professional werden.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Customer Journey Analytics] Business Practitioner Professional.
 
 ## Minimales Erlebnis
 
-Der ideale, minimalqualifizierte Kandidat ist ein Analysten mit mindestens 6 Monaten Erfahrung in der Customer Journey Analytics-Branche und einem grundlegenden Verständnis der Funktionsweise von CJA in Zusammenarbeit mit Adobe Experience Platform. Der Kandidat kann die entsprechenden Berichts- und Visualisierungsoptionen verwenden, um grundlegende und erweiterte Analysen für eine bestimmte Geschäftsanforderung durchzuführen.
+Der ideale, minimal qualifizierte Kandidat ist ein Analyst mit mindestens 6 Monaten Erfahrung im Adobe. [!DNL Customer Journey Analytics] und ein grundlegendes Verständnis dessen, wie es in Verbindung mit [!DNL Adobe Experience Platform]. Der Kandidat kann die entsprechenden Berichts- und Visualisierungsoptionen verwenden, um grundlegende und erweiterte Analysen für eine bestimmte Geschäftsanforderung durchzuführen.
 
 >[!NOTE]
 >
@@ -42,13 +42,13 @@ Der ideale, minimalqualifizierte Kandidat ist ein Analysten mit mindestens 6 Mon
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 50.36.50
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 36/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-E608
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E608
 
 **Prüfungsziele und -umfang**
 
@@ -58,7 +58,7 @@ Abschnitt 1: Komponenten (30%)
 * Erstellen einer Teilmenge von Daten mit entsprechenden Komponenten und Filtern
 * Erstellen von Nicht-Admin-Komponenten zur Beantwortung von Geschäftsfragen
 
-Abschnitt 2: Berichterstellung (32%)
+Abschnitt 2: Berichterstattung (32%)
 
 * Bestimmen Sie geeignete Visualisierungen oder Tabellen, um Geschäftsfragen zu beantworten.
 * Bestimmen Sie anhand von Datenquellen, Identitäten und Datumsbereichen, welche Datenansicht verwendet werden soll.
@@ -76,7 +76,7 @@ Abschnitt 4: Datenanalyse (26%)
 * Bewerten von Zielgruppen für die Freigabe mit anderen AEP-Tools
 * Auswählen der richtigen Komponenten für die Analyse
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -85,7 +85,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 **Abschnitt 1: Komponenten**
 
 * [Visualisierungsübersicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Übersicht über die Datenansichten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=de){target="_blank"}
+* [Übersicht über Datenansichten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=de){target="_blank"}
 * [Übersicht über Filter](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/filters-overview.html?lang=de){target="_blank"}
 * [ Attribution – Komponenteneinstellungen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/attribution.html){target="_blank"}
 
@@ -95,7 +95,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Übersicht über Kalender und Datumsbereiche](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-date-ranges/calendar.html){target="_blank"}
 * [Verbindungen – Übersicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=de){target="_blank"}
 
-**Abschnitt 3: Distribution**
+**Abschnitt 3: Verteilung**
 
 * [Planen von Projekten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/t-schedule-report.html?lang=de){target="_blank"}
 * [Freigeben von Projekten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/share-projects.html?lang=de){target="_blank"}
@@ -112,7 +112,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
@@ -121,20 +121,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E608).
-
-### Verfügbare Optionen
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E608 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E608" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

@@ -1,25 +1,25 @@
 ---
 title: Core-Entwicklerexpertenzertifizierung
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte für Adobe werden. [!DNL Workfront].
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte im Adobe werden. [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Test AD0-E904" type="positive"
+badge: label="Prüfung AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1531'
+source-wordcount: '1509'
 ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Workfront] Entwicklerexperte
+# Zertifizierungs-Journey für Adobe [!DNL Workfront] Entwicklerexperte
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte werden.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Workfront] Entwicklerexperte.
 
 ## Minimales Erlebnis
 
-Sie sollten über eine Erfahrung von mindestens 18 bis 24 Monaten verfügen mit [!DNL Workfront]und kann:
+Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]und kann:
 
 * Navigieren Sie zum [!DNL Workfront] System, wo sich seine Funktionalität befindet
 * Alle Systemaspekte konfigurieren
@@ -47,12 +47,12 @@ Sie sollten über eine Erfahrung von mindestens 18 bis 24 Monaten verfügen mit 
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 06.03.64
+* Übergeben der Punktzahl: 36/64
 * Zeit: 130 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: englisch
-* Kosten: 225 $ (global) / 150 $ (Indien)
-* Test-ID: AD0-E904
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E904
 
 **Eigenbewertung der Bereitschaft**
 
@@ -71,7 +71,7 @@ Abschnitt 1: Verwaltung und Einrichtung des Kernsystems (17 %)
 * In einem Szenario empfehlen Sie, ob ein Team Standard, Kanban oder Scrum sein soll.
 * Legen Sie in einem Szenario die Best Practice für die Bereitstellung benutzerdefinierter Storyboards des Agile-Teams fest.
 
-Abschnitt 2: Aufnahme, benutzerdefinierte Formulare und Projektmanagement (17 %)
+Abschnitt 2: Aufnahme, benutzerdefinierte Formulare und Projektmanagement (17%)
 
 * Geben Sie bei einem Szenario die Konfigurationsbereiche an, die zur Unterstützung der Arbeitszuweisungen erforderlich sind.
 * Geben Sie bei einem Szenario die erforderlichen Einstellungen an.
@@ -79,7 +79,7 @@ Abschnitt 2: Aufnahme, benutzerdefinierte Formulare und Projektmanagement (17 %)
 * Beschreiben Sie in einem Szenario, was getan werden muss, um Fehler bei der Berichterstellung und Berechnung zu beheben.
 * Identifizieren Sie in einem Szenario unterstützende Elemente, die sich selbst Vorlagen verleihen.
 
-Abschnitt 3: Strategische Funktionalität - Portfolio- und Programmverwaltung, Ressourcenverwaltung (13%)
+Abschnitt 3: Strategische Funktionalität - Portfolio- und Programmmanagement, Ressourcenmanagement (13%)
 
 * Legen Sie bei einem Szenario fest, wie Sie KPIs nach dem Projekt erfassen, die im Portfolio Optimizer angezeigt werden.
 * Passen Sie bei einem Szenario den Geschäftsfall an, um eine Änderung des Projektumfangs widerzuspiegeln.
@@ -89,20 +89,20 @@ Abschnitt 3: Strategische Funktionalität - Portfolio- und Programmverwaltung, R
 * Legen Sie bei einem Szenario die Grundursache fest.
 * Ermitteln Sie bei einem Szenario, warum ein Benutzer zu häufig zugewiesen wird.
 
-Abschnitt 4: Dokumentenverwaltung und -prüfung (13 %)
+Abschnitt 4: Dokumentenverwaltung und -nachweis (13%)
 
 * Zeigen Sie in einem Szenario an, wann Sie das Dokumentenmanagement im Vergleich zum Testversand verwenden.
-* Identifizieren Sie in einem Szenario die Best Practices für die Verwendung des Testversand-Viewers, der Einstellungen und der Markup-Funktion
+* Identifizieren Sie in einem Szenario die Best Practices für die Verwendung der Funktion zum Testen von Viewer, Einstellungen und Markup
 * In einem Szenario zeigen Sie, wie Berechtigungen für eine Datei bearbeitet und festgelegt werden.
 * In einem Szenario zeigen Sie, wie Sie einen externen Dokumentenspeicher mit Sicherheitsbeschränkungen einrichten
 
-Abschnitt 5: Berichterstellung (13 %)
+Abschnitt 5: Berichterstattung (13%)
 
 * Beschreiben Sie in einem Szenario, wie Sie mehrere Datenspalten in einer einzigen Spalte kombinieren können.
 * Zeigen Sie für einen Bericht oder Filter die Vorteile der Verwendung von Platzhalterwerten an.
 * Identifizieren Sie die Beziehungen zwischen über- und untergeordneten Elementen in einem Bericht.
 * Beschreiben Sie in einem Szenario, wie die Berichterstellung die effiziente Ausführung der Arbeit erleichtert.
-* Beispiel [!DNL Workfront] Berichterstellung zur Überwachung und Verbesserung der Benutzerakzeptanz.
+* Beispiel [!DNL Workfront] Berichterstattung zur Überwachung und Verbesserung der Benutzerakzeptanz.
 
 Abschnitt 6: Methode/Best Practices/Anwendungsfälle (20%)
 
@@ -122,7 +122,7 @@ Abschnitt 7: Unternehmensberatung (8%)
 * Ermitteln Sie bei einem Szenario die wichtigsten Aspekte des Änderungsverwaltens für ein [!DNL Workfront] Implementierung
 * Geben Sie für ein Szenario eine Empfehlung an.
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -133,11 +133,11 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [System-Setup: Gruppen und Benutzer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html%3Flang%3Dsv){target="_blank"}
 * [Wie Zugriffsebenen und Berechtigungen zusammenarbeiten](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [Systemprojektstatus](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
-* [Kick-Starts](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts.html){target="_blank"}
+* [Kick-Start](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts.html){target="_blank"}
 * [Benutzerattribute zuordnen und neue Benutzer automatisch bereitstellen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/map-user-attributes.html){target="_blank"}
 * [Gruppen und Untergruppen erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/user-organization-groups.html){target="_blank"}
 
-**Abschnitt 2: Aufnahme, benutzerdefinierte Formulare und Projektverwaltung**
+**Abschnitt 2: Aufnahme, benutzerdefinierte Formulare und Projektmanagement**
 
 * [Globale Standardprojekteinstellungen konfigurieren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html){target="_blank"}
 * [Meine Einstellungen konfigurieren](https://experienceleague.adobe.com/docs/workfront/using/basics/manage-account-profile/configure-user-profile/configure-my-settings.html){target="_blank"}
@@ -145,23 +145,23 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Anleitung zur Fehlerbehebung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/error-handling-walkthrough.html){target="_blank"}
 * [Best Practice - Projektvorlagen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html){target="_blank"}
 
-**Abschnitt 3: Strategische Funktionalität - Portfolio- und Programmmanagement, Ressourcenmanagement**
+**Abschnitt 3 Strategische Funktionalität - Portfolio- und Programmmanagement, Ressourcenmanagement**
 
-* [Grundlegendes zu KPIs in Enhanced Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
+* [KPIs in Enhanced Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
 * [Projektumfang-Management](https://business.adobe.com/blog/basics/scope-management){target="_blank"}
 * [Priorisieren und Verwalten der Arbeit mit Portfolios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html){target="_blank"}
 * [Erstellen und Bearbeiten von Risiken für Projekte](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/create-edit-risks-on-projects.html){target="_blank"}
 * [Projektprioritäten verstehen und aktualisieren](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-priority.html){target="_blank"}
-* [Ansicht: Informationen zur ursprünglichen Ausgabe für Aufgaben und Projekte](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-originating-issue-details-tasks-projects.html){target="_blank"}
+* [Ansicht: Informationen zu Ausgangsthemen für Aufgaben und Projekte](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-originating-issue-details-tasks-projects.html){target="_blank"}
 
-**Abschnitt 4: Dokumentenverwaltung und -prüfung**
+**Abschnitt 4: Dokumentenverwaltung und -nachweis**
 
-* [den Unterschied zwischen einem Dokument und einem Testversand verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html%3Flang%3Dzh-Hant){target="_blank"}
+* [Unterschiede zwischen Dokumenten und Testsendungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html%3Flang%3Dzh-Hant){target="_blank"}
 * [Best Practice - Testversand](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html){target="_blank"}
 * [Projekte bearbeiten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
 * [Verknüpfen von Dokumenten mit externen Anwendungen](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}
 
-**Abschnitt 5: Berichterstellung**
+**Abschnitt 5: Berichterstattung**
 
 * [Ansicht: Zusammenführen von Informationen aus mehreren Spalten in einer gemeinsamen Spalte](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-merge-columns.html){target="_blank"}
 * [Erstellen von Filtern mit benutzerdefinierten Platzhaltern](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html){target="_blank"}
@@ -184,7 +184,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Automatisierte Workflow-Vorlage bearbeiten](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/proof-workflows/edit-an-automated-workflow-template.html){target="_blank"}
 * [Konvertieren von Problemen in andere Arbeitselemente](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html){target="_blank"}
 * [Globale Standardprojekteinstellungen konfigurieren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html){target="_blank"}
-* [Definieren von Zielen für Ihre Adobe [!DNL Workfront] Implementierung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
+* [Festlegen von Zielen für Ihre Adobe [!DNL Workfront] Implementierung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 * [Best Practice - Ressourcen-Planer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
 
 >[!TAB Zertifizieren]
@@ -199,31 +199,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E904).
-
-### Verfügbare Optionen
-
-{{PSI-note}}
-
-**PSI** (*Test-Center/japanische Prüfungsoptionen (sofern verfügbar)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-E904 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 

@@ -1,20 +1,20 @@
 ---
-title: Übergeordnete Architekturzertifizierung
-description: Erfahren Sie, wie Sie ein zertifizierter Architekt werden können, der in Experience Manager Sites Übergeordnet ist.
+title: ArchitekturMaster-Zertifizierung
+description: Erfahren Sie, wie Sie in Experience Manager Sites ein zertifizierter Architekturmeister werden.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
 badge: label="Prüfung AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1722'
+source-wordcount: '1723'
 ht-degree: 24%
 
 ---
 
-# Zertifizierungs-Journey zur Adobe [!DNL Experience Manager Sites] Architekten Übergeordnet
+# Zertifizierungs-Journey für Adobe [!DNL Experience Manager Sites] Architekturmeister
 
 >[!NOTE]
 >
@@ -22,15 +22,15 @@ ht-degree: 24%
 >
 >**Fragen?** Siehe unsere [FAQs](#AEM-FAQ) unten auf dieser Seite.
 
-Erfahren Sie, wie Sie ein zertifizierter Architekt Übergeordnet werden.
+Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager Sites] Architekturmeister.
 
 ## Minimales Erlebnis
 
 Sie sollten über Folgendes verfügen:
 
 * Mindestens 3 Jahre Erfahrung als Architekt beim Erstellen von AEM Sites
-* Die Fähigkeit, in Adobe Managed Services und Adobe zu arbeiten [!DNL Experience Manager as a Cloud Service]
-* Möglichkeit, Adobe einzurichten [!DNL Experience Manager] Umgebungen und Infrastruktur
+* Die Möglichkeit, in Adobe Managed Services und Adobe zu arbeiten [!DNL Experience Manager as a Cloud Service]
+* Die Möglichkeit, Adobe einzurichten [!DNL Experience Manager] Umgebungen und Infrastruktur
 
 Darüber hinaus sollten Sie die folgenden Aufgaben ausführen können:
 
@@ -43,7 +43,7 @@ Darüber hinaus sollten Sie die folgenden Aufgaben ausführen können:
 * Funktion und Anwendungsfälle der Internationalisierung festlegen
 * Strategien zur Unterstützung von mehrsprachigen und Site-übergreifenden
 * Ermitteln Sie die richtigen Konfigurationsmechanismen für Softwaremodule.
-* Integration von Drittanbieter- und Adobe-Produkten in AEM
+* Integrieren von Drittanbieter- und Adobe-Produkten in AEM
 * Definition von Migrations- und Upgrade-Strategien (Produkte und Inhalte)
 * Bereitstellungsmethoden (Inhalt und Code) verstehen
 * Infrastruktur-/Bereitstellungsdiagramme erstellen und bereitstellen
@@ -73,7 +73,7 @@ Darüber hinaus sollten Sie die folgenden Aufgaben ausführen können:
 
 **Prüfungsdetails:**
 
-* Ebene: Übergeordnet (3-5 Jahre Erfahrung)
+* Stufe: Master (3-5 Jahre Erfahrung)
 * Übergeben der Punktzahl: 29/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
@@ -213,13 +213,11 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-E117).
-
-### Verfügbare Optionen
+## Prüfung AD0-E117 planen oder durchführen
 
 >[!NOTE]
 >
@@ -235,7 +233,7 @@ Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certifica
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
 
-## Häufig gestellte Fragen zur Übergeordneten Prüfung von Adobe Experience Manager Sites Architect (AD0-E117) {#AEM-FAQ}
+## Häufig gestellte Fragen zur Adobe Experience Manager Sites Architect Master-Prüfung (AD0-E117) {#AEM-FAQ}
 
 Die Zertifizierungsprüfung AD0-E117 wird derzeit gewartet und ist vorübergehend nicht verfügbar. Wir entschuldigen uns aufrichtig für die Unannehmlichkeiten. [Melden Sie sich zur Benachrichtigung an](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) wenn sie wieder verfügbar ist.
 

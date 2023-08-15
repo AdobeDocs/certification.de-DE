@@ -7,24 +7,24 @@ role: User
 badge: label="Prüfung AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 2%
+source-wordcount: '688'
+ht-degree: 1%
 
 ---
 
-# Zertifizierungs-Journey für Adobe Document Cloud Business Practitioner Professional
+# Journey für die Zertifizierung [!DNL Adobe Document Cloud] Geschäftspraktiker/innen
 
-Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner Professional werden.
+Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Document Cloud] Business Practitioner Professional.
 
 ## Minimales Erlebnis
 
 Sie sollten über Folgendes verfügen:
 
-* Mindestens 0-12 Monate Erfahrung in Adobe Document Cloud
+* Mindestens 0-12 Monate Erfahrung innerhalb von [!DNL Adobe Document Cloud]
 * in der Lage sein, geschäftliche Anforderungen zu identifizieren und zu kommunizieren
-* Sie können Produktaktivierungsberatungen zu Adobe Document Cloud-Lösungen durchführen.
+* Beratung zur Produktimplementierung zu [!DNL Adobe Document Cloud] Lösungen.
 
 >[!NOTE]
 >
@@ -42,43 +42,43 @@ Sie sollten über Folgendes verfügen:
 
 **Prüfungsdetails:**
 
-* Ebene: Beruflich (Erlebnis zwischen 0 und 12 Monaten)
-* Übergeben der Punktzahl: 50.34.50
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 34/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: englisch
-* Kosten: 125 $ (global) / 95 $ (Indien)
-* Test-ID: AD0-D106
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-D106
 
 **Prüfungsziele und -umfang**
 
 Abschnitt 1: Ermittlung von Nutzungsszenarios (36 %)
 
-* Qualifizierte Fragen stellen, um Document Cloud-Chancen zu identifizieren
+* Qualifizierte Fragen stellen, um Document Cloud-Möglichkeiten zu identifizieren
 * Allgemeine Geschäftsanwendungsfälle definieren
 
-Abschnitt 2: Bewertung von Geschäftsprozessen (34 %)
+Abschnitt 2: Bewertung der Geschäftsprozesse (34%)
 
-* Ermitteln der wichtigsten Bereiche der Prozessverbesserung und Lösungsfähigkeit
-* Geschäftsziele mit Document Cloud-Funktionen abstimmen
-* Hochrangige, benutzerspezifische Demonstrationen verschiedener Komponenten von Document Cloud
+* Ermitteln Sie die wichtigsten Bereiche der Prozessverbesserung und Lösungsfähigkeit.
+* Ausrichtung von Geschäftszielen mit Document Cloud-Funktionen
+* Hochrangige, benutzerspezifische Demonstrationen verschiedener Komponenten von Document Cloud bereitstellen
 
-Abschnitt 3: Definition von Document Cloud-Funktionen (DC) (18 %)
+Abschnitt 3: Document Cloud (DC)-Funktionen definieren (18%)
 
-* Erläuterung der Auswirkungen der Erfüllung und der Sicherheitsanforderungen von Dokumenten und E-Signaturen
+* Auswirkungen der Erfüllung und der Sicherheitsanforderungen von Dokument und E-Signatur erläutern
 * Beschreiben Sie, wie Prozessänderungen einen Mehrwert schaffen.
 
 Abschnitt 4: Empfohlene Lösung (12%)
 
-* Design der empfohlenen Document Cloud-Lösung
+* Design der Document Cloud-Lösung empfehlen
 
->[!TAB Vorab abrufen]
+>[!TAB Vorbereiten]
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-**Abschnitt 1: Anwendungsfallerkennung**
+**Abschnitt 1: Ermittlung von Nutzungsszenarien**
 
 * [Übersicht über Document Services](https://developer.adobe.com/document-services/docs/overview/){target="_blank"}
 * [Willkommen bei einem völlig neuen Dokumenterlebnis](https://www.adobe.com/documentcloud.html){target="_blank"}
@@ -87,7 +87,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Erfahren Sie, wie Acrobat Sign Ihr Unternehmen beschleunigen kann](https://www.adobe.com/sign.html){target="_blank"}
 * [Adobe Acrobat Sign-Funktion](https://www.adobe.com/sign/features.html){target="_blank"}
 
-**Abschnitt 2: Bewertung von Geschäftsprozessen**
+**Abschnitt 2: Bewertung des Geschäftsprozesses**
 
 * [Adobe PDF Extract API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
 * [PDF-Services-API](https://developer.adobe.com/document-services/docs/apis/){target="_blank"}
@@ -99,9 +99,9 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Integrationen - Neue Funktionen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
 * [Sichere, flexible Online-Signaturen](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
-**Abschnitt 3: Definition von Document Cloud-Funktionen (DC)**
+**Abschnitt 3: Document Cloud (DC)-Funktionen definieren**
 
-* [Zeugnisse, Normen und Vorschriften zur Einhaltung von Adoben](https://www.adobe.com/trust/compliance/compliance-list.html){target="_blank"}
+* [Adobe Compliance-Zertifizierungen, Normen und Vorschriften](https://www.adobe.com/trust/compliance/compliance-list.html){target="_blank"}
 * [Adobe Sign für Biowissenschaften](https://www.adobe.com/content/dam/dx-dc/en/pdfs/adobe-sign-life-sciences-solution-brief-ue.pdf){target="_blank"}
 * [Compliance Comes Standard](https://www.adobe.com/documentcloud/resources/compliance.html){target="_blank"}
 * [Was ist eine digitale Signatur?](https://www.adobe.com/sign/digital-signatures.html){target="_blank"}
@@ -109,7 +109,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Erlebnisse bei der Erstellung von Dokumenten mit PDF-APIs für Entwickler optimieren](https://developer.adobe.com/document-services){target="_blank"}
 * [Dokumentanzeige begrenzen](https://helpx.adobe.com/sign/using/limited-document-visibility.html){target="_blank"}
 
-**Abschnitt 4: Lösung empfehlen**
+**Abschnitt 4: Empfohlene Lösung**
 
 * [Sicherheitsübersicht über Adobe Acrobat Services-APIs](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/doc-cloud/adobe-document-services-security-overview.pdf){target="_blank"}
 * [Erste Schritte mit Acrobat Services-APIs](https://documentservices.adobe.com/dc-integration-creation-app-cdn/main.html){target="_blank"}
@@ -131,20 +131,16 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{practice-test}}
 
-## Über die Prüfung
+## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Führen Sie die Prüfung durch (AD0-D106).
-
-### Verfügbare Optionen
-
-**[!DNL Examity]** ( *online* )
+## Prüfung AD0-D106 planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Prüfung ablegen
+   Gehen Sie zum Portal "Examity"
 </span>
 </a>
 
