@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prüfung AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7aa27decdbc3517351894d2b1d6dad383aeaac03
+source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1141'
 ht-degree: 10%
 
 ---
@@ -24,7 +24,7 @@ Erfahren Sie, wie Sie zertifiziert werden [!DNL Analytics] Entwickler Profession
 Sie sollten über Folgendes verfügen:
 
 * 6-12 Monate Erfahrung in [!DNL Adobe Analytics] Implementierung (Web und mobile App)
-* Erfahrung, die als Player fungiert, der Analytics-Implementierungsteams bei der Verbindung zwischen IT und Unternehmen unterstützt, um zu verstehen, wie Geschäftsanforderungen in eine technische Lösung (SDR) übersetzt werden und auf den Anforderungen des Analytikers basieren.
+* Erfahrung, die die Analytics-Implementierungsteams bei der Verbindung zwischen IT und Unternehmen unterstützt, um zu verstehen, wie die Geschäftsanforderungen in eine technische Lösung (SDR) überführt werden und auf den Anforderungen des Analytikers basieren.
 * Grundlegendes zu dem erforderlichen Variablentyp, wo und wie die Daten erfasst, das Datenmodell (Datenschicht) entworfen, konfiguriert und gepflegt werden.
 
 Erfahren Sie mehr über die folgenden Aufgaben:
