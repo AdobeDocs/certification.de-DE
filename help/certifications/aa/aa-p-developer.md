@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prüfung AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c661d42a32717320031da2289509ffcf6f5bc945
 workflow-type: tm+mt
-source-wordcount: '1120'
+source-wordcount: '1116'
 ht-degree: 10%
 
 ---
@@ -169,10 +169,6 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 >Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 >Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
-
-## Einen Praxistest durchführen
-
-{{practice-test}}
 
 ## Über die Zertifizierungsprüfung
 
