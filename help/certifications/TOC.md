@@ -2,10 +2,10 @@
 user-guide-title: Zertifizierung bei Adobe
 breadcrumb-title: Zertifizierung bei Adobe
 user-guide-description: Informationen zur  [!DNL Experience Cloud] -Zertifizierung bei Adobe. Finden Sie heraus, was eine Zertifizierung für Sie bedeuten kann.
-source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 47%
+source-wordcount: '255'
+ht-degree: 48%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 47%
       + [Advertising-Übersicht](/help/certifications/aac/aac-overview.md)
       + Professional {#aac-professional}
          + [Geschäftspraktiker (Suche)](/help/certifications/aac/aac-search-p-business.md)
-         + [Geschäftspraktiker (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
+         + [Business Practice (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
       + [Verlängerung](/help/certifications/aac/aac-renew.md)
    + Adobe [!DNL Analytics] {#aa}
       + [Übersicht über Analytics](/help/certifications/aa/aa-overview.md)
@@ -38,7 +38,7 @@ ht-degree: 47%
          + [Architekt](/help/certifications/aa/aa-m-architect.md)
       + [Verlängerung](/help/certifications/aa/aa-renew.md)
    + Adobe [!DNL Customer Journey Analytics] {#acja}
-      + [Übersicht über Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
+      + [Customer Journey Analytics-Übersicht](/help/certifications/acja/acja-overview.md)
       + Professional {#acja-professional}
          + [Business Practitioner](/help/certifications/acja/acja-p-business.md)
       + Experte {#acja-expert}
@@ -53,7 +53,7 @@ ht-degree: 47%
          + [Architekt](/help/certifications/aam/aam-m-architect.md)
       + [Verlängerung](/help/certifications/aam/aam-renew.md)
    + Adobe [!DNL Campaign Classic] {#acc}
-      + [Übersicht über Campaign Classic](/help/certifications/acc/acc-overview.md)
+      + [Campaign Classic-Übersicht](/help/certifications/acc/acc-overview.md)
       + Professional {#acc-professional}
          + [Business Practitioner](/help/certifications/acc/acc-p-business.md)
          + [Entwickler](/help/certifications/acc/acc-p-developer.md)
@@ -74,18 +74,16 @@ ht-degree: 47%
       + Professional {#ac-professional}
          + [Business Practitioner](/help/certifications/ac/ac-p-business.md)
          + [Entwickler](/help/certifications/ac/ac-p-developer.md)
-         + [Frontend-Entwickler](/help/certifications/ac/ac-p-fedeveloper.md)
-         + [Frontend-Entwickler (neu)](/help/certifications/ac/ac-p-fedeveloper0623.md)
+         + [Frontend-Entwickler](/help/certifications/ac/ac-p-fedeveloper0623.md)
       + Experte {#ac-expert}
          + [Business Practitioner](/help/certifications/ac/ac-e-business.md)
          + [Entwickler](/help/certifications/ac/ac-e-developer.md)
-         + [Frontend-Entwickler](/help/certifications/ac/ac-e-fedeveloper.md)
-         + [Frontend-Entwickler (neu)](/help/certifications/ac/ac-e-fedeveloper0623.md)
+         + [Frontend-Entwickler](/help/certifications/ac/ac-e-fedeveloper0623.md)
       + Vorlage {#ac-master}
          + [Architekt](/help/certifications/ac/ac-m-architect.md)
       + [Verlängerung](/help/certifications/ac/ac-renew.md)
    + Adobe [!DNL Document Cloud] {#adc}
-      + [Übersicht über Document Cloud](/help/certifications/adc/adc-overview.md)
+      + [Document Cloud-Übersicht](/help/certifications/adc/adc-overview.md)
       + Professional {#adc-professional}
          + [Business Practitioner](/help/certifications/adc/adc-p-business.md)
       + [Verlängerung](/help/certifications/adc/adc-renew.md)
@@ -107,7 +105,7 @@ ht-degree: 47%
          + [Architekt (Sites)](/help/certifications/aem/aem-sites-m-architect.md)
       + [Verlängerung](/help/certifications/aem/aem-renew.md)
    + Adobe [!DNL Marketo Engage] {#ame}
-      + [Übersicht über Marketo Engage](/help/certifications/ame/ame-overview.md)
+      + [Marketo Engage-Übersicht](/help/certifications/ame/ame-overview.md)
       + Professional {#ame-professional}
          + [Certified Professional](/help/certifications/ame/ame-p.md)
       + Experte {#ame-expert}
