@@ -5,12 +5,12 @@ solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="Prüfung AD0-E718" type="positive"
+badge: label="Prüfung AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 77c33a05498833b58e467c0d332ba007cc181a7d
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '796'
 ht-degree: 2%
 
 ---
@@ -76,12 +76,12 @@ Darüber hinaus sollten Sie sich mit den folgenden Aktivitäten und Technologien
 **Prüfungsdetails:**
 
 * Stufe: Master (3-5 Jahre Erfahrung)
-* Übergeben der Punktzahl: 29/50
+* Übergeben der Punktzahl: 30/50
 * Zeit: 120 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
 * Verfügbare Sprachen: Englisch
 * Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E718
+* Prüfungs-ID: AD0-E722
 
 **Eigenbewertung der Bereitschaft**
 
@@ -123,12 +123,6 @@ Abschnitt 4: Grundlagen zur Einhaltung/Sicherheit (13%)
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
-
-**Beispielfragen**
-
-In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf die Sie bei der eigentlichen Prüfung stoßen werden. Es ist keine Anmeldung erforderlich. Die Ergebnisse der Beispielfragen werden nicht gespeichert und prognostizieren keine tatsächlichen Testergebnisse.
-
-[Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
 
 **Abschnitt 1: Design**
 
@@ -173,9 +167,9 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 {{about-certification-exam}}
 
-## Prüfung AD0-E718 planen oder durchführen
+## Prüfung AD0-E722 planen oder durchführen
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E722" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Gehen Sie zum Portal "Examity"
