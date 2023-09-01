@@ -6,36 +6,35 @@ product: Marketo
 role: Data Architect
 badge: label="Prüfung AD0-E560" type="positive"
 mini-toc-levels: 1
-hidefromtoc: true
-source-git-commit: 5fb76199d2e15ef486f9b91e55e908d5d5e9704c
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '992'
 ht-degree: 1%
 
 ---
 
 
-<!--This is NOT updated with the AD0-E560 information-->
-
 # Zertifizierungs-Journey für Adobe [!DNL Marketo Engage] Architekturmeister
 
 Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Marketo Engage] Architekturmeister.
 
-Das Adobe Credential Program hat eine neue Adobe gestartet [!DNL Marketo Engage] Bieten Sie eine Architektenzertifizierung für Bewerber an, die an der Erlangung des zertifizierten Master-Titels interessiert sind. Sie ersetzt den vorherigen Prozess des Zertifizierungsgesprächs mit dem Marketo Certified Solution Architect (MCSA). [Weitere Informationen](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
+>[!NOTE]
+>
+>Das ist das Neueste [!DNL Adobe Marketo Engage] Architekten-Master-Prüfung. Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](ame-m-architect.md)müssen Sie die Prüfung bis zum 31. Oktober 2023 abschließen.
 
 ## Minimales Erlebnis
 
 Sie sollten über Folgendes verfügen:
 
-* Aktuelle Zertifizierung in Adobe [!DNL Marketo Engage] zertifizierter Business-Practice-Experte
-* Mindestens fünfjährige Erfahrung vorzugsweise mit mehreren Instanzen von Adobe [!DNL Marketo Engage]
+* Eine aktuelle Zertifizierung als Marketo Engage Business Practitioner-zertifizierter Experte
+* Mindestens fünfjährige Erfahrung vorzugsweise mit mehreren Instanzen von Marketo Engage
 * Verständnis der geschäftlichen Auswirkungen und effektive Erläuterung/Weitergabe der Lösung an die (technischen und nicht-technischen) Interessenträger auf verschiedenen Ebenen
-* Die Fähigkeit, eine Lösung zu konzipieren und in eine [!DNL Marketo Engage] -Architektur, die von Integrationen betroffenen Geschäftsprozesse verstehen
+* Die Möglichkeit, eine Lösung zu konzipieren und in eine Marketo Engage-Architektur zu übersetzen, die Geschäftsprozesse zu verstehen, die von Integrationen betroffen sind
 * Kenntnis der Prinzipien der Architektur einer Instanz
 
 Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 
-* Adobe [!DNL Marketo Engage] Funktionen, Funktionen und Anwendungen
+* Adobe Marketo Engage-Funktionen, -Funktionen und -Apps
 * Datenbanksysteme
 * API-Verbindung
 * CRM-Plattform
@@ -68,15 +67,15 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 
 **Prüfungsdetails:**
 
-* Voraussetzung: Adobe Certified Expert - [!DNL Marketo Engage] Geschäftspraktiker
+* Voraussetzung: Aktuelle (nicht abgelaufene) Adobe [!DNL Marketo Engage] Zertifizierung durch Geschäftspraktiker
 * Stufe: Master (3-5 Jahre Erfahrung)
 * Praktische Zertifizierung
 * Übergeben der Punktzahl: 30/50
-* Zeit: 150 Minuten
+* Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
 * Verfügbare Sprachen: Englisch
 * Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E556
+* Prüfungs-ID: AD0-E560
 
 **Selbstbewertung der Bereitschaft**
 
@@ -84,14 +83,14 @@ Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/l
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Projektleitung (16%)
+**Abschnitt 1: Projektleitung (16%)**
 
 * Im Rahmen einer Fallstudie sollten die richtigen Akteure ermittelt werden.
 * Bewerten Sie eine Reihe von Anforderungen und empfehlen Sie Projektgrenzen, Budget, Ressourcen und Umfang.
 * Legen Sie bei einem geänderten Prozess fest, wer die Aktivierung und einen effizienten Rollout-Plan für die Aktivierung benötigt
 * Bewerten einer Prüfung und Empfehlungen für Prioritäten und Zeitpläne
 
-Abschnitt 2: [!DNL Marketo Engage] Architekturdesign (48%)
+**Abschnitt 2: Marketo Engage-Architekturdesign (48%)**
 
 * Anforderungen/Anforderungen sammeln und Lead-Management und Lebenszyklusdesign empfehlen
 * Überprüfen Sie die vorhandene Implementierung und geben Sie Ergebnisse an.
@@ -103,17 +102,17 @@ Abschnitt 2: [!DNL Marketo Engage] Architekturdesign (48%)
 * In einem Szenario skizzieren Sie verschiedene Phasen des Personenlebenszyklus, die von vorgeschlagenen Änderungen/Anforderungen betroffen sind
 * Anforderungssätze bewerten und Kampagnenlogik empfehlen
 
-Abschnitt 3: Berichterstellung und Attribution (20 %)
+**Abschnitt 3: Berichterstellung und Attribution (20 %)**
 
 * Wenn Sie ein zu überprüfendes Modell erhalten, erläutern Sie das Konzept der Umwege im Lebenszyklusmodell
 * Wenn Sie eine Online-Werbung oder organische Social- oder Content-Inhalte haben, empfehlen Sie einen Reporting-Ansatz
-* Abbildung der Validierung [!DNL Marketo Engage] Reporting in Tracking-Lebenszyklusänderungen
+* Veranschaulichen Sie, wie Sie die Marketo Engage-Berichterstellung bei der Verfolgung von Lebenszyklusänderungen überprüfen.
 * Identifizieren von Metriken zur Verwendung in einem bestimmten Berichtstyp
 * Ermitteln, wie die Mehrkanal-Attribution verfolgt werden kann, um den ROI zu bewerten
 * Identifizieren und Beschreiben der Vor- und Nachteile verschiedener Attributionsmodelle
 * Beschreiben Sie die Auswirkungen des für die Berichterstellung eingerichteten Kanals im Hinblick auf eine geschäftliche Anforderung.
 
-Abschnitt 4: Fortgeschrittene Vorgänge (16%)
+**Abschnitt 4: Fortgeschrittene Vorgänge (16%)**
 
 * Geben Sie in einem Szenario geeignete Schritte an, um die Verwaltung oder Governance zu verbessern.
 * Bei einer Reihe von Anforderungen empfehlen Sie ein effizientes Datenschema.
@@ -142,6 +141,7 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 **Abschnitt 2: Adobe [!DNL Marketo Engage] Architekturdesign**
 
+* [Berichtübersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html){target="_blank"}
 * [Anweisungen zum Erstellen einer benutzerdefinierten Synchronisierungsregel](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
 * [Der endgültige Leitfaden für die Lead-Scoring](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
 
@@ -161,19 +161,17 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>Die folgenden Abschnitte und Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
-
-
+>Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn der Proktor die Prüfung nicht mit den gleichen Informationen oder einer Inkongruenz beendet, muss er den Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.
 
 ## Über die Zertifizierungsprüfung
 
 {{about-certification-exam}}
 
-## Prüfung AD0-E556 planen oder durchführen
+## Prüfung AD0-E560 planen oder durchführen
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Gehen Sie zum Portal "Examity"
