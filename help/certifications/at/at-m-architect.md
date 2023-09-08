@@ -7,20 +7,17 @@ role: Data Architect
 badge: label="Prüfung AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+hidefromtoc: true
+source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 22%
+source-wordcount: '1077'
+ht-degree: 23%
 
 ---
 
 # Journey für die Zertifizierung [!DNL Adobe Target] Architekturmeister
 
 Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Architekturmeister.
-
->[!NOTE]
->
->Diese Prüfung, [!DNL Adobe Target] Architekt Master (AD0-E407), wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 8. September 2023 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir Ihnen, die [neueste Version dieser Prüfung](at-m-architect0623.md).
 
 ## Minimales Erlebnis
 
