@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prüfung AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '949'
 ht-degree: 12%
 
 ---
@@ -174,14 +174,25 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{about-certification-exam}}
 
-## Prüfung AD0-E209 planen oder durchführen
+## Prüfung AD0-E209 (Englisch) planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Gehen Sie zum Portal "Examity"
+   Gehen Sie zum Examity-Portal - Englischprüfung
 </span>
 </a>
+
+## Prüfung AD0-E209-J (Japanisch) planen oder durchführen
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Gehen Sie zum Examity-Portal - japanische Prüfung
+</span>
+</a>
+
+[Japanische Anweisungen für die Planung](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 >[!ENDTABS]
 

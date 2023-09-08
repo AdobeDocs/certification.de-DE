@@ -7,10 +7,10 @@ role: User
 badge: label="Prüfung AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 15%
+source-wordcount: '1031'
+ht-degree: 14%
 
 ---
 
@@ -135,7 +135,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Welcher [!DNL Adobe Analytics] -Tool sollte ich verwenden?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=de){target="_blank"}
 * Dokumentation zu [[!DNL Adobe Analytics] ](https://helpx.adobe.com/de/support/analytics.html){target="_blank"}
 * [Über die Datenerfassung](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=de){target="_blank"}
-* [Analytics-Daten-Feed-Dokumentation](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=de){target="_blank"}
+* [Dokumentation zu Analytics-Daten-Feeds](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Berichterstattung und Dashboards für Projekte**
 
@@ -177,14 +177,25 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 {{about-certification-exam}}
 
-## Prüfung AD0-E208 planen oder durchführen
+## Prüfung AD0-E208 (Englisch) planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Gehen Sie zum Portal "Examity"
+   Gehen Sie zum Examity-Portal - Englischprüfung
 </span>
 </a>
+
+## Prüfung AD0-E208-J (Japanisch) planen oder durchführen
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Gehen Sie zum Examity-Portal - japanische Prüfung
+</span>
+</a>
+
+[Japanische Anweisungen für die Planung](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 >[!ENDTABS]
 
