@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="Prüfung AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1019'
 ht-degree: 1%
 
 ---
@@ -107,9 +107,9 @@ Abschnitt 4: JavaScript (Bild-Widgets, Bildbibliothek, Kundendatenmodul, Knock-o
 * Verwendung von jQuery-Widgets demonstrieren
 * Verwendung von JS-Komponenten mithilfe von Layout-XML demonstrieren
 
-Abschnitt 5: Admin-Konfiguration und PageBuilder (12 %)
+Abschnitt 5: Admin-Konfiguration und Seitenaufbau (12 %)
 
-* Veranschaulichen der Möglichkeit, den Seitenaufbau-Inhalt anzupassen&quot;
+* Möglichkeiten zum Anpassen des Seitenaufbaus demonstrieren
 * Beschreibung der Front-End-Optimierung
 * Transaktions-E-Mails anpassen
 * Verwendung von Admin-Entwicklungstools demonstrieren
