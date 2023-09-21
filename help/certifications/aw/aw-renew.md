@@ -1,12 +1,12 @@
 ---
 title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre Adobe verlängern können [!DNL Workfront] -Zertifizierung vor ihrem Ablauf.
+description: Erfahren Sie, wie Sie Ihre Adobe erneuern können [!DNL Workfront] -Zertifizierung vor ihrem Ablauf.
 solution: Workfront
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: 032e1a6a773a5ede4b74b4a34a3e8079990d8d91
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Ihr Adobe-Zertifikat ist zwei Jahre gültig. Wenn Sie sich dieser zweijährigen Marke nähern, ist es an der Zeit, Ihre Zertifizierung zu erneuern, damit sie aktiv bleibt.
 
-Wählen Sie zunächst auf der Registerkarte unten die entsprechende Ebene aus (Professional, Expert oder Übergeordnet). Überprüfen Sie dann sorgfältig, was Sie tun müssen, um Ihre Zertifizierung zu erneuern.
+Wählen Sie zunächst auf der Registerkarte unten die entsprechende Ebene aus (Professional, Expert oder Master). Überprüfen Sie dann sorgfältig, was Sie tun müssen, um Ihre Zertifizierung zu erneuern.
 
 Stellen Sie sicher, dass Sie ausreichend Zeit haben, um alle Anforderungen abzuschließen, bevor Ihr Zertifikat abläuft.
 
@@ -36,31 +36,31 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
 * **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
-* **Schritt 2**: Prüfungsziele und -ressourcen überprüfen
-* **Schritt 3**: Führen Sie die Prüfung durch
+* **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
+* **Schritt 3**: Führen Sie die Prüfung durch.
 
 ### Bereit
 
 **Prüfungsdetails:**
 
-* Übergeben der Punktzahl: 34.25.
+* Übergeben der Bewertung: 25/34
 * Zeit: 68 Minuten
 * Kosten: KOSTENLOS/NICHT VERARBEITET
 * Versand: On-Demand
-* Verfügbare Sprachen: englisch
-* Voraussetzung: Aktuelle (nicht abgelaufene) Zertifizierung für Adobe Workfront Fusion Developer Professional
-* Test-ID: AD5-E830
+* Verfügbare Sprachen: Englisch
+* Voraussetzung: aktuelle (nicht abgelaufene) Adobe Workfront Fusion Developer Professional-Zertifizierung
+* Prüfungs-ID: AD5-E830
 
 **Anwendungsbereich und Ziele**
 
-Abschnitt 1: Core-Systemverwaltung und -einrichtung (26 %)
+Abschnitt 1: Core-Systemadministration und -einrichtung (26%)
 
 * Bei einem Fusion-Szenario, bei dem eine Funktion innerhalb einer anderen Funktion verschachtelt werden muss, wählen Sie den richtig formatierten Ausdruck aus.
 * Bei einem Fusion-Szenario, das eine Manipulation der Zeitzone erfordert, müssen Sie zwischen dem Benutzer, der sichtbaren Organisation und dem Ort unterscheiden, an dem die Zeitzone überschrieben werden muss.
 * Bei einem Fusion-Szenario wählen Sie den Zuordnungs-Bereichsausdruck und/oder das/die Modul(e) aus, die Eingabedaten entsprechend in Ausgabedaten umwandeln.
 * Identifizieren Sie die richtige(n) Methode(n), um das Fusion Dev Tool zur Fehlerbehebung bei der Ausführung zu verwenden, oder ermitteln Sie Aufrufe und Antworten, die an Drittanbietersysteme gesendet werden.
 
-Abschnitt 2: Szenario - Design und Architektur (47 %)
+Abschnitt 2: Szenario-Design und -Architektur (47%)
 
 * Wählen Sie für eine Liste von Schritten die richtige Reihenfolge aus, um JSON zu analysieren und in Bundles zu konvertieren.
 * Geben Sie bei einem Fusion-Szenario eine Gelegenheit an, das Design zu vereinfachen und/oder für die Wartung zu optimieren.
@@ -79,22 +79,22 @@ Abschnitt 4: Arbeiten mit APIs (12 %)
 * Identifizieren Sie bei einem Drittanbietersystem ohne dedizierte App die HTTP-App und wählen Sie das entsprechende Modul aus.
 * Identifizieren Sie den Unterschied zwischen CRUD-Vorgängen und anderen allgemeinen Funktionen von REST-APIs.
 
-## Vorab abrufen
+## Vorbereiten
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-**Abschnitt 1: Core System Administration und Einrichtung**
+**Abschnitt 1: Grundlegende Systemverwaltung und -einrichtung**
 
 * [Dokumentation zu Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Funktionen in Adobe Workfront Fusion, Organisationen in Adobe Workfront Fusion, Module in Adobe Workfront Fusion, Szenarien in Adobe Workfront Fusion
 
-**Abschnitt 2: Szenario - Design und Architektur**
+**Abschnitt 2: Szenario-Design und -Architektur**
 
 * [Optimierung des Workfront Fusion-Szenarios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html){target="_blank"} - Tutorial
 * [Dokumentation zu Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Module in Adobe Workfront Fusion
 
-**Abschnitt 3: Tests und Umgang mit Fehlern**
+**Abschnitt 3: Tests und Fehlerbehandlung**
 
 * [Dokumentation zu Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Bedienfeld &quot;Szenario-Einstellungen&quot;in Adobe Workfront Fusion, Fehler in Adobe Workfront Fusion, Funktionen in Adobe Workfront Fusion
 
@@ -105,7 +105,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 ## Zertifizierung verlängern
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihrer Zertifizierung auf den unten stehenden Link Workfront Fusion Developer Erneuerung - AD5-830 .
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihrer Zertifizierung auf den unten stehenden Link Workfront Fusion Developer Erneuerung - AD5-830 .
 
 * [Verlängerung der Workfront Fusion Developer - AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
 
@@ -120,20 +120,20 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
 * **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
-* **Schritt 2**: Prüfungsziele und -ressourcen überprüfen
-* **Schritt 3**: Führen Sie die Prüfung durch
+* **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
+* **Schritt 3**: Führen Sie die Prüfung durch.
 
 ### Bereit
 
 **Prüfungsdetails:**
 
-* Übergeben der Punktzahl: 35.02.25
+* Übergeben der Bewertung: 25/35
 * Zeit: 70 Minuten
 * Kosten: KOSTENLOS/NICHT VERARBEITET
 * Versand: On-Demand
-* Verfügbare Sprachen: englisch
-* Voraussetzung: Aktuelles (nicht abgelaufenes) Adobe Workfront Project Manager Professional-Zertifikat
-* Test-ID: AD5-E833
+* Verfügbare Sprachen: Englisch
+* Voraussetzung: aktuelles (nicht abgelaufenes) Adobe Workfront Project Manager Professional-Zertifikat
+* Prüfungs-ID: AD5-E833
 
 **Anwendungsbereich und Ziele**
 
@@ -147,13 +147,13 @@ Abschnitt 1: Aufnahme und Planung (29%)
 
 Abschnitt 2: Ausführen (59%)
 
-* Erstellen Sie Workfront-Genehmigungen für die einmalige Verwendung und wann eine Genehmigung verwendet wird. (Beispiele: Projekt- und Aufgabengenehmigungen, Genehmigungen für mehrere Pfade und Mehrstufengenehmigungen.)
+* Erstellen Sie Workfront-Genehmigungen für die einmalige Verwendung und wann eine Genehmigung verwendet werden soll. (Beispiele: Projekt- und Aufgabengenehmigungen, Genehmigungen für mehrere Pfade und Mehrstufengenehmigungen.)
 * Identifizieren Sie bei einem Szenario die Informationen, die die Datentypen einem Projektmanager übermitteln. (Betrachten Sie geplante Datumswerte, tatsächliche Daten, manuelle Daten, Commit-Daten, geschätzte Datumswerte)
 * Ermitteln Sie in einem Szenario, wie sich unterschiedliche Aufgabenbegrenzungen auf die Projekt-Timeline bei Verwendung auswirken. (Beachten Sie, was die verschiedenen Aufgabenbegrenzungen tun, und wissen Sie, was die verschiedenen Aufgabenbegrenzungen sind und wann die verschiedenen Aufgabenbegrenzungen verwendet werden.)
 * Zeigen Sie in einem Szenario, wie Sie Projektteams finden und wie Sie sie über Arbeitsaufgaben, Aktualisierungen oder Fertigstellung von Arbeitselementen informieren. (Beachten Sie Benachrichtigungstypen, Benachrichtigungen des Projektteams, Personen-Registerkarte, Aktualisierungen von Projekten/Aufgaben, Zeitpunkt und Grund des Abonnements für ein Arbeitsobjekt und Informationen zum Ändern einzelner E-Mail-Benachrichtigungen)
 * Identifizieren Sie die verschiedenen Methoden zum Verwalten eines Projekts. (Betrachten wir Wasserfall, Agile, SCRUM und Kanban.)
 * Beschreiben Sie in einem Szenario, wie Sie den Interessengruppen die benötigten Informationen bereitstellen können. (Exportieren von Berichten, Exportieren von Dateien, wiederkehrenden Sendungen usw.)
-* Legen Sie bei einem Szenario fest, wie sich Datumstypen und -dauer auf die Projektbedingungen auswirken. (Betrachten Sie den geplanten Start, den voraussichtlichen Start, das Datum der Übertragung durch Einzelpersonen usw.)
+* Legen Sie bei einem Szenario fest, wie sich Datumstypen und -dauer auf die Projektbedingungen auswirken. (Betrachten Sie den geplanten Start, den voraussichtlichen Start, das Datum der Benutzerbindung usw.)
 * Legen Sie für ein Szenario fest, wie Sie Änderungen an benutzerdefinierten Status auf Systemebene oder Gruppenebene implementieren oder ändern können
 * Beschreiben Sie bei einem Szenario die Schritte zum Erstellen eines Berichts und bestimmen Sie den benötigten Berichtstyp.
 * Legen Sie bei einem Szenario fest, wann ein Problem in einem Projekt verwendet werden soll.
@@ -163,7 +163,7 @@ Abschnitt 3: Schließung (12%)
 * Legen Sie für einen bestimmten Objektstatus fest, welche Aktivitäten ausgeführt werden müssen oder welche Aktionen ausgelöst werden. (Für ausstehende Genehmigungen, d. h., die Genehmigung ist erforderlich oder ein Projekt kann nicht geschlossen werden, bis die Genehmigungen aufgelöst sind, die Benachrichtigung nur für aktive Projekte gesendet wird - nicht für Status, die der Planung, Bearbeitung von Daten oder Löschung von Aufgaben mit angemeldeten Stunden in einem abgeschlossenen Projekt entsprechen usw.)
 * Identifizieren Sie die Projektelemente, die zum Messen des Projekterfolgs verwendet werden können. (Betrachten Sie Baseline-Varianten, finanzielle Mittel, geplante vs. tatsächliche Daten/Stunden/Kosten, benutzerdefinierte Daten/KPIs usw.) Verwenden Sie KEINE fallspezifischen Fragen. Fokus auf technische Elemente.)
 
-## Vorab abrufen
+## Vorbereiten
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -173,11 +173,11 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 * [Anforderungswarteschlangen verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [Validierung der Arbeit](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html){target="_blank"}
-* [Freigeben eines Projekts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
+* [Freigeben eines Projekts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=de){target="_blank"}
 * [Bearbeiten von Projektvorlagen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html){target="_blank"}
 * [Zuweisen von Aufgaben aus dem Projektplan](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html){target="_blank"}
 * [Aufgabenübersicht](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/tasks-overview.html){target="_blank"}
-* [Übersicht über den Durationstyp: Berechnete Arbeit](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/tasks-overview.html){target="_blank"}
+* [Übersicht über den Dauer-Typ: Berechnete Arbeit](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/tasks-overview.html){target="_blank"}
 * [Objekte in Adobe Workfront verstehen](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html){target="_blank"}
 * [Konvertieren von Problemen in andere Arbeitselemente](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html){target="_blank"}
 * [Freigeben eines Projekts in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-project.html){target="_blank"}
@@ -206,7 +206,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Integrierte Adobe Workfront-Berichte verwenden](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html){target="_blank"}
 
 
-**Abschnitt 3: Closeout**
+**Abschnitt 3: Schließung**
 
 * [Ändern des Status eines Projekts](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/change-project-status.html){target="_blank"}
 * [Systemprojektstatus](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
@@ -217,7 +217,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 ## Zertifizierung verlängern
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung des Zertifikats auf den unten stehenden Link Workfront Project Manager Professional - AD5-833 .
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung des Zertifikats auf den unten stehenden Link Workfront Project Manager Professional - AD5-833 .
 
 * [Workfront Project Manager Professional-Verlängerung - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
 
@@ -232,28 +232,28 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
 * **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
-* **Schritt 2**: Prüfungsziele und -ressourcen überprüfen
-* **Schritt 3**: Führen Sie die Prüfung durch
+* **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
+* **Schritt 3**: Führen Sie die Prüfung durch.
 
 ### Bereit
 
 **Prüfungsdetails:**
 
-* Übergeben der Punktzahl: 35.02.25
+* Übergeben der Bewertung: 25/35
 * Zeit: 70 Minuten
 * Kosten: KOSTENLOS/NICHT VERARBEITET
 * Versand: On-Demand
-* Verfügbare Sprachen: englisch
-* Voraussetzung: Aktuelle (nicht abgelaufene) Adobe Workfront Core Developer Professional-Zertifizierung
-* Test-ID: AD5-E835
+* Verfügbare Sprachen: Englisch
+* Voraussetzung: aktuelle (nicht abgelaufene) Adobe Workfront Core Developer Professional-Zertifizierung
+* Prüfungs-ID: AD5-E835
 
 **Anwendungsbereich und Ziele**
 
-Abschnitt 1: Strategie und Aufnahme (20 %)
+Abschnitt 1: Strategie und Aufnahme (20%)
 
 * Verwenden von Portfolios und Programmen
 * Verwenden von Anforderungswarteschlangen
-* Benutzerdefinierte Forms verwenden
+* Verwenden benutzerdefinierter Forms
 
 Abschnitt 2: Haushalt und Planung (11%)
 
@@ -280,7 +280,7 @@ Abschnitt 5: Ausführung (29%)
 * Identifizieren Sie die Attribute, die zur Aktivierung von Agile in Workfront erforderlich sind.
 * Identifizieren der Möglichkeiten zur Zeiteingabe in Workfront
 
-## Vorab abrufen
+## Vorbereiten
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -293,7 +293,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Zugriff auf Anforderungswarteschlangen gewähren](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html?lang=en){target="_blank"}
 * [Übersicht über benutzerdefinierte Formulare](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 
-**Abschnitt 2: Budget und Planung**
+**Abschnitt 2: Haushalt und Planung**
 
 * [Suchen Sie den Lastenausgleich .](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html?lang=en){target="_blank"}
 * [Stapelweises Zuweisen von Arbeiten mithilfe des Lastenausgleichs](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
@@ -322,9 +322,9 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 ## Zertifizierung verlängern
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den unten stehenden Link Workfront Core Developer Professional Erneuerung - AD5-835 .
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den unten stehenden Link Workfront Core Developer Professional Erneuerung - AD5-835 .
 
-* [Workfront Core Developer Professional-Verlängerung - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
+* [Workfront Core Developer Professional-Verlängerung - AD5-835](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >
@@ -339,24 +339,24 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
 * **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
-* **Schritt 2**: Prüfungsziele und -ressourcen überprüfen
-* **Schritt 3**: Führen Sie die Prüfung durch
+* **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
+* **Schritt 3**: Führen Sie die Prüfung durch.
 
 ### Bereit
 
 **Prüfungsdetails:**
 
-* Übergeben der Punktzahl: 35.02.25
+* Übergeben der Bewertung: 25/35
 * Zeit: 70 Minuten
 * Kosten: KOSTENLOS/NICHT VERARBEITET
 * Versand: On-Demand
-* Verfügbare Sprachen: englisch
-* Voraussetzung: Aktuelle (nicht abgelaufene) Adobe Workfront Core Developer Expert-Zertifizierung
-* Test-ID: AD5-E829
+* Verfügbare Sprachen: Englisch
+* Voraussetzung: aktuelle (nicht abgelaufene) Adobe Workfront Core Developer Expert-Zertifizierung
+* Prüfungs-ID: AD5-E829
 
 **Anwendungsbereich und Ziele**
 
-Abschnitt 1: Core-Systemverwaltung und -einrichtung (27 %)
+Abschnitt 1: Core-Systemadministration und -einrichtung (27%)
 
 * Wählen Sie bei einer Anforderung die entsprechenden Gruppenebeneneinstellungen aus.
 * In einem Szenario, in dem ein Unternehmenskonto sicherstellen möchte, dass SSO effektiv arbeitet, um die Systemsicherheit zu wahren, sollten Sie Best Practices für Benutzer mit automatischer Bereitstellung ermitteln. (Zu den Aspekten gehören Admin Console, klassische einmalige Anmeldung und Einschränkungen bei der Verwendung von Admin Console)
@@ -367,7 +367,7 @@ Abschnitt 2: Aufnahme, benutzerdefinierte Forms und Projektmanagement (11 %)
 * Bei einem Szenario mit mehreren Formularen bestimmen Sie die Aktionen zur Steuerung von Zugriff, Sichtbarkeit und Abhängigkeit.
 * Geben Sie bei einem Szenario mit berechneten Feldern in Formularen mit mehreren Objekten die richtige Formel an.
 
-Abschnitt 3: Strategische Funktionalität (Portfolio- und Programmmanagement, Ressourcenmanagement) (11 %)
+Abschnitt 3: Strategische Funktionalität (Portfolio- und Programmmanagement, Ressourcenmanagement) (11%)
 
 * Stellen Sie in einem Szenario einen Mechanismus bereit, um sicherzustellen, dass Projekte mit Tools für die Ressourcenverwaltung voll besetzt sind.
 * In einem Szenario bestimmen Ressourcen-Management-Tools , warum ein Benutzer zu häufig zugewiesen wird.
@@ -377,7 +377,7 @@ Abschnitt 4: Dokumentenverwaltung und -nachweis (11 %)
 * In einem Szenario zeigen Sie, wie Sie Berechtigungen mit der Prüfung bearbeiten und festlegen.
 * Richten Sie in einem Szenario eine Verbindung zu AEM as a Cloud Service oder AEM Assets Essentials ein.
 
-Abschnitt 5: Berichterstellung (11 %)
+Abschnitt 5: Berichterstattung (11%)
 
 * Legen Sie bei einem Szenario fest, wie ein Feldtyp in einem Bericht dargestellt wird. (Feldtypen umfassen Rich-Text, Bilder, Mehrfachauswahl)
 * Ermitteln Sie Adobe Workfront-Funktionen, die die Überwachung und Verbesserung der Benutzerakzeptanz unterstützen.
@@ -390,20 +390,20 @@ Abschnitt 6: Methode/Best Practices/Anwendungsfälle (29%)
 * Identifizieren Sie bei einem Szenario mit Workfront-Pinnwänden native Funktionen, um den Fortschritt anzuzeigen.
 * In einem Szenario empfehlen Sie ein Framework für Governance rund um die System- und Gruppenverwaltung.
 
-## Vorab abrufen
+## Vorbereiten
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-**Abschnitt 1: Core System Administration und Einrichtung**
+**Abschnitt 1: Grundlegende Systemverwaltung und -einrichtung**
 
 * [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Administration und Einrichtung, Gruppen verwalten, Agile)
 * [Erstellen und Ändern von Gruppenprojektvorlagen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-templates.html){target="_blank"}
 * [Grundlegendes zu gruppenspezifischen Validierungsprozessen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.html){target="_blank"}
 * [Vererben von Status durch Gruppen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/how-groups-inherit-statuses.html){target="_blank"}
 * [Erstellen und Ändern von Teams einer Gruppe](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-teams.html){target="_blank"}
-* [Namensbasierte Benutzerlizenzierung | Implementierungshandbuch](https://helpx.adobe.com/enterprise/using/deployment-planning.html){target="_blank"}
+* [Namensbasierte Anwenderlizenzierung | Implementierungshandbuch](https://helpx.adobe.com/enterprise/using/deployment-planning.html){target="_blank"}
 * [Kartenfalloff konfigurieren](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html){target="_blank"}
 * [Angeschlossene Karten auf Pinnwänden verwenden](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html){target="_blank"}
 * [Hinzufügen oder Entfernen von Mitgliedern aus einer Pinnwand](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html){target="_blank"}
@@ -414,27 +414,27 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Hinzufügen eines Abschnittsumbruchs zu einem benutzerdefinierten Formular mit dem Legacy-Formular](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/add-a-section-break-to-a-custom-form.html){target="_blank"}
 * [Platzhalterfiltervariablen](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html){target="_blank"}
 
-**Abschnitt 3: Strategische Funktionalität (Portfolio- und Programmmanagement, Ressourcenmanagement)**
+**Abschnitt 3: Strategische Funktionen (Portfolio- und Programmmanagement, Ressourcenmanagement)**
 
 * [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Der Arbeitslastausgleich, Ressourcenplanung in Adobe Workfront, Aufgaben zuweisen)
 * [Stapelweises Zuweisen von Arbeiten mithilfe des Lastenausgleichs](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
-* [Budgetressourcen im Ressourcenplaner mithilfe der Projekt- und Rollenansicht](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner.html){target="_blank"}
+* [Budgetressourcen im Ressourcenplaner mithilfe der Projekt- und Rollenansichten](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner.html){target="_blank"}
 * [Filtern von Informationen im Arbeitslastausgleich](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html){target="_blank"}
 * [Stapelweises Zuweisen von Arbeiten mithilfe des Lastenausgleichs](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
 * [Übersicht über Smart-Zuweisungen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/assign-tasks/smart-assignments.html){target="_blank"}
 
 **Abschnitt 4: Dokumentenverwaltung und -nachweis**
 
-* [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Überprüfen und genehmigen Sie die Arbeit, Testen konfigurieren, Integrationen konfigurieren)
+* [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Überprüfen und genehmigen Sie die Arbeit, Testversand konfigurieren, Integrationen konfigurieren)
 * [Übersicht über das Profil für Testberechtigungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
 * [Übersicht über Testrollen](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html){target="_blank"}
 * [Konfigurieren des Testversand-Zugriffs eines Benutzers](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/configure-a-users-proofing-access.html){target="_blank"}
 * [Integration von Experience Manager Assets Essentials konfigurieren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/setup-asset-essentials.html){target="_blank"}
 * [Konfigurieren der as a Cloud Service Integration von Experience Manager Assets](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html){target="_blank"}
 
-**Abschnitt 5: Berichterstellung**
+**Abschnitt 5: Berichterstattung**
 
-* [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Überprüfen und genehmigen Sie die Arbeit, Testen konfigurieren, Integrationen konfigurieren)
+* [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Überprüfen und genehmigen Sie die Arbeit, Testversand konfigurieren, Integrationen konfigurieren)
 * [Erstellen einer Projektvorlage](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
 * [Hinzufügen oder Bearbeiten von Bildern oder anderen Asset-Widgets in einem benutzerdefinierten Formular mit dem alten Formular-Builder](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-widget-or-edit-its-properties-in-a-custom-form.html){target="_blank"}
 * [Bericht anhand eines benutzerdefinierten Mehrfachauswahlfelds grafisch darstellen](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html){target="_blank"}
@@ -452,7 +452,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 ## Zertifizierung verlängern
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den unten stehenden Link Workfront Core Developer Erneuerung - AD5-829 .
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den unten stehenden Link Workfront Core Developer Erneuerung - AD5-829 .
 
 * [Verlängerung der Workfront Core Developer Expert - AD5-829](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E829){target="_blank"}
 
