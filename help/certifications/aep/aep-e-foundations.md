@@ -4,12 +4,12 @@ description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experie
 solution: Experience Platform
 product: Experience Platform
 role: Developer
-badge: label="Prüfung AD0-E600 &amp; AD7-E601" type="positive"
+badge: label="Prüfung AD0-E600 &amp; AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1422'
+source-wordcount: '1424'
 ht-degree: 12%
 
 ---
@@ -26,6 +26,12 @@ ht-degree: 12%
 >[!IMPORTANT]
 >
 >Die Adobe [!DNL Experience Platform] Für die Zertifizierung durch Experten sind derzeit zwei Prüfungen erforderlich: **Adobe [!DNL Experience Platform] Technische Stiftungen (AD0-E600)** und **Adobe [!DNL Real-Time CDP] Technische Praxis (AD7-E601)**. Ab dem 1. November 2023 wird eine neue Prüfung eingeleitet, die nur für diese Zertifizierung erforderlich ist.
+
+<br>
+
+[Sprung zu Informationen, die für Anforderung 1 spezifisch sind](#req-1)
+
+[Sprung zu Informationen, die spezifisch für Anforderung 2 sind](#req-2)
 
 <br>
 
@@ -56,12 +62,6 @@ Sie sollten über Folgendes verfügen:
 * Die Möglichkeit, zu bestimmen, welche Profilattribute erforderlich sind
 * Kenntnis der Häufigkeit des Aussands von Segmenten über Ziele
 * Häufigkeit der Aktualisierung der Segmentzugehörigkeit
-
-<br>
-
-[Sprung zu Informationen für Anforderung 1](#req-1)
-
-[Sprung zu Informationen für Anforderung 2](#req-2)
 
 <br>
 
