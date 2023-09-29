@@ -7,21 +7,40 @@ role: Developer
 badge: label="Prüfung AD0-E600 &amp; AD7-E601" type="positive"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1530'
-ht-degree: 11%
+source-wordcount: '1422'
+ht-degree: 12%
 
 ---
 
 
 # Zertifizierungs-Journey für Adobe [!DNL Experience Platform] Expert
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Platform] Experten.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
 
-Um eine Zertifizierung mit einer Prüfung zu erhalten, müssen Sie 2 verschiedene Prüfungen mit einem anwesenden Proktor ablegen, online oder vor Ort, sofern verfügbar.
+{{exam-description}}
+
+>[!IMPORTANT]
+>
+>Die Adobe [!DNL Experience Platform] Für die Zertifizierung durch Experten sind derzeit zwei Prüfungen erforderlich: **Adobe [!DNL Experience Platform] Technische Stiftungen (AD0-E600)** und **Adobe [!DNL Real-Time CDP] Technische Praxis (AD7-E601)**. Ab dem 1. November 2023 wird eine neue Prüfung eingeleitet, die nur für diese Zertifizierung erforderlich ist.
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Datenarchitekt/Ingenieur
+* Lösungsarchitektur oder MSA
+* Unternehmensarchitektur
+* Produkt-Manager
+* Marketingtechnologieführer
+* Technischer Berater
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über Folgendes verfügen:
 
@@ -38,29 +57,19 @@ Sie sollten über Folgendes verfügen:
 * Kenntnis der Häufigkeit des Aussands von Segmenten über Ziele
 * Häufigkeit der Aktualisierung der Segmentzugehörigkeit
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+[Sprung zu Informationen für Anforderung 1](#req-1)
 
->[!TAB Bereit]
+[Sprung zu Informationen für Anforderung 2](#req-2)
 
-**Vorgesehene Zielgruppe:**
+<br>
 
-* Datenarchitekt/Ingenieur
-* Lösungsarchitektur oder MSA
-* Unternehmensarchitektur
-* Produkt-Manager
-* Marketingtechnologieführer
-* Technischer Berater
-
-
-**Anforderung 1: AD0-E600 Adobe [!DNL Experience Platform] Technische Stiftungen**
+## Anforderung 1: Informationen für Adobe [!DNL Experience Platform] Technische Stiftungen (AD0-E600) {#req-1}
 
 Die Prüfung AD0-E600 validiert Fähigkeiten und Kenntnisse, die die Grundfunktionen und häufig durchgeführten Aufgaben des Adobe abdecken. [!DNL Experience Platform] auf Expertenebene.
 
-**Prüfungsdetails:**
+### Prüfungsdetails für AD0-E600 {#exam-details-600}
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
 * Übergeben der Punktzahl: 35/50
@@ -70,15 +79,19 @@ Die Prüfung AD0-E600 validiert Fähigkeiten und Kenntnisse, die die Grundfunkti
 * Kosten: 225 USD (global) / 150 USD (Indien)
 * Prüfungs-ID: AD0-E600
 
-**Prüfungsziele und -bereich**
+<br>
 
-Abschnitt 1: Datenmodellierung (20%)
+### Prüfungsziele und -bereich für AD0-E600 {#exam-objectives}
+
+{{exam-objectives}}
+
+**Abschnitt 1: Datenmodellierung (20%)**
 
 * Analysieren Sie Quelldaten, um die primäre und sekundäre Identität für die Profilzuordnung zu bewerten.
 * Veranschaulichen Sie, wie Sie die Benutzeroberfläche zum Erstellen/Bearbeiten von XDM-Schemas verwenden.
 * DULE-Leitlinien identifizieren
 
-Abschnitt 2: Datenerfassung (36%)
+**Abschnitt 2: Datenerfassung (36%)**
 
 * Formatieren und Vorbereiten von Daten für die Aufnahme demonstrieren
 * Erfahren Sie, wie Sie mithilfe von OOTB-Connectoren Datenquellen verbinden
@@ -87,7 +100,7 @@ Abschnitt 2: Datenerfassung (36%)
 * Ermitteln der Datenerkennung an Quelldaten
 * Demonstration der Umwandlung von Daten in eine XDM-Übereinstimmung
 
-Abschnitt 3: Vereinheitlichung der Profile (34%)
+**Abschnitt 3: Vereinheitlichung der Profile (34%)**
 
 * Überprüfen von Profilen und Ereignisdaten nach der Erfassung
 * Definieren von IdentitätsnamensLeerzeichen
@@ -95,19 +108,30 @@ Abschnitt 3: Vereinheitlichung der Profile (34%)
 * Ermitteln der Anreicherung von Profilen durch Data Science Workspace-Modellierungsdienste
 * So erstellen Sie ein Segment mit Segment Builder und wie der Segmentierungsdienst funktioniert
 
-Abschnitt 4: Aktivierung (10%)
+**Abschnitt 4: Aktivierung (10%)**
 
 * Demonstrieren, wie ein Ziel eingerichtet wird und wie die Segmentaktivierung funktioniert
 * Datenzugriffs-API demonstrieren und verstehen und Daten über Real-Time CDP exportieren
 
-Sehen Sie sich einen Fragebogen an, um herauszufinden, ob Sie die Mindestanforderungen erfüllen.
+<br>
 
+## Zertifizierung (AD0-E600) {#how-to-get-certified}
 
->[!TAB Vorbereiten]
+{{how-to-get-certified-intro}}
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
++++ Schritt 1: Konto erstellen
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Datenmodellierung**
 
@@ -132,17 +156,33 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 * [Ziele – Übersicht](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=de){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## Einen Praxistest durchführen
+**Einen Praxistest durchführen**
 
 {{practice-test}}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -155,18 +195,25 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 </span>
 </a>
 
++++
 
->[!ENDTABS]
+<br>
 
->[!BEGINTABS]
+++ Schritt 6: Verwalten von Abzeichen
 
->[!TAB Bereit]
+{{manage-your-badges}}
 
-**Anforderung 2: AD7-E601 Adobe Real-Time CDP Technical Practitioner**
++++
+
+<br>
+
+## Anforderung 2: Informationen für Adobe [!DNL Real-Time CDP] Technische Praxis (AD7-E601) {#req-2}
 
 Die Prüfung AD7-E601 umfasst die Erstellung, Verwaltung und das Verständnis von Kundenprofil, Segmentierung, Zielen über Quellen hinweg und andere Themen. Die Prüfung validiert die grundlegenden Fertigkeiten und Kenntnisse, die erforderlich sind, um die Echtzeit-Kundendatenplattform für Zielgruppensegmentierung, Zielexporte und Aktivierung in Echtzeit für einheitliche Profile zu verwenden, die den Daten- und Datenschutzbestimmungen entsprechen. Bewerber sollten Erfahrung mit Kundendatenplattformen (CDP) und Kenntnisse im Adobe haben. [!DNL Experience Platform].
 
-**Prüfungsdetails:**
+<br>
+
+### Prüfungsdetails für AD7-E601
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
 * Übergeben der Bewertung: 25/34
@@ -176,11 +223,11 @@ Die Prüfung AD7-E601 umfasst die Erstellung, Verwaltung und das Verständnis vo
 * Kosten: 225 USD (global) / 150 USD (Indien)
 * Prüfungs-ID: AD7-E601
 
-**Eigenbewertung der Bereitschaft**
+<br>
 
-Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} , um zu sehen, ob Ihr aktuelles Erlebnis mit der empfohlenen Mindestqualifikation für Kandidaten übereinstimmt.
+### Prüfungsziele und -bereich für AD7-E601
 
-**Umfang und Ziele der Prüfung**
+{{exam-objectives}}
 
 Abschnitt 1: Validierung(41%)
 
@@ -200,7 +247,33 @@ Abschnitt 3: Ziele (27%)
 * Anwenden von Konzepten, die zum Konfigurieren eines oder mehrerer Ziele erforderlich sind, wenn Zielgruppen basierend auf geschäftlichen Anwendungsfällen gesendet/exportiert werden
 * Demonstration eines Verständnisses für den Export von Segmenten über das Ziel
 
->[!TAB Vorbereiten]
+<br>
+
+### Bereitschaftsfragebogen für AD7-E601
+
+{{readiness}}
+
+[Nehmen Sie den Online-Bereitschaftsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"}
+
+<br>
+
+## Zertifizierung (AD7-E601)
+
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Validierung**
 
@@ -262,33 +335,62 @@ Abschnitt 3: Ziele (27%)
 * [Konfigurieren eines sozialen Ziels](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html){target="_blank"}
 * [Daten für Nicht-Adobe-Anwendung aktivieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html?lang=de){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
-
-## Einen Praxistest durchführen
+**Einen Praxistest durchführen**
 
 {{practice-test}}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
-## Prüfung AD0-E601 planen oder durchführen
+## Planen oder Ausführen der Prüfung AD7-E601
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD7-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Gehen Sie zum Portal "Examity"
 </span>
 </a>
 
++++
 
->[!ENDTABS]
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

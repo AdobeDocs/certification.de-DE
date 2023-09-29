@@ -8,36 +8,24 @@ level: Experienced
 badge: label="Prüfung AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '907'
-ht-degree: 15%
+source-wordcount: '804'
+ht-degree: 17%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Audience Manager] Geschäftspraktiker/innen
 
-Erfahren Sie, wie Sie als [!DNL Audience Manager] Business Practitioner Professional.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
 
-Sie sollten ein grundlegendes Verständnis der Datenflüsse, Geschäftsziele und KPIs haben, mit einigen Erfahrungen rund um Datenanalyse und Strategien
+{{exam-description}}
 
->[!BEGINTABS]
+<br>
 
->[!TAB Bereit]
-
-**Vorgesehene Zielgruppe:**
-
-* Digital Marketing Specialist
-* Marketingtechnologieberater
-* Zielgruppenstratege
-* Behavioral Consultant
-* Digital Marketing Analytics
-* Marketing Data Analytics
-* Data Platform Manager
-
-**Prüfungsdetails:**
+### Prüfungsdetails {#exam-details}
 
 * Niveau: Professional (0-12 Monate Erfahrung)
 * Übergeben der Punktzahl: 31/50
@@ -47,9 +35,31 @@ Sie sollten ein grundlegendes Verständnis der Datenflüsse, Geschäftsziele und
 * Kosten: 125 USD (global) / 95 USD (Indien)
 * Prüfungs-ID: AD0-E458
 
-**Prüfungsziele und -umfang**
+<br>
 
-Abschnitt 1: Erstellung und Syndikation von Segmenten (32 %)
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Digital Marketing Specialist
+* Marketingtechnologieberater
+* Zielgruppenstratege
+* Behavioral Consultant
+* Digital Marketing Analytics
+* Marketing Data Analytics
+* Data Platform Manager
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
+
+Sie sollten ein grundlegendes Verständnis der Datenflüsse, Geschäftsziele und KPIs haben, mit einigen Erfahrungen rund um Datenanalyse und Strategien
+
+<br>
+
+### Prüfungsziele und -umfang {#exam-objectives}
+
+{{exam-objectives}}
+
+**Abschnitt 1: Erstellung und Syndikation von Segmenten (32 %)**
 
 * Ermitteln von Möglichkeiten zur Verwendung von Erstanbieter-, Zweit- und Drittanbieterdaten für Targeting- und Analysezwecke.
 * Beschreiben Sie den grundlegenden Prozess für die Aktivierung von Geschäfts- oder Kampagnenzielen.
@@ -57,42 +67,50 @@ Abschnitt 1: Erstellung und Syndikation von Segmenten (32 %)
 * Identifizieren der verschiedenen Zieltypen
 * Identifizieren der verschiedenen Quellen
 
-Abschnitt 2: Erstellung von Eigenschaften (16%)
+**Abschnitt 2: Erstellung von Eigenschaften (16%)**
 
 * Identifizieren von Signalen, Eigenschaften, Segmenten und Zielgruppen
 * Verwendung verschiedener Eigenschaftstypen identifizieren
 
-Abschnitt 3: Berichterstattung und Messungen (16%)
+**Abschnitt 3: Berichterstattung und Messungen (16%)**
 
 * Generieren Sie in einem Szenario Berichte zur Messung der Aktivierung oder der Kampagnenziele
 * Vergleichen Sie in einem Szenario Zielgruppen anhand von Übereinstimmungsraten.
 
-Abschnitt 4: Fehlerbehebung (10 %)
+**Abschnitt 4: Fehlerbehebung (10 %)**
 
 * In einem Szenario führen Sie eine Fehlerbehebung bei eingehenden Daten aus verschiedenen Quellen und Quelltypen durch
 * Format für eingehende Datendateien überprüfen
 
-Abschnitt 5: Taxonomie (12%)
+**Abschnitt 5: Taxonomie (12%)**
 
 * Legen Sie die geeignete Struktur fest, um Eigenschaften und Segmente zu erstellen, die eine klare und konsistente Nomenklatur verwenden.
 * Bestimmen Sie die richtige Technik, um eine organisierte Plattform mithilfe einer klaren Ordnerstruktur zu verwalten.
 
-Abschnitt 6: Profilzusammenführung, ID-Synchronisierung und Audience Marketplace
+**Abschnitt 6: Profilzusammenführung, ID-Synchronisierung und Audience Marketplace**
 
 * Organisieren von Benutzereigenschaften in einem einheitlichen Profil, um auf Haushalts- oder Gerätebasis basierende Zielgruppen zu erstellen
 * Aktivierung mithilfe von Audience Marketplace identifizieren
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+## Zertifizierungen {#how-to-get-certified}
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{how-to-get-certified-intro}}
 
-**Beispielfragen**
++++ Schritt 1: Konto erstellen
 
-In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf die Sie bei der eigentlichen Prüfung stoßen werden. Es ist keine Anmeldung erforderlich. Die Ergebnisse der Beispielfragen werden nicht gespeichert und prognostizieren keine tatsächlichen Testergebnisse.
+{{create-your-account}}
 
-[Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Erstellung und Syndikation von Segmenten**
 
@@ -142,15 +160,35 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Aktivieren von Zielgruppensegmenten bei Bedarf für Batch-Ziele über die Ad-hoc-Aktivierungs-API](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html){target="_blank"}
 * [Profile und Segmente für ein Ziel aktivieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+**Beispielfragen**
 
+{{sample-questions}}
 
+[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -163,10 +201,27 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 
 Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+

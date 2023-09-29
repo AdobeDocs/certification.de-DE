@@ -7,44 +7,24 @@ role: Developer
 badge: label="Prüfung AD0-E717" type="positive"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1348'
+source-wordcount: '1160'
 ht-degree: 1%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Commerce] Entwickler Professional
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Commerce] Entwickler Professional.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
 
-Du solltest dich mit der Arbeit im Adobe wohl fühlen [!DNL Commerce] und Grundkenntnisse im Adobe haben [!DNL Commerce] Admin-Entwicklung, Architektur, EAV/Datenbank, Layout/Benutzeroberfläche, Checkout und Vertrieb sowie Katalog.
+{{exam-description}}
 
-Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sein:
+<br>
 
-* Adobe [!DNL Commerce] - Version 2.4
-* Gutes Verständnis von PHP
-* Kenntnisse über MYSQL
-* Kenntnisse über objektorientierte Programmierung
-* Kenntnisse der Cloud-Architektur
-
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
-
->[!BEGINTABS]
-
->[!TAB Bereit]
-
-**Vorgesehene Zielgruppe:**
-
-* Entwickler
-* Lead-Entwickler
-* Backend-Entwickler
-* Lösungsarchitekten
-* Technische Führungskräfte
+### Prüfungsdetails {#exam-details}
 
 **Prüfungsdetails:**
 
@@ -56,19 +36,43 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Kosten: 125 USD (global) / 95 USD (Indien)
 * Prüfungs-ID: AD0-E717
 
-**Eigenbewertung der Bereitschaft**
+<br>
 
-Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional) , um zu sehen, ob Ihr aktuelles Erlebnis mit der empfohlenen Mindestqualifikation für Kandidaten übereinstimmt.
+### Vorgesehene Zielgruppe {#intended-audience}
 
-**Prüfungsziele und -umfang**
+* Entwickler
+* Lead-Entwickler
+* Backend-Entwickler
+* Lösungsarchitekten
+* Technische Führungskräfte
 
-Abschnitt 1: Arbeiten mit Admin (5%)
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
+
+Du solltest dich mit der Arbeit im Adobe wohl fühlen [!DNL Commerce] und Grundkenntnisse im Adobe haben [!DNL Commerce] Admin-Entwicklung, Architektur, EAV/Datenbank, Layout/Benutzeroberfläche, Checkout und Vertrieb sowie Katalog.
+
+Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sein:
+
+* Adobe [!DNL Commerce] - Version 2.4
+* Gutes Verständnis von PHP
+* Kenntnisse über MYSQL
+* Kenntnisse über objektorientierte Programmierung
+* Kenntnisse der Cloud-Architektur
+
+<br>
+
+### Prüfungsziele und -umfang {#exam-objectives}
+
+{{exam-objectives}}
+
+**Abschnitt 1: Arbeiten mit Admin (5%)**
 
 * Beschreiben Sie, wie die ACL mit Rollen und Ressourcen funktioniert.
 * Identifizieren Sie die Komponenten, die beim Erstellen oder Ändern des Admin-Rasters/Formulars verwendet werden sollen
 * Identifizieren Sie die Dateien, die beim Erstellen einer Store/Admin-Konfiguration und von Menüelementen verwendet werden sollen.
 
-Abschnitt 2: Architektur (29%)
+**Abschnitt 2: Architektur (29%)**
 
 * Beschreibung [!DNL Magento] Dateistruktur
 * Beschreibung [!DNL Magento] CLI-Befehle
@@ -84,7 +88,7 @@ Abschnitt 2: Architektur (29%)
 * Beschreiben Sie die [!DNL Magento] Caching-System
 * Beschreiben Sie Stores, Websites und Store-Ansichten (Grundverständnis).
 
-Abschnitt 3: EAV/Datenbank (13%)
+**Abschnitt 3: EAV/Datenbank (13%)**
 
 * Ändern/Hinzufügen/Entfernen von Attributsätzen und/oder -attributen
 * Beschreiben verschiedener Attributtypen
@@ -92,14 +96,14 @@ Abschnitt 3: EAV/Datenbank (13%)
 * Beschreiben von Modellen, Ressourcenmodellen und Sammlungen
 * Grundlagen des Entitätsattributwerts (EAV) beschreiben
 
-Abschnitt 4: Layout/Benutzeroberfläche (15 %)
+**Abschnitt 4: Layout/Benutzeroberfläche (15 %)**
 
 * Anwenden von Änderungen auf bestehende Produkttypen und Erstellen neuer
 * Vorhandene Katalogentitäten ändern und erweitern
 * Die Möglichkeit zur Verwaltung von Indizes und zur Anpassung der Preisausgabe
 * Erläuterung der Auswirkungen des Bestands aus mehreren Quellen (Programmebene)
 
-Abschnitt 5: Checkout und Vertrieb (8%)
+**Abschnitt 5: Checkout und Vertrieb (8%)**
 
 * Warenkorbkomponenten beschreiben
 * Eine Regel für Warenkorbangebote beschreiben
@@ -108,14 +112,14 @@ Abschnitt 5: Checkout und Vertrieb (8%)
 * Konfigurieren Sie bei einem Szenario die Zahlungs- und Versandmethoden
 * Konfigurieren Sie bei einem Szenario Steuerregeln, Währungen, Warenkorb und/oder Checkout.
 
-Abschnitt 6: Katalog(8%)
+**Abschnitt 6: Katalog(8%)**
 
 * Identifizieren Sie die Grundlagen von Kategorieverwaltung und Produktverwaltung
 * Beschreiben Sie Produktarten.
 * Preisregeln beschreiben
 * Beschreiben von Preistypen
 
-Abschnitt 7: Adobe [!DNL Commerce] Cloud-Architektur (12 %)
+**Abschnitt 7: Adobe [!DNL Commerce] Cloud-Architektur (12 %)**
 
 * Adobe definieren [!DNL Commerce] Architektur-/Umgebungs-Workflow
 * Beschreiben der Cloud-Projektdateien, Berechtigungen und Strukturen
@@ -125,7 +129,7 @@ Abschnitt 7: Adobe [!DNL Commerce] Cloud-Architektur (12 %)
 * Beschreiben Sie, wie Sie ECE-Tools verwalten und aktualisieren.
 * Ermitteln Sie, wann Support *Yaml-Dateien und Einschränkungen (DIY vs. Support-Tickets) aufgerufen werden.
 
-Abschnitt 8: Einrichten/Konfigurieren von Adobe [!DNL Commerce] Cloud (4 %)
+**Abschnitt 8: Einrichten/Konfigurieren von Adobe [!DNL Commerce] Cloud (4 %)**
 
 * Ermitteln, wie Adobe eingerichtet/konfiguriert wird [!DNL Commerce] Cloud
 * Grundlegende Cloud-Fehlerbehebung definieren (Hierarchie der Web-Benutzeroberfläche und Variablen, Konfigurationspräferenz)
@@ -134,23 +138,39 @@ Abschnitt 8: Einrichten/Konfigurieren von Adobe [!DNL Commerce] Cloud (4 %)
 * Beschreiben der Verzweigung über die Benutzeroberfläche
 * Adobe Commerce Cloud-Planfunktionen identifizieren
 
-Abschnitt 9: [!DNL Commerce] Cloud-CLI-Tool (Teil verwalten) (6 %)
+**Abschnitt 9: [!DNL Commerce] Cloud-CLI-Tool (Teil verwalten) (6 %)**
 
 * Beschreibung der exklusiven Funktionen von Adobe [!DNL Commerce] Cloud-CLI-Tool (CLI-Funktionen: E-Mails aktivieren, Umgebungen neu starten, Snapshot, Db-Dump, lokale Umgebung einrichten)
 * Beschreiben der Verzweigung mithilfe der Adobe [!DNL Commerce] Cloud-CLI-Tool
 * Ermitteln Sie, wie Sie eine Verbindung zu Cloud Services herstellen können? (My SQL, Redis, tunnel:info)
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+### Bereitschaftsfragebogen
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{readiness}}
 
-**Beispielfragen**
+[Nehmen Sie den Online-Bereitschaftsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional){target="_blank"}
 
-In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf die Sie bei der eigentlichen Prüfung stoßen werden. Es ist keine Anmeldung erforderlich. Die Ergebnisse der Beispielfragen werden nicht gespeichert und prognostizieren keine tatsächlichen Testergebnisse.
+<br>
 
-[Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
+## Zertifizierungen {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Arbeiten mit Admin**
 
@@ -235,17 +255,35 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Verwalten von Zweigen mit der CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
 * [Konfigurieren von Services](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/services-yaml.html){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+**Beispielfragen**
 
+{{sample-questions}}
 
+[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -258,7 +296,23 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

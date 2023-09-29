@@ -6,30 +6,36 @@ product: Customer Journey Analytics
 role: User
 badge: label="Prüfung AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '619'
-ht-degree: 13%
+source-wordcount: '482'
+ht-degree: 17%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Customer Journey Analytics] Geschäftspraktiker/innen
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Customer Journey Analytics] Business Practitioner Professional.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
 
-Der ideale, minimal qualifizierte Kandidat ist ein Analyst mit mindestens 6 Monaten Erfahrung im Adobe. [!DNL Customer Journey Analytics] und ein grundlegendes Verständnis dessen, wie es in Verbindung mit [!DNL Adobe Experience Platform]. Der Kandidat kann die entsprechenden Berichts- und Visualisierungsoptionen verwenden, um grundlegende und erweiterte Analysen für eine bestimmte Geschäftsanforderung durchzuführen.
+{{exam-description}}
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsdetails {#exam-details}
 
->[!TAB Bereit]
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 36/50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E608
 
-**Vorgesehene Zielgruppe:**
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
 
 * Geschäftsanalysten
 * Unternehmensberater
@@ -40,47 +46,61 @@ Der ideale, minimal qualifizierte Kandidat ist ein Analyst mit mindestens 6 Mona
 * Produkteigentümer und -manager
 * Konversions-/Optimierungsspezialisten
 
-**Prüfungsdetails:**
+<br>
 
-* Niveau: Professional (0-12 Monate Erfahrung)
-* Übergeben der Punktzahl: 36/50
-* Zeit: 100 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: Englisch
-* Kosten: 125 USD (global) / 95 USD (Indien)
-* Prüfungs-ID: AD0-E608
+### Minimales Erlebnis {#minimum-experience}
 
-**Prüfungsziele und -umfang**
+Der ideale, minimal qualifizierte Kandidat ist ein Analyst mit mindestens 6 Monaten Erfahrung im Adobe. [!DNL Customer Journey Analytics] und ein grundlegendes Verständnis dessen, wie es in Verbindung mit [!DNL Adobe Experience Platform]. Der Kandidat kann die entsprechenden Berichts- und Visualisierungsoptionen verwenden, um grundlegende und erweiterte Analysen für eine bestimmte Geschäftsanforderung durchzuführen.
 
-Abschnitt 1: Komponenten (30%)
+<br>
+
+### Prüfungsziele und -umfang {#exam-objectives}
+
+{{exam-objectives}}
+
+**Abschnitt 1: Komponenten (30%)**
 
 * Übersetzen von Geschäftsfragen in relevante Komponenten
 * Erstellen einer Teilmenge von Daten mit entsprechenden Komponenten und Filtern
 * Erstellen von Nicht-Admin-Komponenten zur Beantwortung von Geschäftsfragen
 
-Abschnitt 2: Berichterstattung (32%)
+**Abschnitt 2: Berichterstattung (32%)**
 
 * Bestimmen Sie geeignete Visualisierungen oder Tabellen, um Geschäftsfragen zu beantworten.
 * Bestimmen Sie anhand von Datenquellen, Identitäten und Datumsbereichen, welche Datenansicht verwendet werden soll.
 * Festlegen der Verwendung und Anwendung von Datumsbereichen
 
-Abschnitt 3: Verteilung (12%)
+**Abschnitt 3: Verteilung (12%)**
 
 * Berichte planen und an wichtige Interessengruppen weitergeben
 * Kuratieren von Feldern, die in einem bestimmten Bericht oder Dashboard verfügbar sind
 * Logische Organisation der Projekte
 
-Abschnitt 4: Datenanalyse (26%)
+**Abschnitt 4: Datenanalyse (26%)**
 
 * Führen Sie eine Sondierungsanalyse durch und interpretieren Sie die Ergebnisse, um Einblicke zu erhalten.
 * Bewerten von Zielgruppen für die Freigabe mit anderen AEP-Tools
 * Auswählen der richtigen Komponenten für die Analyse
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+## Zertifizierungen {#how-to-get-certified}
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Komponenten**
 
@@ -108,20 +128,33 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=de){target="_blank"}
 * [Filteroperatoren](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/operators.html){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
-
-
-## Einen Praxistest durchführen
+**Einen Praxistest durchführen**
 
 {{practice-test}}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -134,7 +167,23 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

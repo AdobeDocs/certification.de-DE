@@ -7,18 +7,45 @@ role: Data Architect
 badge: label="Prüfung AD0-E328" type="positive"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1011'
-ht-degree: 16%
+source-wordcount: '858'
+ht-degree: 18%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Architekturmeister
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Campaign Classic] Architekturmeister.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Stufe: Master (3-5 Jahre Erfahrung)
+* Übergeben der Punktzahl: 30/50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E328
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Technischer Lead mit Adobe [!DNL Campaign Classic] background
+* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Entwickler
+* Adobe [!DNL Campaign Classic] Entwickler oder ähnliche Rollen
+* Martech Solution Architect
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über Folgendes verfügen:
 
@@ -38,38 +65,13 @@ Sie sollten über Folgendes verfügen:
 * Möglichkeit, Desktop-Coaching anzubieten (Best Practice für Produkte, Berichtsmetriken usw.)
 * Erlebnisse, die die Unterschiede zwischen den Implementierungsmodellen beschreiben
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* Technischer Lead mit Adobe [!DNL Campaign Classic] background
-* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Entwickler
-* Adobe [!DNL Campaign Classic] Entwickler oder ähnliche Rollen
-* Martech Solution Architect
-
-**Prüfungsdetails:**
-
-* Stufe: Master (3-5 Jahre Erfahrung)
-* Übergeben der Punktzahl: 30/50
-* Zeit: 100 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E328
-
-**Selbstbewertung der Bereitschaft**
-
-Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"} , um zu sehen, ob Ihr aktuelles Erlebnis mit der empfohlenen Mindestqualifikation für Kandidaten übereinstimmt.
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Lösungsdefinition (24%)
+**Abschnitt 1: Lösungsdefinition (24%)**
 
 * Legen Sie bei bestimmten Geschäftsanforderungen die für den Lösungsentwurf relevanten Informationen fest.
 * Stellen Sie in einem Szenario Empfehlungen zu Leistung, Infrastruktur und Konfiguration bereit.
@@ -77,13 +79,13 @@ Abschnitt 1: Lösungsdefinition (24%)
 * Bestimmen von Geschäftsanforderungen für die Entwicklung einer Digital Marketing-Lösung
 * Geben Sie für ein Szenario die richtige Methode zur Produkbereitstellung an.
 
-Abschnitt 2: Datenlandschaft (24%)
+**Abschnitt 2: Datenlandschaft (24%)**
 
 * Geben Sie die Design-Parameter für das Datenmodell und die Integrationszuordnung für eine Campaign-Lösung mit anderen Kundentools an
 * Legen Sie bei einem Szenario den Lösungsentwurf fest, der zur Einhaltung von Gesetzen und Vorschriften erforderlich ist
 * Legen Sie bei einem Szenario den optimalen technischen Workflow-Entwurf fest.
 
-Abschnitt 3: Installation und Verwaltung (16%)
+**Abschnitt 3: Installation und Verwaltung (16%)**
 
 * Überprüfen Sie bei einer Reihe von Schlüsselmodulen die Konfiguration der Moduleinrichtung.
 * Für ein bestimmtes Szenario empfehlen Sie Integrationslösungen, um native und Drittanbieterintegrationen mit Adobe zu ermöglichen. [!DNL Campaign Classic]
@@ -92,24 +94,46 @@ Abschnitt 3: Installation und Verwaltung (16%)
 * Bei einem Szenario empfehlen wir die geeignete Hardware-Infrastruktur, die während des Lösungsdesigns benötigt wird
 * Legen Sie bei einem Szenario die richtige Methode für die Lösungsförderung in der entsprechenden Umgebung fest.
 
-Abschnitt 4: Projektleitung (10%)
+**Abschnitt 4: Projektleitung (10%)**
 
 * Legen Sie anhand der Kundenanforderungen die erforderlichen Aktivitäten und Ressourcen fest.
 * Analysieren Sie bei einem Szenario die Gesamtlösung, um technische Risiken, Annahmen, Probleme und Abhängigkeiten zu ermitteln.
 * Vermitteln des technischen ACC-Fachwissens an interne und externe Teams
 
-Abschnitt 5: Anpassung (26%)
+**Abschnitt 5: Anpassung (26%)**
 
 * Analysieren und Gestalten benutzerdefinierter Funktionen
 * Benutzerdefinierte Integrationen analysieren und entwerfen
 * Bestimmen der richtigen Methode zum Entwerfen komplexer Kampagnenvorlagen und Workflows
 * Bestimmen der richtigen Methode zum Entwerfen von Lösungen mithilfe zusätzlicher Module
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+### Bereitschaftsfragebogen
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{readiness}}
+
+[Nehmen Sie den Online-Bereitschaftsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"}
+
+<br>
+
+## Zertifizierungen {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Lösungsdefinition**
 
@@ -151,16 +175,27 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Interaction und Angebotsverwaltung](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html){target="_blank"}
 * [Grundprinzip](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html){target="_blank"}
 
->[!TAB Zertifizieren]
++++
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+<br>
 
+++ Schritt 3: Test &amp; Test für Prüfungen planen
 
-## Über die Zertifizierungsprüfung
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -173,10 +208,28 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 
 Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+
+

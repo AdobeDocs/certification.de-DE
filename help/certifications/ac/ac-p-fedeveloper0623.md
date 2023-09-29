@@ -6,18 +6,45 @@ product: Magento
 role: Developer
 badge: label="Prüfung AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '788'
 ht-degree: 1%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Commerce] Frontend-Entwickler Professional
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Commerce] Entwickler Professional.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 33/50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E721
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Entwickler
+* Frontend-Entwickler
+* Vollständige Stack-Entwickler
+* PWA-Entwickler
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über eine 0-12-monatige praktische Erfahrung mit der Frontend-Entwicklung von Adobe Commerce verfügen und mit technischen Lösungen arbeiten können, um individuelle Komponenten bereitzustellen.
 
@@ -42,36 +69,19 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 * Grundlegendes zu kanonischen Links sowie Zusammenführen von JavaScript und CSS
 * Grundlegendes zur Cloud-Infrastruktur von Adobe Commerce
 
->[!BEGINTABS]
+<br>
 
->[!TAB Bereit]
+### Prüfungsziele und -umfang {#exam-objectives}
 
-**Vorgesehene Zielgruppe:**
+{{exam-objectives}}
 
-* Entwickler
-* Frontend-Entwickler
-* Vollständige Stack-Entwickler
-* PWA-Entwickler
-
-**Prüfungsdetails:**
-
-* Niveau: Professional (0-12 Monate Erfahrung)
-* Übergeben der Punktzahl: 33/50
-* Zeit: 100 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: Englisch
-* Kosten: 125 USD (global) / 95 USD (Indien)
-* Prüfungs-ID: AD0-E721
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Designverwaltung (Themenhierarchie, Bildkonfiguration, Übersetzungen) (14 %)
+**Abschnitt 1: Designverwaltung (Themenhierarchie, Bildkonfiguration, Übersetzungen) (14 %)**
 
 * Adobe beschreiben [!DNL Commerce] Designordnerstruktur
 * Möglichkeiten zur Erstellung neuer oder Erweiterung vorhandener Designs demonstrieren
 * Verwendung benutzerdefinierter Übersetzungssätze demonstrieren
 
-Abschnitt 2: Layout-XML und Vorlagen (30%)
+**Abschnitt 2: Layout-XML und Vorlagen (30%)**
 
 * Verwenden grundlegender XML-Anweisungen für Layouts
 * Verwenden vorhandener Seitenlayouts
@@ -79,7 +89,7 @@ Abschnitt 2: Layout-XML und Vorlagen (30%)
 * Erstellen und Anpassen von Vorlagen demonstrieren
 * Beschreiben Sie die Vorlagensicherheit (Escaping-Ausgabe).
 
-Abschnitt 3: Stile (22 %)
+**Abschnitt 3: Stile (22 %)**
 
 * Beschreiben Sie den Zweck von styles-m.less, styles-l.less, print.less
 * Beschreiben Sie den Unterschied zwischen bestimmten partiellen Dateien (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less).
@@ -88,7 +98,7 @@ Abschnitt 3: Stile (22 %)
 * Hierarchie der Stile erklären ( lib, modules, themes)
 * Client- und Server-seitige Kompilierung erläutern
 
-Abschnitt 4: JavaScript (18%)
+**Abschnitt 4: JavaScript (18%)**
 
 * JavaScript-Komponenten initialisieren und aufrufen
 * Verwendung von RequireJS demonstrieren
@@ -97,25 +107,39 @@ Abschnitt 4: JavaScript (18%)
 * Beschreiben der Verwendung von Knockout JS
 * Verwendung von jQuery-Widgets beschreiben
 
-Abschnitt 5: Admin-Konfiguration und PageBuilder (6 %)
+**Abschnitt 5: Admin-Konfiguration und PageBuilder (6 %)**
 
 * Veranschaulichen der Möglichkeit, den Seitenaufbau und den CMS-Inhalt anzupassen&quot;
 * Anwenden/Planen eines Designs auf einen bestimmten Bereich (Website, Store, Store-Ansicht)
 * Anwenden von Designänderungen auf Kategorien, Produkte und CMS-Seiten mithilfe der Admin-Konfiguration
 * Beschreibung der Schritte zum Anpassen von Transaktions-E-Mails
 
-Abschnitt 6: Tools (CLI und Grunt) (8 %)
+**Abschnitt 6: Tools (CLI und Grunt) (8 %)**
 
 * Beschreiben Sie die Verwendung der einfachen Befehle bin/magento
 * Beschreiben Sie die Verwendung von Composer-Befehlen (installieren, aktualisieren, benötigen, entfernen)
 * Den geeigneten Anwendungsfall für Bereitstellungsmodi unterscheiden
 * Beschreiben Sie zusätzliche Tools, die von Cloud bereitgestellt werden (schnelles Herunterladen der Datenbank, Bereitstellung von Inhalten)
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+## Zertifizierungen {#how-to-get-certified}
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Designverwaltung (Designhierarchie, Bildkonfiguration, Übersetzungen)**
 
@@ -156,18 +180,33 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Erstellen von Variablen](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [Handel mit Cloud-Infrastruktur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+**Einen Praxistest durchführen**
 
+{{practice-test}}
 
-**Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
++++
 
-**Praktische Tests in Kürze verfügbar**
+<br>
 
-## Über die Zertifizierungsprüfung
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -180,9 +219,25 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**Fragen**
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
+
+## Fragen
 
 Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

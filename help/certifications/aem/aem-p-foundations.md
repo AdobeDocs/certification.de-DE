@@ -7,16 +7,41 @@ role: User
 badge: label="Prüfung AD0-E132" type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: b7518560c9ab89e0cdb6a45853244d1790f81b44
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 16%
+source-wordcount: '468'
+ht-degree: 20%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Experience Manager] Technical Foundations Professional
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager] Professional.
+{{intro}}
+
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 38/60
+* Zeit: 120 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E132
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* AEM Entwickler
+* Technische Leads
+
+<br>
 
 ## Minimales Erlebnis
 
@@ -39,32 +64,13 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Verschiedene AEM-Hosting-Funktionen
 * Synchronisieren von Inhalten/Umgebungen
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* AEM Entwickler
-* Technische Leads
-
-**Prüfungsdetails:**
-
-* Niveau: Professional (0-12 Monate Erfahrung)
-* Übergeben der Punktzahl: 38/60
-* Zeit: 120 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: Englisch
-* Kosten: 125 USD (global) / 95 USD (Indien)
-* Prüfungs-ID: AD0-E132
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Inhaltserstellung (33 %)
+**Abschnitt 1: Inhaltserstellung (33 %)**
 
 * Inhaltsseiten verwalten
 * Inhalt replizieren
@@ -75,7 +81,7 @@ Abschnitt 1: Inhaltserstellung (33 %)
 * Anwenden von Verfahrenskonzepten zur Übersetzung von Inhalten
 * Verwenden von mehreren Sites und Live Copies
 
-Abschnitt 2: Umsetzung (42%)
+**Abschnitt 2: Umsetzung (42%)**
 
 * Anwenden von Verfahrenskonzepten zum Erstellen von Komponenten
 * Bearbeitbare Vorlagen erstellen
@@ -86,23 +92,37 @@ Abschnitt 2: Umsetzung (42%)
 * Erweitern von Kernkomponenten
 * Strukturinhaltsmodellierung
 
-Abschnitt 3: Einrichtung und Bereitstellung (13 %)
+**Abschnitt 3: Einrichtung und Bereitstellung (13 %)**
 
 * Bundles installieren
 * Bereitstellen von Paketen
 * Installieren AEM Instanzen
 
-Abschnitt 4: Wartung und Benutzerverwaltung (12%)
+**Abschnitt 4: Wartung und Benutzerverwaltung (12%)**
 
 * Verwalten des Benutzerzugriffs
 * Ändern von OSGi-Konfigurationen
 * Erstellen von Abfragen
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+## Zertifizierungen {#how-to-get-certified}
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Inhaltserstellung**
 
@@ -131,16 +151,27 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Benutzerverwaltung und Sicherheit](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=de){target="_blank"}
 * [OSGi-Konfigurationseinstellungen](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html?lang=de){target="_blank"}
 
->[!TAB Zertifizieren]
++++
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+<br>
 
+++ Schritt 3: Test &amp; Test für Prüfungen planen
 
-## Über die Zertifizierungsprüfung
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -153,10 +184,28 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 
 Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+
+

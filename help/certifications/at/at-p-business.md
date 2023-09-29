@@ -7,18 +7,45 @@ role: User
 badge: label="Prüfung AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 8%
+source-wordcount: '698'
+ht-degree: 11%
 
 ---
 
 # Journey für die Zertifizierung [!DNL Adobe Target] Geschäftspraktiker/innen
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Business Practitioner Professional.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 31/50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch, Japanisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E408 (Englisch), AD0-E408-J (Japanisch)
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Optimierung
+* Personalisierung
+* Analysen
+* Digital- und Produktmarketing
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über Folgendes verfügen:
 
@@ -29,34 +56,13 @@ Sie sollten über Folgendes verfügen:
 * Grundlegendes zum dreistufigen Workflow (Erlebnisse, Targeting, Ziele und Einstellungen, einschließlich aller Berichtsquellen)
 * Die Fähigkeit, die Aktivitätsberichtsergebnisse zu lesen und zu verstehen
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* Optimierung
-* Personalisierung
-* Analysen
-* Digital- und Produktmarketing
-
-**Prüfungsdetails:**
-
-* Niveau: Professional (0-12 Monate Erfahrung)
-* Übergeben der Punktzahl: 31/50
-* Zeit: 100 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: Englisch
-* Kosten: 125 USD (global) / 95 USD (Indien)
-* Prüfungs-ID: AD0-E408
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Planung und Strategie (26%)
+**Abschnitt 1: Planung und Strategie (26%)**
 
 * Identifizieren von Geschäfts-KPIs
 * Identifizieren Sie bei einem Szenario mit Geschäfts-KPIs und Datenanalyse Optimierungsmöglichkeiten
@@ -67,7 +73,7 @@ Abschnitt 1: Planung und Strategie (26%)
 * In einem Szenario sollten Sie die Zielgruppenanforderungen bewerten
 * Beschreiben Sie geeignete Analytics-Berichtsquellen (d. h. Target oder Adobe Analytics).
 
-Abschnitt 2: Konfiguration, Ausführung und Verwaltung (50%)
+**Abschnitt 2: Konfiguration, Ausführung und Verwaltung (50%)**
 
 * Die Verwendung von Form-Based Experience Composer und Visual Experience Composer erläutern
 * Beschreiben Sie Verfahren zum Erstellen eines Erlebnisses mit VEC.
@@ -84,7 +90,7 @@ Abschnitt 2: Konfiguration, Ausführung und Verwaltung (50%)
 * Beschreiben Sie die Verfahren zur Durchführung von Aktivitäts-QA
 * Beschreiben Sie die Verfahren zum Verwalten von Aktivitäten und Zielgruppen in Target.
 
-Abschnitt 3: Analyse und Berichterstellung (16%)
+**Abschnitt 3: Analyse und Berichterstellung (16%)**
 
 * Beschreiben Sie die Einstellungen, um die in einem Bericht angezeigten Elemente festzulegen.
 * Beschreiben Sie den Unterschied in [!DNL Adobe Target] Einstellungen des Stichprobengrößenrechners zwischen Planung und Validierung
@@ -93,23 +99,31 @@ Abschnitt 3: Analyse und Berichterstellung (16%)
 * Beschreiben der Funktionen von Experience Performance-Berichten (MVT)
 * Beschreiben Sie Best Practices, die bei der Ausführung von A/B-Tests befolgt werden sollten.
 
-Abschnitt 4: Fehlerbehebung (8%)
+**Abschnitt 4: Fehlerbehebung (8%)**
 
 * Identifizieren Sie in einem Szenario Probleme mit der Aktivitätsqualifikation.
 * Ermitteln der Funktionen der Browser-Debugging-Tools (einschließlich Experience Cloud Debugger)
 * Identifizieren von Metriken und Berichten
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+## Zertifizierungen {#how-to-get-certified}
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{how-to-get-certified-intro}}
 
-**Beispielfragen**
++++ Schritt 1: Konto erstellen
 
-In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf die Sie bei der eigentlichen Prüfung stoßen werden. Es ist keine Anmeldung erforderlich. Die Ergebnisse der Beispielfragen werden nicht gespeichert und prognostizieren keine tatsächlichen Testergebnisse.
+{{create-your-account}}
 
-[Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Planung und Strategie**
 
@@ -141,16 +155,35 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [[!DNL Adobe Target] Handbuch für Business-Anwender*innen](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=de){target="_blank"}
 * [Übersicht über Adobe Experience Cloud Debugger](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+**Beispielfragen**
 
+{{sample-questions}}
 
-## Über die Zertifizierungsprüfung
+[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
+
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -163,7 +196,25 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 </span>
 </a>
 
->[!ENDTABS]
+[Japanische Anweisungen für die Planung](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

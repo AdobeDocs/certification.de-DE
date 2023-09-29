@@ -6,18 +6,48 @@ product: Journey Optimizer
 role: Developer
 badge: label="Prüfung AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 13%
+source-wordcount: '581'
+ht-degree: 17%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Journey Optimizer] Entwicklerexperte
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Journey Optimizer] Entwicklerexperte.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Ebene: Expert (1-3 Jahre Erfahrung)
+* Übergeben der Punktzahl: 31/51
+* Zeit: 110 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E603
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Datenarchitekt
+* Datentechniker
+* Lösungsarchitektur
+* Unternehmensarchitektur
+* Marketing Automation Developer
+* CDP-Entwickler
+* CDP-Architekt
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über mindestens ein Jahr Erfahrung mit verschiedenen CDP- und Marketing-Automatisierungssystemen verfügen und die folgenden Aufgaben ausführen können:
 
@@ -37,48 +67,20 @@ Sie sollten über mindestens ein Jahr Erfahrung mit verschiedenen CDP- und Marke
 * Journey-Reporting
 * Journey testen/validieren
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* Datenarchitekt
-* Datentechniker
-* Lösungsarchitektur
-* Unternehmensarchitektur
-* Marketing Automation Developer
-* CDP-Entwickler
-* CDP-Architekt
-
-**Prüfungsdetails:**
-
-* Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 31/51
-* Zeit: 110 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E603
-
-**Eigenbewertung der Bereitschaft**
-
-Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"} , um zu sehen, ob Ihr aktuelles Erlebnis mit der empfohlenen Mindestqualifikation für Kandidaten übereinstimmt.
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Administration und Konfiguration (17%)
+**Abschnitt 1: Administration und Konfiguration (17%)**
 
 * Rollen und Berechtigungen für die einzelnen Rollen identifizieren
 * Beschreiben, wie Sie eine Sandbox zuweisen/zurücksetzen/löschen
 * Verstehen der Kanalverwaltung
 * Demonstration eines Verständnisses von Ereignissen/Aktionen/Datenquellen
 
-Abschnitt 2: Adobe Experience Platform Foundation (33%)
+**Abschnitt 2: Adobe Experience Platform Foundation (33%)**
 
 * Verstehen des Experience-Datenmodells (XDM)
 * Erläuterung der Einrichtung von Datenquellen und der Datenerfassung
@@ -86,28 +88,50 @@ Abschnitt 2: Adobe Experience Platform Foundation (33%)
 * Erläuterung der Konfiguration von Schemas für AJO
 * Verhalten des Echtzeit-Kundenprofils auf AJO ermitteln
 
-Abschnitt 3: Offer decisioning (11%)
+**Abschnitt 3: Offer decisioning (11%)**
 
 * Erstellung und Verwaltung von Angeboten und Komponenten
 * Verwendung von Testprofilen zur Durchführung der Angebotssimulation
 
-Abschnitt 4: Inhaltserstellung (20%)
+**Abschnitt 4: Inhaltserstellung (20%)**
 
 * Grundlagen zum Erstellen von E-Mails, SMS, In-App-Nachrichten und Push-Benachrichtigungen
 * Verstehen der Inhaltsbearbeitung und -personalisierung mithilfe von Hilfsfunktionen
 * Nachweis eines Verständnisses für die Validierung, den Testversand und die Veröffentlichung einer Nachricht
 
-Abschnitt 5: Journey Orchestration (19%)
+**Abschnitt 5: Journey Orchestration (19%)**
 
 * Erläuterung der Erstellung einer kanalübergreifenden Journey
 * Ermitteln, wo auf die Bericht-Dashboards zugegriffen werden kann
 * Testen und Validieren eines Journey
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+### Bereitschaftsfragebogen
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{readiness}}
+
+[Nehmen Sie den Online-Bereitschaftsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Zertifizierungen {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Verwaltung und Konfiguration**
 
@@ -169,19 +193,33 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
    * Segmente
    * Profile und Identitäten
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
-
-## Einen Praxistest durchführen
+**Einen Praxistest durchführen**
 
 {{practice-test}}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -194,7 +232,23 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

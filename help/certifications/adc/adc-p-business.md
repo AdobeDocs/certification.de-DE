@@ -7,40 +7,24 @@ role: User
 badge: label="Prüfung AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '688'
-ht-degree: 1%
+source-wordcount: '552'
+ht-degree: 2%
 
 ---
 
 # Journey für die Zertifizierung [!DNL Adobe Document Cloud] Geschäftspraktiker/innen
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Document Cloud] Business Practitioner Professional.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
 
-Sie sollten über Folgendes verfügen:
+{{exam-description}}
 
-* Mindestens 0-12 Monate Erfahrung innerhalb von [!DNL Adobe Document Cloud]
-* in der Lage sein, geschäftliche Anforderungen zu identifizieren und zu kommunizieren
-* Beratung zur Produktimplementierung zu [!DNL Adobe Document Cloud] Lösungen.
+<br>
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
-
->[!BEGINTABS]
-
->[!TAB Bereit]
-
-**Vorgesehene Zielgruppe:**
-
-* Lösungsberater
-* Geschäftsanalyst
-* Vertrieb
-
-**Prüfungsdetails:**
+### Prüfungsdetails {#exam-details}
 
 * Niveau: Professional (0-12 Monate Erfahrung)
 * Übergeben der Punktzahl: 34/50
@@ -50,33 +34,69 @@ Sie sollten über Folgendes verfügen:
 * Kosten: 125 USD (global) / 95 USD (Indien)
 * Prüfungs-ID: AD0-D106
 
-**Prüfungsziele und -umfang**
+<br>
 
-Abschnitt 1: Ermittlung von Nutzungsszenarios (36 %)
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Lösungsberater
+* Geschäftsanalyst
+* Vertrieb
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
+
+Sie sollten über Folgendes verfügen:
+
+* Mindestens 0-12 Monate Erfahrung innerhalb von [!DNL Adobe Document Cloud]
+* in der Lage sein, geschäftliche Anforderungen zu identifizieren und zu kommunizieren
+* Beratung zur Produktimplementierung zu [!DNL Adobe Document Cloud] Lösungen.
+
+<br>
+
+### Prüfungsziele und -umfang {#exam-objectives}
+
+{{exam-objectives}}
+
+**Abschnitt 1: Ermittlung von Nutzungsszenarios (36 %)**
 
 * Qualifizierte Fragen stellen, um Document Cloud-Möglichkeiten zu identifizieren
 * Allgemeine Geschäftsanwendungsfälle definieren
 
-Abschnitt 2: Bewertung der Geschäftsprozesse (34%)
+**Abschnitt 2: Bewertung der Geschäftsprozesse (34%)**
 
 * Ermitteln Sie die wichtigsten Bereiche der Prozessverbesserung und Lösungsfähigkeit.
 * Ausrichtung von Geschäftszielen mit Document Cloud-Funktionen
 * Hochrangige, benutzerspezifische Demonstrationen verschiedener Komponenten von Document Cloud bereitstellen
 
-Abschnitt 3: Document Cloud (DC)-Funktionen definieren (18%)
+**Abschnitt 3: Document Cloud (DC)-Funktionen definieren (18%)**
 
 * Auswirkungen der Erfüllung und der Sicherheitsanforderungen von Dokument und E-Signatur erläutern
 * Beschreiben Sie, wie Prozessänderungen einen Mehrwert schaffen.
 
-Abschnitt 4: Empfohlene Lösung (12%)
+**Abschnitt 4: Empfohlene Lösung (12%)**
 
 * Design der Document Cloud-Lösung empfehlen
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+## Zertifizierungen {#how-to-get-certified}
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Ermittlung von Nutzungsszenarien**
 
@@ -118,20 +138,33 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Adobe Acrobat-Funktionen und -Tools](https://www.adobe.com/acrobat/features.html){target="_blank"}
 * [Einrichten von Signatur-Workflows](https://helpx.adobe.com/ca/sign/using/workflow-designer-signature-workflow.html){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
-
-
-## Einen Praxistest durchführen
+**Einen Praxistest durchführen**
 
 {{practice-test}}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -144,11 +177,26 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 
 Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
-

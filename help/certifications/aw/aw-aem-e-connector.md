@@ -6,18 +6,45 @@ role: Developer
 badge: label="Prüfung AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Workfront] für [!DNL Experience Manager] Verbesserter Connector-Experte
 
-Erfahren Sie, wie Sie zertifizierter Adobe-Experte werden.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Ebene: Expert (1-3 Jahre Erfahrung)
+* Übergeben der Punktzahl: 34/55
+* Zeit: 110 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E906
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Berater für Partnerlösungen
+* Implementierungsspezialisten
+* Integrationsspezialisten
+* Entwickler oder Architekten
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten eines oder mehrere der folgenden Zertifikate erworben haben:
 
@@ -36,34 +63,13 @@ Und Sie sollten:
 * Grundlegendes zu Taxonomien und AEM Tagging, AEM Workflows, JCR, Sling, OSGi und Datenbanken
 * Verstehen der Best Practices für das Arbeitsmanagement
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* Berater für Partnerlösungen
-* Implementierungsspezialisten
-* Integrationsspezialisten
-* Entwickler oder Architekten
-
-**Prüfungsdetails:**
-
-* Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 34/55
-* Zeit: 110 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E906
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Technische Anforderungen (25%)
+**Abschnitt 1: Technische Anforderungen (25%)**
 
 * Verwendung [!DNL Workfront] Benutzerdefinierte Forms
 * In einem Szenario wird die Dokumentenverwaltung demonstriert
@@ -71,14 +77,14 @@ Abschnitt 1: Technische Anforderungen (25%)
 * Identifizieren Sie bei einem Szenario, wie Werte an übergeben werden. [!DNL Workfront] benutzerdefinierte Formulare
 * Fehlerbehebung für serverseitigen Code
 
-Abschnitt 2: Konfiguration (26%)
+**Abschnitt 2: Konfiguration (26%)**
 
 * Best Practices für die Benutzerverwaltung veranschaulichen
 * Anwenden von Verfahrenskonzepten, die zur Änderung bestehender AEM Asset-Workflows erforderlich sind
 * Treffen von Entscheidungen erforderlich, um das Metadatenschema für verschiedene Asset-Typen anzupassen
 * Anwenden AEM Verfahrenskonzepte, die zum Bereitstellen von OSGi-Bundles, Assets, Metadatenschemata, Tagging und Berechtigungen erforderlich sind
 
-Abschnitt 3: Geschäftspraktiken (21%)
+**Abschnitt 3: Geschäftspraktiken (21%)**
 
 * Interpretieren der Kundenanforderungen, um die entsprechenden Workflow-Strategien zu empfehlen
 * Veranschaulichen der Einrichtung [!DNL Workfront] Genehmigungs- und Testversandarbeitsabläufe
@@ -86,22 +92,30 @@ Abschnitt 3: Geschäftspraktiken (21%)
 * Nachweis eines Verständnisses für das Tracking von Sendungen im Rahmen der Kampagnenverwaltung
 * Ermitteln Sie bei einem Szenario die wichtigsten Aspekte des Änderungsverwaltens für ein [!DNL Workfront] Implementierung
 
-Abschnitt 4: Installation und Konfiguration des Connectors (28%)
+**Abschnitt 4: Installation und Konfiguration des Connectors (28%)**
 
 * Validieren der Voraussetzungen in AEM
 * Identifizieren Sie bei einem Kundenanwendungsfall die Funktionen des zu implementierenden Connectors.
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+## Zertifizierungen {#how-to-get-certified}
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{how-to-get-certified-intro}}
 
-**Beispielfragen**
++++ Schritt 1: Konto erstellen
 
-In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf die Sie bei der eigentlichen Prüfung stoßen werden. Es ist keine Anmeldung erforderlich. Die Ergebnisse der Beispielfragen werden nicht gespeichert und prognostizieren keine tatsächlichen Testergebnisse.
+{{create-your-account}}
 
-[Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1 Technische Anforderungen**
 
@@ -136,16 +150,35 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Konfigurieren [!DNL Workfront] für [!DNL Experience Manager] verbesserter Connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
 * [Adobe [!DNL Experience Manager Assets] Integration mit Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+**Beispielfragen**
 
+{{sample-questions}}
 
-## Über die Zertifizierungsprüfung
+[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
+
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -158,7 +191,23 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

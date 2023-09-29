@@ -8,38 +8,36 @@ level: Experienced
 badge: label="Prüfung AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '708'
-ht-degree: 13%
+source-wordcount: '615'
+ht-degree: 15%
 
 ---
 
 # Journey für die Zertifizierung [!DNL Adobe Audience Manager] Architekturmeister
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Audience Manager] Architekturmeister.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
 
-Sie sollten über mindestens 3 Jahre Erfahrung mit Datenerfassungsmethoden, Datenverwaltungsplattformen und digitalen Marketingtechnologiestacks auf Adobe- und Nicht-Adobe-Marketingplattformen verfügen. Sie verstehen die einzigartigen technischen und geschäftlichen Anforderungen von Kunden und entwickeln maßgeschneiderte Lösungen.
+{{exam-description}}
 
-Außerdem sollten Sie in der Lage sein, die folgenden Aufgaben auszuführen:
+<br>
 
-* Analysieren Sie die Geschäftsanforderungen, um vorhandene Daten und die erforderlichen zusätzlichen Daten zu verstehen.
-* Konzipieren und Entwickeln spezifischer Implementierungen, um die Kundenanforderungen zu erfüllen
-* Adobe implementieren [!DNL Audience Manager] Verwendung verschiedener Methoden
-* Erstellen von Segmenten
-* Aktivieren von Zielgruppensegmenten über verschiedene Adobe- und Nicht-Adobe-Cloud-Lösungen hinweg
-* Erstellen und analysieren Sie verschiedene Berichte in [!DNL Audience Manager]
-* Strategien zur Datenerfassung
+### Prüfungsdetails {#exam-details}
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+* Stufe: Master (3-5 Jahre Erfahrung)
+* Übergeben der Punktzahl: 29/50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E454
 
->[!BEGINTABS]
+<br>
 
->[!TAB Bereit]
+### Vorgesehene Zielgruppe {#intended-audience}
 
 **Vorgesehene Zielgruppe:**
 
@@ -54,23 +52,31 @@ Außerdem sollten Sie in der Lage sein, die folgenden Aufgaben auszuführen:
 * Technischer Berater
 * Marketing-Techniker
 
-**Prüfungsdetails**
+<br>
 
-* Stufe: Master (3-5 Jahre Erfahrung)
-* Übergeben der Punktzahl: 29/50
-* Zeit: 100 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E454
+### Minimales Erlebnis {#minimum-experience}
 
-**Eigenbewertung der Bereitschaft**
+Sie sollten über mindestens 3 Jahre Erfahrung mit Datenerfassungsmethoden, Datenverwaltungsplattformen und digitalen Marketingtechnologiestacks auf Adobe- und Nicht-Adobe-Marketingplattformen verfügen. Sie verstehen die einzigartigen technischen und geschäftlichen Anforderungen von Kunden und entwickeln maßgeschneiderte Lösungen.
 
-Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"} , um zu sehen, ob Ihr aktuelles Erlebnis mit der empfohlenen Mindestqualifikation für Kandidaten übereinstimmt.
+Außerdem sollten Sie in der Lage sein, die folgenden Aufgaben auszuführen:
+
+* Analysieren Sie die Geschäftsanforderungen, um vorhandene Daten und die erforderlichen zusätzlichen Daten zu verstehen.
+* Konzipieren und Entwickeln spezifischer Implementierungen, um die Kundenanforderungen zu erfüllen
+* Adobe implementieren [!DNL Audience Manager] Verwendung verschiedener Methoden
+* Erstellen von Segmenten
+* Aktivieren von Zielgruppensegmenten über verschiedene Adobe- und Nicht-Adobe-Cloud-Lösungen hinweg
+* Erstellen und analysieren Sie verschiedene Berichte in [!DNL Audience Manager]
+* Strategien zur Datenerfassung
+
+<br>
+
+### Prüfungsziele und -umfang {#exam-objectives}
+
+{{exam-objectives}}
 
 **Prüfungsziele und -umfang**
 
-Abschnitt 1: Analyse der Umsetzung (26%)
+**Abschnitt 1: Analyse der Umsetzung (26%)**
 
 * Ermitteln Sie, wie Sie die Implementierung von AAM als eigenständiges Produkt oder als Teil einer Cloud-Lösung steuern und unterstützen
 * Analysieren Sie ausgehende Zieloptionen und empfehlen Sie einen AAM Implementierungsansatz.
@@ -78,14 +84,14 @@ Abschnitt 1: Analyse der Umsetzung (26%)
 * Identifizieren von Funktionen wie Besucherprofil-Viewer, Tags, RBAC usw. zur Anpassung an Geschäftsziele
 * Bestimmen, wie Sie zum Erstellen von Segmenten und Eigenschaften erforderliche Pixel entwerfen und testen
 
-Abschnitt 2: Lösungsdesign und Empfehlungen (18%)
+**Abschnitt 2: Lösungsdesign und Empfehlungen (18%)**
 
 * Ermitteln AAM Funktionen anhand des Anwendungsfalls des Kunden für Zielgruppe und Aktivierung
 * Anwenden von Verfahrenskonzepten zur Verwendung von Identitätslösungen von Zielgruppen zur Ergänzung der Designarchitektur
 * Identifizieren von Attribut- und Verhaltensdaten und Zuordnen zu bestimmten geschäftlichen Anwendungsfällen
 * Anwenden von Verfahrenskonzepten auf die Taxonomie und Benennungskonvention für Designordner
 
-Abschnitt 3: Segmentierung und Aktivierung (30%)
+**Abschnitt 3: Segmentierung und Aktivierung (30%)**
 
 * Anwenden von Verfahrenskonzepten zum Erstellen von Zielen in [!DNL Audience Manager]
 * Identifizieren von Signalen zum Erstellen regelbasierter, integrierter und algorithmischer Eigenschaften
@@ -94,20 +100,42 @@ Abschnitt 3: Segmentierung und Aktivierung (30%)
 * Anwenden von Verfahrenskonzepten zum Erstellen eines algorithmischen oder prädiktiven Modells
 * Bestimmen der Segmentierungslogik basierend auf Anwendungsfällen
 
-Abschnitt 4: Datenschutz und Data Governance (8 %)
+**Abschnitt 4: Datenschutz und Data Governance (8 %)**
 
 * Empfohlen [!DNL Audience Manager] Funktionen im Zusammenhang mit Governance, Datenschutz und Sicherheit
 * Identifizieren von Kundendatenrichtlinien, die den behördlichen Vorschriften entsprechen
 
-Abschnitt 5: Leistung und Berichterstattung (18%)
+**Abschnitt 5: Leistung und Berichterstattung (18%)**
 
 * Bestimmen, wie Sie Berichte in AAM konfigurieren, um Signal-, Eigenschaften- und Segmentleistung nach Geschäftsanforderungen zu erfassen
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+### Bereitschaftsfragebogen
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{readiness}}
+
+[Nehmen Sie den Online-Bereitschaftsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}.
+
+<br>
+
+## Zertifizierungen {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Implementierungsanalyse**
 
@@ -136,15 +164,27 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 * [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de){target="_blank"}
 
->[!TAB Zertifizieren]
++++
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+<br>
 
+++ Schritt 3: Test &amp; Test für Prüfungen planen
 
+{{schedule-and-pay}}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -157,7 +197,23 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

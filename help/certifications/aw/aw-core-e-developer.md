@@ -6,22 +6,50 @@ role: Developer
 badge: label="Prüfung AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: 0a6cdf2e970ca534b003425500ca315af1b0add3
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1404'
 ht-degree: 0%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Workfront] Entwicklerexperte
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Workfront] Entwicklerexperte.
+{{intro}}
 
 >[!NOTE]
 >
 >Diese Prüfung, Adobe [!DNL Workfront] Core-Entwicklerexperte (AD0-E904) wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 6. November 2023 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir Ihnen, die [neueste Version dieser Prüfung (AD0-907)](aw-core-e-developer-23-08.md).
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Ebene: Expert (1-3 Jahre Erfahrung)
+* Übergeben der Punktzahl: 36/64
+* Zeit: 130 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E904
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* [!DNL Workfront] Systemadministratoren, die sich auf die Implementierung und die neue oder aktualisierte Instanzkonfiguration spezialisieren
+* Prozessentwickler/Architekt
+* Geschäftsanalyst
+* Technischer Berater
+* Konfigurationsberater
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]und kann:
 
@@ -32,39 +60,13 @@ Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]un
 * Anwendungsbeispiele für Marketing und PMO
 * Berichte empfehlen und erstellen, die Kundenprozesse unterstützen
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* [!DNL Workfront] Systemadministratoren, die sich auf die Implementierung und die neue oder aktualisierte Instanzkonfiguration spezialisieren
-* Prozessentwickler/Architekt
-* Geschäftsanalyst
-* Technischer Berater
-* Konfigurationsberater
-
-**Prüfungsdetails:**
-
-* Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 36/64
-* Zeit: 130 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E904
-
-**Eigenbewertung der Bereitschaft**
-
-Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"} , um zu sehen, ob Ihr aktuelles Erlebnis mit der empfohlenen Mindestqualifikation für Kandidaten übereinstimmt.
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Verwaltung und Einrichtung des Kernsystems (17 %)
+**Abschnitt 1: Verwaltung und Einrichtung des Kernsystems (17 %)**
 
 * Beschreiben Sie in einem Szenario, wie Sie Berechtigungen effektiv teilen und darauf zugreifen können.
 * Wählen Sie in einem Diagramm die richtige Hierarchie für den Zugriff aus.
@@ -75,7 +77,7 @@ Abschnitt 1: Verwaltung und Einrichtung des Kernsystems (17 %)
 * In einem Szenario empfehlen Sie, ob ein Team Standard, Kanban oder Scrum sein soll.
 * Legen Sie in einem Szenario die Best Practice für die Bereitstellung benutzerdefinierter Storyboards des Agile-Teams fest.
 
-Abschnitt 2: Aufnahme, benutzerdefinierte Formulare und Projektmanagement (17%)
+**Abschnitt 2: Aufnahme, benutzerdefinierte Formulare und Projektmanagement (17%)**
 
 * Geben Sie bei einem Szenario die Konfigurationsbereiche an, die zur Unterstützung der Arbeitszuweisungen erforderlich sind.
 * Geben Sie bei einem Szenario die erforderlichen Einstellungen an.
@@ -83,7 +85,7 @@ Abschnitt 2: Aufnahme, benutzerdefinierte Formulare und Projektmanagement (17%)
 * Beschreiben Sie in einem Szenario, was getan werden muss, um Fehler bei der Berichterstellung und Berechnung zu beheben.
 * Identifizieren Sie in einem Szenario unterstützende Elemente, die sich selbst Vorlagen verleihen.
 
-Abschnitt 3: Strategische Funktionalität - Portfolio- und Programmmanagement, Ressourcenmanagement (13%)
+**Abschnitt 3: Strategische Funktionalität - Portfolio- und Programmmanagement, Ressourcenmanagement (13%)**
 
 * Legen Sie bei einem Szenario fest, wie Sie KPIs nach dem Projekt erfassen, die im Portfolio Optimizer angezeigt werden.
 * Passen Sie bei einem Szenario den Geschäftsfall an, um eine Änderung des Projektumfangs widerzuspiegeln.
@@ -93,14 +95,14 @@ Abschnitt 3: Strategische Funktionalität - Portfolio- und Programmmanagement, R
 * Legen Sie bei einem Szenario die Grundursache fest.
 * Ermitteln Sie bei einem Szenario, warum ein Benutzer zu häufig zugewiesen wird.
 
-Abschnitt 4: Dokumentenverwaltung und -nachweis (13%)
+**Abschnitt 4: Dokumentenverwaltung und -nachweis (13%)**
 
 * Zeigen Sie in einem Szenario an, wann Sie das Dokumentenmanagement im Vergleich zum Testversand verwenden.
 * Identifizieren Sie in einem Szenario die Best Practices für die Verwendung der Funktion zum Testen von Viewer, Einstellungen und Markup
 * In einem Szenario zeigen Sie, wie Berechtigungen für eine Datei bearbeitet und festgelegt werden.
 * In einem Szenario zeigen Sie, wie Sie einen externen Dokumentenspeicher mit Sicherheitsbeschränkungen einrichten
 
-Abschnitt 5: Berichterstattung (13%)
+**Abschnitt 5: Berichterstattung (13%)**
 
 * Beschreiben Sie in einem Szenario, wie Sie mehrere Datenspalten in einer einzigen Spalte kombinieren können.
 * Zeigen Sie für einen Bericht oder Filter die Vorteile der Verwendung von Platzhalterwerten an.
@@ -108,7 +110,7 @@ Abschnitt 5: Berichterstattung (13%)
 * Beschreiben Sie in einem Szenario, wie die Berichterstellung die effiziente Ausführung der Arbeit erleichtert.
 * Beispiel [!DNL Workfront] Berichterstattung zur Überwachung und Verbesserung der Benutzerakzeptanz.
 
-Abschnitt 6: Methode/Best Practices/Anwendungsfälle (20%)
+**Abschnitt 6: Methode/Best Practices/Anwendungsfälle (20%)**
 
 * Bei einem Szenario in [!DNL Workfront], demonstrieren Sie die Funktionalität zum Einrichten des Trackings von Sendungen, die Teil einer Kampagne sind.
 * Bei einem Szenario in [!DNL Workfront], demonstrieren Funktionen rund um die strategische Priorisierung und Rechtfertigung der Arbeit.
@@ -118,7 +120,7 @@ Abschnitt 6: Methode/Best Practices/Anwendungsfälle (20%)
 * In einem Szenario empfehlen Sie ein Framework für Governance rund um die Systemverwaltung, wenn Sie die Instanz eines Kunden erweitern.
 * Identifizieren Sie in einem Szenario Bereiche, die beim Erweitern der Kundeninstanz berücksichtigt werden müssen, damit zusätzliche Teams zusammenarbeiten können.
 
-Abschnitt 7: Unternehmensberatung (8%)
+**Abschnitt 7: Unternehmensberatung (8%)**
 
 * Beschreiben Sie in einem Szenario den Prozess, der erforderlich ist, um diese Bemühungen vollständig zu unterstützen.
 * Erläutern Sie in einem Szenario, wie Sie einen vorhandenen Workflow anpassen können, um eine kürzlich erfolgte Änderung in einem kritischen, innovativen Geschäftsprozess zu bewältigen.
@@ -126,11 +128,33 @@ Abschnitt 7: Unternehmensberatung (8%)
 * Ermitteln Sie bei einem Szenario die wichtigsten Aspekte des Änderungsverwaltens für ein [!DNL Workfront] Implementierung
 * Geben Sie für ein Szenario eine Empfehlung an.
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+### Bereitschaftsfragebogen
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{readiness}}
+
+[Nehmen Sie den Online-Bereitschaftsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
+
+<br>
+
+## Zertifizierungen {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Verwaltung und Einrichtung des Kernsystems**
 
@@ -191,19 +215,33 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Festlegen von Zielen für Ihre Adobe [!DNL Workfront] Implementierung](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 * [Best Practice - Ressourcen-Planer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
-
-## Einen Praxistest durchführen
+**Einen Praxistest durchführen**
 
 {{practice-test}}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -216,7 +254,23 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

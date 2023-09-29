@@ -7,18 +7,49 @@ role: User
 badge: label="Prüfung AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1129'
-ht-degree: 20%
+source-wordcount: '981'
+ht-degree: 23%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Experience Manager Sites] Geschäftspraktiker-Experte
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager] Geschäftspraktiker-Experte.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Ebene: Expert (1-3 Jahre Erfahrung)
+* Übergeben der Punktzahl: 32/50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch, Japanisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E121 (Englisch), AD0-E121-J (Japanisch)
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Lösungsberater
+* Fachkräfte für Verbrauchererfahrung
+* Produkteigentümer der zu entwickelnden und implementierenden Lösung
+* Geschäftsanalysten
+* Lösungsarchitekten
+* Personen in Partnerorganisationen und Freiberufler, die eine Rolle als Analysten für AEM Lösungen übernehmen
+* Marketing-Experten, die die Funktionen kennen, die erforderlich sind, um Entwickler für die Definition einer Lösung für geschäftliche Anforderungen zu begeistern
+* Kunden, die das Produkt verwenden (d. h. Power Users)
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über Folgendes verfügen:
 
@@ -49,49 +80,26 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Allgemeine Kenntnisse im Web
 * Responsive Webdesign-Konzepte
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* Lösungsberater
-* Fachkräfte für Verbrauchererfahrung
-* Produkteigentümer der zu entwickelnden und implementierenden Lösung
-* Geschäftsanalysten
-* Lösungsarchitekten
-* Personen in Partnerorganisationen und Freiberufler, die eine Rolle als Analysten für AEM Lösungen übernehmen
-* Marketing-Experten, die die Funktionen kennen, die erforderlich sind, um Entwickler für die Definition einer Lösung für geschäftliche Anforderungen zu begeistern
-* Kunden, die das Produkt verwenden (d. h. Power Users)
-
-**Prüfungsdetails:**
-
-Stufe: Experte (1-3 Jahre Erfahrung) Übergeben der Punktzahl: 32/50 Zeit: 100 Minuten Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt Verfügbare Sprachen: Englisch und Japanisch Kosten: 225 USD (global) / 150 USD (Indien) Prüfkennung: AD0-E121
-
-**Eigenbewertung der Bereitschaft**
-
-Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"} , um zu sehen, ob Ihr aktuelles Erlebnis mit der empfohlenen Mindestqualifikation für Kandidaten übereinstimmt.
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Bildung (22%)
+**Abschnitt 1: Bildung (22%)**
 
 * Auflisten relevanter AEM Funktionen
 * Empfehlungen zur Nutzung AEM Funktionen zur Erfüllung von Geschäftsanforderungen
 * Anwenden von Verfahrenskonzepten für die Durchführung von Schulungen für Inhaltseditoren
 
-Abschnitt 2: Architektur (24%)
+**Abschnitt 2: Architektur (24%)**
 
 * Empfehlen einer Informationsarchitektur zur Nutzung AEM Standardfunktionen, um Geschäftsanforderungen mithilfe einer On-Premise- oder Adobe-gehosteten (Cloud-)Umgebung zu erfüllen
 * Beschreiben Sie, wie AEM in Dienste von Drittanbietern integriert wird.
 * Festlegen, wie Rollen und Berechtigungen definiert werden
 * Zwischenspeicherungsansätze beschreiben
 
-Abschnitt 3: Geschäftsanalyse (38%)
+**Abschnitt 3: Geschäftsanalyse (38%)**
 
 * Ordnen Sie Standardmodule der AEM verschiedenen Geschäftsproblemen für den Kunden zu.
 * Anwenden von Content-Management-Konzepten für AEM Module
@@ -100,23 +108,45 @@ Abschnitt 3: Geschäftsanalyse (38%)
 * Ermitteln Sie, wie Sie die Kerngeschäftsziele erreichen, während Sie innerhalb des Budgets und/oder Umfangs bleiben.
 * Bestimmen, wie Fragen von Entwicklern im Hinblick auf die Geschäftsziele beantwortet werden sollen
 
-Abschnitt 4: Einrichtung und Implementierung (16%)
+**Abschnitt 4: Einrichtung und Implementierung (16%)**
 
 * Ermitteln Sie, wie Sie Inhaltskomponenten konfigurieren und verwenden, um Best Practices für AEM anzuzeigen.
 * Überprüfen Sie die ordnungsgemäße Implementierung der Funktionen und suchen und beschreiben Sie die aufgetretenen Fehler.
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+### Bereitschaftsfragebogen
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{readiness}}
+
+[Nehmen Sie den Online-Bereitschaftsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Zertifizierungen {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Bildung**
 
 * [AEM 6.5-Entwickleranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=de){target="_blank"}
 * [Erfahren Sie mehr über AEM 6.5-Funktionen](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
 * [AEM [!DNL Sites] Videos und Übungen](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=de){target="_blank"}
-* [Starts](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=de){target="_blank"}
+* [Launches](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=de){target="_blank"}
 * [Erste Schritte für Autorinnen und Autoren](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
 * [Best Practices bei der Inhaltsbearbeitung](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html){target="_blank"}
 * [Erstellen und Organisieren von Seiten](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html?lang=de){target="_blank"}
@@ -167,19 +197,33 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Lokalisierungsfunktionen der Kernkomponenten](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html?lang=de){target="_blank"}
 * [Suchfunktion](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
-
-## Einen Praxistest durchführen
+**Einen Praxistest durchführen**
 
 {{practice-test}}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -203,7 +247,23 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 [Japanische Anweisungen für die Planung](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

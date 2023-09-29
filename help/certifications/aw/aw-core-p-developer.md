@@ -6,18 +6,50 @@ role: Developer
 badge: label="Prüfung AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1011'
-ht-degree: 2%
+source-wordcount: '819'
+ht-degree: 3%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Workfront] Core Developer Professional
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Workfront] Grundlegende Entwicklerexperten.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 44/70
+* Zeit: 140 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E905
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Technischer Berater
+* Systemadministrator
+* Projektmanager
+* Projektkoordinator
+* Strategin
+* Ressourcen-Manager
+* Analyst
+* IT-Spezialist
+* [!DNL Workfront] Implementierungsberater/Lead
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über Folgendes verfügen:
 
@@ -36,55 +68,25 @@ Und Sie sollten:
 * Kompatibilität mit nativen Connectoren und anderen Adobe [!DNL Workfront] Produkte und Dienstleistungen
 * Vertrautheit mit dem Projektmanagement, einschließlich agiler und Wasserfall- und Ressourcenmanagementkonzepten
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* Technischer Berater
-* Systemadministrator
-* Projektmanager
-* Projektkoordinator
-* Strategin
-* Ressourcen-Manager
-* Analyst
-* IT-Spezialist
-* [!DNL Workfront] Implementierungsberater/Lead
-
-**Prüfungsdetails:**
-
-* Niveau: Professional (0-12 Monate Erfahrung)
-* Übergeben der Punktzahl: 44/70
-* Zeit: 140 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: Englisch
-* Kosten: 125 USD (global) / 95 USD (Indien)
-* Prüfungs-ID: AD0-E905
-
-**Eigenbewertung der Bereitschaft**
-
-Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"} , um zu sehen, ob Ihr aktuelles Erlebnis mit der empfohlenen Mindestqualifikation für Kandidaten übereinstimmt.
-
-**Prüfungsziele und -umfang**
-
-Bereich 1. Strategie und Aufnahme (24%)
+**Bereich 1. Strategie und Aufnahme (24%)**
 
 * Verwenden von Portfolios und Programmen
 * Verwenden von Anforderungswarteschlangen
 * Verwenden benutzerdefinierter Formulare
 * Grundlegende Genehmigungen verwenden
 
-Bereich 2. Haushalt und Planung (11%)
+**Bereich 2. Haushalt und Planung (11%)**
 
 * Verwenden des Ressourcen-Planers
 * Wenden Sie bei einem Szenario/einer Reihe von Anforderungen die Konfigurationen an, um eine Projektvorlage einzurichten.
 
-Bereich 3. Anwendererlebnis (25 %)
+**Bereich 3. Anwendererlebnis (25 %)**
 
 * Best Practices für die Benutzerverwaltung bei der Erstellung des richtigen Benutzererlebnisses
 * Wenden Sie bei einem Szenario das richtige Setup für Freigabe- und Zugriffsberechtigungen im gesamten System an
@@ -92,13 +94,13 @@ Bereich 3. Anwendererlebnis (25 %)
 * Erstellen und Verwenden von Timesheets
 * Zweck und Wert von Connectoren, Plug-ins und Add-ons beschreiben
 
-Bereich 4. Metriken und Berichterstellung (16%)
+**Bereich 4. Metriken und Berichterstellung (16%)**
 
 * Grundlegende Konzepte zum Erstellen, Senden und Anpassen von Berichten beschreiben
 * Dashboards erstellen und anpassen
 * Darstellung der Konfiguration funktionaler Ansichten von Berichten
 
-Bereich 5. Ausführung (24%)
+**Bereich 5. Ausführung (24%)**
 
 * Demonstration der Einrichtung von Genehmigungs- und Testversandarbeitsabläufen
 * Erkennen des Zwecks der Erstellung eines Problems für ein Projekt
@@ -107,17 +109,33 @@ Bereich 5. Ausführung (24%)
 * Identifizieren Sie die Möglichkeiten zur Zeiteingabe in [!DNL Workfront]
 * Identifizieren Sie die Elemente der finanziellen Verfolgung in [!DNL Workfront]
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+### Bereitschaftsfragebogen
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{readiness}}
 
-**Beispielfragen**
+[Nehmen Sie den Online-Bereitschaftsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
 
-In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf die Sie bei der eigentlichen Prüfung stoßen werden. Es ist keine Anmeldung erforderlich. Die Ergebnisse der Beispielfragen werden nicht gespeichert und prognostizieren keine tatsächlichen Testergebnisse.
+<br>
 
-[Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
+## Zertifizierungen {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Strategie und Aufnahme**
 
@@ -160,17 +178,35 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Erstellen eines agilen Teams](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [Kosten verfolgen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+**Beispielfragen**
 
+{{sample-questions}}
 
+[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -183,7 +219,23 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

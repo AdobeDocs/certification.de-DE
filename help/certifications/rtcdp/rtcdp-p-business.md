@@ -8,18 +8,51 @@ recommendations: disable, exclude
 badge: label="Prüfung AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '750'
-ht-degree: 14%
+source-wordcount: '563'
+ht-degree: 19%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Real-Time CDP] Geschäftspraktiker/innen
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Platform] Praktizierender Professional.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 28/50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E602
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Lösungsberater
+* Data Analyst
+* Marketing-Manager
+* Campaign Marketing Analyst
+* Geschäftsanalyst
+* Kampagnen-Manager
+* CDP-Berater
+* Conversion/Optimization-Berater
+* Marketing Product Owner
+* Marketing-Analyst
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über Folgendes verfügen:
 
@@ -38,73 +71,54 @@ Erlebnis mit Aufgaben, die Folgendes umfassen:
 * Grundlegendes zu Funktionen und Funktionen von AEP und seinen Diensten
 * Konfigurieren neuer Ziele
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* Lösungsberater
-* Data Analyst
-* Marketing-Manager
-* Campaign Marketing Analyst
-* Geschäftsanalyst
-* Kampagnen-Manager
-* CDP-Berater
-* Conversion/Optimization-Berater
-* Marketing Product Owner
-* Marketing-Analyst
-
-**Prüfungsdetails:**
-
-* Niveau: Professional (0-12 Monate Erfahrung)
-* Übergeben der Punktzahl: 28/50
-* Zeit: 100 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 125 USD (global) / 95 USD (Indien)
-* Prüfungs-ID: AD0-E602
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Segmente und Aktivierung (32%)
+**Abschnitt 1: Segmente und Aktivierung (32%)**
 
 * Segment erstellen und für Ziel aktivieren
 * Neue Ziele konfigurieren
 * Anwenden von erforderlichen Konzepten auf Zielidentitäten in Zielen
 * Identifizieren von Attributzuordnungen und Planen von Segmenten für das Ziel
 
-Abschnitt 2: Datenschutz und Data Governance (20 %)
+**Abschnitt 2: Datenschutz und Data Governance (20 %)**
 
 * DULE-Richtlinien und ihre Auswirkungen auf die Datenverfügbarkeit in Zielen nachvollziehen
 * Gewährleistung der Einhaltung von Datenschutzbestimmungen
 
-Abschnitt 3: Unternehmensanalyse (30%)
+**Abschnitt 3: Unternehmensanalyse (30%)**
 
 * Identifizieren von Anwendungsfällen, die mit geschäftlichen KPIs verknüpft sind
 * Datenanalyse zu Kundensegmenten in der Plattform durchführen
 * Grundlagen zu Datenflusskonzepten demonstrieren
 
-Abschnitt 4: Schemata und Profile (18%)
+**Abschnitt 4: Schemata und Profile (18%)**
 
 * Adobe [!DNL Experience Platform] Konzepte
 * Verwenden von Profilfunktionen
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+## Zertifizierungen {#how-to-get-certified}
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{how-to-get-certified-intro}}
 
-**Beispielfragen**
++++ Schritt 1: Konto erstellen
 
-In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf die Sie bei der eigentlichen Prüfung stoßen werden. Es ist keine Anmeldung erforderlich. Die Ergebnisse der Beispielfragen werden nicht gespeichert und prognostizieren keine tatsächlichen Testergebnisse.
+{{create-your-account}}
 
-[Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Segmente und Aktivierung**
 
@@ -135,19 +149,36 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Übersicht zum Echtzeit-Kundenprofil](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
 * [Handbuch zur Vereinigungsschema-Benutzeroberfläche](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+**Beispielfragen**
 
-## Einen Praxistest durchführen
+{{sample-questions}}
 
-{{practice-test}}
+[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
 
-## Über die Zertifizierungsprüfung
+
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -160,7 +191,23 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

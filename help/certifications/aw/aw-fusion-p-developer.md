@@ -6,18 +6,47 @@ role: Developer
 badge: label="Prüfung AD0-E902" type="positive"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1253'
 ht-degree: 0%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Workfront Fusion] Entwickler Professional
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Workfront] Entwickler Professional.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 33/51
+* Zeit: 102 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E902
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Entwickler, Automatisierungstechniker
+* Automatisierungs-, Prozess- und Automatisierungsmanager
+* Integrationsberater, Berater, Partner
+* Systemintegratoren/Partner
+* Geschäftsanalysten, angewandte Geschäftsanalysten
+* Systemadministrator (IT, MIS, Technologie, Informationssysteme, KI-Administratoren)
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über Folgendes verfügen:
 
@@ -32,36 +61,13 @@ Sie sollten über Folgendes verfügen:
 * Verwaltung von Organisationsteams und Benutzern
 * Grundlegendes zum Zweck und zur Verwendung universeller Connectoren für REST API Oauth2
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* Entwickler, Automatisierungstechniker
-* Automatisierungs-, Prozess- und Automatisierungsmanager
-* Integrationsberater, Berater, Partner
-* Systemintegratoren/Partner
-* Geschäftsanalysten, angewandte Geschäftsanalysten
-* Systemadministrator (IT, MIS, Technologie, Informationssysteme, KI-Administratoren)
-
-**Prüfungsdetails:**
-
-* Niveau: Professional (0-12 Monate Erfahrung)
-* Übergeben der Punktzahl: 33/51
-* Zeit: 102 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 125 USD (global) / 95 USD (Indien)
-* Prüfungs-ID: AD0-E902
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Gründliche technische Konzepte (39%)
+**Abschnitt 1: Gründliche technische Konzepte (39%)**
 
 * Bei [!DNL Fusion] Szenario mit einem Feldformat, das in einem anderen Feldformat vorliegen muss, stellen Sie die möglichen Funktionen bereit, die zur korrekten Transformation der Daten verwendet werden können
 * Bei [!DNL Fusion] Szenario, für das eine Funktion in einer anderen Funktion verschachtelt werden muss, wählen Sie den ordnungsgemäß formatierten Ausdruck aus
@@ -77,7 +83,7 @@ Abschnitt 1: Gründliche technische Konzepte (39%)
 * Identifizieren Sie die verschiedenen Optionen im [!DNL Fusion] Szenario-Einstellungen zur Erfüllung von Szenario-Anforderungen
 * Bei [!DNL Fusion] Szenario, wählen Sie die entsprechende Flusssteuerung aus und/oder bestimmen Sie die richtige Kombination aus Flusssteuerungsmodulen.
 
-Abschnitt 2: Szenario-Design und -Architektur (35 %)
+**Abschnitt 2: Szenario-Design und -Architektur (35 %)**
 
 * Wählen Sie für eine Liste von Schritten die richtige Sequenz aus, um JSON zu analysieren und in Bundles zu konvertieren
 * Identifizieren Sie bei einer Reihe von Anforderungen die richtige Datensuchmethode
@@ -92,7 +98,7 @@ Abschnitt 2: Szenario-Design und -Architektur (35 %)
 * Geben Sie eine Beschreibung der Notwendigkeit ein, ein Szenario länger als 60 Tage zu archivieren, und wählen Sie die einzige Möglichkeit aus (Import/Export-Blueprint).
 * Beispiel eines Fehlers 403: Verboten: Wählen Sie den Ursprung der Fehlermeldung korrekt aus und verursachen
 
-Abschnitt 3: Tests und Umgang mit Fehlern (16 %)
+**Abschnitt 3: Tests und Umgang mit Fehlern (16 %)**
 
 * Identifizieren der Elemente eines Testplans
 * Identifizieren der Elemente eines Testfalls
@@ -101,24 +107,32 @@ Abschnitt 3: Tests und Umgang mit Fehlern (16 %)
 * Ermitteln, wie unvollständige Ausführungen verfolgt, gelesen und aufgelöst werden können
 * Bei [!DNL Fusion] Szenario mit fehlenden erforderlichen Daten auswählen, wie die ungültigen Daten verarbeitet werden können
 
-Abschnitt 4: Arbeiten mit APIs (10%)
+**Abschnitt 4: Arbeiten mit APIs (10%)**
 
 * Identifizieren Sie bei einer Drittanbieter-API, die 429: Zu viele Anforderungen zurückgibt, eine Lösung, um den Fehler zu verhindern oder zu verarbeiten.
 * Bei [!DNL Fusion] Szenario, in dem keine neuen Funktionen im [!DNL Workfront] -Modul angeben, geben Sie die richtige Referenz und den richtigen Modultyp an, um die neue Funktion zu verwenden.
 * Identifizieren Sie bei einem Drittanbietersystem ohne dedizierte App die HTTP-App und wählen Sie das entsprechende Modul aus.
 * Identifizieren Sie den Unterschied zwischen CRUD-Vorgängen und anderen allgemeinen Funktionen von REST-APIs.
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+## Zertifizierungen {#how-to-get-certified}
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{how-to-get-certified-intro}}
 
-**Beispielfragen**
++++ Schritt 1: Konto erstellen
 
-In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf die Sie bei der eigentlichen Prüfung stoßen werden. Es ist keine Anmeldung erforderlich. Die Ergebnisse der Beispielfragen werden nicht gespeichert und prognostizieren keine tatsächlichen Testergebnisse.
+{{create-your-account}}
 
-[Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1. Grundlegende technische Konzepte**
 
@@ -151,16 +165,35 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Apps und ihre Module](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
 * [Module im Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+**Beispielfragen**
 
+{{sample-questions}}
 
-## Über die Zertifizierungsprüfung
+[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
+
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -173,7 +206,23 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

@@ -6,44 +6,24 @@ role: Developer
 badge: label="Prüfung AD0-E903" type="positive"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1549'
+source-wordcount: '1352'
 ht-degree: 0%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Workfront] Projektmanager
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Workfront] Project Manager Professional.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
 
-Sie sollten über Folgendes verfügen:
+{{exam-description}}
 
-* Ein Verständnis des Arbeitsprozesses von einem ersten Arbeitserfordernis bis zum Abschluss oder wurde dem Projekt- oder Arbeitsmanagement ausgesetzt.
-* Abgeschlossene selbstgeführte Schulung oder Bootcamp oder [!DNL Workfront] Benutzer 6-12 Monate lang verwenden, um die grundlegenden Funktionen zu verstehen.
-* Grundlegendes zur Konfiguration, Verfolgung und Überwachung von Berichtsdaten
+<br>
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
-
->[!BEGINTABS]
-
->[!TAB Bereit]
-
-**Vorgesehene Zielgruppe:**
-
-* Projektmanager, Arbeitsmanager, Planer
-* SCRUM Master
-* [!DNL Workfront] Power User
-* Systemadministrator
-* Programm-Manager, Portfolio-Manager
-* Director, Manager
-* Ressourcen-Manager, Traffic-Manager
-
-**Prüfungsdetails - Adobe [!DNL Workfront] Projektmanager**
+### Prüfungsdetails {#exam-details}
 
 * Niveau: Professional (0-12 Monate Erfahrung)
 * Übergeben der Punktzahl: 45/70
@@ -53,13 +33,35 @@ Sie sollten über Folgendes verfügen:
 * Kosten: 125 USD (global) / 95 USD (Indien)
 * Prüfungs-ID: AD0-E903
 
-**Eigenbewertung der Bereitschaft**
+<br>
 
-Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"} , um zu sehen, ob Ihr aktuelles Erlebnis mit der empfohlenen Mindestqualifikation für Kandidaten übereinstimmt.
+### Vorgesehene Zielgruppe {#intended-audience}
 
-**Prüfungsziele und -umfang**
+* Projektmanager, Arbeitsmanager, Planer
+* SCRUM Master
+* [!DNL Workfront] Power User
+* Systemadministrator
+* Programm-Manager, Portfolio-Manager
+* Director, Manager
+* Ressourcen-Manager, Traffic-Manager
 
-Abschnitt 1: Aufnahme und Planung (30%)
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
+
+Sie sollten über Folgendes verfügen:
+
+* Ein Verständnis des Arbeitsprozesses von einem ersten Arbeitserfordernis bis zum Abschluss oder wurde dem Projekt- oder Arbeitsmanagement ausgesetzt.
+* Abgeschlossene selbstgeführte Schulung oder Bootcamp oder [!DNL Workfront] Benutzer 6-12 Monate lang verwenden, um die grundlegenden Funktionen zu verstehen.
+* Grundlegendes zur Konfiguration, Verfolgung und Überwachung von Berichtsdaten
+
+<br>
+
+### Prüfungsziele und -umfang {#exam-objectives}
+
+{{exam-objectives}}
+
+**Abschnitt 1: Aufnahme und Planung (30%)**
 
 * Identifizieren verschiedener Möglichkeiten zur Benachrichtigung über eine Arbeitsanforderung
 * Überprüfen Sie bei einer Anfrage die benutzerdefinierten Daten, um die geeignete Aktion zu bestimmen.
@@ -71,7 +73,7 @@ Abschnitt 1: Aufnahme und Planung (30%)
 * Identifizieren Sie das entsprechende Feld, um eine bestimmte zugewiesene Ressource anzuzeigen
 * Bestimmen Sie bei einer Person die Aufnahme- oder Planungsberichte/Dashboards, die für die Person während der Arbeitsinstallation oder Planungsphase des Projekts/Arbeitsprozesses hilfreich sind.
 
-Abschnitt 2: Ausführen (50%)
+**Abschnitt 2: Ausführen (50%)**
 
 * Identifizieren von Möglichkeiten zum Verständnis, zur Anwendung und zum Messen von Meilensteinen in einem Projekt
 * Erstellen [!DNL Workfront] Einzelanwendungsgenehmigungen und Zeitpunkt der Verwendung einer Genehmigung
@@ -92,30 +94,44 @@ Abschnitt 2: Ausführen (50%)
 * die verschiedenen Berichtstypen zu identifizieren, die in [!DNL Workfront]
 * Beschreiben Sie in einem Szenario die Schritte zum Erstellen eines benutzerspezifischen Berichts
 
-Abschnitt 3: Schließung (20%)
+**Abschnitt 3: Schließung (20%)**
 
 * Legen Sie für einen bestimmten Objektstatus fest, welche Aktivitäten ausgeführt werden müssen oder welche Aktionen ausgelöst werden.
 * Legen Sie bei einem Szenario den Berichtstyp und das Berichterstellungselement fest, die zum Ändern einer Aufgabenliste oder eines Berichts verwendet werden sollen
 * Identifizieren der verschiedenen Platzhalter, die in Berichten verwendet werden können
 * Identifizieren der Projektelemente, die zum Messen des Projekterfolgs verwendet werden können
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+### Bereitschaftsfragebogen
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{readiness}}
 
-**Beispielfragen**
+[Nehmen Sie den Online-Bereitschaftsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
 
-In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf die Sie bei der eigentlichen Prüfung stoßen werden. Es ist keine Anmeldung erforderlich. Die Ergebnisse der Beispielfragen werden nicht gespeichert und prognostizieren keine tatsächlichen Testergebnisse.
+<br>
 
-[Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+## Zertifizierungen {#how-to-get-certified}
 
-**Empfohlener Schulungskurs:**
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Empfohlener Schulungskurs**
 
 [Grundlegende Teamschulung für Planer in der neuen [!DNL Workfront] Erlebnis](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
-**Zusätzliche Ressourcen:**
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Aufnahme und Planung**
 
@@ -158,18 +174,37 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Erstellen und Verwalten von Timesheets im Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FTimesheets%2FCreate_and_Manage_Timesheets%2F_create-and-manage-timesheets.htm&amp;_LANG=en){target="_blank"}
 * [Portfolio-Management](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
 * [Projekt-Timeline](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
-* [Projekte erstellen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&amp;_LANG=enus){target="_blank"}
+* [Erstellen von Projekten](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&amp;_LANG=enus){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+**Beispielfragen**
 
+{{sample-questions}}
 
-## Über die Zertifizierungsprüfung
+[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -182,7 +217,23 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

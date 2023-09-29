@@ -7,18 +7,44 @@ role: Developer
 badge: label="Prüfung AD0-E134" type="positive"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '789'
-ht-degree: 23%
+source-wordcount: '635'
+ht-degree: 29%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Experience Manager Sites] Entwicklerexperte
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager] Entwicklerexperte.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Ebene: Expert (1-3 Jahre Erfahrung)
+* Übergeben der Punktzahl: 26/50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E134
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* AEM Entwickler
+* Entwickler im AEM
+* AEM Lead-Entwickler
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über Folgendes verfügen:
 
@@ -28,7 +54,7 @@ Sie sollten über Folgendes verfügen:
 * Die Kenntnisse über Frameworks und Bibliotheken in AEM
 * Ein Verständnis des AEM Entwicklungslebenszyklus
 
-Außerdem kennen Sie die folgenden Technologien und Umgebungen:
+Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sein:
 
 * JVM
 * Umgebungen mit niedrigeren Werten/Produktionsumgebungen
@@ -39,37 +65,13 @@ Außerdem kennen Sie die folgenden Technologien und Umgebungen:
 * Entwicklungs- und Verpackungswerkzeuge
 * Befehlszeilenwerkzeuge
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* AEM Entwickler
-* Entwickler im AEM
-* AEM Lead-Entwickler
-
-**Prüfungsdetails:**
-
-* Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 26/50
-* Zeit: 100 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E134
-
-**Eigenbewertung der Bereitschaft**
-
-Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} , um zu sehen, ob Ihr aktuelles Erlebnis mit der empfohlenen Mindestqualifikation für Kandidaten übereinstimmt.
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Konfigurationen (22%)
+**Abschnitt 1: Konfigurationen (22%)**
 
 * Identifizieren Sie die Schritte zum Erstellen und Verwalten AEM Dispatcher-Konfigurationen
 * Bestimmen der richtigen Schritte zum Konfigurieren der Multi-Mandate
@@ -77,7 +79,7 @@ Abschnitt 1: Konfigurationen (22%)
 * Legen Sie bei einem Szenario die richtige Methode zum Erstellen und Verwalten benutzerdefinierter OAK-Indizes fest.
 * Bestimmen der richtigen Schritte zum Konfigurieren der OOTB SAML- und LDAP-Integration
 
-Abschnitt 2: AEM (44%)
+**Abschnitt 2: AEM (44%)**
 
 * Bestimmen der richtigen Schritte zur Implementierung SPA Struktur, Vorlagen und Komponenten
 * Erstellen Sie für einen Entwurf benutzerdefinierte Komponenten, einschließlich HTL, Modelle und Dienste
@@ -86,23 +88,45 @@ Abschnitt 2: AEM (44%)
 * Legen Sie für ein Szenario den Ansatz für eine Drittanbieterintegration fest.
 * Bestimmen des Ansatzes zur Implementierung einer Headless- oder Hybridimplementierung
 
-Abschnitt 3: Erstellen und Bereitstellen (14 %)
+**Abschnitt 3: Erstellen und Bereitstellen (14 %)**
 
 * Identifizieren Sie die Schritte zum Einrichten und Verwalten der Front-End- und Back-End-Abhängigkeitsverwaltung
 * Festlegen des richtigen Archetyps beim Erstellen von Projekten
 
-Abschnitt 4: Instandhaltung der Umgebung (22%)
+**Abschnitt 4: Instandhaltung der Umgebung (22%)**
 
 * Legen Sie bei einem Szenario die Schritte fest, die zum Verwalten AEM Umgebungen erforderlich sind
 * Erläuterung der Einrichtungsschritte für die Versionsverwaltung
 * Lösungen zur Synchronisierung von Inhalten/Konfigurationen in AEM Umgebungen empfehlen und implementieren
 * Ermitteln Sie die erforderlichen Schritte für die Planung und Implementierung AEM Upgrades und Repository-Migrationsaktivitäten/-aufgaben.
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+### Bereitschaftsfragebogen
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{readiness}}
+
+[Nehmen Sie den Online-Bereitschaftsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Zertifizierungen {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Konfiguration**
 
@@ -137,19 +161,27 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [AEM 6.5-Administratorenhandbuch](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=de){target="_blank"}
 * [AEM 6.5-Bereitstellungshandbuch für Benutzer](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=de){target="_blank"}
 
->[!TAB Zertifizieren]
++++
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+<br>
 
-## Einen Praxistest durchführen
+++ Schritt 3: Test &amp; Test für Prüfungen planen
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -162,7 +194,23 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

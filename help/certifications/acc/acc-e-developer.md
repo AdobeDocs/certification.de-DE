@@ -7,18 +7,44 @@ role: Developer
 badge: label="Prüfung AD0-E330" type="positive"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1117'
-ht-degree: 21%
+source-wordcount: '961'
+ht-degree: 24%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Entwicklerexperte
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Campaign Classic] Entwicklerexperte.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Ebene: Expert (1-3 Jahre Erfahrung)
+* Übergeben der Punktzahl: 34/50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E330
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Technischer Berater
+* Marketing-Techniker
+* Adobe [!DNL Campaign Classic] Entwickler
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über Folgendes verfügen:
 
@@ -30,37 +56,13 @@ Sie sollten über Folgendes verfügen:
 * Fehlerbehebung bei Campaign-Implementierungen
 * Grundlegendes zu Serverkonfigurationen für Campaign
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* Technischer Berater
-* Marketing-Techniker
-* Adobe [!DNL Campaign Classic] Entwickler
-
-**Prüfungsdetails**
-
-* Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 34/50
-* Zeit: 100 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E330
-
-**Eigenbewertung der Bereitschaft**
-
-Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"} , um zu sehen, ob Ihr aktuelles Erlebnis mit der empfohlenen Mindestqualifikation für Kandidaten übereinstimmt.
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Systemkonfiguration (16%)
+**Abschnitt 1: Systemkonfiguration (16%)**
 
 * Systemweite Konfigurationseinstellungen und Standardeinstellungen anwenden
 * Wählen Sie für verschiedene Parameter die entsprechende Adobe Campaign-Funktion aus, um einen Anwendungsfall zu implementieren.
@@ -68,7 +70,7 @@ Abschnitt 1: Systemkonfiguration (16%)
 * Benutzerdefinierte Konfigurationen implementieren
 * Identifizieren von Campaign Control Panel-Konfigurationsfunktionen
 
-Abschnitt 2: Anpassung (22%)
+**Abschnitt 2: Anpassung (22%)**
 
 * Mit einer Reihe von Anforderungen wenden Sie Best Practices an, um ein Datenmodell zu entwerfen
 * Implementierung von APIs in Campaign beschreiben
@@ -78,14 +80,14 @@ Abschnitt 2: Anpassung (22%)
 * In einem Szenario können Sie wissen, wie SQL-Skripte im Adobe verwendet werden. [!DNL Campaign Classic]
 * Beschreibung häufig verwendeter OOTB-Funktionen
 
-Abschnitt 3: Zugriffsverwaltung (8%)
+**Abschnitt 3: Zugriffsverwaltung (8%)**
 
 * Bei einem Szenario konfigurieren Sie die Sicherheitseinstellungen für einen Benutzer
 * Beschreiben Sie, wie Sie Zugriffsverwaltungseinstellungen basierend auf dem Lösungsdesigndokument konfigurieren.
 * Beschreiben der Zugriffsverwaltung über das Campaign Control Panel
 * Identifizieren Sie die Einschränkungen der Datenpartitionierung und wann sysfilter verwendet werden soll.
 
-Abschnitt 4: Datenintegration (16%)
+**Abschnitt 4: Datenintegration (16%)**
 
 * Wählen Sie bei einem Szenario den besten Ansatz für die Integration mit externen Datenquellen aus.
 * Best Practices für die Verarbeitung von Workflow-Daten implementieren
@@ -93,7 +95,7 @@ Abschnitt 4: Datenintegration (16%)
 * Identifizieren von Sicherheits- und Netzwerkeinstellungen für die Integration mit Adobe Campaign über ein externes System
 * Richten Sie den CRUD-Prozess für ein Schema außerhalb von Adobe Campaign ein.
 
-Abschnitt 5: Wartung der Instanz (12%)
+**Abschnitt 5: Wartung der Instanz (12%)**
 
 * Grundlegendes zur Workflow-Heatmap und deren Bearbeitung
 * Prozess zum Erstellen eines benutzerdefinierten Workflows oder Berichts zur Instanzüberwachung demonstrieren
@@ -101,7 +103,7 @@ Abschnitt 5: Wartung der Instanz (12%)
 * Auswirkungen von Diensten und Prozessen auf das System erläutern
 * Grundlegende Systemaudit-Metriken/Prüfungen demonstrieren
 
-Abschnitt 6: Kampagnenkonfiguration (25%)
+**Abschnitt 6: Kampagnenkonfiguration (25%)**
 
 * Erweiterte Personalisierungsverfahren anwenden
 * Benutzerdefinierte Zielgruppen-Mappings konfigurieren und anwenden
@@ -112,11 +114,33 @@ Abschnitt 6: Kampagnenkonfiguration (25%)
 * Beschreiben Sie Workflow-Vorgehensweisen, die sich negativ auf die Leistung auswirken.
 * In einem Anwendungsfall empfehlen wir ein komplexes Zielgruppen-Workflow-Design
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+### Bereitschaftsfragebogen
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{readiness}}
+
+[Nehmen Sie den Online-Bereitschaftsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Zertifizierungen {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Systemkonfiguration**
 
@@ -173,19 +197,27 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Über Vorlagen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=de){target="_blank"}
 * [Verwenden einer benutzerdefinierten Empfängertabelle](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=de){target="_blank"}
 
->[!TAB Zertifizieren]
++++
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+<br>
 
-## Einen Praxistest durchführen
+++ Schritt 3: Test &amp; Test für Prüfungen planen
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -198,7 +230,23 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

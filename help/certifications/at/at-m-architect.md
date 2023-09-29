@@ -8,18 +8,48 @@ badge: label="Prüfung AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
 hidefromtoc: true
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1077'
-ht-degree: 23%
+source-wordcount: '920'
+ht-degree: 27%
 
 ---
 
 # Journey für die Zertifizierung [!DNL Adobe Target] Architekturmeister
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Architekturmeister.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Stufe: Master (3-5 Jahre Erfahrung)
+* Übergeben der Punktzahl: 34/50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E407
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Entwickler/Architekt zur Optimierung der Konversionsrate
+* Personalisierungsingenieur/Architekt
+* Architekten digitaler Lösungen
+* Berater für digitale Transformation
+* Lead zur Erlebnisoptimierung
+* Optimierungs-Manager
+* Online-Kampagnenmanager
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über Folgendes verfügen:
 
@@ -54,85 +84,73 @@ Umgebungen:
 * AMS-gehostete Umgebung
 * Adobe I/O Runtime
 
->[!BEGINTABS]
+<br>
 
->[!TAB Bereit]
+### Prüfungsziele und -umfang {#exam-objectives}
 
-**Vorgesehene Zielgruppe:**
+{{exam-objectives}}
 
-* Entwickler/Architekt zur Optimierung der Konversionsrate
-* Personalisierungsingenieur/Architekt
-* Architekten digitaler Lösungen
-* Berater für digitale Transformation
-* Lead zur Erlebnisoptimierung
-* Optimierungs-Manager
-* Online-Kampagnenmanager
-
-**Prüfungsdetails:**
-
-* Stufe: Master (3-5 Jahre Erfahrung)
-* Übergeben der Punktzahl: 34/50
-* Zeit: 100 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E407
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: [!DNL Adobe Target] Grundlagen (12 %)
+**Abschnitt 1: [!DNL Adobe Target] Grundlagen (12 %)**
 
 * Identifizieren Sie die geeignete [!DNL Adobe Target] Verwendung für ein bestimmtes Szenario
 * Die grundlegenden Technologien eines [!DNL Adobe Target] Implementierung
 
-Abschnitt 2: Integration in [!DNL Adobe Target] (16%)
+**Abschnitt 2: Integration in [!DNL Adobe Target] (16%)**
 
 * Anwenden der Integration [!DNL Adobe Target] mit Adobe Analytics (A4T)
 * Anwenden der Integration [!DNL Adobe Target] zu Adobe Experience Manager
 * Integration mit anderen Adobe Experience Cloud-Lösungen beschreiben
 * Integration mit Adobe Experience Cloud-Zielgruppen beschreiben
 
-Abschnitt 3: [!DNL Adobe Target] Verwaltung und Governance (13 %)
+**Abschnitt 3: [!DNL Adobe Target] Verwaltung und Governance (13 %)**
 
 * Definieren eines fortlaufenden [!DNL Adobe Target] Implementierungsstrategie und Systemsteuerung
 * Anwendung des Prozesses und der Best Practices zur Verwaltung von Benutzern
 * Beschreiben Sie die Verwaltungsaspekte des Implementierungs-Setups
 
-Abschnitt 4: [!DNL Adobe Target] und unterstützte Touchpoints (15 %)
+**Abschnitt 4: [!DNL Adobe Target] und unterstützte Touchpoints (15 %)**
 
 * Clientseitige Implementierung der Bereitstellung beschreiben
 * Implementierung der serverseitigen Bereitstellung beschreiben
 * Implementierungsanforderungen für Mobilgeräte, E-Mail-Targeting und APIs beschreiben
 
-Abschnitt 5: Nutzung [!DNL Adobe Target] Empfehlungen (9%)
+**Abschnitt 5: Nutzung [!DNL Adobe Target] Empfehlungen (9%)**
 
 * Empfehlungen, Kataloge und Umgebungen verstehen
 * Anwenden des Prozesses zur Konfiguration von Target-Empfehlungen
 
-Abschnitt 6: Architektur, Design und Implementierung [!DNL Adobe Target] (15%)
+**Abschnitt 6: Architektur, Design und Implementierung [!DNL Adobe Target] (15%)**
 
 * Auswählen der richtigen Mbox-Implementierung
 * Entwerfen einer [!DNL Adobe Target] Implementierung
 * Beschreiben Sie die Implementierung von [!DNL Adobe Target] in nativen mobilen Apps
 
-Abschnitt 7: Fehlerbehebung (20 %)
+**Abschnitt 7: Fehlerbehebung (20 %)**
 
 * Fehlerbehebung bei Mbox-Fehlern
 * Fehlerbehebung bei Aktivitätsfehlern
 * Integrationsfehler verstehen
 * Fehlerbehebung [!DNL Adobe Target] Recommendations-Fehler
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+## Zertifizierungen {#how-to-get-certified}
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{how-to-get-certified-intro}}
 
-**Beispielfragen**
++++ Schritt 1: Konto erstellen
 
-In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf die Sie bei der eigentlichen Prüfung stoßen werden. Es ist keine Anmeldung erforderlich. Die Ergebnisse der Beispielfragen werden nicht gespeichert und prognostizieren keine tatsächlichen Testergebnisse.
+{{create-your-account}}
 
-[Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: [!DNL Adobe Target] Grundlagen**
 
@@ -193,16 +211,35 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Lösung: Warum wird meine historische Zielgruppe als &quot;Datenerfassung&quot;angezeigt?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
 * [Adobe Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=de){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+**Beispielfragen**
 
+{{sample-questions}}
 
-## Über die Zertifizierungsprüfung
+[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
+
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -215,7 +252,23 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

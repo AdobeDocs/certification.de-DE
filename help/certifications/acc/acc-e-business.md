@@ -7,18 +7,48 @@ role: User
 badge: label="Prüfung AD0-E327" type="positive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '914'
-ht-degree: 25%
+source-wordcount: '761'
+ht-degree: 30%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Geschäftspraktiker-Experte
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Campaign Classic] Geschäftspraktiker-Experte.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Ebene: Expert (1-3 Jahre Erfahrung)
+* Übergeben der Punktzahl: 32/50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E327
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Unternehmensberater
+* Geschäftsanalyst
+* Interaction Manager
+* Campaign Manager
+* Datenbankmarketer
+* Betriebliche Fachkräfte
+* CRM-Projektmanager
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über Folgendes verfügen:
 
@@ -29,41 +59,13 @@ Sie sollten über Folgendes verfügen:
 * Grundlegendes zu Typologieanwendung, Zugriffsverwaltung, Webtechnologien und Datenbankmarketing
 * Sensibilisierung für die rechtlichen und ethischen Leitlinien für das Marketing
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* Unternehmensberater
-* Geschäftsanalyst
-* Interaction Manager
-* Campaign Manager
-* Datenbankmarketer
-* Betriebliche Fachkräfte
-* CRM-Projektmanager
-
-**Prüfungsdetails:**
-
-* Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 32/50
-* Zeit: 100 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E327
-
-**Eigenbewertung der Bereitschaft**
-
-Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"} , um zu sehen, ob Ihr aktuelles Erlebnis mit der empfohlenen Mindestqualifikation für Kandidaten übereinstimmt.
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Kampagnenverwaltung (20%)
+**Abschnitt 1: Kampagnenverwaltung (20%)**
 
 * Best Practices zum Erstellen einer Kampagne anwenden
 * Legen Sie für ein Szenario die richtige Kampagnenvorlage fest
@@ -71,14 +73,14 @@ Abschnitt 1: Kampagnenverwaltung (20%)
 * Zielgruppen-Mappings beschreiben
 * Web-Apps und Web-Formulare konfigurieren
 
-Abschnitt 2: Workflow-Management (22%)
+**Abschnitt 2: Workflow-Management (22%)**
 
 * Bewerten einer bestimmten Gruppe von Kampagnenanforderungen und Empfehlungen für den Ablauf der Aktion
 * Analysieren Sie in einem Szenario Workflow-Fehler.
 * Bestimmen Sie anhand einer Reihe von Kampagnenanforderungen das richtige Design eines Marketing-Workflows.
 * Anwenden empfohlener Verfahren bei der Ausführung von Workflows
 
-Abschnitt 3: Datenverwaltung (24%)
+**Abschnitt 3: Datenverwaltung (24%)**
 
 * Grundlegende Konzepte relativer Datenbanken erläutern
 * Bestimmen der verschiedenen Datenquellen, auf die ein Workflow zugreifen kann
@@ -88,29 +90,51 @@ Abschnitt 3: Datenverwaltung (24%)
 * Anwenden der Schritte zum Konfigurieren eines vordefinierten Filters
 * Geben Sie bei einer geschäftlichen Anforderung das entsprechende Formular an.
 
-Abschnitt 4: Versandverwaltung (14%)
+**Abschnitt 4: Versandverwaltung (14%)**
 
 * Anwenden der Schritte zum Erstellen/Konfigurieren von Sendungen
 * Wählen Sie für ein Szenario die entsprechende Audience für den Testversand für die Validierungen aus und richten Sie sie ein
 * Versandprüfungen analysieren und interpretieren
 
-Abschnitt 5: Berichterstattung (12%)
+**Abschnitt 5: Berichterstattung (12%)**
 
 * Legen Sie für ein Szenario die entsprechenden zu generierenden Berichte fest.
 * Interpretieren integrierter Berichte
 * Auswirkungen der Bereinigung/Bereinigung der Protokolle auf die Berichterstellung erklären
 
-Abschnitt 6: Verwaltung (8%)
+**Abschnitt 6: Verwaltung (8%)**
 
 * Erläutern Sie bei einem Szenario die Auswirkungen der Protokollbereinigung auf Berichte
 * Gewähren Sie aufgrund geschäftlicher Anforderungen die richtigen Berechtigungen und Zugriffe
 * Anwenden der Schritte zum Aktivieren von SFTP über das Control Panel
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+### Bereitschaftsfragebogen
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{readiness}}
+
+[Nehmen Sie den Online-Bereitschaftsfragebogen](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Zertifizierungen {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Kampagnenverwaltung**
 
@@ -157,20 +181,33 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Erste Schritte mit Berechtigungen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=de#getting-started){target="_blank"}
 * [Über die SFTP-Verwaltung](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/about-sftp-management.html?lang=de){target="_blank"}
 
+<br>
 
->[!TAB Zertifizieren]
-
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
-
-## Einen Praxistest durchführen
+**Einen Praxistest durchführen**
 
 {{practice-test}}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -183,7 +220,23 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

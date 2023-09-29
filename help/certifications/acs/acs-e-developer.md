@@ -7,18 +7,47 @@ role: Developer
 badge: label="Prüfung AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1073'
-ht-degree: 15%
+source-wordcount: '930'
+ht-degree: 17%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Campaign Standard] Entwicklerexperte
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Campaign Standard] Entwicklerexperte.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Ebene: Expert (1-3 Jahre Erfahrung)
+* Übergeben der Punktzahl: 29/50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E306
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Marketing-Automatisierungsadministrator
+* Adobe Experience Cloud-Entwickler
+* E-Mail-Marketing-Analyse
+* Anwendungsentwickler
+* Campaign-Entwickler
+* Martech-Entwickler
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über Folgendes verfügen:
 
@@ -40,40 +69,13 @@ Sie sollten über Folgendes verfügen:
 * Erfahrung mit Transaktionsnachrichten und Nachrichtenversand auf mehreren Kanälen
 * Erlebnis mit verwalteten Paketen
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* Marketing-Automatisierungsadministrator
-* Adobe Experience Cloud-Entwickler
-* E-Mail-Marketing-Analyse
-* Anwendungsentwickler
-* Campaign-Entwickler
-* Martech-Entwickler
-
-**Prüfungsdetails:**
-
-* Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 29/50
-* Zeit: 100 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E306
-
-**Eigenbewertung der Bereitschaft**
-
-Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} , um zu sehen, ob Ihr aktuelles Erlebnis mit der empfohlenen Mindestqualifikation für Kandidaten übereinstimmt.
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Datenmodellierung und -verwaltung (26%)
+**Abschnitt 1: Datenmodellierung und -verwaltung (26%)**
 
 * Umwandeln einer Kundenanforderung in eine benutzerdefinierte Ressource
 * Konfigurieren von Bildschirm- und Filterdefinitionen
@@ -82,7 +84,7 @@ Abschnitt 1: Datenmodellierung und -verwaltung (26%)
 * Fehlerbehebung bei Datenmodellierungsproblemen
 * Bestimmen des richtigen Ansatzes zum Erstellen technischer Workflows
 
-Abschnitt 2: Kampagnenverwaltung (50%)
+**Abschnitt 2: Kampagnenverwaltung (50%)**
 
 * Fehlerbehebung bei Workflow-Fehlern
 * Bestimmen des richtigen Ansatzes zum Erstellen von Kampagnen
@@ -95,7 +97,7 @@ Abschnitt 2: Kampagnenverwaltung (50%)
 * Bestimmen des richtigen Ansatzes zum Erstellen von E-Mails mithilfe von Creative Designer
 * Bestimmen des richtigen Ansatzes zum Erstellen benutzerdefinierter Berichte
 
-Abschnitt 3: Verwaltung (24%)
+**Abschnitt 3: Verwaltung (24%)**
 
 * Bestimmen des richtigen Ansatzes zum Erstellen von Benutzergruppen und Organisationseinheiten
 * Bestimmen des richtigen Ansatzes zum Verwalten und Bereitstellen von Paketen
@@ -104,9 +106,33 @@ Abschnitt 3: Verwaltung (24%)
 * Bestimmen des richtigen Ansatzes zum Erstellen von Marken
 * Bestimmen des richtigen Ansatzes zur Entwicklung von Kanalkonfigurationen
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+### Bereitschaftsfragebogen
+
+{{readiness}}
+
+[Nehmen Sie den Online-Bereitschaftsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Zertifizierungen {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Datenmodellierung und -verwaltung**
 
@@ -151,19 +177,33 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 * [Über die Konfiguration von Kanälen](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
 * [Erste Schritte mit Kommunikationskanälen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
-
-## Einen Praxistest durchführen
+**Einen Praxistest durchführen**
 
 {{practice-test}}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -176,7 +216,23 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

@@ -8,18 +8,47 @@ role: Data Architect,Developer
 badge: label="Prüfung AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '755'
-ht-degree: 22%
+source-wordcount: '573'
+ht-degree: 29%
 
 ---
 
 # Journey für die Zertifizierung [!DNL Adobe Analytics] Architekturmeister
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Analytics] Architekturmeister.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Stufe: Master (3-5 Jahre Erfahrung)
+* Übergeben der Punktzahl: 33/50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E207
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Lösungsarchitektur
+* Technischer Manager
+* Datenarchitekt
+* Analytics-Techniker
+* Analytics-Strategin
+* Multi Solutions Engineer
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über eine mindestens 3-4-jährige Erfahrung im Entwurf verfügen [!DNL Adobe Analytics] Architektur, Datenschichtspezifikationen und Tag-Management sowie ein grundlegendes Verständnis von JavaScript-Code.
 
@@ -33,42 +62,19 @@ Darüber hinaus sind Sie für die Übersetzung von Geschäftsanforderungen in Tr
 * Optimierungswerkzeuge
 * Code-Editoren
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* Lösungsarchitektur
-* Technischer Manager
-* Datenarchitekt
-* Analytics-Techniker
-* Analytics-Strategin
-* Multi Solutions Engineer
-
-**Prüfungsdetails:**
-
-* Stufe: Master (3-5 Jahre Erfahrung)
-* Übergeben der Punktzahl: 33/50
-* Zeit: 100 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E207
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Entdeckung (18%)
+**Abschnitt 1: Entdeckung (18%)**
 
 * Nachweis der Fähigkeit zur Prüfung von Sites
 * Untersuchung der Kundenanforderungen zum Erstellen von Geschäftsanforderungen
 * Erstellen Sie für ein Szenario ein Messungs-Framework.
 
-Abschnitt 2: Lösungsdesign (54%)
+**Abschnitt 2: Lösungsdesign (54%)**
 
 * Übersetzen von Geschäftsanforderungen in Variablen und Metriken
 * Funktionsweise der Verwaltung von Report Suite-Einstellungen
@@ -77,7 +83,7 @@ Abschnitt 2: Lösungsdesign (54%)
 * Technische Spezifikationen für Site-Entwickler schreiben
 * Erstellen von Experience Cloud-Benutzern/Gruppen
 
-Abschnitt 3: Nach der Implementierung (28%)
+**Abschnitt 3: Nach der Implementierung (28%)**
 
 * Validieren Sie bei einer Reihe von Anforderungen das Tracking über Browser-Entwickler-Tools und Adobe-Berichte
 * Anwenden von Verfahrenskonzepten zur Verwaltung von Datenextraktion und -beziehungen
@@ -85,17 +91,25 @@ Abschnitt 3: Nach der Implementierung (28%)
 * Bei einem Szenario können Sie Datenquellen und Connectoren verwalten
 * Konfigurieren der erforderlichen Segmente und berechneten Metriken zur Erfüllung der Geschäftsanforderungen
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+## Zertifizierungen {#how-to-get-certified}
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{how-to-get-certified-intro}}
 
-**Beispielfragen**
++++ Schritt 1: Konto erstellen
 
-In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf die Sie bei der eigentlichen Prüfung stoßen werden. Es ist keine Anmeldung erforderlich. Die Ergebnisse der Beispielfragen werden nicht gespeichert und prognostizieren keine tatsächlichen Testergebnisse.
+{{create-your-account}}
 
-[Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Entdeckung**
 
@@ -132,16 +146,35 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Dateneinfüge-Prozess](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [Tutorial zum Implementieren von Experience Cloud in Websites mit Tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=de){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+**Beispielfragen**
 
+{{sample-questions}}
 
-## Über die Zertifizierungsprüfung
+[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -154,10 +187,27 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 
 Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? Email `certif@adobe.com`
+Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+

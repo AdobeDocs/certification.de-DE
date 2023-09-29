@@ -1,24 +1,57 @@
 ---
 title: Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie als Adobe Business Practitioner-Experte zertifiziert werden in [!DNL Adobe Analytics]
+description: Erfahren Sie, wie Sie als [!DNL Adobe Analytics] Geschäftspraktiker-Experte
 solution: Analytics
 product: Analytics
 role: User
 badge: label="Prüfung AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 14%
+source-wordcount: '883'
+ht-degree: 17%
 
 ---
 
 # Journey für die Zertifizierung [!DNL Adobe Analytics] Geschäftspraktiker-Experte
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Analytics] Geschäftspraktiker-Experte.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* **Ebene:** Expert (1-3 Jahre Erfahrung)
+* **Übergeben der Punktzahl:** 50.31.50
+* **Zeit:** 120 Minuten
+* **Versand:** Online verarbeitet (Kamerazugriff erforderlich)
+* **Verfügbare Sprachen:** Englisch, Japanisch
+* **Kosten:** 225 $ (global) / 150 $ (Indien)
+* **Test-ID:** AD0-E208 (Englisch), AD0-E208-J (Japanisch)
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Digital Marketing-Experten
+* Geschäftsanalysten
+* Unternehmensberater
+* Datenanalysten
+* Webanalysten
+* Digitale Analysten
+* Medien-/Marketing-Analysten
+* Produkteigentümer und -manager
+* UI-Analysten
+* Konversions-/Optimierungsspezialisten
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über Folgendes verfügen:
 
@@ -34,7 +67,7 @@ Sie sollten über Folgendes verfügen:
 * Grundlegendes dazu, wie digitale Analysen Daten filtern/strukturieren
 * Ein Bewusstsein für die Integration von [!DNL Adobe Analytics] mit anderen Adobe-Lösungen
 
-### Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sein:
+Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sein:
 
 * FTP-Client
 * Aktuell [!DNL Adobe Analytics] Workspace-Funktionen und andere Berichtsoptionen außerhalb von Workspace (z. B. Projekte planen und Berichte planen)
@@ -46,50 +79,19 @@ Sie sollten über Folgendes verfügen:
 * Adobe Help Center
 * Datenexportoptionen (z. B. Rechtsklick zum Exportieren, .csv-Download, Daten-Feeds, Data Warehouse-Extraktion)
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* Digital Marketing-Experten
-* Geschäftsanalysten
-* Unternehmensberater
-* Datenanalysten
-* Webanalysten
-* Digitale Analysten
-* Medien-/Marketing-Analysten
-* Produkteigentümer und -manager
-* UI-Analysten
-* Konversions-/Optimierungsspezialisten
-
-**Prüfungsdetails:**
-
-* **Ebene:** Expert (1-3 Jahre Erfahrung)
-* **Übergeben der Punktzahl:** 50.31.50
-* **Zeit:** 120 Minuten
-* **Versand:** Online verarbeitet (Kamerazugriff erforderlich) oder > Testcenter bearbeitet
-* **Verfügbare Sprachen:** englisch
-* **Kosten:** 225 $ (global) / 150 $ (Indien)
-* **Test-ID:** AD0-E208
-
-**Eigenbewertung der Bereitschaft**
-
-Führen Sie die [Online-Bereitstellungsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"} , um zu sehen, ob Ihr aktuelles Erlebnis mit der empfohlenen Mindestqualifikation für Kandidaten übereinstimmt.
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Grundlegendes zu Analytics im Adobe Experience Cloud-Ökosystem (10 %)
+**Abschnitt 1: Grundlegendes zu Analytics im Adobe Experience Cloud-Ökosystem (10 %)**
 
 * Verwenden der Adobe Experience Cloud ID
 * Adobe Launch-Kenntnisse demonstrieren
 * Verstehen geblicher Integrationen im gesamten Adobe Experience Cloud-Ökosystem
 
-Abschnitt 2: Berichterstattung und Dashboards für Projekte (30%)
+**Abschnitt 2: Berichterstattung und Dashboards für Projekte (30%)**
 
 * Erwägen Sie die Vorteile der Verwendung eines Reporting-Tools, das auf einem bestimmten Szenario basiert
 * Fallout- und Flussvisualisierung vergleichen und geeignete Variablentypen für die Berichterstellung
@@ -101,7 +103,7 @@ Abschnitt 2: Berichterstattung und Dashboards für Projekte (30%)
 * Legen Sie bei einem Szenario das geeignete Element fest, das verwendet werden soll
 * Anwenden des Prozesses zum Erstellen, Konfigurieren und Verwenden mobiler Scorecards
 
-Abschnitt 3: Segmentierung und berechnete Metriken (22%)
+**Abschnitt 3: Segmentierung und berechnete Metriken (22%)**
 
 * Ermitteln, wie Segmente entwickelt und konfiguriert werden
 * Anwenden des Prozesses zum Freigeben von Segmenten für andere in der Organisation
@@ -109,14 +111,14 @@ Abschnitt 3: Segmentierung und berechnete Metriken (22%)
 * Segmente auf Projekte und Komponenten anwenden
 * Anwenden des Prozesses zum Generieren berechneter und/oder segmentierter Metriken
 
-Abschnitt 4: Allgemeine Kenntnisse über Tools und Fehlerbehebung (12 %)
+**Abschnitt 4: Allgemeine Kenntnisse über Tools und Fehlerbehebung (12 %)**
 
 * Berichte analysieren und Probleme mit der Datenqualität identifizieren
 * Definieren verschiedener Typen von Dimensionen und Parametern, die in vorhanden sind [!DNL Adobe Analytics] (eVars, Props und Ereignisse)
 * Ermitteln, wie Daten in und aus [!DNL Adobe Analytics]
 * Identifizieren von Informationen aus Marketing-URLs
 
-Abschnitt 5: Verwaltung (10%)
+**Abschnitt 5: Verwaltung (10%)**
 
 * Wenden Sie den Prozess an, um die [!UICONTROL Marketingkanal] Berichte mit [!UICONTROL Marketingkanal] Verarbeitungsregeln
 * Anwenden des Prozesses zum Konfigurieren von Classification Importer und Rule Builder
@@ -124,11 +126,33 @@ Abschnitt 5: Verwaltung (10%)
 * Verwenden Sie die [!UICONTROL Daten-Feed] Administrator-Benutzeroberfläche
 * Grundlagen zur Data Governance
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+### Bereitschaftsfragebogen
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{readiness}}
+
+[Nehmen Sie den Online-Bereitschaftsfragebogen](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
+
+<br>
+
+## Zertifizierungen {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Geschäftsanalyse**
 
@@ -161,19 +185,31 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Häufig gestellte Fragen](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
 * [Classification Rule Builder-Workflow](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=de){target="_blank"}
 
->[!TAB Zertifizieren]
-
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn der Proktor die Prüfung nicht mit den gleichen Informationen oder einer Inkongruenz beendet, muss er den Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.
-
-## Einen Praxistest durchführen
+**Einen Praxistest durchführen**
 
 {{practice-test}}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -197,7 +233,23 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 [Japanische Anweisungen für die Planung](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

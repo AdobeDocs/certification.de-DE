@@ -6,18 +6,48 @@ product: Target
 role: Data Architect
 badge: label="Prüfung AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '917'
-ht-degree: 18%
+source-wordcount: '841'
+ht-degree: 21%
 
 ---
 
 # Journey für die Zertifizierung [!DNL Adobe Target] Architekturmeister
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Architekturmeister.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Stufe: Master (3-5 Jahre Erfahrung)
+* Übergeben der Punktzahl: 32/50
+* Zeit: 100 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E409
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Entwickler/Architekt zur Optimierung der Konversionsrate
+* Personalisierungsingenieur/Architekt
+* Architekten digitaler Lösungen
+* Berater für digitale Transformation
+* Lead zur Erlebnisoptimierung
+* Optimierungs-Manager
+* Online-Kampagnenmanager
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über Folgendes verfügen:
 
@@ -50,67 +80,47 @@ Umgebungen:
 * AMS-gehostete Umgebung
 * Adobe I/O Runtime
 
->[!BEGINTABS]
+<br>
 
->[!TAB Bereit]
+### Prüfungsziele und -umfang {#exam-objectives}
 
-**Vorgesehene Zielgruppe:**
+{{exam-objectives}}
 
-* Entwickler/Architekt zur Optimierung der Konversionsrate
-* Personalisierungsingenieur/Architekt
-* Architekten digitaler Lösungen
-* Berater für digitale Transformation
-* Lead zur Erlebnisoptimierung
-* Optimierungs-Manager
-* Online-Kampagnenmanager
-
-**Prüfungsdetails:**
-
-* Stufe: Master (3-5 Jahre Erfahrung)
-* Übergeben der Punktzahl: 32/50
-* Zeit: 100 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E409
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: [!DNL Adobe Target] Grundlagen (13%)
+**Abschnitt 1: [!DNL Adobe Target] Grundlagen (13%)**
 
 * Identifizieren Sie die geeignete [!DNL Adobe Target] Verwendung für ein bestimmtes Szenario
 * Die grundlegenden Technologien eines [!DNL Adobe Target] Implementierung
 
-Abschnitt 2: Integration in [!DNL Adobe Target] (18%)
+**Abschnitt 2: Integration in [!DNL Adobe Target] (18%)**
 
 * Anwenden der Integration [!DNL Adobe Target] mit Adobe Analytics (A4T)
 * Anwenden der Integration [!DNL Adobe Target] zu Adobe Experience Manager
 * Integration mit Adobe Experience Cloud-Lösungen und Adobe Experience Platform-Lösungen beschreiben
 * Integration mit Adobe Experience Cloud-Zielgruppen beschreiben
 
-Abschnitt 3: [!DNL Adobe Target] Verwaltung und Politikgestaltung (6 %)
+**Abschnitt 3: [!DNL Adobe Target] Verwaltung und Politikgestaltung (6 %)**
 
 * Definieren eines fortlaufenden [!DNL Adobe Target] Implementierungsstrategie und Systemsteuerung
 * Anwendung des Prozesses und der Best Practices zur Verwaltung von Benutzern
 * Beschreiben Sie die Verwaltungsaspekte des Implementierungs-Setups
 
-Abschnitt 4: [!DNL Adobe Target] und unterstützte Touchpoints (6 %)
+**Abschnitt 4: [!DNL Adobe Target] und unterstützte Touchpoints (6 %)**
 
 * Clientseitige Implementierung der Bereitstellung beschreiben
 * Implementierung der serverseitigen Bereitstellung beschreiben
 * Implementierungsanforderungen für Mobilgeräte, E-Mail-Targeting und APIs beschreiben
 
-Abschnitt 5: Nutzung [!DNL Adobe Target] Empfehlungen (11%)
+**Abschnitt 5: Nutzung [!DNL Adobe Target] Empfehlungen (11%)**
 
 * Darstellung von Empfehlungen, Katalogen und Kriterien
 * Anwenden des Prozesses zur Konfiguration von Target-Empfehlungen
 
-Abschnitt 6: Architektur, Design und Implementierung [!DNL Adobe Target] (18%)
+**Abschnitt 6: Architektur, Design und Implementierung [!DNL Adobe Target] (18%)**
 
 * Wählen Sie die richtige Target-Anforderungsimplementierung (Global, Auftragsbestätigung, Hybrid) aus, bewerten und entwerfen Sie eine [!DNL Adobe Target] Implementierung
 * Beschreiben Sie die Implementierung von [!DNL Adobe Target] in nativen mobilen Apps
 
-Abschnitt 7: Fehlerbehebung (28 %)
+**Abschnitt 7: Fehlerbehebung (28 %)**
 
 * Fehlerbehebung bei Mbox-Fehlern
 * Fehlerbehebung bei Target-Anforderungs- und -Antwortfehlern
@@ -118,11 +128,25 @@ Abschnitt 7: Fehlerbehebung (28 %)
 * Integrationsfehler verstehen
 * Fehlerbehebung [!DNL Adobe Target] Recommendations-Fehler
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+## Zertifizierungen {#how-to-get-certified}
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Bereich 1**
 
@@ -168,22 +192,33 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 7**
 
-[Aktivitäts-QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-[Fehlerbehebung bei der Inhaltsbereitstellung](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
-[Design-FAQs](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
-[Häufig gestellte Fragen zu Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-[Protokollierung von Adobe Analytics for Target (A4T) im Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
+* [Aktivitäts-QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [Fehlerbehebung bei der Inhaltsbereitstellung](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
+* [Häufig gestellte Fragen: Entwürfe](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
+* [Recommendations-FAQs](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
+* [Protokollierung von Adobe Analytics for Target (A4T) im Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
 
++++
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+++ Schritt 3: Test &amp; Test für Prüfungen planen
 
-**Nachdem Sie sich erfolgreich angemeldet haben, können Sie über die folgenden Links direkt darauf zugreifen.**
+{{schedule-and-pay}}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -196,9 +231,25 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**Fragen**
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
+
+## Fragen
 
 Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

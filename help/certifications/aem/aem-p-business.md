@@ -7,48 +7,24 @@ role: User
 badge: label="Prüfung AD0-E126" type="positive"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 21%
+source-wordcount: '686'
+ht-degree: 26%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Experience Manager] Geschäftspraktiker/innen
 
-Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager] Business Practitioner Professional.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
 
-Sie sollten über Folgendes verfügen:
+{{exam-description}}
 
-* Mindestens 0-12 Monate Erfahrung bei der Verwendung und Konfiguration von Adobe Cloud Manager
-* Mindestens 0-12 Monate Erfahrung mit AEM Funktionen, die erforderlich sind, um Entwickler für die Suche nach Geschäftslösungen zu begeistern
-* Mindestens 0-12 Monate Erfahrung bei der Konfiguration, Implementierung und Verwaltung von Aufgaben für die kontinuierliche Integration/kontinuierliche Bereitstellung
+<br>
 
-Wenn Sie es bequem machen, Adobe Managed Services und Adobe zu arbeiten [!DNL Experience Manager] as a Cloud Service und in der Lage sind, Adobe einzurichten [!DNL Experience Manager] Umgebungen und Infrastruktur.
-
-Zusätzlich sollten Sie Folgendes haben:
-
-* Die Möglichkeit, AEM Produkte zur Verwaltung von Inhalten zu verwenden, um digitale Erlebnisse zu fördern
-* Ein Verständnis der vorhandenen Module
-* Einblicke in Module wie Sites, Assets und Forms
-
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
-
->[!BEGINTABS]
-
->[!TAB Bereit]
-
-**Vorgesehene Zielgruppe:**
-
-* Lösungsberater
-* Kundenerlebnis
-* Produktinhaber für eine zu entwertende und implementierende Lösung, Geschäftsanalyst, Lösungsarchitektur
-
-**Prüfungsdetails:**
+### Prüfungsdetails {#exam-details}
 
 * Niveau: Professional (0-12 Monate Erfahrung)
 * Übergeben der Punktzahl: 33/50
@@ -58,22 +34,52 @@ Zusätzlich sollten Sie Folgendes haben:
 * Kosten: 125 USD (global) / 95 USD (Indien)
 * Prüfungs-ID: AD0-E126
 
-**Prüfungsziele und -umfang**
+<br>
 
-Abschnitt 1: Bildung (22%)
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Lösungsberater
+* Kundenerlebnis
+* Produktinhaber für eine zu entwertende und implementierende Lösung, Geschäftsanalyst, Lösungsarchitektur
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
+
+Sie sollten über Folgendes verfügen:
+
+* Mindestens 0-12 Monate Erfahrung bei der Verwendung und Konfiguration von Adobe Cloud Manager
+* Mindestens 0-12 Monate Erfahrung mit AEM Funktionen, die erforderlich sind, um Entwickler für die Suche nach Geschäftslösungen zu begeistern
+* Mindestens 0-12 Monate Erfahrung bei der Konfiguration, Implementierung und Verwaltung von Aufgaben für die kontinuierliche Integration/kontinuierliche Bereitstellung
+
+Sie sollten sich mit Adobe Managed Services und Adobe vertraut machen [!DNL Experience Manager] as a Cloud Service und in der Lage sind, Adobe einzurichten [!DNL Experience Manager] Umgebungen und Infrastruktur.
+
+Zusätzlich sollten Sie Folgendes haben:
+
+* Die Möglichkeit, AEM Produkte zur Verwaltung von Inhalten zu verwenden, um digitale Erlebnisse zu fördern
+* Ein Verständnis der vorhandenen Module
+* Einblicke in Module wie Sites, Assets und Forms
+
+<br>
+
+### Prüfungsziele und -umfang {#exam-objectives}
+
+{{exam-objectives}}
+
+**Abschnitt 1: Bildung (22%)**
 
 * AEM Funktionen
 * Beschreibung AEM Funktionen, die Geschäftsanforderungen entsprechen
 * Beschreiben Sie die Verfahrenskonzepte, die für die Durchführung von Schulungen für Inhaltseditoren erforderlich sind
 
-Abschnitt 2: Architektur (22%)
+**Abschnitt 2: Architektur (22%)**
 
 * Identifizieren Sie mithilfe der On-Premise- oder Adobe-gehosteten (Cloud-)Umgebung die für geschäftliche Anforderungen geeignete Informationsarchitektur.
 * Beschreiben Sie, wie AEM Verbindungen zu Drittanbieterdiensten herstellt.
 * Bestimmen, wo Rollen und Berechtigungen definiert werden sollen
 * Definieren Sie in einem Szenario verfügbare Caching-Ansätze
 
-Abschnitt 3: Geschäftsanalyse (43%)
+**Abschnitt 3: Geschäftsanalyse (43%)**
 
 * Identifizieren Sie in einem Szenario Standardmodule von AEM, die Geschäftsprobleme von Kunden beheben.
 * Identifizieren von Content-Management-Konzepten für AEM Module
@@ -82,22 +88,30 @@ Abschnitt 3: Geschäftsanalyse (43%)
 * Beschreiben Sie in einem Szenario einen korrekten Ansatz, um Geschäftsziele zu erreichen, während Sie innerhalb des Budgets und/oder des Umfangs bleiben.
 * Identifizieren von Möglichkeiten, Geschäftsziele mit dem Entwicklungsteam zu verbinden
 
-Abschnitt 4: Einrichtung und Implementierung (13%)
+**Abschnitt 4: Einrichtung und Implementierung (13%)**
 
 * Best AEM Practices zur Verwendung von Inhaltskomponenten identifizieren
 * Identifizieren Sie in einem Szenario die korrekte Implementierung einer Funktion.
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+## Zertifizierungen {#how-to-get-certified}
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{how-to-get-certified-intro}}
 
-**Beispielfragen**
++++ Schritt 1: Konto erstellen
 
-In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf die Sie bei der eigentlichen Prüfung stoßen werden. Es ist keine Anmeldung erforderlich. Die Ergebnisse der Beispielfragen werden nicht gespeichert und prognostizieren keine tatsächlichen Testergebnisse.
+{{create-your-account}}
 
-[Siehe Beispielfragen](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Bildung**
 
@@ -138,16 +152,35 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 * [Integration mit Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html?lang=de){target="_blank"}
 * [AEM [!DNL Sites] Videos und Übungen](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=de){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+**Beispielfragen**
 
+{{sample-questions}}
 
-## Über die Zertifizierungsprüfung
+[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
+
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -160,7 +193,23 @@ In den Beispielfragen können Sie die Art und das Format der Elemente sehen, auf
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

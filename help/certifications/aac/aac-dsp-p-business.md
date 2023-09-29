@@ -7,40 +7,36 @@ role: User
 badge: label="Prüfung AD0-E502" type="positive"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '539'
 ht-degree: 0%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Advertising DSP] Geschäftspraktiker/innen
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Advertising DSP] Geschäftspraktiker.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
 
-Sie sollten über Folgendes verfügen:
+{{exam-description}}
 
-* 6 Monate Erfahrung mit [!DNL Adobe Advertising]
-* Erfahrung in der Planung und/oder Messung von wichtigen Leistungsindikatoren bei der Medienkauf-Software
+<br>
 
-Kenntnis der folgenden Tools und Technologien:
+### Prüfungsdetails {#exam-details}
 
-* Ad-Test-/Debugging-Software (VAST INSPECTOR, Chrome-Entwicklertools)
-* Analytics-Tools ([!DNL Adobe Analytics], Google Analytics)
-* Tagging-Software von Drittanbietern (Sizmek, Google Tag Manager)
-* Tools zur Medienqualität von Drittanbietern (IAS, MOAT)
-* Wichtige Browser
-* Anzeigenaustausch, SSPs und DMPs
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 44/69
+* Zeit: 138 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch
+* Kosten: 125 USD (global) / 95 USD (Indien)
+* Prüfungs-ID: AD0-E502
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
-
->[!TAB Bereit]
+### Vorgesehene Zielgruppe {#intended-audience}
 
 **Vorgesehene Zielgruppe:**
 
@@ -50,19 +46,31 @@ Kenntnis der folgenden Tools und Technologien:
 * Kampagnenleiter
 * Medienabnehmer
 
-**Prüfungsdetails:**
+<br>
 
-* Niveau: Professional (0-12 Monate Erfahrung)
-* Übergeben der Punktzahl: 44/69
-* Zeit: 138 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 125 USD (global) / 95 USD (Indien)
-* Prüfungs-ID: AD0-E502
+### Minimales Erlebnis {#minimum-experience}
 
-**Prüfungsziele und -umfang**
+Sie sollten über Folgendes verfügen:
 
-Abschnitt 1: Einrichten von Kampagnen (42%)
+* 6 Monate Erfahrung mit [!DNL Adobe Advertising]
+* Erfahrung in der Planung und/oder Messung von wichtigen Leistungsindikatoren bei der Medienkauf-Software
+
+Sie sollten auch mit den folgenden Tools und Technologien vertraut sein:
+
+* Ad-Test-/Debugging-Software (VAST INSPECTOR, Chrome-Entwicklertools)
+* Analytics-Tools ([!DNL Adobe Analytics], Google Analytics)
+* Tagging-Software von Drittanbietern (Sizmek, Google Tag Manager)
+* Tools zur Medienqualität von Drittanbietern (IAS, MOAT)
+* Wichtige Browser
+* Anzeigenaustausch, SSPs und DMPs
+
+<br>
+
+### Prüfungsziele und -umfang {#exam-objectives}
+
+{{exam-objectives}}
+
+**Abschnitt 1: Einrichten von Kampagnen (42%)**
 
 * Legen Sie anhand der Anforderungen einer Kampagne die Strategie für diese Kampagne fest.
 * Erstellen Sie für ein Szenario eine neue Kampagne.
@@ -72,14 +80,14 @@ Abschnitt 1: Einrichten von Kampagnen (42%)
 * In einem Szenario können Sie eine Kampagne duplizieren und bearbeiten
 * Anwenden von Verfahrenskonzepten, die zum Einrichten von privaten und On-Demand-Lagerbeständen für eine Kampagne erforderlich sind
 
-Abschnitt 2: Ausführen und Optimieren von Kampagnen (22%)
+**Abschnitt 2: Ausführen und Optimieren von Kampagnen (22%)**
 
 * Anwenden von Verfahrenskonzepten, um sicherzustellen, dass Kampagnen ordnungsgemäß ausgeführt werden
 * Anwenden von Verfahrenskonzepten zur Optimierung einer Kampagne
 * Anwenden von Verfahrenskonzepten zur Fehlerbehebung in einer Kampagne
 * Für ein Szenario können Sie Integrationen mit In-Platform-Lösungen verwalten.
 
-Abschnitt 3: Berichterstattung und Analyse (26%)
+**Abschnitt 3: Berichterstattung und Analyse (26%)**
 
 * Bei einem Szenario lesen Sie Daten innerhalb der Plattform
 * Erstellen und lesen Sie in einem Szenario benutzerdefinierte Berichte
@@ -87,19 +95,32 @@ Abschnitt 3: Berichterstattung und Analyse (26%)
 * Auswerten der Leistung einer Kampagne in einem Szenario
 * Anwenden von Verfahrenskonzepten für die Zuweisung der Leistung zu einer Kampagne
 
-Abschnitt 4: Bereitstellen von Empfehlungen für Kampagnen (10%)
+**Abschnitt 4: Bereitstellen von Empfehlungen für Kampagnen (10%)**
 
 * In einem Szenario können Sie den Kunden auf der Basis einer Kampagne Aktualisierungen bereitstellen.
 * Passen Sie bei einem Szenario die Kampagnenstrategie auf Grundlage der Kampagnenleistung an.
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+## Zertifizierungen {#how-to-get-certified}
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Einrichten von Kampagnen**
-
 
 * [Über Zielgruppen-Management in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
 * [Übersicht über die Inventarfunktionen in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
@@ -123,15 +144,27 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [How [!DNL Advertising] DSP optimiert Ihre Kampagnen](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
 * [Über die Anzeigenverwaltung in [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
 
->[!TAB Zertifizieren]
++++
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
+<br>
 
-## Über die Zertifizierungsprüfung
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -144,7 +177,23 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 

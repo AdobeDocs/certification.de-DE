@@ -7,18 +7,45 @@ role: User
 badge: label="Prüfung AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1238'
+source-wordcount: '1104'
 ht-degree: 1%
 
 ---
 
 # Journey für die Zertifizierung [!DNL Adobe Target] Geschäftspraktiker-Experte
 
-Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Geschäftspraktiker-Experte.
+{{intro}}
 
-## Minimales Erlebnis
+## Prüfbeschreibung {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Ebene: Expert (1-3 Jahre Erfahrung)
+* Übergeben der Punktzahl: 46/68
+* Zeit: 136 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Verfügbare Sprachen: Englisch, Japanisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E406 (Englisch), AD0-E406-J (Japanisch)
+
+<br>
+
+### Vorgesehene Zielgruppe {#intended-audience}
+
+* Optimierung
+* Personalisierung
+* Analysen
+* Digital- und Produktmarketing
+
+<br>
+
+### Minimales Erlebnis {#minimum-experience}
 
 Sie sollten über Folgendes verfügen:
 
@@ -66,34 +93,13 @@ Umgebungen:
 * Verwendung des Ziels für Einzelseitenanwendungen
 * E-Mail
 
->[!NOTE]
->
->Ihr Zertifikat ist ab dem Tag Ihres Bestehens für zwei Jahre gültig. Es wird empfohlen, die neuere Version nach Möglichkeit zu verwenden, da sie neuere Produktfunktionen abdeckt.
+<br>
 
->[!BEGINTABS]
+### Prüfungsziele und -umfang {#exam-objectives}
 
->[!TAB Bereit]
+{{exam-objectives}}
 
-**Vorgesehene Zielgruppe:**
-
-* Optimierung
-* Personalisierung
-* Analysen
-* Digital- und Produktmarketing
-
-**Prüfungsdetails:**
-
-* Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 46/68
-* Zeit: 136 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich) oder Testcenter erstellt
-* Verfügbare Sprachen: Englisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E406
-
-**Prüfungsziele und -umfang**
-
-Abschnitt 1: Planung und Strategie (31%)
+**Abschnitt 1: Planung und Strategie (31%)**
 
 * Identifizieren von Geschäfts-KPIs und deren erfolgreiche Umsetzung in Optimierungsziele angesichts der wichtigsten Geschäftsanforderungen
 * Identifizieren von Optimierungsmöglichkeiten basierend auf Geschäfts-KPIs und Datenanalyse
@@ -105,7 +111,7 @@ Abschnitt 1: Planung und Strategie (31%)
 * Anforderungen an Zielgruppen bewerten
 * Bestimmen Sie die entsprechenden Analytics-Berichtsquellen (d. h. Target oder Adobe Analytics).
 
-Abschnitt 2: Konfiguration, Ausführung und Verwaltung (42%)
+**Abschnitt 2: Konfiguration, Ausführung und Verwaltung (42%)**
 
 * Die Verwendung von Form-Based Experience Composer und Visual Experience Composer erläutern
 * Anwenden von Verfahren zum Erstellen eines Erlebnisses mit VEC
@@ -122,7 +128,7 @@ Abschnitt 2: Konfiguration, Ausführung und Verwaltung (42%)
 * Anwenden von Verfahren zur Durchführung von Aktivitäts-QA
 * Anwenden von Verfahren zur Verwaltung von Aktivitäten und Zielgruppen in Target
 
-Abschnitt 3: Analyse und Berichterstellung (17%)
+**Abschnitt 3: Analyse und Berichterstellung (17%)**
 
 * Berichtseinstellungen definieren und auswerten, um die in einem Bericht angezeigten Elemente leichter festlegen zu können
 * Bewerten und Vergleichen [!DNL Adobe Target] Stichprobengrößenrechnereinstellungen bei der Planung von Target-Aktivitäten und der Validierung von Target-Aktivitätsberichten
@@ -131,17 +137,31 @@ Abschnitt 3: Analyse und Berichterstellung (17%)
 * Bewerten von Experience Performance-Berichten (MVT)
 * Bestimmen Sie die Gewinnervariante anhand der beobachteten Steigerung, der Konfidenzniveaus und der Geschäftsziele.
 
-Abschnitt 4: Fehlerbehebung (10 %)
+**Abschnitt 4: Fehlerbehebung (10 %)**
 
 * Probleme bei der Aktivitätsqualifizierung diagnostizieren
 * Verwenden Sie Browser-Debugging-Tools (einschließlich Experience Cloud Debugger) zur Überprüfung der Implementierung
 * Überprüfen von Metriken und Berichten
 
->[!TAB Vorbereiten]
+<br>
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+## Zertifizierungen {#how-to-get-certified}
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+{{how-to-get-certified-intro}}
+
++++ Schritt 1: Konto erstellen
+
+{{create-your-account}}
+
++++
+
+<br>
+
+++ Schritt 2: Vorbereitung auf Ihre Prüfung
+
+**Studienmaterial**
+
+{{study-materials-intro}}
 
 **Abschnitt 1: Planung und Strategie**
 
@@ -179,19 +199,33 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Fehlerbehebung bei Aktivitätsfehlern](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
 * [Fehlerbehebung bei Integrationsfehlern](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html){target="_blank"}
 
->[!TAB Zertifizieren]
+<br>
 
->[!IMPORTANT]
->
->Die folgenden Abschnitte und Links funktionieren **only**  nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Darüber hinaus wird Ihr Profilname im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} muss genau mit Ihrer Regierungskennung übereinstimmen. Wenn die Informationen nicht übereinstimmen oder es zu einer Inkongruenz kommt, beendet der Proktor die Prüfung und setzt voraus, dass Sie Ihren Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.*
-
-## Einen Praxistest durchführen
+**Einen Praxistest durchführen**
 
 {{practice-test}}
 
-## Über die Zertifizierungsprüfung
++++
+
+<br>
+
+++ Schritt 3: Test &amp; Test für Prüfungen planen
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Schritt 4: Vor und nach der Prüfung
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Schritt 5: Führen Sie die Prüfung durch.
 
 {{about-certification-exam}}
 
@@ -215,7 +249,23 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 [Japanische Anweisungen für die Planung](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
+++ Schritt 6: Verwalten von Abzeichen
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Verlängern der Zertifizierung
+
+{{renewing-intro}}
+
+<br>
 
 ## Fragen
 
