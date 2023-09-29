@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: 94ee089f972ff95b8ca75c08668e4b5cbacc77ea
 workflow-type: tm+mt
-source-wordcount: '2643'
+source-wordcount: '3097'
 ht-degree: 1%
 
 ---
@@ -243,6 +243,69 @@ Nein, Sie müssen nur die für die Lösung aufgelisteten Anforderungen erfüllen
 +++ Muss ich die Kurse überprüfen, oder kann ich einfach mit Bewertungen beginnen?
 
 Die Bewertungen basieren auf den Kursen in der Experience League und die Überprüfung wird die Bewerber vorbereiten, sie erfolgreich zu bestehen. Die wichtigste Voraussetzung für die Erneuerung ist jedoch, nur die Bewertungen zu bestehen.
+
++++
+
+>[!TAB  Gutscheine]
+
++++Wann laufen Prüfungsgutscheine aus? Wie lange sind sie gut?
+
+Adobe-Prüfgutscheine laufen 12 Monate nach dem Kauf ab. Gutscheine können nicht über ihr Ablaufdatum hinaus verlängert werden. Prüfungen müssen vor dem Ablaufdatum des Prüfscheins geplant, bezahlt und durchgeführt werden.
+
++++
+
++++Können Gutscheine für Gutschriften oder Rückerstattung zurückgegeben werden?
+
+_Alle Verkäufe sind endgültig._ Rückgaben und Rückerstattungen werden nicht akzeptiert. Adobe-Prüfgutscheine werden auf Prüfungsebene erworben, nicht für spezifische Prüfungen, und das bietet Flexibilität.
+
+* Beispiel: Wenn Sie 10 Prüfungsgutscheine auf Adobe Certified Expert-Ebene kaufen und verteilen, müssen Sie nicht vorher wissen, wer welche Prüfung auf Expertenniveau durchführen wird.
+* Administratoren können den Gutschein einem Benutzer zuweisen und prüfen, ob der Gutschein angezeigt, eingelöst oder die Prüfung geplant oder stattgefunden hat.
+
++++
+
++++ Welche Art von Zahlungen sind zulässig?
+
+Die Zahlung kann mit (allen größeren) Kreditkarten erfolgen. Zahlungen per Kreditkarte erfordern die Annahme eines Online-Click-Wrap-Vertrags. Die verschiedenen Zahlungsoptionen sind:
+
+* Wire, purchase order, or ACH: Erstellen Sie eine Bestellung im Xvoucher-System, die gedruckt und an Ihre zahlungspflichtige Kontoabteilung gesendet werden kann. Diese Bestellung wird nach Erhalt der Überweisung oder Kontrolle genehmigt.
+* Kreditkarte: Alle wichtigen Kreditkarten akzeptiert.
+* Xwallet: Dadurch wird der Bestellbetrag von Ihrem Xwallet-Pool abgezogen.
+
++++
+
++++ Gibt es eine Mindest- oder Höchstzahl an Gutscheinen, die ich kaufen kann?
+
+Nein, es gibt kein Minimum oder Maximum. Kundenkäufe sind nur auf der Grundlage der verfügbaren Mittel beschränkt, wie Kreditkartenlimit oder Kontostand für Überweisungen.
+
++++
+
++++ Wie lange dauert es, nach der Bestellung auf die Gutscheine zuzugreifen?
+
+Die Gutscheine sind sofort nach dem Kauf verfügbar, wenn sie per Kreditkarte oder Xwallet bezahlen.
+
+* Wenn Sie selbst kaufen, werden Gutscheincodes auf dem Bildschirm und in der E-Mail bereitgestellt.
+* Wenn Sie für andere Benutzer kaufen, melden Sie sich bei Ihrem Xvoucher-Konto an und verteilen Sie die Gutscheine von dort an Ihre Endbenutzer.
+* Bei Zahlung per Draht oder Bestellung werden die Gutscheinbestellungen freigegeben, sobald Xvoucher die Mittel erhalten hat.
+
+[Online-Hilfe](https://help.xvoucher.com/){target="_blank"}
+
++++
+
++++Wie greife ich auf mein Xvoucher-Konto zu?
+
+Melden Sie sich einfach bei Ihrem Konto an [here](https://www.xvoucher.com/Login.aspx){target="_blank"}.
+
++++
+
++++Wie greife ich auf meinen Adobe-Gutschein zu?
+
+Nachdem Ihnen ein Gutschein zugewiesen wurde, erhalten Sie eine E-Mail von support@xvoucher.com mit einem Gutscheincode und Anweisungen zum Einlösen des Gutscheins. Wenn Sie keine E-Mail erhalten haben, überprüfen Sie Ihren Spam-Ordner. Wenn Sie die E-Mail immer noch nicht finden können, können Sie sich bei Ihrem Xvoucher-Konto anmelden.
+
++++
+
++++Können Gutscheine für Gutschriften oder Rückerstattung zurückgegeben werden?
+
+Alle Verkäufe sind endgültig. Rückgaben und Rückerstattungen werden nicht akzeptiert. Adobe-Prüfungsgutscheine werden auf Prüfungsebene erworben, nicht für spezifische Prüfungen, was eine große Flexibilität bietet.
 
 +++
 
