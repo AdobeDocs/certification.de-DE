@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="Prüfung AD0-E907" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 9a00f28ae304479db525eb88677f0bfe582e2589
 workflow-type: tm+mt
-source-wordcount: '1639'
+source-wordcount: '1685'
 ht-degree: 0%
 
 ---
@@ -160,19 +160,19 @@ Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]un
 
 **Abschnitt 1: Grundlegende Systemverwaltung und -einrichtung**
 
-* [System-Setup: Gruppen und Benutzer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
+* [Verwalten von Gruppenstatus](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/manage-group-statuses.html){target="_blank"}
 * [Wie Zugriffsebenen und Berechtigungen zusammenarbeiten](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/legacy-access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
-* [Systemprojektstatus](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
+* [Gruppenadministratoren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-roles/group-administrators.html){target="_blank"}
 * [Kick-Start](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts.html){target="_blank"}
 * [Benutzerattribute zuordnen und neue Benutzer automatisch bereitstellen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/map-user-attributes.html){target="_blank"}
 * [Gruppen und Untergruppen erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/user-organization-groups.html){target="_blank"}
-* [Projekte bearbeiten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
-* [Erstellen von Routing-Regeln](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-routing-rules.html){target="_blank"}
+* [Verwalten von Benutzern in Adobe Admin Console](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html){target="_blank"}
+* [Pinnwände im Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html){target="_blank"}
 
-**Abschnitt 2: Aufnahme, benutzerdefinierte Formulare und Projektmanagement**
+**Abschnitt 2: Aufnahme, benutzerdefinierte Formulare und Projektstart**
 
 * [Globale Standardprojekteinstellungen konfigurieren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.html){target="_blank"}
-* [Meine Einstellungen konfigurieren](https://experienceleague.adobe.com/docs/workfront/using/basics/manage-account-profile/configure-user-profile/configure-my-settings.html){target="_blank"}
+* [Benutzerdefinierte Formulare - Form Designer](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/form-designer/form-designer-toc.html){target="_blank"}
 * [Hinzufügen errechneter Daten zu einem benutzerdefinierten Formular](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
 * [Anleitung zur Fehlerbehebung](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/error-handling-walkthrough.html){target="_blank"}
 * [Best Practice - Projektvorlagen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html){target="_blank"}
@@ -186,15 +186,16 @@ Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]un
 * [Priorisieren und Verwalten der Arbeit mit Portfolios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html){target="_blank"}
 * [Erstellen und Bearbeiten von Risiken für Projekte](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/create-edit-risks-on-projects.html){target="_blank"}
 * [Projektprioritäten verstehen und aktualisieren](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-priority.html){target="_blank"}
-* [Ansicht: Informationen zu Ausgangsthemen für Aufgaben und Projekte](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-originating-issue-details-tasks-projects.html){target="_blank"}
+* [Ressourcenverwaltung](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-management/get-started-resource-management.html){target="_blank"}
 * [Erstellen von Projekt-Grundlinien](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-projects/create-baselines.html){target="_blank"}
 * [Übersicht über Portfolio Optimizer](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html){target="_blank"}
 
 **Abschnitt 4: Dokumentenverwaltung und -nachweis**
 
+* [Testversand - Übersicht](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proofing-basics.html){target="_blank"}
 * [Unterschiede zwischen Dokumenten und Testsendungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html%3Flang%3Dzh-Hant){target="_blank"}
 * [Best Practice - Testversand](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html){target="_blank"}
-* [Projekte bearbeiten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
+* [Übersicht zur AEM Assets-Integration](https://experienceleague.adobe.com/docs/workfront/using/documents/wf-aem-integrations/wf-aem-essentials/aem-asset-integrations.html?lang=de){target="_blank"}
 * [Verknüpfen von Dokumenten mit externen Anwendungen](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}
 * [Erstellen von Dokumentordnern](https://experienceleague.adobe.com/docs/workfront/using/documents/organize-documents/create-documents-folder.html){target="_blank"}
 * [Konfigurieren der as a Cloud Service Integration von Experience Manager Assets](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html){target="_blank"}
@@ -205,18 +206,20 @@ Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]un
 * [Erstellen von Filtern mit benutzerdefinierten Platzhaltern](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html){target="_blank"}
 * [Ansicht: Anzeigen der übergeordneten/untergeordneten Beziehung in einer Aufgabe durch Einrücken der Aufgaben](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-parent-child-relationship-by-indenting-tasks-with-custom-view.html){target="_blank"}
 * [Berichte und Dashboards](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports-and-dashboards-overview.html){target="_blank"}
-* [Best Practices - Onboarding und Adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
+* [Textmodusberichte](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/text-mode/text-mode-resources.html){target="_blank"}
 * [Erstellen benutzerspezifischer Berichte](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
 * [Platzhalterfiltervariablen](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html){target="_blank"}
 
 **Abschnitt 6: Methode/Best Practices/Anwendungsfälle**
 
+* [Best Practices - Onboarding und Adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [Verfolgen des Fortschritts über die Projekt-Timeline](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
-* [Priorisieren Sie Ihre Arbeit in [!DNL Workfront] Startseite](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/prioritize-your-work-in-workfront-home.html){target="_blank"}
+* [Priorisieren Sie Ihre Arbeit in [!DNL Workfront] Startseite](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html){target="_blank"}
 * [Übersicht über Rechnungsstellung und Umsatz](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html){target="_blank"}
 * [Informationen zur Ressourcenauslastung anzeigen](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html){target="_blank"}
 * [Erstellen eines Genehmigungsprozesses für Arbeitselemente](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
 * [Übersicht über den automatisierten Workflow](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
+* [Pinnwände im Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html)
 * [Kalenderberichte - Übersicht](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calendars/calendar-reports-overview.html){target="_blank"}
 * [Verwalten von Projekten im Portfolio Optimizer](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/manage-projects-in-portfolio-optimizer.html){target="_blank"}
 
@@ -230,6 +233,7 @@ Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]un
 * [Best Practice - Ressourcen-Planer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
 * [&quot;Can Start&quot;-Übersicht für Aufgaben](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/can-start-task-overview.html){target="_blank"}
 * [Best Practices - Onboarding und Adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
+* [Übersicht über den Genehmigungsprozess](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html)
 
 +++
 
