@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 032e1a6a773a5ede4b74b4a34a3e8079990d8d91
+source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -127,7 +127,7 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 
 **Prüfungsdetails:**
 
-* Übergeben der Bewertung: 25/35
+* Übergeben der Bewertung: 27/35
 * Zeit: 70 Minuten
 * Kosten: KOSTENLOS/NICHT VERARBEITET
 * Versand: On-Demand
