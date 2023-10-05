@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie bei Adobe zertifiziert werden. Finden Sie all
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: 84e304f413b4c0b33159203b9c55eda3a9776ac1
 workflow-type: tm+mt
-source-wordcount: '1414'
+source-wordcount: '1471'
 ht-degree: 2%
 
 ---
@@ -37,11 +37,17 @@ Prüfung:
 
 >[!TAB Prüfung ablegen]
 
+**Ihre Adobe ID**
+
 Ihre [profile](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} Name im Adobe Credential Management System muss genau mit Ihrer Government ID übereinstimmen. Wenn der Proktor die Prüfung nicht mit den gleichen Informationen oder einer Inkongruenz beendet, muss er den Termin zusätzlich zur Zahlung einer zusätzlichen Prüfungsgebühr neu planen.
+
+**Abbruch und Umschuldung**
 
 Stornierungen und Umschulungen sind möglich, wenn sie vor 48 Stunden vor dem geplanten Prüfungstermin begonnen werden. Die Kandidaten müssen diese Ernennung selbst ändern.
 
 Weder Adobe Support noch Examity können Neuplanungs- und Löschanfragen verarbeiten. Für Stornierungen unter 48 Stunden wird zusätzlich zur Prüfungsgebühr eine Umbuchungsgebühr erhoben.
+
+**Nach der Prüfung**
 
 Nach Abschluss einer Prüfung erhalten Sie einen vorläufigen Test oder können die Prüfung nicht bestehen. Das Endergebnis kann bis zu 72 Stunden dauern, bis es ausgefüllt wird. Sie finden Ihren Ergebnis- und Bewertungsbericht auf der Registerkarte Verlauf im [Adobe Credential Manager](https://www.certmetrics.com/adobe){target="_blank"}.
 
@@ -49,9 +55,19 @@ Wenn Sie beim ersten Versuch keine Adobe-Zertifizierungsprüfung bestehen, müss
 
 >[!TAB Prüfungskosten]
 
-Dies sind die aktuellen Kosten für Zertifizierungsprüfungen.
+**Zertifizierungsprüfungspreise**
 
-![Prüfkosten-Abzeichen](/help/certifications/assets/exam_costs_new.png)
+| Adobe-Zertifikat | Preis (USD) | Indien Preis (USD) |
+| ------- | ------- | ------- |
+| Adobe Certified Professional | $125 | 95$ |
+| Adobe Certified Expert | $225 | $150 |
+| Adobe Certified Master | $225 | $150 |
+
+**Erneuerungspreise**
+
+Die meisten Zertifizierungsverlängerungen sind **kostenlos**. Für Zertifizierungen, für die keine kostenlose Verlängerung möglich ist, müssen Sie die vollständige Zertifizierungsprüfung ablegen, um Ihre Zertifizierung zu verlängern.
+
+**Bezahlen für Ihre Prüfung**
 
 Sie können Ihre Zertifizierungsprüfung mit Gutschein oder Kreditkarte bezahlen. Um einen Prüfgutschein zu erwerben, gehen Sie zu: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
