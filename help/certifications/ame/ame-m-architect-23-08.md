@@ -6,13 +6,13 @@ product: Marketo
 role: Data Architect
 badge: label="Prüfung AD0-E560" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
+source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '848'
 ht-degree: 1%
 
 ---
-
 
 # Zertifizierungs-Journey für Adobe [!DNL Marketo Engage] Architekturmeister
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Das ist das Neueste [!DNL Adobe Marketo Engage] Architekten-Master-Prüfung. Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](ame-m-architect.md)müssen Sie die Prüfung bis zum 31. Oktober 2023 abschließen.
+>Dies ist die neueste Adobe [!DNL Marketo Engage] Architekten-Master-Prüfung. Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](ame-m-architect.md)müssen Sie die Prüfung bis zum 31. Oktober 2023 abschließen.
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -30,7 +30,11 @@ ht-degree: 1%
 
 ### Prüfungsdetails {#exam-details}
 
-* Voraussetzung: Aktuelle (nicht abgelaufene) Adobe [!DNL Marketo Engage] Zertifizierung durch Geschäftspraktiker
+>[!IMPORTANT]
+>
+>Diese Zertifizierung ist Voraussetzung. Sie MÜSSEN über eine aktive (nicht abgelaufene) Adobe verfügen [!DNL Marketo Engage] Geschäftspraktiker **Expert** Zertifizierung für die Adobe [!DNL Marketo Engage] Architekten-Master-Prüfung.
+
+* Voraussetzung: Aktive (nicht abgelaufene) Adobe [!DNL Marketo Engage] Zertifizierung durch Geschäftspraktiker
 * Stufe: Master (3-5 Jahre Erfahrung)
 * Praktische Zertifizierung
 * Übergeben der Punktzahl: 30/50
@@ -209,6 +213,10 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 {{about-certification-exam}}
 
 ## Prüfung AD0-E560 planen oder durchführen
+
+>[!IMPORTANT]
+>
+>Diese Zertifizierung ist Voraussetzung. Sie MÜSSEN über eine aktive (nicht abgelaufene) Adobe verfügen [!DNL Marketo Engage] Geschäftspraktiker **Expert** Zertifizierung für die Adobe [!DNL Marketo Engage] Architekten-Master-Prüfung.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 

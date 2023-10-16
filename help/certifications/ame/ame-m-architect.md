@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Prüfung AD0-E556" type="neutral"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '886'
 ht-degree: 1%
 
 ---
@@ -31,6 +31,10 @@ Das Adobe Credential Program hat eine neue Adobe gestartet [!DNL Marketo Engage]
 <br>
 
 ### Prüfungsdetails {#exam-details}
+
+>[!IMPORTANT]
+>
+>Diese Zertifizierung ist Voraussetzung. Sie MÜSSEN über eine aktive (nicht abgelaufene) Adobe verfügen [!DNL Marketo Engage] Geschäftspraktiker **Expert** Zertifizierung für die Adobe [!DNL Marketo Engage] Architekten-Master-Prüfung.
 
 * Voraussetzung: Adobe Certified Expert - [!DNL Marketo Engage] Geschäftspraktiker
 * Stufe: Master (3-5 Jahre Erfahrung)
@@ -209,6 +213,10 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 {{about-certification-exam}}
 
 ## Prüfung AD0-E556 planen oder durchführen
+
+>[!IMPORTANT]
+>
+>Diese Zertifizierung ist Voraussetzung. Sie MÜSSEN über eine aktive (nicht abgelaufene) Adobe verfügen [!DNL Marketo Engage] Geschäftspraktiker **Expert** Zertifizierung für die Adobe [!DNL Marketo Engage] Architekten-Master-Prüfung.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
