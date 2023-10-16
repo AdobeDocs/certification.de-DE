@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1298'
+source-wordcount: '2061'
 ht-degree: 11%
 
 ---
@@ -147,11 +147,96 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 
 +++
 
-+++[!DNL Adobe Analytics] Geschäftspraktiker/innen
+## Anweisungen zur Verlängerung Ihrer Zertifizierung:
+
+* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
+* **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
+* **Schritt 3**: Führen Sie die Prüfung durch.
+
+### Bereit
+
+**Prüfungsdetails:**
+
+* Übergeben der Bewertung: 26/35
+* Zeit: 70 Minuten
+* Kosten: KOSTENLOS/NICHT VERARBEITET
+* Versand: On-Demand
+* Verfügbare Sprachen: Englisch
+* Voraussetzung: aktuelles (nicht abgelaufenes) Adobe Analytics Business Practitioner Professional-Zertifikat
+* Prüfungs-ID: AD5-E832
+
+**Anwendungsbereich und Ziele**
+
+Abschnitt 1: Geschäftsanalyse
+
+1.1 Für geschäftliche Anforderungen/Fragen sollten Sie die am besten geeignete Berichtsstrategie für eine Analyse 4% 1,2 Analysieren von Daten zur Beantwortung von Geschäftsfragen und Empfehlungen für neue Optimierungshypothesen 4% 1,3 Konversionstrichterzeichen identifizieren (als Konzept zur Vermittlung von Geschäftsanalysen) 4% 1,4 Interpretieren der Lösungs-Design-Referenz (SDR), um zu bestimmen, welche Daten in Berichten verfügbar sind 4% 1,5 Analyseberichte % 1,6 Ausreißer und Anomalien in Berichten untersuchen 4 %
+
+Abschnitt 2: Berichterstattung und Dashboarding für Projekte
+
+2.1 Beachten Sie die Vorteile der Verwendung eines Reporting-Tools auf der Basis eines bestimmten Szenarios 2% 2.2 Vergleich der Fallout- und Flussvisualisierung und geeignete Variablentypen für die Berichterstellung 4% 2.3 Wenden Sie den Vorgang auf die Projektzeitplanung an und Data Warehouse 2% 2.4 Wenden Sie den Vorgang an, um die Dashboards &quot;Projekte&quot; und &quot;Berichte und Analysen&quot;für verschiedene Benutzer und/oder Gruppen freizugeben (Freigabe geändert) 2% 2,5 Wenden Sie den Prozess an, um Warnhinweise 2% 2% 2.6 Anwenden des Prozesses zum Nachschlagen der Dimensionen/Komponenten (vordefiniert und benutzerdefiniert) 4 % 2,7 Anwenden des Prozesses zum Erstellen einer Visualisierung 6 % 2,8 Legen Sie bei einem Szenario das entsprechende Element fest, um 6 % 2,9 zu verwenden Anwenden des Prozesses zum Erstellen, Konfigurieren und Verwenden von mobilen Scorecards 2 %
+
+Abschnitt 3: Segmentierung und berechnete Metriken
+
+3.1 Ermitteln Sie, wie Sie Segmente mithilfe von Best Practices entwickeln und konfigurieren 6% 3.2 Wenden Sie den Prozess an, um Segmente für andere in der Organisation freizugeben 4% 3,3 Segmente vergleichen 4% 3,4 Segmente auf Projekte und Komponenten anwenden 4% 3,5 Wenden Sie den Prozess an, um berechnete und/oder segmentierte Metriken zu generieren 4%
+
+Abschnitt 4: Allgemeine Tool-Kenntnisse und Fehlerbehebung
+
+4.1 Berichte analysieren und ein Problem mit der Datenqualität im Vergleich zu einem Implementierungsproblem beheben 4.2 Definieren verschiedener Arten von Dimensionen und Parametern, die in Adobe Analytics vorhanden sind (eVars, Props und Ereignisse) 4% 4.3 Festlegen, wie Daten in Adobe Analytics integriert und aus entfernt werden 2% 4.4 Informationen aus Marketing-URLs identifizieren 2%
+
+Abschnitt 5: Verwaltung
+
+5.1 Wenden Sie den Prozess an, um die Marketing-Kanal-Berichte mit den Marketingkanal-Verarbeitungsregeln zu konfigurieren 2% 5.2 Wenden Sie den Prozess zur Konfiguration von Classification Importer und Rule Builder 2% 5.3 Wenden Sie den Prozess zur Konfiguration einer Virtual Report Suite auf Grundlage eines vorhandenen Segments an 2% 5.4 Verwenden Sie die Data Feed Manager Admin-Benutzeroberfläche 2% 5.5 Grundlegendes zu Data Governance 2%
+
+## Vorbereiten
+
+Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+
+Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+
+Bereich 1
+
+[Übersicht über die Beitragsanalyse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=de)
+[Übersicht über Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=de)
+[Konversionstrichter](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+[Einstiegsdimensionen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
+
+Bereich 2
+
+[Freigeben von Projekten](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=de)
+[Komponentenübersicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=de)
+[Warnhinweiserstellung](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+[Mobile Scorecard erstellen](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=de)
+
+Bereich 3
+
+[Segmentvergleich](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=de)
+[Metriken erstellen](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=de)
+[Verwenden von Dropdown-Filtern in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=de)
+[Segmente taggen](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+
+Bereich 4
+
+[Fehlerbehebung bei Datenspitzen und Datenrückgängen](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+[Benutzerspezifische Ereignisse](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=de)
+[PDF- oder CSV-Dateien herunterladen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=de)
+[Anfängerhandbuch zu URL-Parametern](https://www.semrush.com/blog/url-parameters/)
+
+Bereich 5
+
+[Verarbeitungsregeln für Marketing-Kanäle](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+[Übersicht über Klassifizierungen](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=de)
+[Virtual Report Suites erstellen](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=de)
+[Häufig gestellte Fragen zu Datenschutzbestimmungen](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
+
+## Zertifizierung verlängern
+
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den unten stehenden Link AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam (AD5-E832).
+
+* [AD5-E832 Adobe Analytics Business Practitioner Professional Renewal-Prüfung](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
 
 >[!NOTE]
 >
->In Kürze erneuern.
+>Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
 
 +++
 
