@@ -1,12 +1,13 @@
 ---
 title: Adobe Certification Restart Program
-description: Wechseln Sie von abgelaufen zu zertifiziert mit Adobe-Zertifizierung. Finden Sie heraus, ob Sie für dieses zeitlich begrenzte Programm infrage kommen.
+description: Gehen Sie von abgelaufen zu zertifiziert mit Adobe-Zertifizierungen. Finden Sie heraus, ob Sie für dieses zeitlich begrenzte Programm infrage kommen.
 role: Developer
 solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
+hidefromtoc: true
+source-git-commit: 3b78b716c20aa0319ac892947b22523dd607c522
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 9%
@@ -15,7 +16,7 @@ ht-degree: 9%
 
 # Starten Sie die Journey neu, indem Sie von abgelaufen zu zertifiziert wechseln.
 
-Das Programm zum Neustart von Adoben ermöglicht Personen mit förderfähigen abgelaufenen Werten. [!DNL Experience Cloud] Zertifizierungen zur kostenlosen Neuzertifizierung durch nicht verarbeitete, On-Demand-Bewertungen oder Prüfungen.
+Das Programm zum Neustart von Adobe ermöglicht Personen mit förderfähigen abgelaufenen Werten. [!DNL Experience Cloud] Zertifizierungen zur kostenlosen Neuzertifizierung durch nicht verarbeitete, On-Demand-Bewertungen oder Prüfungen.
 
 Die Zertifizierung ist eine wertvolle Ressource für Menschen, die wettbewerbsfähig bleiben möchten, und dieses Programm bietet die Möglichkeit, [!DNL Experience Cloud] in einer sich schnell wandelnden digitalen Landschaft.
 
@@ -25,14 +26,14 @@ Die Zertifizierung ist eine wertvolle Ressource für Menschen, die wettbewerbsf�
 
 ## Eignung
 
-Personen mit abgelaufenen Zertifikaten, die für dieses Programm infrage kommen, sollten vom Adobe Certification Program eine E-Mail mit dem Betreff &quot;Adobe wieder kostenlos zertifizieren lassen&quot;erhalten haben.
+Personen mit abgelaufenen Zertifikaten, die für dieses Programm infrage kommen, sollten vom Adobe-Zertifizierungsprogramm eine E-Mail mit dem Betreff &quot;Adobe Certified Awiederum for Free&quot;erhalten haben.
 
 Wenn Sie sich nicht sicher sind, ob Sie berechtigt sind, überprüfen Sie [here](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}.
 
 Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 
 * Sie muss zwischen dem 1. Januar 2020 und dem 23. April 2023 abgelaufen sein.
-* Es muss sich um eine Expertenebene oder eine Übergeordnete Ebene handeln.
+* Es muss sich um einen Experten- oder Master-Grad handeln.
 * Es muss eine aktuelle Prüfung vorliegen. (Wenn die Zertifizierung keine aktive Prüfung mehr hat, ist sie nicht für das Programm zum Neustart qualifiziert.)
 * Sie muss in der nachstehenden Liste der zugelassenen Bescheinigungen aufgeführt sein:
 
@@ -47,8 +48,8 @@ Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 | AD0-E103 | [!DNL Adobe Experience Manager Sites] Entwicklerexperte |
 | AD0-E116 | [!DNL Adobe Experience Manager Sites] Entwicklerexperte |
 | AD0-E106 | [!DNL Adobe Experience Manager] Entwickler-/Opt-in-Techniker |
-| AD0-E117 | [!DNL Adobe Experience Manager Sites] Architekten Übergeordnet |
-| AD0-E104 | [!DNL Adobe Experience Manager Sites] Architekten Übergeordnet |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Architekturmeister |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Architekturmeister |
 
 **[!DNL Adobe Analytics]**
 
@@ -56,15 +57,15 @@ Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 | ------- | ------- |
 | AD0-E201 | [!DNL Adobe Analytics] Entwicklerexperte |
 | AD0-E202 | [!DNL Adobe Analytics] Geschäftspraktiker-Experte |
-| AD0-E200 | [!DNL Adobe Analytics] Architekten Übergeordnet |
-| AD0-E207 | [!DNL Adobe Analytics] Architekten Übergeordnet |
+| AD0-E200 | [!DNL Adobe Analytics] Architekturmeister |
+| AD0-E207 | [!DNL Adobe Analytics] Architekturmeister |
 
 **Adobe Audience Manager**
 
 | Test-ID | Prüfungsname |
 | ------- | ------- |
-| AD0-E454 | [!DNL Adobe Audience Manager] Architekten Übergeordnet |
-| AD0-E452 | [!DNL Adobe Audience Manager] Architekten Übergeordnet |
+| AD0-E454 | [!DNL Adobe Audience Manager] Architekturmeister |
+| AD0-E452 | [!DNL Adobe Audience Manager] Architekturmeister |
 | AD0-E453 | [!DNL Adobe Audience Manager] Geschäftspraktiker-Experte |
 
 **Adobe Campaign Classic**
@@ -73,8 +74,8 @@ Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 | ------- | ------- |
 | AD0-E300 | Adobe [!DNL Campaign Classic] Sites-Business-Practice-Experte |
 | AD0-E314 | Adobe [!DNL Campaign Classic] Sites-Business-Practice-Experte |
-| AD0-E318 | Adobe [!DNL Campaign Classic] Architekten Übergeordnet |
-| AD0-E303 | Adobe [!DNL Campaign Classic] Architekten Übergeordnet |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Architekturmeister |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Architekturmeister |
 | AD0-E312 | Adobe [!DNL Campaign Classic] Entwicklerexperte |
 | AD0-E308 | Adobe [!DNL Campaign Classic] Entwicklerexperte |
 
@@ -98,7 +99,7 @@ Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 | Test-ID | Prüfungsname |
 | ------- | ------- |
 | AD0-E401 | [!DNL Adobe Target] Geschäftspraktiker-Experte |
-| AD0-E402 | [!DNL Adobe Target] Architekten Übergeordnet |
+| AD0-E402 | [!DNL Adobe Target] Architekturmeister |
 
 +++
 
@@ -108,16 +109,16 @@ Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 * **Schritt 2:** Suchen Sie Ihre Anwendung auf den folgenden Registerkarten und überprüfen Sie die Anforderungen an das Programm neu starten für Ihre Zertifizierung.
 * **Schritt 3:** Befolgen Sie die Anweisungen, um die erforderlichen Kursbewertungen oder Prüfungen aus den bereitgestellten Optionen abzuschließen. **vor dem Termin 20. Oktober 2023**.
 
-## Adobe-Zertifizierung - Programmpfade nach Anwendung neu starten
+## Adobe Certification Neustart von Programmpfaden nach Anwendung
 
 >[!BEGINTABS]
 
 >[!TAB Experience Manager]
 
-### Anleitung zum Neustart der Adobe [!DNL Experience Manager] Zertifizierung
+### Anleitung zum Neustart Ihrer Adobe [!DNL Experience Manager] Zertifizierung
 
 * **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
-* **Schritt 2**: Studiengang in der Experience League
+* **Schritt 2**: Studieren Sie die Kurse im Experience League
 * **Schritt 3**: Wählen Sie aus den folgenden Optionen aus.
 
   **Option A:**
@@ -128,13 +129,13 @@ Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 
   Wählen Sie zuerst **zwei Kurse** die Kursbewertungen mit einer Punktzahl von 80% oder höher abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
 
-  Zweitens: **Kundenreferenzformular senden** Validierung Ihrer kontinuierlichen Tätigkeit als Adobe zertifizierter Einzelner, der an einem Adobe Experience Cloud-Implementierungsprojekt beteiligt ist, In diesem Formular wird bestätigt, dass Sie in den letzten 12 Monaten an mindestens 100 Stunden nachweislicher Projektinteraktion teilgenommen haben.
+  Zweitens: **Kundenreferenzformular senden** Validierung Ihrer kontinuierlichen Arbeit als Adobe-zertifizierter Einzelleiter, der Verwaltung und/oder der Teilnahme an einem Adobe Experience Cloud-Implementierungsprojekt. In diesem Formular wird bestätigt, dass Sie in den letzten 12 Monaten an mindestens 100 Stunden nachweislicher Projektinteraktion teilgenommen haben.
 
   [Kundenreferenzformular für Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
 
   Sie werden vom Adobe Credential Team benachrichtigt, wenn Ihre Kundenreferenz überprüft wurde. Wenn Ihre Referenz nicht akzeptiert wird, können Sie sie erneut einreichen, bis Sie erfolgreich sind, sofern dies noch vor Ablauf der Zertifizierung der Fall ist.
 
-### Kurse und Kursbewertungen für Sachverständige und Übergeordnete:
+### Kurse und Kursbewertungen für Experten und Master:
 
 | Kurs | Kursbewertungen |
 | ------- | ------- |
@@ -152,7 +153,7 @@ Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 ### Anleitung zum Neustart der Adobe Analytics-Zertifizierung
 
 * **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
-* **Schritt 2**: Studiengang in der Experience League
+* **Schritt 2**: Studieren Sie die Kurse im Experience League
 * **Schritt 3**: Wählen Sie aus den folgenden Optionen aus.
 
   **Option A:**
@@ -163,13 +164,13 @@ Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 
   Wählen Sie zuerst **zwei Kurse** die Kursbewertungen mit einer Punktzahl von 80% oder höher abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
 
-  Zweitens: **Kundenreferenzformular senden** Validierung Ihrer kontinuierlichen Tätigkeit als Adobe zertifizierter Einzelner, der an einem Adobe Experience Cloud-Implementierungsprojekt beteiligt ist, In diesem Formular wird bestätigt, dass Sie in den letzten 12 Monaten an mindestens 100 Stunden nachweislicher Projektinteraktion teilgenommen haben.
+  Zweitens: **Kundenreferenzformular senden** Validierung Ihrer kontinuierlichen Arbeit als Adobe-zertifizierter Einzelleiter, der Verwaltung und/oder der Teilnahme an einem Adobe Experience Cloud-Implementierungsprojekt. In diesem Formular wird bestätigt, dass Sie in den letzten 12 Monaten an mindestens 100 Stunden nachweislicher Projektinteraktion teilgenommen haben.
 
   [Kundenreferenzformular für Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
   Sie werden vom Adobe Credential Team benachrichtigt, wenn Ihre Kundenreferenz überprüft wurde. Wenn Ihre Referenz nicht akzeptiert wird, können Sie sie erneut einreichen, bis Sie erfolgreich sind, sofern dies noch vor Ablauf der Zertifizierung der Fall ist.
 
-### Kurse und Kursbewertungen für Sachverständige und Übergeordnete:
+### Kurse und Kursbewertungen für Experten und Master:
 
 | Kurs | Kursbewertungen |
 | ------- | ------- |
@@ -185,7 +186,7 @@ Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 ### Anleitung zum Neustart der Adobe Target-Zertifizierung
 
 * **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
-* **Schritt 2**: Studiengang in der Experience League
+* **Schritt 2**: Studieren Sie die Kurse im Experience League
 * **Schritt 3**: Wählen Sie aus den folgenden Optionen aus.
 
   **Option A:**
@@ -196,13 +197,13 @@ Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 
   Wählen Sie zuerst **zwei Kurse** die Kursbewertungen mit einer Punktzahl von 80% oder höher abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
 
-  Zweitens: **Kundenreferenzformular senden** Validierung Ihrer kontinuierlichen Tätigkeit als Adobe zertifizierter Einzelner, der an einem Adobe Experience Cloud-Implementierungsprojekt beteiligt ist, In diesem Formular wird bestätigt, dass Sie in den letzten 12 Monaten an mindestens 100 Stunden nachweislicher Projektinteraktion teilgenommen haben.
+  Zweitens: **Kundenreferenzformular senden** Validierung Ihrer kontinuierlichen Arbeit als Adobe-zertifizierter Einzelleiter, der Verwaltung und/oder der Teilnahme an einem Adobe Experience Cloud-Implementierungsprojekt. In diesem Formular wird bestätigt, dass Sie in den letzten 12 Monaten an mindestens 100 Stunden nachweislicher Projektinteraktion teilgenommen haben.
 
   [Kundenreferenzformular für Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
   Sie werden vom Adobe Credential Team benachrichtigt, wenn Ihre Kundenreferenz überprüft wurde. Wenn Ihre Referenz nicht akzeptiert wird, können Sie sie erneut einreichen, bis Sie erfolgreich sind, sofern dies noch vor Ablauf der Zertifizierung der Fall ist.
 
-### Kurse und Kursbewertungen für Sachverständige und Übergeordnete:
+### Kurse und Kursbewertungen für Experten und Master:
 
 | Kurs | Kursbewertungen |
 | ------- | ------- |
@@ -260,7 +261,7 @@ Um zugelassen zu werden, muss Ihr Zertifikat **all** der folgenden Kriterien:
 * Überprüfen Sie in einem Szenario die Informationen zum Zielgruppenversand, um die geplanten Versandanforderungen sicherzustellen.
 * Ermitteln Sie die geeignete Vorgehensweise zur Validierung von offline eingehenden Dateien.
 * Ermitteln Sie bei einem Szenario die richtige Methode, um eine Qualitätssicherung für die ID-Synchronisierung durchzuführen
-* Bestimmen Sie die geeignete Methode zum Navigieren und Aktivieren über das Adobe-Audience Marketplace.
+* Bestimmen Sie die geeignete Methode zum Navigieren und Aktivieren über die Adobe-Audience Marketplace.
 
 **Abschnitt 5: Taxonomie (11%)**
 
@@ -276,7 +277,7 @@ Hier werden Ressourcen vorgeschlagen:
 
 * [Beispielprüfung](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] Produktdokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de){target="_blank"}
-* [Adobe-Support - [!DNL Experience Cloud] Zielgruppen](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
+* [Adobe-Unterstützung - [!DNL Experience Cloud] Zielgruppen](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * Informationen und Support für [[!DNL Experience Cloud] ](https://helpx.adobe.com/de/support/experience-cloud.html){target="_blank"}
 * [Experience League - [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
 
@@ -293,7 +294,7 @@ Die Adobe Audience Manager Business Practitioner Expert Restart Prüfung ADS-E82
 
 +++
 
-+++ ADS-E825 Adobe Audience Manager **Architekt** Prüfung zum Übergeordneten Neustart
++++ ADS-E825 Adobe Audience Manager **Architekt** Prüfung zum Master-Neustart
 
 **Anleitung zum Neustart der Zertifizierung:**
 
@@ -305,13 +306,13 @@ Die Adobe Audience Manager Business Practitioner Expert Restart Prüfung ADS-E82
 
 **Prüfungsdetails:**
 
-* Ebene: Übergeordnet (3-5 Jahre Erfahrung)
+* Stufe: Master (3-5 Jahre Erfahrung)
 * Übergeben der Punktzahl: 22/29
 * Zeit: 58 Minuten
 * Versand: On-Demand/nicht verarbeitet
 * Verfügbare Sprachen: Englisch
 * Kosten: KOSTENLOS
-* Prüfungs-ID: ADS-E825 - Adobe Audience Manager Architect Übergeordnet Resart
+* Prüfungs-ID: ADS-E825 - Adobe Audience Manager Architect Master Neustart
 
 **Anwendungsbereich und Ziele:**
 
@@ -383,7 +384,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 ### Zertifizierung neu starten
 
-Die Adobe Audience Manager Architect Übergeordnet Restart Prüfung ADS-E825 ist kostenlos, offen und nicht verarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Die Nichterfüllung kann dazu führen, dass Ihre Zertifizierung widerrufen wird.
+Die Adobe Audience Manager Architect Master Restart Prüfung ADS-E825 ist kostenlos, offen und nicht verarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Die Nichterfüllung kann dazu führen, dass Ihre Zertifizierung widerrufen wird.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -398,7 +399,7 @@ Die Adobe Audience Manager Architect Übergeordnet Restart Prüfung ADS-E825 ist
 
 ### Wählen Sie die entsprechende Prüfung anhand der Rolle aus, um Ihre Adobe Campaign-Zertifizierung neu zu starten.
 
-+++ADS-E821-Adobe **Campaign Standard-Entwickler** Prüfung zum Neustart durch Experten
++++ADS-E821 Adobe **Campaign Standard-Entwickler** Prüfung zum Neustart durch Experten
 
 **Anleitung zum Neustart der Zertifizierung:**
 
@@ -509,7 +510,7 @@ Die Adobe [!DNL Campaign Standard] Die Prüfung ADS-821 von Entwickler Expert Re
 
 +++
 
-+++ ADS-E822 Adobe **Campaign Standard Business Practice** Prüfung zum Neustart durch Experten
++++ADS-E822 Adobe **Campaign Standard Business Practice** Prüfung zum Neustart durch Experten
 
 **Anleitung zum Neustart der Zertifizierung:**
 
@@ -587,7 +588,7 @@ Die Adobe [!DNL Campaign Standard] Business Practitioner Expert Neustart Prüfun
 
 +++
 
-+++ADS-E823-Adobe **Campaign Classic** Prüfung durch Experten und/oder Übergeordnetes Neustarten
++++ADS-E823 Adobe **Campaign Classic** Prüfung zum erneuten Start durch Experten und/oder Master
 
 **Anleitung zum Neustart der Zertifizierung:**
 
@@ -599,13 +600,13 @@ Die Adobe [!DNL Campaign Standard] Business Practitioner Expert Neustart Prüfun
 
 **Prüfungsdetails:**
 
-* Stufe: Experte (1-3 Jahre Erfahrung) und Übergeordnet (3-5 Jahre Erfahrung)
+* Stufe: Expert (1-3 Jahre Erfahrung) und Master (3-5 Jahre Erfahrung)
 * Übergeben der Punktzahl: 42/55
 * Zeit: 110 Minuten
 * Versand: On-Demand/nicht verarbeitet
 * Verfügbare Sprachen: Englisch
 * Kosten: KOSTENLOS
-* Prüfungs-ID: ADS-E823 - Adobe [!DNL Campaign Classic] Expertenwissen und/oder Übergeordnetes Neustart
+* Prüfungs-ID: ADS-E823 - Adobe [!DNL Campaign Classic] Neustart von Experten und/oder Master
 
 **Anwendungsbereich und Ziele**
 
@@ -614,14 +615,14 @@ Abschnitt 1: Installation und Systemkonfiguration (23%)
 * Legen Sie bei einem Szenario fest, welche Optionen verwendet werden sollen (d. h. das Verschieben von Elementen von der Staging- zur Produktion).
 * Möglichkeit zur Verwendung von Paketen zur Migration zwischen Instanzen
 * Erläuterung der Auswirkungen der Einstellungen des Softwareverteilungs-Assistenten auf die Zustellbarkeit
-* Erläuterung der zugrunde liegenden Infrastruktur des für die Adobe verfügbaren Hosting-Modells [!DNL Campaign Classic] v8
+* Erläuterung der zugrunde liegenden Infrastruktur des für Adobe verfügbaren Hosting-Modells [!DNL Campaign Classic] v8
 * Beschreibung häufig verwendeter OOTB-Funktionen
-* Integration mit anderen Adoben erläutern [!DNL Experience Cloud] products
+* Integration mit anderen Adobe erläutern [!DNL Experience Cloud] products
 * Integration mithilfe standardmäßiger externer Konten erklären
 
 Abschnitt 2: Anpassung (18%)
 
-* Best Practices für die Verwendung von SQL-Funktionen in Adobe beschreiben [!DNL Campaign]
+* Best Practices für die Verwendung von SQL-Funktionen im Adobe beschreiben [!DNL Campaign]
 * Best Practices für die Entwicklung mit JavaScript in Adobe beschreiben [!DNL Campaign]
 * Bei einer Reihe von Anforderungen sollten Sie Best Practices auf ein Datenmodell anwenden
 * Beschreiben Sie die Anforderungen und Prozesse für das Zugriffsmanagement.
@@ -630,8 +631,8 @@ Abschnitt 2: Anpassung (18%)
 Abschnitt 3: Datenarchitektur (22%)
 
 * Identifizieren der Datenspeicherunterschiede in v8
-* Identifizieren Sie die integrierten Workflows, die die lokalen Daten mit Snowflake synchronisieren
-* Erfahren Sie, wann Staging-Tabellen im Vergleich zu Direktschreibungen in Snowflake verwendet werden
+* Identifizieren der integrierten Workflows, die die lokalen Daten mit Snowflake synchronisieren
+* Verwenden von Staging-Tabellen im Vergleich zu Direktschreibungen auf Snowflake
 * Identifizieren Sie die neuen API-Befehle bei der Stapelverarbeitung und wann/wie .
 * Erklären Sie bei einem Szenario, wie Sie benutzerdefinierte Schemas erstellen (wie Sie andere Schemas als Vorlage verwenden, Sys-Filter, Daten sperren, Links)
 * Erläuterung der Integration zwischen verschiedenen Lösungen und [!DNL Campaign] wie Adobe [!DNL Experience Platform] und [!DNL Journey Optimizer]
@@ -802,7 +803,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 **Abschnitt 5: Berichterstattung**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Artikel Best Practices für die Akquise festlegen)
-* [Experience League - Produktdokumentation für Marketo Engage](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (Berichterstellung, Leistungseinblicke, Bericht zur Programmleistung, Berichte bearbeiten, Programmmitgliedschaft)
+* [Experience League - Marketo Engage-Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (Berichterstellung, Leistungseinblicke, Bericht zur Programmleistung, Berichte bearbeiten, Programmmitgliedschaft)
 
 **Abschnitt 6: Best Practices**
 
