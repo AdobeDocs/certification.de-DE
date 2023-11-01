@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 6790d5bdc7a3a8f77463f917c169f2c202d1438b
+source-git-commit: ac78ed0e7e27acd7c206d23fe5dda80ff0435208
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 **Prüfungsdetails:**
 
-* Übergeben der Bewertung: 25/34
+* Übergeben der Punktzahl: 26/34
 * Zeit: 68 Minuten
 * Kosten: KOSTENLOS/NICHT VERARBEITET
 * Versand: On-Demand
@@ -239,7 +239,7 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 
 **Prüfungsdetails:**
 
-* Übergeben der Bewertung: 25/35
+* Übergeben der Bewertung: 27/35
 * Zeit: 70 Minuten
 * Kosten: KOSTENLOS/NICHT VERARBEITET
 * Versand: On-Demand
