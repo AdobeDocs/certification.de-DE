@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 93a9fd071d4a4564ae86a2ca15ac8d57b52b79e6
+source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
 workflow-type: tm+mt
-source-wordcount: '2462'
+source-wordcount: '2490'
 ht-degree: 2%
 
 ---
@@ -31,6 +31,10 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 >[!BEGINTABS]
 
 >[!TAB Professional]
+
+>[!NOTE]
+>
+>Die kontinuierliche Lernerneuerungsmethode für alle Adobe Commerce Professional-Zertifizierungen wird **eingestellt am 10. November 2023**. Für diese Zertifizierungen wird weiterhin eine kostenlose Verlängerung durch Erneuerungsprüfungen angeboten.
 
 ## Kostenlose Verlängerung des kontinuierlichen Lernens ist verfügbar für:
 

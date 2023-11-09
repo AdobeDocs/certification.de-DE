@@ -4,10 +4,10 @@ description: Informationen zur  [!DNL Experience Cloud] -Zertifizierung bei Adob
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: bc8d85db13a643ee737c5443d9124fc6492c4831
+source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 12%
+source-wordcount: '402'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ Erfahren Sie mehr über Zertifizierung bei Adobe und darüber, was eine Zertifiz
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
-Das Adobe-Zertifizierungsprogramm wurde entwickelt, um Ihnen beim Nachweis Ihrer Kenntnisse im Adobe zu helfen [!DNL Experience Cloud] Produkte. Mit der Zertifizierung als Adobe können Sie Ihr Fachwissen präsentieren und Kunden und Arbeitgeber gleichermaßen beeindrucken.
+Das Adobe Digital Experience Credential Programm wurde entwickelt, um Ihnen beim Nachweis Ihrer Kenntnisse im Adobe zu helfen. [!DNL Experience Cloud] Produkte. Mit der Zertifizierung als Adobe können Sie Ihr Fachwissen präsentieren und Kunden und Arbeitgeber gleichermaßen beeindrucken.
 
 Adobe [!DNL Experience Cloud] ist eine Suite digitaler Marketinglösungen, mit denen Unternehmen personalisierte Kundenerlebnisse über verschiedene Kanäle hinweg bereitstellen können, einschließlich Web, Mobile, E-Mail und Social Media. Adobe [!DNL Experience Cloud] umfasst eine Reihe von Produkten, wie Adobe [!DNL Real-Time CDP], ADOBE [!DNL Experience Manager], ADOBE [!DNL Commerce], ADOBE [!DNL Journey Optimizer], ADOBE [!DNL Customer Analytics]und mehr.
 
@@ -35,11 +35,11 @@ Adobe abrufen [!DNL Experience Cloud] -Zertifizierung bietet viele Vorteile:
 * **Freie Praxistests:** Adobe bietet kostenlose Praxisprüfungen, um sicherzustellen, dass Sie vollständig auf Ihre Zertifizierungsprüfung vorbereitet sind.
 * **Freie Zertifizierung:** Adobe-Zertifizierungen sind zwei Jahre gültig, und die meisten Zertifizierungen können kostenlos erneuert werden, indem entweder eine On-Demand-Prüfung ohne Verarbeitung durchgeführt oder eine Reihe kontinuierlicher Lernmaßnahmen durchgeführt wird.
 
-Das Adobe-Zertifizierungsprogramm ist für Fachkräfte in verschiedenen Bereichen konzipiert, darunter Entwickler, Geschäftsleute und Architekten. Ob Sie ein erfahrener Experte sind oder einfach nur anfangen, die Zertifizierung hilft Ihnen, Ihre Karriere voranzutreiben und dem Wettbewerb voraus zu bleiben.
+Das Adobe Digital Experience Credential Programm ist für Fachkräfte in verschiedenen Bereichen konzipiert, darunter Entwickler, Geschäftsleute und Architekten. Ob Sie ein erfahrener Experte sind oder einfach nur anfangen, die Zertifizierung hilft Ihnen, Ihre Karriere voranzutreiben und dem Wettbewerb voraus zu bleiben.
 
 ## Erste Schritte
 
-Erschließen Sie Ihr professionelles Potenzial noch heute, indem Sie sich mit dem Adobe-Zertifizierungsprogramm vertraut machen.
+Erschließen Sie Ihr professionelles Potenzial noch heute, indem Sie sich mit dem Adobe Digital Experience Credential Program vertraut machen.
 
 <a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Erste Schritte</span></a>
 

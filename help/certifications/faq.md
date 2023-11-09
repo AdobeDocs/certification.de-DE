@@ -1,20 +1,20 @@
 ---
 title: Häufig gestellte Fragen
-description: Erhalten Sie Antworten auf Fragen zum Adobe-Zertifizierungsprogramm. Erfahren Sie mehr über die Vorteile der Zertifizierung, wie Sie sich registrieren und wen Sie kontaktieren können.
+description: Erhalten Sie Antworten auf Fragen zum Adobe Digital Experience Credential Program. Erfahren Sie mehr über die Vorteile der Zertifizierung, wie Sie sich registrieren und wen Sie kontaktieren können.
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 8f1f4244c9184a1b99d29fc0b48e4ca9992264bd
+source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
 workflow-type: tm+mt
-source-wordcount: '2344'
-ht-degree: 1%
+source-wordcount: '2348'
+ht-degree: 0%
 
 ---
 
 # FAQ zur Adobe-Zertifizierung
 
-Weitere Informationen zum Adobe-Zertifizierungsprogramm finden Sie in den häufig gestellten Fragen (FAQ) unten.
+Weitere Informationen zum Adobe Digital Experience Credential-Programm finden Sie in den häufig gestellten Fragen (FAQ) unten.
 
 ![Banner](/help/certifications/assets/home_banner_narrow.png)
 
