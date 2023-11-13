@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 5d6ce2be3c7db142840cc67bc0f7054e25fff951
+source-git-commit: 5bd6a4adbb5bc4317af1a500c3216b056a5328f9
 workflow-type: tm+mt
-source-wordcount: '2067'
-ht-degree: 11%
+source-wordcount: '2098'
+ht-degree: 14%
 
 ---
 
@@ -33,6 +33,10 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 >[!TAB Professional]
 
 +++Adobe [!DNL Analytics] Entwickler Professional
+
+## Sie müssen über die folgende aktive Zertifizierung verfügen, um verlängert werden zu können:
+
+* Adobe [!DNL Analytics] Entwickler Professional
 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
@@ -102,7 +106,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 **Bereich 1**
 
 * [Cookies in Analytics](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html?lang=de)
-* [Hinzufügen von Datenelementen, Regeln und Bibliotheken](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
+* [Hinzufügen von Datenelementen, Regeln und Bibliotheken](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html?lang=de){target="_blank"}
 * [Fügen Sie den Einbettungs-Code hinzu](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html?lang=de){target="_blank"}
 
 **Bereich 2**
@@ -149,13 +153,17 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 
 +++Adobe [!DNL Analytics] Geschäftspraktiker/innen
 
+## Sie benötigen Folgendes: **active** Zertifizierung zur Verlängerung nach dieser Methode:
+
+* Adobe [!DNL Analytics] Geschäftspraktiker/innen
+
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
 * **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
 * **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
 * **Schritt 3**: Führen Sie die Prüfung durch.
 
-### Bereit
+## Bereit
 
 **Prüfungsdetails:**
 
@@ -171,23 +179,47 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 
 Abschnitt 1: Geschäftsanalyse
 
-1.1 Für geschäftliche Anforderungen/Fragen sollten Sie die am besten geeignete Berichtsstrategie für eine Analyse 4% 1,2 Analysieren von Daten zur Beantwortung von Geschäftsfragen und Empfehlungen für neue Optimierungshypothesen 4% 1,3 Konversionstrichterzeichen identifizieren (als Konzept zur Vermittlung von Geschäftsanalysen) 4% 1,4 Interpretieren der Lösungs-Design-Referenz (SDR), um zu bestimmen, welche Daten in Berichten verfügbar sind 4% 1,5 Analyseberichte % 1,6 Ausreißer und Anomalien in Berichten untersuchen 4 %
+* 1.1 Geben Sie bei geschäftlichen Anforderungen/Fragen die am besten geeignete Berichtsstrategie für eine Analyse an (4 %).
+* 1.2 Analysieren Sie die Daten, um geschäftliche Fragen zu beantworten, und empfehlen Sie neue Optimierungshypothesen mit 4 %
+* 1.3 Konversionstrichter identifizieren (als Konzept zum Verständnis der Geschäftsanalyse) 4 %
+* 1.4 Lösungs-Design-Referenz (Solution Design Reference, SDR) zur Bestimmung der verfügbaren Daten in Berichten 4 %
+* 1.5 Zusammenfassende Analyse der Berichtsdaten und Schlussfolgerungen 6 %
+* 1.6 Untersuchung von Ausreißern und Anomalien in Berichten 4%
 
 Abschnitt 2: Berichterstattung und Dashboarding für Projekte
 
-2.1 Beachten Sie die Vorteile der Verwendung eines Reporting-Tools auf der Basis eines bestimmten Szenarios 2% 2.2 Vergleich der Fallout- und Flussvisualisierung und geeignete Variablentypen für die Berichterstellung 4% 2.3 Wenden Sie den Vorgang auf die Projektzeitplanung an und Data Warehouse 2% 2.4 Wenden Sie den Vorgang an, um die Dashboards &quot;Projekte&quot; und &quot;Berichte und Analysen&quot;für verschiedene Benutzer und/oder Gruppen freizugeben (Freigabe geändert) 2% 2,5 Wenden Sie den Prozess an, um Warnhinweise 2% 2% 2.6 Anwenden des Prozesses zum Nachschlagen der Dimensionen/Komponenten (vordefiniert und benutzerdefiniert) 4 % 2,7 Anwenden des Prozesses zum Erstellen einer Visualisierung 6 % 2,8 Legen Sie bei einem Szenario das entsprechende Element fest, um 6 % 2,9 zu verwenden Anwenden des Prozesses zum Erstellen, Konfigurieren und Verwenden von mobilen Scorecards 2 %
+* 2.1 Nutzen Sie ein Reporting-Tool, das auf einem bestimmten Szenario basiert 2 %
+* 2.2 Fallout- und Flussvisualisierung vergleichen und geeignete Variablentypen für die Berichterstellung 4 %
+* 2.3 Planen Sie die Projekte, und Data Warehouse 2 %
+* 2.4 Wenden Sie den Prozess an, um die Dashboards &quot;Projekte&quot;und &quot;Berichte und Analysen&quot;für verschiedene Benutzer und/oder Gruppen freizugeben (Freigabe hat sich geändert) 2%
+* 2.5 Wenden Sie den Prozess an, um Warnhinweise auf 2 % festzulegen.
+* 2.6 Wenden Sie den Prozess an, um die Dimensionen/Komponenten zu suchen (vordefiniert und benutzerdefiniert) 4 %
+* 2.7 Wenden Sie den Prozess an, um eine Visualisierung zu erstellen 6 %
+* 2.8 Bei einem Szenario wird der geeignete Artikel für die Verwendung von 6 % bestimmt
+* 2.9 Wenden Sie den Prozess an, um mobile Scorecards zu erstellen, zu konfigurieren und zu verwenden 2 %
 
 Abschnitt 3: Segmentierung und berechnete Metriken
 
-3.1 Ermitteln Sie, wie Sie Segmente mithilfe von Best Practices entwickeln und konfigurieren 6% 3.2 Wenden Sie den Prozess an, um Segmente für andere in der Organisation freizugeben 4% 3,3 Segmente vergleichen 4% 3,4 Segmente auf Projekte und Komponenten anwenden 4% 3,5 Wenden Sie den Prozess an, um berechnete und/oder segmentierte Metriken zu generieren 4%
+* 3.1 Ermitteln der Entwicklung und Konfiguration von Segmenten mithilfe von Best Practices 6%
+* 3.2 Wenden Sie den Prozess an, um Segmente für andere in der Organisation freizugeben 4%
+* 3.3 Segmente vergleichen 4 %
+* 3.4 Segmente auf Projekte und Komponenten anwenden 4%
+* 3.5 Wenden Sie den Prozess an, um berechnete und/oder segmentierte Metriken zu generieren 4 %
 
 Abschnitt 4: Allgemeine Tool-Kenntnisse und Fehlerbehebung
 
-4.1 Berichte analysieren und ein Problem mit der Datenqualität im Vergleich zu einem Implementierungsproblem beheben 4.2 Definieren verschiedener Arten von Dimensionen und Parametern, die in Adobe Analytics vorhanden sind (eVars, Props und Ereignisse) 4% 4.3 Festlegen, wie Daten in Adobe Analytics integriert und aus entfernt werden 2% 4.4 Informationen aus Marketing-URLs identifizieren 2%
+* 4.1 Berichte analysieren und ein Problem mit der Datenqualität im Vergleich zu einem Implementierungsproblem unterscheiden 4 %
+* 4.2 Definieren verschiedener Arten von Dimensionen und Parametern, die in Adobe Analytics vorhanden sind (eVars, Props und Ereignisse) 4 %
+* 4.3 Ermitteln, wie Daten in und aus Adobe Analytics importiert werden 2 %
+* 4.4 Informationen aus Marketing-URLs identifizieren 2 %
 
 Abschnitt 5: Verwaltung
 
-5.1 Wenden Sie den Prozess an, um die Marketing-Kanal-Berichte mit den Marketingkanal-Verarbeitungsregeln zu konfigurieren 2% 5.2 Wenden Sie den Prozess zur Konfiguration von Classification Importer und Rule Builder 2% 5.3 Wenden Sie den Prozess zur Konfiguration einer Virtual Report Suite auf Grundlage eines vorhandenen Segments an 2% 5.4 Verwenden Sie die Data Feed Manager Admin-Benutzeroberfläche 2% 5.5 Grundlegendes zu Data Governance 2%
+* 5.1 Wenden Sie den Prozess an, um Marketingkanalberichte mit Marketingkanal-Verarbeitungsregeln zu konfigurieren 2%
+* 5.2 Wenden Sie den Prozess zur Konfiguration von Classification Importer und Rule Builder 2 % an
+* 5.3 Wenden Sie den Prozess an, um eine Virtual Report Suite basierend auf einem vorhandenen Segment zu konfigurieren (2 %).
+* 5.4 Verwenden der Data Feed Manager-Administrator-Benutzeroberfläche 2 %
+* 5.5 Grundlagen von Data Governance 2 %
 
 ## Vorbereiten
 
@@ -195,40 +227,40 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-Bereich 1
+**Bereich 1**
 
-[Übersicht über die Beitragsanalyse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=de)
-[Übersicht über Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=de)
-[Konversionstrichter](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
-[Einstiegsdimensionen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
+* [Übersicht über die Beitragsanalyse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=de)
+* [Analysis Workspace – Übersicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=de)
+* [Konversionstrichter](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+* [Einstiegsdimensionen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
-Bereich 2
+**Bereich 2**
 
-[Freigeben von Projekten](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=de)
-[Komponentenübersicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=de)
-[Warnhinweiserstellung](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
-[Mobile Scorecard erstellen](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=de)
+* [Freigeben von Projekten](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=de)
+* [Komponentenübersicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=de)
+* [Warnhinweiserstellung](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+* [Erstellen einer mobilen Scorecard](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=de)
 
-Bereich 3
+**Bereich 3**
 
-[Segmentvergleich](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=de)
-[Metriken erstellen](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=de)
-[Verwenden von Dropdown-Filtern in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=de)
-[Segmente taggen](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+* [Segmentvergleich](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=de)
+* [Erstellen von Metriken](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=de)
+* [Verwenden von Dropdown-Filtern in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=de)
+* [Segmente taggen](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
-Bereich 4
+**Bereich 4**
 
-[Fehlerbehebung bei Datenspitzen und Datenrückgängen](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
-[Benutzerspezifische Ereignisse](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=de)
-[PDF- oder CSV-Dateien herunterladen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=de)
-[Anfängerhandbuch zu URL-Parametern](https://www.semrush.com/blog/url-parameters/)
+* [Fehlerbehebung bei Datenspitzen und Datenrückgängen](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+* [Benutzerspezifische Ereignisse](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=de)
+* [Herunterladen von PDF- oder CSV-Dateien](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=de)
+* [Anfängerhandbuch zu URL-Parametern](https://www.semrush.com/blog/url-parameters/)
 
-Bereich 5
+**Bereich 5**
 
-[Verarbeitungsregeln für Marketing-Kanäle](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
-[Übersicht über Klassifizierungen](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=de)
-[Virtual Report Suites erstellen](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=de)
-[Häufig gestellte Fragen zu Datenschutzbestimmungen](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
+* [Verarbeitungsregeln für Marketing-Kanäle](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+* [Übersicht über Klassifizierungen](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=de)
+* [Virtual Report Suites erstellen](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=de)
+* [Häufig gestellte Fragen zu Datenschutzbestimmungen](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
 
 ## Zertifizierung verlängern
 
@@ -244,7 +276,7 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 
 >[!TAB Experten und Master]
 
-## Sie müssen über mindestens eine der folgenden **active** zu verlängern:
+## Sie müssen über mindestens eine der folgenden **active** Zertifizierung zur Verlängerung nach dieser Methode:
 
 * Adobe Analytics-Entwicklerexperte
 * Adobe Analytics-Geschäftspraktiker
