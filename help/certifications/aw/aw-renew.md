@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: ac78ed0e7e27acd7c206d23fe5dda80ff0435208
+source-git-commit: 46fc51ee1e293ba63d09ad2fb39c0763ce9a45b0
 workflow-type: tm+mt
-source-wordcount: '3755'
+source-wordcount: '3753'
 ht-degree: 0%
 
 ---
@@ -148,12 +148,12 @@ Abschnitt 1: Aufnahme und Planung (29%)
 Abschnitt 2: Ausführen (59%)
 
 * Erstellen Sie Workfront-Genehmigungen für die einmalige Verwendung und wann eine Genehmigung verwendet werden soll. (Beispiele: Projekt- und Aufgabengenehmigungen, Genehmigungen für mehrere Pfade und Mehrstufengenehmigungen.)
-* Identifizieren Sie bei einem Szenario die Informationen, die die Datentypen einem Projektmanager übermitteln. (Betrachten Sie geplante Datumswerte, tatsächliche Daten, manuelle Daten, Commit-Daten, geschätzte Datumswerte)
+* Identifizieren Sie bei einem Szenario die Informationen, die die Datentypen einem Projektmanager übermitteln. (Betrachten Sie geplante Datumswerte, tatsächliche Datumswerte, Komprimierungsdaten, geschätzte Datumswerte)
 * Ermitteln Sie in einem Szenario, wie sich unterschiedliche Aufgabenbegrenzungen auf die Projekt-Timeline bei Verwendung auswirken. (Beachten Sie, was die verschiedenen Aufgabenbegrenzungen tun, und wissen Sie, was die verschiedenen Aufgabenbegrenzungen sind und wann die verschiedenen Aufgabenbegrenzungen verwendet werden.)
 * Zeigen Sie in einem Szenario, wie Sie Projektteams finden und wie Sie sie über Arbeitsaufgaben, Aktualisierungen oder Fertigstellung von Arbeitselementen informieren. (Beachten Sie Benachrichtigungstypen, Benachrichtigungen des Projektteams, Personen-Registerkarte, Aktualisierungen von Projekten/Aufgaben, Zeitpunkt und Grund des Abonnements für ein Arbeitsobjekt und Informationen zum Ändern einzelner E-Mail-Benachrichtigungen)
 * Identifizieren Sie die verschiedenen Methoden zum Verwalten eines Projekts. (Betrachten wir Wasserfall, Agile, SCRUM und Kanban.)
 * Beschreiben Sie in einem Szenario, wie Sie den Interessengruppen die benötigten Informationen bereitstellen können. (Exportieren von Berichten, Exportieren von Dateien, wiederkehrenden Sendungen usw.)
-* Legen Sie bei einem Szenario fest, wie sich Datumstypen und -dauer auf die Projektbedingungen auswirken. (Betrachten Sie den geplanten Start, den voraussichtlichen Start, das Datum der Benutzerbindung usw.)
+* Legen Sie bei einem Szenario fest, wie sich Datumstypen und -dauer auf die Projektbedingungen auswirken. (Betrachten Sie den geplanten Start, den voraussichtlichen Start, das Datum des Commit usw.)
 * Legen Sie für ein Szenario fest, wie Sie Änderungen an benutzerdefinierten Status auf Systemebene oder Gruppenebene implementieren oder ändern können
 * Beschreiben Sie bei einem Szenario die Schritte zum Erstellen eines Berichts und bestimmen Sie den benötigten Berichtstyp.
 * Legen Sie bei einem Szenario fest, wann ein Problem in einem Projekt verwendet werden soll.
