@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="Prüfung AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 356c671e5ce6d780eb367bfe3dadc64d02aad2d2
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '565'
 ht-degree: 19%
 
 ---
@@ -122,7 +122,7 @@ Erlebnis mit Aufgaben, die Folgendes umfassen:
 
 **Abschnitt 1: Segmente und Aktivierung**
 
-* [Übersicht über den Segmentierungs-Service](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=de){target="_blank"}
+* [Übersicht über den Segmentierungs-Service](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html){target="_blank"}
 * [Sequenzielle Segmente erstellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html){target="_blank"}
 * [Segmentergebnisse auswerten und aufrufen](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=de){target="_blank"}
 * [Handbuch zur Benutzeroberfläche des Segmentierungs-Service](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html#scheduled-segmentation){target="_blank"}
@@ -145,18 +145,17 @@ Erlebnis mit Aufgaben, die Folgendes umfassen:
 
 **Abschnitt 4: Schemata und Profile**
 
-* [XDM-System – Übersicht](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=de){target="_blank"}
+* [XDM-System – Übersicht](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html){target="_blank"}
 * [Übersicht zum Echtzeit-Kundenprofil](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
 * [Handbuch zur Vereinigungsschema-Benutzeroberfläche](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
 
 <br>
 
-**Beispielfragen**
+**Einen Praxistest durchführen**
 
-{{sample-questions}}
+{{practice-test}}
 
-[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
-
+[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad4-e602-adobe-real-time-cdp-business-practitioner-professional-practice-exam){target="_blank"}
 
 +++
 
