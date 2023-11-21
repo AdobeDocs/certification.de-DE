@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 5bd6a4adbb5bc4317af1a500c3216b056a5328f9
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '2098'
+source-wordcount: '2139'
 ht-degree: 14%
 
 ---
@@ -26,7 +26,11 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 >[!IMPORTANT]
 >
->Die folgenden Links zur Kursbewertung funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Melden Sie sich zuerst an:** Die folgenden Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Freigeben eines Links:** Wenn Sie den Link zu einer Erneuerungsprüfung oder -bewertung mit einem Kollegen teilen möchten, verknüpfen Sie bitte die Gesamtseite zur Prüfungsverlängerung, nicht die URL der Prüfung selbst, um Anmeldungsprobleme zu vermeiden.
 
 >[!BEGINTABS]
 

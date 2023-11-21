@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 63a6ec27ef65f9c5a68539d1d8ffcd3395cef753
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '2812'
+source-wordcount: '2843'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,11 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Melden Sie sich zuerst an:** Die folgenden Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Freigeben eines Links:** Wenn Sie den Link zu einer Erneuerungsprüfung oder -bewertung mit einem Kollegen teilen möchten, verknüpfen Sie bitte die Gesamtseite zur Prüfungsverlängerung, nicht die URL der Prüfung selbst, um Anmeldungsprobleme zu vermeiden.
 
 >[!BEGINTABS]
 
@@ -299,7 +303,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung der Zertifizierung auf die Adobe [!DNL Marketo Engage] Link zur Verlängerung der Geschäftspraxis für Experten unten.
 
-[!BADGE Nehmen Sie die Adobe [!DNL Marketo Engage] Geschäftspraktiker Expertenprüfung zur Erneuerung AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGE Nehmen Sie die Adobe [!DNL Marketo Engage]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
 
 >[!NOTE]
 >

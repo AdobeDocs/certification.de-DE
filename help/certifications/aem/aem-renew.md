@@ -6,9 +6,9 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 11fd762f20fc6f16fe31e919775b0260ebc41b8b
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '2066'
+source-wordcount: '2107'
 ht-degree: 19%
 
 ---
@@ -25,7 +25,11 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 >[!IMPORTANT]
 >
->Die folgenden Links zur Kursbewertung funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Melden Sie sich zuerst an:** Die folgenden Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Freigeben eines Links:** Wenn Sie den Link zu einer Erneuerungsprüfung oder -bewertung mit einem Kollegen teilen möchten, verknüpfen Sie bitte die Gesamtseite zur Prüfungsverlängerung, nicht die URL der Prüfung selbst, um Anmeldungsprobleme zu vermeiden.
 
 >[!BEGINTABS]
 

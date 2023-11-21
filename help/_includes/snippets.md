@@ -1,5 +1,5 @@
 ---
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
 source-wordcount: '1741'
 ht-degree: 0%
@@ -218,3 +218,5 @@ Ihr Abzeichen dient als greifbarer Beweis für Ihre Kompetenz mit Adobe Experien
 ## Verlängern der Zertifizierung {#renewing-intro}
 
 Die Zertifizierungen laufen nach zwei Jahren ab. Um Ihre Zertifizierung beizubehalten, müssen Sie sie verlängern, bevor sie abläuft. Besuchen Sie die [Zertifizierung verlängern](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} für weitere Informationen.
+
+<!--divider-->

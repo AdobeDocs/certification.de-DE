@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1130'
+source-wordcount: '1171'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Ihr Adobe-Zertifikat ist zwei Jahre gültig. Wenn Sie sich dieser zweijährigen Marke nähern, ist es an der Zeit, Ihre Zertifizierung zu erneuern, damit sie aktiv bleibt.
 
-Wählen Sie zunächst auf der Registerkarte unten die entsprechende Ebene aus (Professional, Expert oder Übergeordnet). Überprüfen Sie dann sorgfältig, was Sie tun müssen, um Ihre Zertifizierung zu erneuern.
+Wählen Sie zunächst auf der Registerkarte unten die entsprechende Ebene aus (Professional, Expert oder Master). Überprüfen Sie dann sorgfältig, was Sie tun müssen, um Ihre Zertifizierung zu erneuern.
 
 Stellen Sie sicher, dass Sie ausreichend Zeit haben, um alle Anforderungen abzuschließen, bevor Ihr Zertifikat abläuft.
 
@@ -26,7 +26,11 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 >[!IMPORTANT]
 >
->Die folgenden Abschnitte und Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Melden Sie sich zuerst an:** Die folgenden Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Freigeben eines Links:** Wenn Sie den Link zu einer Erneuerungsprüfung oder -bewertung mit einem Kollegen teilen möchten, verknüpfen Sie bitte die Gesamtseite zur Prüfungsverlängerung, nicht die URL der Prüfung selbst, um Anmeldungsprobleme zu vermeiden.
 
 >[!BEGINTABS]
 
@@ -40,50 +44,50 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
-* Adobe Audience Manager Business Practices-Experte
+* Adobe Audience Manager-Geschäftspraktiker
 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
 * **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
-* **Schritt 2**: Prüfungsziele und -ressourcen überprüfen
-* **Schritt 3**: Führen Sie die Prüfung durch
+* **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
+* **Schritt 3**: Führen Sie die Prüfung durch.
 
 ### Bereit
 
 **Prüfungsdetails:**
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 30.23.30
+* Übergeben der Punktzahl: 23/30
 * Zeit: 68 Minuten
 * Versand: On-Demand/nicht verarbeitet
-* Verfügbare Sprachen: englisch
+* Verfügbare Sprachen: Englisch
 * Kosten: KOSTENLOS
-* Test-ID: AD5-E826 - Verlängerung von Adobe Audience Manager Business Practitioner-Experten
+* Prüfungs-ID: AD5-E826 - Verlängerung der Adobe Audience Manager Business Practitioner durch Experten
 
 **Prüfungsziele und -umfang**
 
 **Abschnitt 1: Erstellung und Syndikation von Segmenten (25 %)**
 
 * Bestimmen Sie die geeignete Methode zur Erstellung von Segmenten, die 1p/2p/3p-Daten für Targeting- und Analysezwecke verwenden.
-* In einem Szenario empfehlen Sie Segmente zur Aktivierung, die an Unternehmens- oder Kampagnenzielen ausgerichtet sind
+* In einem Szenario empfehlen Sie Segmente zur Aktivierung, die an Geschäfts- oder Kampagnenzielen ausgerichtet sind
 * Bestimmen der geeigneten Methode zum Synchronisieren von Segmenten mit Zielen für die Aktivierung
 
-**Abschnitt 2: Erstellung von Eigenschaften (17 %)**
+**Abschnitt 2: Erstellung von Eigenschaften (17%)**
 
 * Eigenschaften für eine bestimmte Zielgruppenstrategie empfehlen
 * Bestimmen der richtigen Methode zum Erstellen und Aktualisieren regelbasierter und/oder integrierter Eigenschaften
 
-**Abschnitt 3: Berichterstattung und Messungen (21 %)**
+**Abschnitt 3: Berichterstattung und Messungen (21%)**
 
 * Analysieren Sie Berichte in einem Szenario, um die nächsten Schritte zur Erreichung von Geschäftszielen umsetzbar zu machen.
 * Analysieren Sie die Zielgruppenoptimierung für ein Szenario.
 
-**Abschnitt 4: Fehlerbehebung und Administration (26 %)**
+**Abschnitt 4: Fehlerbehebung und Administration (26%)**
 
 * Überprüfen Sie in einem Szenario die Informationen zum Zielgruppenversand, um die geplanten Versandanforderungen sicherzustellen.
 * Ermitteln Sie die geeignete Vorgehensweise zur Validierung von offline eingehenden Dateien.
 * Ermitteln Sie bei einem Szenario die richtige Methode, um eine Qualitätssicherung für die ID-Synchronisierung durchzuführen
-* Bestimmen Sie die geeignete Methode zum Navigieren und Aktivieren über das Adobe-Audience Marketplace.
+* Bestimmen Sie die geeignete Methode zum Navigieren und Aktivieren über die Adobe-Audience Marketplace.
 
 **Abschnitt 5: Taxonomie (11%)**
 
@@ -91,7 +95,7 @@ Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 * Bestimmen Sie die richtige Technik, um eine organisierte Plattform mithilfe einer klaren Ordnerstruktur zu verwalten.
 * Unterscheiden zwischen den verschiedenen Zieltypen
 
-### Vorab abrufen
+### Vorbereiten
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
@@ -102,13 +106,13 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 **Ressourcen:**
 
 * [Adobe [!DNL Audience Manager] Produktdokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de){target="_blank"}
-* [Unterstützung von Adoben - Experience Cloud-Zielgruppen](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
+* [Adobe-Unterstützung - Experience Cloud-Zielgruppen](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * [Adobe Experience Cloud - Schulung und Support](https://helpx.adobe.com/de/support/experience-cloud.html){target="_blank"}
 * [Experience League [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
 
 **Zertifizierung neu starten**
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den unten stehenden Link Adobe Audience Manager Business Practitioner Expert - AD5-E826 .
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den unten stehenden Link Adobe Audience Manager Business Practitioner Expert - AD5-E826 .
 
 [!BADGE Nehmen Sie die Adobe Audience Manager Business Practitioner Expert Erneuerungsprüfung AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
 
@@ -121,7 +125,7 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 
 Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
-* Adobe Audience Manager Architekt Übergeordnet
+* Adobe Audience Manager Architect-Master
 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung
 
@@ -133,19 +137,19 @@ Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
 **Prüfungsdetails:**
 
-* Ebene: Übergeordnet (3-5 Jahre Erfahrung)
-* Übergeben der Punktzahl: 22.02.29
+* Stufe: Master (3-5 Jahre Erfahrung)
+* Übergeben der Punktzahl: 22/29
 * Zeit: 58 Minuten
 * Versand: On-Demand/nicht verarbeitet
-* Verfügbare Sprachen: englisch
+* Verfügbare Sprachen: Englisch
 * Kosten: KOSTENLOS
-* Test-ID: AD5-E825 - Übergeordnete Verlängerung des Adobe Audience Manager Architect
+* Test-ID: AD5-E825 - Adobe Audience Manager Architect Master-Erneuerung
 
 **Anwendungsbereich und Ziele:**
 
-Abschnitt 1: Implementierungsanalyse (28%)
+Abschnitt 1: Analyse der Implementierung (28%)
 
-* Ermitteln Sie, wie Sie die Implementierung von AAM als eigenständiges Produkt oder als Teil einer Cloud-Lösung steuern und unterstützen.
+* Ermitteln Sie, wie Sie die Implementierung von AAM als eigenständiges Produkt oder als Teil einer Cloud-Lösung steuern und unterstützen
 * Analysieren Sie ausgehende Zieloptionen und empfehlen Sie einen AAM Implementierungsansatz.
 * Bestimmen einer Datenintegrationsstrategie für einen geschäftlichen Anwendungsfall
 * Identifizieren von Funktionen wie Besucherprofil-Viewer, Tags, RBAC usw. zur Anpassung an Geschäftsziele
@@ -158,7 +162,7 @@ Abschnitt 2: Lösungsdesign und Recommendations (17%)
 * Identifizieren von Attribut- und Verhaltensdaten und Zuordnen zu bestimmten geschäftlichen Anwendungsfällen
 * Anwenden von Verfahrenskonzepten auf die Taxonomie und Benennungskonvention für Designordner
 
-Abschnitt 3: Segmentierung und Aktivierung (31 %)
+Abschnitt 3: Segmentierung und Aktivierung (31%)
 
 * Anwenden von Verfahrenskonzepten zum Erstellen von Zielen in [!DNL Audience Manager]
 * Identifizieren von Signalen zum Erstellen regelbasierter, integrierter und algorithmischer Eigenschaften
@@ -172,26 +176,26 @@ Abschnitt 4: Datenschutz und Data Governance (7 %)
 * Empfohlen [!DNL Audience Manager] Funktionen im Zusammenhang mit Governance, Datenschutz und Sicherheit
 * Identifizieren von Kundendatenrichtlinien, die den behördlichen Vorschriften entsprechen
 
-Abschnitt 5: Leistung und Berichterstellung (17 %)
+Abschnitt 5: Leistung und Berichterstellung (17%)
 
 * Bestimmen, wie Sie Berichte in AAM konfigurieren, um Signal-, Eigenschaften- und Segmentleistung nach Geschäftsanforderungen zu erfassen
 
-### Vorab abrufen
+### Vorbereiten
 
 Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
 * [AAM: Technische Stiftungen](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
-* [AAM: Integrationsreihe](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
+* [AAM: Integrationsserie](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
 * [AAM: Erweiterte Funktionen](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
-* [ Launch-Schulungen und -Ressourcen](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+* [Launch-Schulungen und -Ressourcen](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
 ### Zertifizierung verlängern
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den Link Übergeordnete Verlängerung des Adobe Audience Manager Architect - AD5-E825 unten.
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den Link Adobe Audience Manager Architect Master Erneuerung - AD5-E825 unten.
 
-[!BADGE Nehmen Sie die Übergeordnete Erneuerungsprüfung für Adobe Audience Manager Architect AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE Nehmen Sie die Adobe Audience Manager Architect Master-Erneuerungsprüfung AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
 
 >[!NOTE]
 >
