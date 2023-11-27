@@ -7,13 +7,13 @@ role: Developer
 badge: label="Prüfung AD0-E600 &amp; AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1424'
-ht-degree: 12%
+source-wordcount: '1318'
+ht-degree: 14%
 
 ---
-
 
 # Zertifizierungs-Journey für Adobe [!DNL Experience Platform] Expert
 
@@ -23,9 +23,7 @@ ht-degree: 12%
 
 {{exam-description}}
 
->[!IMPORTANT]
->
->Die Adobe [!DNL Experience Platform] Für die Zertifizierung durch Experten sind derzeit zwei Prüfungen erforderlich: **Adobe [!DNL Experience Platform] Technische Stiftungen (AD0-E600)** und **Adobe [!DNL Real-Time CDP] Technische Praxis (AD7-E601)**. Ab dem 1. November 2023 wird eine neue Prüfung eingeleitet, die nur für diese Zertifizierung erforderlich ist.
+
 
 <br>
 
@@ -209,8 +207,6 @@ Die Prüfung AD0-E600 validiert Fähigkeiten und Kenntnisse, die die Grundfunkti
 
 ## Anforderung 2: Informationen für Adobe [!DNL Real-Time CDP] Technische Praxis (AD7-E601) {#req-2}
 
-Die Prüfung AD7-E601 umfasst die Erstellung, Verwaltung und das Verständnis von Kundenprofil, Segmentierung, Zielen über Quellen hinweg und andere Themen. Die Prüfung validiert die grundlegenden Fertigkeiten und Kenntnisse, die erforderlich sind, um die Echtzeit-Kundendatenplattform für Zielgruppensegmentierung, Zielexporte und Aktivierung in Echtzeit für einheitliche Profile zu verwenden, die den Daten- und Datenschutzbestimmungen entsprechen. Bewerber sollten Erfahrung mit Kundendatenplattformen (CDP) und Kenntnisse im Adobe haben. [!DNL Experience Platform].
-
 <br>
 
 ### Prüfungsdetails für AD7-E601
@@ -303,7 +299,7 @@ Abschnitt 3: Ziele (27%)
 * [Handbuch zur Benutzeroberfläche von Segment Builder](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=de){target="_blank"}
 * [Segmentierung in Echtzeit CDP B2B Edition](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
 * [Erstellen von Segmenten](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
-* [Übersicht über den Segment Builder](https://video.tv.adobe.com/v/333301/){target="_blank"}
+* [Segment Builder – Überblick](https://video.tv.adobe.com/v/333301/){target="_blank"}
 * [Segment erstellen](https://video.tv.adobe.com/v/27254/){target="_blank"}
 * [Inhaltsbasierte Segmente erstellen](https://video.tv.adobe.com/v/333302/){target="_blank"}
 * [Konversionssegmente erstellen](https://video.tv.adobe.com/v/333303/){target="_blank"}
@@ -323,7 +319,7 @@ Abschnitt 3: Ziele (27%)
 * [Zielarbeitsbereich](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
 * [Erstellen einer neuen Zielverbindung](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=de){target="_blank"}
 * [Echtzeit-Kundendatenplattform: Ziele](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
-* [Zielübersicht](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
+* [Zielübersicht](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=de){target="_blank"}
 * [Ziel erstellen und Daten aktivieren](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
 * [Aktivierungsübersicht](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
 * [Zielkatalog - Übersicht](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}
