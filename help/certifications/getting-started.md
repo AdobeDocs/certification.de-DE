@@ -4,16 +4,21 @@ description: Machen Sie erste Schritte mit  [!DNL Experience Cloud] -Zertifizier
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 0fb6103fcb33878235ca93a16fc5ddedb66442c5
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 2%
+source-wordcount: '814'
+ht-degree: 3%
 
 ---
 
 # Erste Schritte {#getting-started}
 
 Die Adobe dienen der Validierung von Kenntnissen und Fertigkeiten von Fachleuten, die mit unseren digitalen Marketinglösungen arbeiten. Verwenden Sie die folgenden Tabs, um sich mit dem Zertifizierungsprogramm vertraut zu machen.
+
+>[!TIP]
+>
+>**Unser Jahresende-Verkauf beginnt am Cyber Montag!**<br>
+>Erhalten Sie 50 % Rabatt auf die Zertifizierungsprüfungen vom Adobe Digital Experience Credential Program, vom 27. November bis 31. Dezember. Dieses Angebot ist nur gültig, wenn Sie über die Variable [Adobe Certification Voucher Center](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=de). Angebotscode verwenden **Urlaub2023** an der Kasse. <br><i>Dieses Angebot ist nur für den genannten Zeitraum verfügbar, gilt nur für neue Bestellungen und kann nicht auf zuvor platzierte Bestellungen angewendet werden. Die Gutscheincodes sind ein Jahr ab Kaufdatum gültig.</i>
 
 >[!BEGINTABS]
 
