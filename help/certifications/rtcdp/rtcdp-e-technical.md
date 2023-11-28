@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="Prüfung AD0-E600 &amp; AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 5a0bc9f9f59df83d1f430807962374acb3d231ab
+source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
 workflow-type: tm+mt
-source-wordcount: '1601'
+source-wordcount: '1599'
 ht-degree: 11%
 
 ---
@@ -227,7 +227,7 @@ Die Prüfung AD0-E600 validiert Fähigkeiten und Kenntnisse, die die Grundfunkti
 >
 ><br>
 >
->**Wenn Sie bereits die AD0-E600 Adobe übergeben haben [!DNL Experience Platform] Prüfung technischer Stiftungen und Vorbereitung der AD7-E601-Prüfung**, empfehlen wir Ihnen, Ihren Termin zu halten, da Sie durch die Prüfung AD7-E601 die Adobe erhalten [!DNL Experience Platform] Technische Stiftungen - Expertenzertifizierung. Bei Fragen wenden Sie sich bitte an [Zertifizierungsunterstützung](mailto:certif@adobe.com){target="_blank"}.
+>**Wenn Sie bereits die AD0-E600 Adobe übergeben haben [!DNL Experience Platform] Prüfung technischer Stiftungen und Vorbereitung der AD7-E601-Prüfung**, empfehlen wir Ihnen, Ihren Termin zu halten, da Sie durch die Prüfung AD7-E601 die Adobe erhalten [!DNL Real-Time Customer Data Platform] Zertifizierung durch Experten. Bei Fragen wenden Sie sich bitte an [Zertifizierungsunterstützung](mailto:certif@adobe.com){target="_blank"}.
 
 Die Prüfung AD7-E601 umfasst die Erstellung, Verwaltung und das Verständnis von Kundenprofil, Segmentierung, Zielen über Quellen hinweg und andere Themen. Die Prüfung validiert die grundlegenden Fertigkeiten und Kenntnisse, die erforderlich sind, um die Echtzeit-Kundendatenplattform für Zielgruppensegmentierung, Zielexporte und Aktivierung in Echtzeit für einheitliche Profile zu verwenden, die den Daten- und Datenschutzbestimmungen entsprechen. Bewerber sollten Erfahrung mit Kundendatenplattformen (CDP) und Kenntnisse im Adobe haben. [!DNL Experience Platform].
 
