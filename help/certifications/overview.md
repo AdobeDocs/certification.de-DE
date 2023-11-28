@@ -4,10 +4,10 @@ description: Informationen zur  [!DNL Experience Cloud] -Zertifizierung bei Adob
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 0fb6103fcb33878235ca93a16fc5ddedb66442c5
+source-git-commit: 229674d0a8441d8e369b995449a8093bfa01657e
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 11%
+source-wordcount: '481'
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,10 @@ Erfahren Sie mehr über Zertifizierung bei Adobe und darüber, was eine Zertifiz
 >[!TIP]
 >
 >**Unser Jahresende-Verkauf beginnt am Cyber Montag!**<br>
->Erhalten Sie 50 % Rabatt auf die Zertifizierungsprüfungen vom Adobe Digital Experience Credential Program, vom 27. November bis 31. Dezember. Dieses Angebot ist nur gültig, wenn Sie über die Variable [Adobe Certification Voucher Center](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=de). Angebotscode verwenden **Urlaub2023** an der Kasse. <br><i>Dieses Angebot ist nur für den genannten Zeitraum verfügbar, gilt nur für neue Bestellungen und kann nicht auf zuvor platzierte Bestellungen angewendet werden. Die Gutscheincodes sind ein Jahr ab Kaufdatum gültig.</i>
+><br>
+>Erhalten Sie 50 % Rabatt auf die Zertifizierungsprüfungen vom Adobe Digital Experience Credential Program, vom 27. November bis 31. Dezember. Dieses Angebot ist nur gültig, wenn Sie über die Variable [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Angebotscode verwenden **Urlaub2023** an der Kasse.<br>
+><br>
+><i>Dieses Angebot ist nur für den genannten Zeitraum verfügbar, gilt nur für neue Bestellungen und kann nicht auf zuvor platzierte Bestellungen angewendet werden. Die Gutscheincodes sind ein Jahr ab Kaufdatum gültig.</i>
 
 Das Adobe Digital Experience Credential Programm wurde entwickelt, um Ihnen beim Nachweis Ihrer Kenntnisse im Adobe zu helfen. [!DNL Experience Cloud] Produkte. Mit der Zertifizierung als Adobe können Sie Ihr Fachwissen präsentieren und Kunden und Arbeitgeber gleichermaßen beeindrucken.
 

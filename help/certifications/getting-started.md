@@ -4,10 +4,10 @@ description: Machen Sie erste Schritte mit  [!DNL Experience Cloud] -Zertifizier
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 0fb6103fcb33878235ca93a16fc5ddedb66442c5
+source-git-commit: 229674d0a8441d8e369b995449a8093bfa01657e
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 3%
+source-wordcount: '811'
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,10 @@ Die Adobe dienen der Validierung von Kenntnissen und Fertigkeiten von Fachleuten
 >[!TIP]
 >
 >**Unser Jahresende-Verkauf beginnt am Cyber Montag!**<br>
->Erhalten Sie 50 % Rabatt auf die Zertifizierungsprüfungen vom Adobe Digital Experience Credential Program, vom 27. November bis 31. Dezember. Dieses Angebot ist nur gültig, wenn Sie über die Variable [Adobe Certification Voucher Center](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=de). Angebotscode verwenden **Urlaub2023** an der Kasse. <br><i>Dieses Angebot ist nur für den genannten Zeitraum verfügbar, gilt nur für neue Bestellungen und kann nicht auf zuvor platzierte Bestellungen angewendet werden. Die Gutscheincodes sind ein Jahr ab Kaufdatum gültig.</i>
+><br>
+>Erhalten Sie 50 % Rabatt auf die Zertifizierungsprüfungen vom Adobe Digital Experience Credential Program, vom 27. November bis 31. Dezember. Dieses Angebot ist nur gültig, wenn Sie über die Variable [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Angebotscode verwenden **Urlaub2023** an der Kasse.<br>
+><br>
+><i>Dieses Angebot ist nur für den genannten Zeitraum verfügbar, gilt nur für neue Bestellungen und kann nicht auf zuvor platzierte Bestellungen angewendet werden. Die Gutscheincodes sind ein Jahr ab Kaufdatum gültig.</i>
 
 >[!BEGINTABS]
 

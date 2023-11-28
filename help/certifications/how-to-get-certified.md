@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie bei Adobe zertifiziert werden. Finden Sie all
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 0fb6103fcb33878235ca93a16fc5ddedb66442c5
+source-git-commit: 229674d0a8441d8e369b995449a8093bfa01657e
 workflow-type: tm+mt
-source-wordcount: '1553'
+source-wordcount: '1550'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,10 @@ Erfahren Sie, wie Sie bei Adobe zertifiziert werden. Finden Sie alle Ressourcen,
 >[!TIP]
 >
 >**Unser Jahresende-Verkauf beginnt am Cyber Montag!**<br>
->Erhalten Sie 50 % Rabatt auf die Zertifizierungsprüfungen vom Adobe Digital Experience Credential Program, vom 27. November bis 31. Dezember. Dieses Angebot ist nur gültig, wenn Sie über die Variable [Adobe Certification Voucher Center](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=de). Angebotscode verwenden **Urlaub2023** an der Kasse. <br><i>Dieses Angebot ist nur für den genannten Zeitraum verfügbar, gilt nur für neue Bestellungen und kann nicht auf zuvor platzierte Bestellungen angewendet werden. Die Gutscheincodes sind ein Jahr ab Kaufdatum gültig.</i>
+><br>
+>Erhalten Sie 50 % Rabatt auf die Zertifizierungsprüfungen vom Adobe Digital Experience Credential Program, vom 27. November bis 31. Dezember. Dieses Angebot ist nur gültig, wenn Sie über die Variable [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Angebotscode verwenden **Urlaub2023** an der Kasse.<br>
+><br>
+><i>Dieses Angebot ist nur für den genannten Zeitraum verfügbar, gilt nur für neue Bestellungen und kann nicht auf zuvor platzierte Bestellungen angewendet werden. Die Gutscheincodes sind ein Jahr ab Kaufdatum gültig.</i>
 
 >[!BEGINTABS]
 
