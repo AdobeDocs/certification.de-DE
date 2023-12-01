@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="Prüfung AD0-E600 &amp; AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
+source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
 workflow-type: tm+mt
-source-wordcount: '1599'
-ht-degree: 11%
+source-wordcount: '1748'
+ht-degree: 10%
 
 ---
 
@@ -73,7 +73,7 @@ Sie sollten über Folgendes verfügen:
 >
 ><br>
 >
->**Wenn Sie bereits die Prüfung AD0-E600 geplant haben**, empfehlen wir dringend, Ihren Termin abzubrechen und den Zeitplan zu ändern, wenn die neue Prüfung veröffentlicht wird. Bei Fragen wenden Sie sich bitte an [Zertifizierungsunterstützung](mailto:certif@adobe.com){target="_blank"}.
+>**Wenn Sie bereits die Prüfung AD0-E600 geplant haben**, empfehlen wir dringend, Ihren Termin im Test-Portal abzubrechen (siehe Schritt 3 unten) und den Zeitplan zu ändern, wenn die neue Prüfung veröffentlicht wird. Bei Fragen wenden Sie sich bitte an [Zertifizierungsunterstützung](mailto:certif@adobe.com){target="_blank"}.
 
 Die Prüfung AD0-E600 validiert Fähigkeiten und Kenntnisse, die die Grundfunktionen und häufig durchgeführten Aufgaben des Adobe abdecken. [!DNL Experience Platform] auf Expertenebene.
 
@@ -176,6 +176,14 @@ Die Prüfung AD0-E600 validiert Fähigkeiten und Kenntnisse, die die Grundfunkti
 
 ++ Schritt 3: Test &amp; Test für Prüfungen planen
 
+>[!IMPORTANT]
+>
+>Die Planung für die Prüfung AD0-E600 wurde ausgesetzt. Diese Prüfung wird derzeit aktualisiert und am **15. Januar 2024**. Nach diesem Datum ist für diese Zertifizierung nur noch eine Prüfung erforderlich, nicht aber die beiden derzeit erforderlichen Prüfungen.
+>
+><br>
+>
+>**Wenn Sie bereits die Prüfung AD0-E600 geplant haben**, empfehlen wir dringend, Ihren Termin im Examity-Portal abzubrechen und den Termin zu verschieben, an dem die neue Prüfung veröffentlicht wird. Bei Fragen wenden Sie sich bitte an [Zertifizierungsunterstützung](mailto:certif@adobe.com){target="_blank"}.
+
 {{schedule-and-pay}}
 
 +++
@@ -195,6 +203,14 @@ Die Prüfung AD0-E600 validiert Fähigkeiten und Kenntnisse, die die Grundfunkti
 {{about-certification-exam}}
 
 ## Prüfung AD0-E600 planen oder durchführen
+
+>[!IMPORTANT]
+>
+>Die Planung für die Prüfung AD0-E600 wurde ausgesetzt. Diese Prüfung wird derzeit aktualisiert und am **15. Januar 2024**. Nach diesem Datum ist für diese Zertifizierung nur noch eine Prüfung erforderlich, nicht aber die beiden derzeit erforderlichen Prüfungen.
+>
+><br>
+>
+>**Wenn Sie bereits die Prüfung AD0-E600 geplant haben**, empfehlen wir dringend, Ihren Termin im Examity-Portal abzubrechen und den Termin zu verschieben, an dem die neue Prüfung veröffentlicht wird. Bei Fragen wenden Sie sich bitte an [Zertifizierungsunterstützung](mailto:certif@adobe.com){target="_blank"}.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
