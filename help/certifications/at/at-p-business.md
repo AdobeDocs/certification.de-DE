@@ -7,10 +7,10 @@ role: User
 badge: label="Prüfung AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 11%
+source-wordcount: '580'
+ht-degree: 1%
 
 ---
 
@@ -127,8 +127,8 @@ Sie sollten über Folgendes verfügen:
 
 **Abschnitt 1: Planung und Strategie**
 
-* [[!DNL Adobe Target] Handbuch für Business-Anwender*innen](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=de){target="_blank"}
-* Dokumentation zu [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
+* [[!DNL Adobe Target] Handbuch für Geschäftspraktiken](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=de){target="_blank"}
+* [[!DNL Adobe Target] Dokumentation](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
 * [Besucherprofile](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=de){target="_blank"}
 * [[!DNL Adobe Target] Willkommensset](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
 * [Erfolgsmetriken](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=de){target="_blank"}
@@ -136,11 +136,11 @@ Sie sollten über Folgendes verfügen:
 
 **Abschnitt 2: Konfigurieren, Ausführen und Verwalten**
 
-* [Visual Experience Composer (VEC))](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
+* [Visual Experience Composer (VEC)](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
 * [[!DNL Adobe Target] Willkommensset](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
 * [A/B-Test - Überblick](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
 * [Erstellen einer Erlebnis-Targeting-Aktivität](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html){target="_blank"}
-* [Multivarianz-Tests – Überblick](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
+* [Überblick über Multivarianz-Tests](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
 * [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
 * [Erstellen von Zielgruppen](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=de){target="_blank"}
 * [Aktivitäts-QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
@@ -152,16 +152,8 @@ Sie sollten über Folgendes verfügen:
 
 **Abschnitt 4: Fehlerbehebung**
 
-* [[!DNL Adobe Target] Handbuch für Business-Anwender*innen](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=de){target="_blank"}
+* [[!DNL Adobe Target] Handbuch für Geschäftspraktiken](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=de){target="_blank"}
 * [Übersicht über Adobe Experience Cloud Debugger](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
-
-<br>
-
-**Beispielfragen**
-
-{{sample-questions}}
-
-[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
 
 +++
 

@@ -7,10 +7,10 @@ role: Developer
 badge: label="Prüfung AD0-E129" type="neutral"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '630'
-ht-degree: 11%
+source-wordcount: '525'
+ht-degree: 1%
 
 ---
 
@@ -143,8 +143,8 @@ Darüber hinaus sollten Sie über Erfahrungen mit den folgenden Technologien und
 
 **Abschnitt 1: Asset-Workflows**
 
-* [Erstellung von Modellen für den Arbeitsablauf](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html#sync-your-workflow-generate-a-runtime-model){target="_blank"}
-* [Assets-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=de){target="_blank"}
+* [Erstellen von Workflow-Modellen](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html#sync-your-workflow-generate-a-runtime-model){target="_blank"}
+* [Assets-Anleitung](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
 
 **Abschnitt 2: Asset-Organisation und Asset-Konsole**
 
@@ -160,13 +160,13 @@ Darüber hinaus sollten Sie über Erfahrungen mit den folgenden Technologien und
 
 **Abschnitt 4: Asset-Typen**
 
-* [Verwalten von Video-Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html#uploading-and-previewing-video-assets){target="_blank"}
+* [Verwalten von Videoassets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html#uploading-and-previewing-video-assets){target="_blank"}
 * [Inhaltsfragmentmodelle](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html#creating-a-content-fragment-model){target="_blank"}
-* [Varianten – Erstellen von Fragmentinhalten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html#managing-variations){target="_blank"}
+* [Varianten - Erstellen von Fragmentinhalten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html#managing-variations){target="_blank"}
 
 **Abschnitt 5: Asset-Funktionssätze und -Funktionen**
 
-* [ [!DNL Experience Manager] Überblick über Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=de){target="_blank"}
+* [Übersicht über [!DNL Experience Manager] Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=de){target="_blank"}
 * [Unterstützte Dateiformate](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
 * [Dynamic Media-Videoprofile](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
 
@@ -176,7 +176,7 @@ Darüber hinaus sollten Sie über Erfahrungen mit den folgenden Technologien und
 
 {{sample-questions}}
 
-[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad4-e129-adobe-experience-manager-assets-developer-professional-practice-exam){target="_blank"}
 
 +++
 

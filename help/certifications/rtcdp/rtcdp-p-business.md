@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="Prüfung AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 356c671e5ce6d780eb367bfe3dadc64d02aad2d2
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '565'
-ht-degree: 19%
+source-wordcount: '470'
+ht-degree: 2%
 
 ---
 
@@ -122,40 +122,38 @@ Erlebnis mit Aufgaben, die Folgendes umfassen:
 
 **Abschnitt 1: Segmente und Aktivierung**
 
-* [Übersicht über den Segmentierungs-Service](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html){target="_blank"}
+* [Übersicht über den Segmentierungsdienst](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=de){target="_blank"}
 * [Sequenzielle Segmente erstellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html){target="_blank"}
-* [Segmentergebnisse auswerten und aufrufen](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=de){target="_blank"}
-* [Handbuch zur Benutzeroberfläche des Segmentierungs-Service](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html#scheduled-segmentation){target="_blank"}
-* [Ziele – Übersicht](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=de){target="_blank"}
+* [Segmentergebnisse auswerten und aufrufen](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
+* [Handbuch zur Benutzeroberfläche des Segmentierungsdienstes](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html#scheduled-segmentation){target="_blank"}
+* [Ziele - Übersicht](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=de){target="_blank"}
 * [Zieltypen und Kategorien](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=de){target="_blank"}
-* [Aktivieren von Zielgruppendaten für Exportziele von Streaming-Profilen](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html){target="_blank"}
+* [Aktivieren von Zielgruppendaten für Streaming-Profil-Export-Ziele](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html){target="_blank"}
 * [Erstellen einer neuen Zielverbindung](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Identität und Data Governance**
 
-* [Übersicht zu Identitäts-Namespaces](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=de){target="_blank"}
-* [Data Governance – Übersicht](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=de){target="_blank"}
+* [Übersicht über Identitäts-Namespace](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=de){target="_blank"}
+* [Data Governance - Übersicht](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Geschäftsanalyse**
 
-* [Datenerfassung – Übersicht](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=de){target="_blank"}
+* [Datenerfassung - Übersicht](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=de){target="_blank"}
 * [Überwachen von Datenflüssen im Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html){target="_blank"}
-* [Privacy Service und Experience Cloud-Anwendungen](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html){target="_blank"}
-* [Richtliniendurchsetzung – Übersicht](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html){target="_blank"}
+* [Privacy Service- und Experience Cloud-Anwendungen](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html){target="_blank"}
+* [Übersicht über die Richtliniendurchsetzung](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html){target="_blank"}
 
 **Abschnitt 4: Schemata und Profile**
 
 * [XDM-System – Übersicht](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html){target="_blank"}
-* [Übersicht zum Echtzeit-Kundenprofil](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
-* [Handbuch zur Vereinigungsschema-Benutzeroberfläche](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
+* [Übersicht über das Echtzeit-Kundenprofil](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
+* [UI-Handbuch für Vereinigungsschemas](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
 
 <br>
 
 **Einen Praxistest durchführen**
 
 {{practice-test}}
-
-[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad4-e602-adobe-real-time-cdp-business-practitioner-professional-practice-exam){target="_blank"}
 
 +++
 

@@ -7,10 +7,10 @@ role: User
 badge: label="Prüfung AD0-E329" type="neutral"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '1027'
-ht-degree: 25%
+source-wordcount: '833'
+ht-degree: 2%
 
 ---
 
@@ -153,21 +153,21 @@ Sie sollten über Folgendes verfügen:
 * [Erste Schritte mit Adobe Campaign](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/get-started.html){target="_blank"}
 * [Kommunikationskanäle](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
 * [Erste Schritte mit Marketing-Kampagnen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=de){target="_blank"}
-* [Erste Schritte bei der Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de){target="_blank"}
-* [Entwerfen und Ausführen von Marketing-Kampagnen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
+* [Erste Schritte mit der Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de){target="_blank"}
+* [Marketingkampagnen erstellen und ausführen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 * [Über Vorlagen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Workflow-Management und Plattformfunktionen**
 
 * [Zielgruppenbestimmungsaktivitäten in Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=de){target="_blank"}
-* [Fluss-Steuerungsaktivitäten in Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html?lang=de){target="_blank"}
+* [Steuerungsaktivitäten in Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html?lang=de){target="_blank"}
 * [Aktionsaktivitäten in Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=de){target="_blank"}
 * [Workflow-Eigenschaften](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
 * [Erste Schritte mit Workflows](https://experienceleague.adobe.com/docs/campaign/campaign-v8/data/workflows.html){target="_blank"}
 
 **Abschnitt 3: Datenvorgänge**
 
-* [Adobe Campaign-Arbeitsbereich](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=de){target="_blank"}
+* [Adobe Campaign Workspace](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=de){target="_blank"}
 * [Erste Schritte mit Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=de){target="_blank"}
 * [Zielgruppenbestimmungsaktivitäten in Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=de){target="_blank"}
 * [Erste Schritte mit Profilen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html?lang=de){target="_blank"}
@@ -176,18 +176,18 @@ Sie sollten über Folgendes verfügen:
 
 **Abschnitt 4: Versandkonfiguration**
 
-* [Erstellen und Entwerfen eines E-Mail-Versands](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html?lang=de){target="_blank"}
+* [E-Mail-Sendungen erstellen und entwerfen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html?lang=de){target="_blank"}
 * [Kommunikationskanäle](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
 * [Über Testadressen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html?lang=de){target="_blank"}
-* [Erste Schritte zum Tracking von Nachrichten](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=de){target="_blank"}
-* [Erste Schritte bei der Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de){target="_blank"}
-* [Entwerfen und Ausführen von Marketing-Kampagnen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
+* [Erste Schritte mit dem Nachrichten-Tracking](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=de){target="_blank"}
+* [Erste Schritte mit der Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de){target="_blank"}
+* [Marketingkampagnen erstellen und ausführen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 
 **Abschnitt 5: Verwaltung und Berichterstattung**
 
 * [Über Versandberichte](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
 * [Erste Schritte mit Reporting](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=de#reporting){target="_blank"}
-* [Erste Schritte bei der Überwachung eines Versands](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=de){target="_blank"}
+* [Erste Schritte mit dem Versand-Monitoring](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=de){target="_blank"}
 * [Erste Schritte mit der deskriptiven Analyse](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=de){target="_blank"}
 * [Erste Schritte mit Berechtigungen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=de#getting-started){target="_blank"}
 
@@ -197,7 +197,9 @@ Sie sollten über Folgendes verfügen:
 
 {{sample-questions}}
 
-[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad4-e329-adobe-campaign-classic-business-practitioner-professional-practice-exam){target="_blank"}
+
+
 
 +++
 

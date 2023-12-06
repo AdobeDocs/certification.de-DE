@@ -7,14 +7,14 @@ product: Customer Journey Analytics
 badge: label="Prüfung AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 17%
+source-wordcount: '431'
+ht-degree: 2%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Customer Journey Analytics] Expert
+# Zertifizierungs-Journey für Adobe [!DNL Customer Journey Analytics] Entwicklerexperte
 
 {{intro}}
 
@@ -62,7 +62,7 @@ Sie sollten über 12-24 Monate Erfahrung im Adobe verfügen [!DNL Customer Journ
 * Verbindungen mit primären Identitäten konfigurieren (Personen-ID)
 * Verbindungen mit mehreren Datensätzen konfigurieren
 * Datenansicht konfigurieren (Metrik-/Dimensionskonfiguration)
-* Konfigurieren von Adobe [!DNL Customer Journey Analytics]
+* Adobe konfigurieren [!DNL Customer Journey Analytics]
 * Transformieren von Daten innerhalb der Dimensionen und Metriken
 * Analysis Workspace-Grundlagen (Visualisierungen, Attributionseinstellungen, Filter, berechnete Metriken)
 * Data Governance in CJA (DULE)
@@ -121,26 +121,26 @@ Sie sollten über 12-24 Monate Erfahrung im Adobe verfügen [!DNL Customer Journ
 
 **Abschnitt 1: Verbindungen**
 
-* [Verbindungen – Übersicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=de){target="_blank"}
+* [Verbindungen - Übersicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=de){target="_blank"}
 * [Verbindung erstellen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Datenansichten**
 
-* [Übersicht über Datenansichten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=de){target="_blank"}
-* [Einstellungen der Komponente](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
+* [Datenansichten - Übersicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=de){target="_blank"}
+* [Komponenteneinstellungen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
 
 **Abschnitt 3: Datenvalidierung und Fehlerbehebung**
 
-* [Übersicht über Datenansichten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=de){target="_blank"}
-* [Erstellen oder Bearbeiten einer Datenansicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=de){target="_blank"}
-* [Einstellungen der Komponente](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
-* [Standardkomponentenreferenz](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=de){target="_blank"}
+* [Datenansichten - Übersicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=de){target="_blank"}
+* [Datenansicht erstellen oder bearbeiten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=de){target="_blank"}
+* [Komponenteneinstellungen](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
+* [Standardkomponentenreferenz](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html){target="_blank"}
 
 **Abschnitt 4: Berichterstellung und Aktivierung**
 
-* [Visualisierungsübersicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Analysis Workspace – Übersicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
-* [Übersicht über Datenansichten](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=de){target="_blank"}
+* [Visualisierungen - Übersicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
+* [Übersicht über Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
+* [Datenansichten - Übersicht](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=de){target="_blank"}
 
 <br>
 
