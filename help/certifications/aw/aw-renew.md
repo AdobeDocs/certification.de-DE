@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: e60a6abaa537b6ae958ae225cb08a927e5e28c94
 workflow-type: tm+mt
-source-wordcount: '3794'
+source-wordcount: '3484'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 >[!TAB Professional]
 
-+ + + Workfront Fusion Developer Professional
++++Adobe [!DNL Workfront] Fusion Developer Professional
 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
@@ -49,11 +49,11 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 * Übergeben der Punktzahl: 26/34
 * Zeit: 68 Minuten
-* Kosten: KOSTENLOS/NICHT VERARBEITET
-* Versand: On-Demand
+* Kosten: kostenlos
+* Versand: On-Demand/nicht verarbeitet
 * Verfügbare Sprachen: Englisch
-* Voraussetzung: aktuelle (nicht abgelaufene) Adobe Workfront Fusion Developer Professional-Zertifizierung
-* Prüfungs-ID: AD5-E830
+* Voraussetzung: aktuelle (nicht abgelaufene) Adobe [!DNL Workfront] Zertifizierung für Fusion Developer Professional
+* Prüfungs-ID: AD5-E830-Adobe [!DNL Workfront] Fusion Developer Professional
 
 **Anwendungsbereich und Ziele**
 
@@ -71,7 +71,7 @@ Abschnitt 2: Szenario-Design und -Architektur (47%)
 * Ermitteln Sie in einer Situation die Möglichkeit, den Datenfluss durch ein Szenario zu reduzieren.
 * Erläutern Sie anhand eines Beispiels der Anzahl der Bundles, die auf einem Suchmodul angezeigt werden, und eines nachfolgenden Aggregators die Änderungen in der Anzahl der vom Bundle-Inspektor verarbeiteten und angezeigten Vorgänge.
 * Beispiel eines Fehlers 403:forbidden: korrekte Angabe des Ursprungs der Fehlermeldung und der Ursache
-* Identifizieren Sie die entsprechende Verwendung von Referenzen und Sammlungen in den Workfront-Modulen &quot;Suchen&quot;und &quot;Lesen&quot;.
+* Identifizieren Sie die geeignete Verwendung von Verweisen und Sammlungen auf [!DNL Workfront] Module durchsuchen und lesen.
 
 Abschnitt 3: Tests und Umgang mit Fehlern (15 %)
 
@@ -91,27 +91,27 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 1: Grundlegende Systemverwaltung und -einrichtung**
 
-* [Dokumentation zu Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Funktionen in Adobe Workfront Fusion, Organisationen in Adobe Workfront Fusion, Module in Adobe Workfront Fusion, Szenarien in Adobe Workfront Fusion
+* [[!DNL Workfront] Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Funktionen im Adobe [!DNL Workfront] Fusion, Organisationen im Adobe [!DNL Workfront] Fusion, Module im Adobe [!DNL Workfront] Fusion, Szenarien beim Adobe [!DNL Workfront] Fusion
 
 **Abschnitt 2: Szenario-Design und -Architektur**
 
-* [Optimierung des Workfront Fusion-Szenarios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html){target="_blank"} - Tutorial
-* [Dokumentation zu Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Module in Adobe Workfront Fusion
+* [[!DNL Workfront] Optimierung des Fusionsszenarios](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html){target="_blank"} - Tutorial
+* [[!DNL Workfront] Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Module im Adobe [!DNL Workfront] Fusion
 
 **Abschnitt 3: Tests und Fehlerbehandlung**
 
-* [Dokumentation zu Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Bedienfeld &quot;Szenario-Einstellungen&quot;in Adobe Workfront Fusion, Fehler in Adobe Workfront Fusion, Funktionen in Adobe Workfront Fusion
+* [[!DNL Workfront] Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Bedienfeld &quot;Szenario-Einstellungen&quot;im Adobe [!DNL Workfront] Fusion, Fehler im Adobe [!DNL Workfront] Fusion, Funktionen im Adobe [!DNL Workfront] Fusion
 
 **Abschnitt 4: Arbeiten mit APIs**
 
-* [Dokumentation zu Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - HTTP-Module, Verbindungen in Adobe Workfront Fusion, Module in Adobe Workfront Fusion
-* [Adobe Workfront-API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html){target="_blank"}
+* [[!DNL Workfront] Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - HTTP-Module, Verbindungen im Adobe [!DNL Workfront] Fusion, Module im Adobe [!DNL Workfront] Fusion
+* [Adobe [!DNL Workfront] API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html){target="_blank"}
 
 ## Zertifizierung verlängern
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihrer Zertifizierung auf den unten stehenden Link Workfront Fusion Developer Erneuerung - AD5-830 .
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung der Zertifizierung auf die Schaltfläche [!DNL Workfront] Fusion Developer Erneuerung - AD5-830 Link unten.
 
-* [Verlängerung der Workfront Fusion Developer - AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
+* [[!DNL Workfront] Erneuerung für Fusionsentwickler - AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
 
 >[!NOTE]
 >
@@ -119,7 +119,7 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 
 +++
 
-++ + Workfront Project Manager Professional
++++Adobe [!DNL Workfront] Projektmanager
 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
@@ -136,7 +136,7 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 * Kosten: KOSTENLOS/NICHT VERARBEITET
 * Versand: On-Demand
 * Verfügbare Sprachen: Englisch
-* Voraussetzung: aktuelles (nicht abgelaufenes) Adobe Workfront Project Manager Professional-Zertifikat
+* Voraussetzung: aktuelle (nicht abgelaufene) Adobe [!DNL Workfront] Professional-Zertifizierung für Projektmanager
 * Prüfungs-ID: AD5-E833
 
 **Anwendungsbereich und Ziele**
@@ -146,12 +146,12 @@ Abschnitt 1: Aufnahme und Planung (29%)
 * Überprüfen Sie bei einer Anfrage die benutzerdefinierten Daten, um die entsprechende Aktion zu bestimmen. (Betrachten Sie angehängte Dokumente, eine erforderliche Genehmigung, den Abschluss der Daten, die Priorität usw.)
 * Legen Sie für ein Szenario die Freigabeberechtigungen fest, die für eine Aktivität erforderlich sind. (Betrachten Sie die Dashboard-/Berichtfreigabe, Aktionen bei einer Aufgabe oder Anforderung, die Sichtbarkeit, geerbte Berechtigungen, die Flexibilität usw.)
 * Legen Sie bei einem Szenario die entsprechenden Aufgabeneinstellungen fest, um die Ausführung einer Aufgabe in einem bestimmten Zeitrahmen zu planen. (Betrachten Sie Dauer, geplante Stunden, Beschränkungen und Aufgaben- oder projektübergreifende Vorgänger, Lead- und Latenzzeiten für Vorgänger, Aufgabenzuweisung und Zeitüberschreitung.)
-* Identifizieren Sie die richtige Hierarchie von Objekten in Workfront. (Betrachten Sie Portfolios, Programme, Projekte, Aufgaben und Probleme.)
+* Die richtige Hierarchie von Objekten in [!DNL Workfront]. (Betrachten Sie Portfolios, Programme, Projekte, Aufgaben und Probleme.)
 * Legen Sie bei einer Person die Aufnahme- oder Planungsberichte/Dashboards fest, die für die Person während der Arbeitsinstallation oder Planungsphase des Projekt-/Arbeitsprozesses hilfreich sind. (Betrachten Sie Projekteigentümer, Führungskräfte/Sponsoren, Aufgabenverantwortliche, Anfragende usw.)
 
 Abschnitt 2: Ausführen (59%)
 
-* Erstellen Sie Workfront-Genehmigungen für die einmalige Verwendung und wann eine Genehmigung verwendet werden soll. (Beispiele: Projekt- und Aufgabengenehmigungen, Genehmigungen für mehrere Pfade und Mehrstufengenehmigungen.)
+* Erstellen [!DNL Workfront] Einzelanwendungsgenehmigungen und Zeitpunkt der Verwendung einer Genehmigung. (Beispiele: Projekt- und Aufgabengenehmigungen, Genehmigungen für mehrere Pfade und Mehrstufengenehmigungen.)
 * Identifizieren Sie bei einem Szenario die Informationen, die die Datentypen einem Projektmanager übermitteln. (Betrachten Sie geplante Datumswerte, tatsächliche Datumswerte, Komprimierungsdaten, geschätzte Datumswerte)
 * Ermitteln Sie in einem Szenario, wie sich unterschiedliche Aufgabenbegrenzungen auf die Projekt-Timeline bei Verwendung auswirken. (Beachten Sie, was die verschiedenen Aufgabenbegrenzungen tun, und wissen Sie, was die verschiedenen Aufgabenbegrenzungen sind und wann die verschiedenen Aufgabenbegrenzungen verwendet werden.)
 * Zeigen Sie in einem Szenario, wie Sie Projektteams finden und wie Sie sie über Arbeitsaufgaben, Aktualisierungen oder Fertigstellung von Arbeitselementen informieren. (Beachten Sie Benachrichtigungstypen, Benachrichtigungen des Projektteams, Personen-Registerkarte, Aktualisierungen von Projekten/Aufgaben, Zeitpunkt und Grund des Abonnements für ein Arbeitsobjekt und Informationen zum Ändern einzelner E-Mail-Benachrichtigungen)
@@ -177,14 +177,14 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 * [Anforderungswarteschlangen verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [Validierung der Arbeit](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html){target="_blank"}
-* [Freigeben eines Projekts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=de){target="_blank"}
+* [Projekt freigeben](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=de){target="_blank"}
 * [Bearbeiten von Projektvorlagen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html){target="_blank"}
 * [Zuweisen von Aufgaben aus dem Projektplan](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html){target="_blank"}
 * [Aufgabenübersicht](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/tasks-overview.html){target="_blank"}
 * [Übersicht über den Dauer-Typ: Berechnete Arbeit](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/tasks-overview.html){target="_blank"}
-* [Objekte in Adobe Workfront verstehen](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html){target="_blank"}
+* [Objekte im Adobe verstehen [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html){target="_blank"}
 * [Konvertieren von Problemen in andere Arbeitselemente](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html){target="_blank"}
-* [Freigeben eines Projekts in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-project.html){target="_blank"}
+* [Projekt auf Adobe freigeben [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-project.html){target="_blank"}
 * [Ressourcen-Manager für ein Projekt oder eine Vorlage bestimmen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/designate-resource-managers-for-projects-and-templates.html){target="_blank"}
 * [Erstellen von Dashboards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html){target="_blank"}
 
@@ -192,13 +192,13 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 * [Übersicht über den Genehmigungsprozess](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html){target="_blank"}
 * [Erstellen eines Genehmigungsprozesses für Arbeitselemente](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
-* [Konvertieren eines Problems in eine Aufgabe in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html){target="_blank"}
+* [Konvertieren eines Problems in eine Aufgabe unter Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html){target="_blank"}
 * [Erstellen von Problemen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/create-issues.html){target="_blank"}
 * [Ungeplante Arbeiten bewältigen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work.html){target="_blank"}
 * [Einfache Berichte erstellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-simple-report.html){target="_blank"}
 * [Datum bestätigen - Übersicht](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/update-work-on-a-project/overview-of-commit-dates.html){target="_blank"}
 * [Aufgabenbegrenzungen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html){target="_blank"}
-* [Gruppen vs. Teams in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams.html){target="_blank"}
+* [Gruppen im Vergleich zu Teams im Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams.html){target="_blank"}
 * [Projekte bearbeiten](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
 * [Erstellen eines agilen Teams](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [Verwenden der Iterationsseite](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/scrum/using-the-iteration-page.html){target="_blank"}
@@ -207,7 +207,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Übersicht über Projektbedingung und Bedingungstyp](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/project-condition-and-condition-type.html){target="_blank"}
 * [Typen von Datumsangaben und Status des Fortschritts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-task-dates-and-progress-status.html){target="_blank"}
 * [Verwalten der Arbeit Ihres Teams mithilfe von Dashboards](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/manage-your-team-s-work-using-dashboards/ba-p/518250){target="_blank"}
-* [Integrierte Adobe Workfront-Berichte verwenden](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html){target="_blank"}
+* [Adobe verwenden [!DNL Workfront] integrierte Berichte](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html){target="_blank"}
 
 
 **Abschnitt 3: Schließung**
@@ -223,7 +223,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung des Zertifikats auf den unten stehenden Link Workfront Project Manager Professional - AD5-833 .
 
-* [Workfront Project Manager Professional-Verlängerung - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
+* [Adobe [!DNL Workfront] Verlängerung des Projekts Manager Professional - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
 
 >[!NOTE]
 >
@@ -231,7 +231,7 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 
 +++
 
-++ + Workfront Core Developer Professional
++++[!DNL Workfront] Core Developer Professional
 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
@@ -248,7 +248,7 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 * Kosten: KOSTENLOS/NICHT VERARBEITET
 * Versand: On-Demand
 * Verfügbare Sprachen: Englisch
-* Voraussetzung: aktuelle (nicht abgelaufene) Adobe Workfront Core Developer Professional-Zertifizierung
+* Voraussetzung: aktuelle (nicht abgelaufene) Adobe [!DNL Workfront] Core Developer Professional-Zertifizierung
 * Prüfungs-ID: AD5-E835
 
 **Anwendungsbereich und Ziele**
@@ -292,43 +292,43 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 1: Strategie und Übernahme**
 
-* [Übersicht über Portfolio Optimizer](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html?lang=en){target="_blank"}
-* [Erstellen und Verwalten von Anforderungswarteschlangen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html?lang=en){target="_blank"}
-* [Zugriff auf Anforderungswarteschlangen gewähren](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html?lang=en){target="_blank"}
+* [Übersicht über Portfolio Optimizer](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html){target="_blank"}
+* [Erstellen und Verwalten von Anforderungswarteschlangen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html){target="_blank"}
+* [Zugriff auf Anforderungswarteschlangen gewähren](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html){target="_blank"}
 * [Übersicht über benutzerdefinierte Formulare](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 
 **Abschnitt 2: Haushalt und Planung**
 
-* [Suchen Sie den Lastenausgleich .](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html?lang=en){target="_blank"}
-* [Stapelweises Zuweisen von Arbeiten mithilfe des Lastenausgleichs](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
-* [Verwalten von Benutzerzuordnungen im Lastenausgleich](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html?lang=en){target="_blank"}
+* [Suchen Sie den Lastenausgleich .](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html){target="_blank"}
+* [Stapelweises Zuweisen von Arbeiten mithilfe des Lastenausgleichs](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
+* [Verwalten von Benutzerzuordnungen im Lastenausgleich](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html){target="_blank"}
 
 **Abschnitt 3: Anwendererlebnis**
 
-* [Wann und wie Benutzer deaktiviert oder gelöscht werden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html?lang=en){target="_blank"}
-* [Projektvorlagen freigeben](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html?lang=en){target="_blank"}
-* [Nach der Installation eines Blueprints zu ergreifende Maßnahmen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html?lang=en){target="_blank"}
-* [Erstellen eines Datenblatts für die einmalige Verwendung](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-tmshts.html?lang=en){target="_blank"}
+* [Wann und wie Benutzer deaktiviert oder gelöscht werden](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html){target="_blank"}
+* [Projektvorlagen freigeben](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html){target="_blank"}
+* [Nach der Installation eines Blueprints zu ergreifende Maßnahmen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html){target="_blank"}
+* [Erstellen eines Datenblatts für die einmalige Verwendung](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-tmshts.html){target="_blank"}
 
 **Abschnitt 4: Metriken und Berichterstellung**
 
-* [Adobe Workfront-Integrationen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html?lang=en){target="_blank"}
-* [Verwenden von Adobe Workfront-Plug-ins für Creative Cloud](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=en){target="_blank"}
-* [Berichte senden und freigeben](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en){target="_blank"}
-* [Erstellen von Dashboards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
+* [Adobe [!DNL Workfront] Integrationen](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html){target="_blank"}
+* [Adobe verwenden [!DNL Workfront] Plug-ins für Creative Cloud](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html){target="_blank"}
+* [Berichte senden und freigeben](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
+* [Erstellen von Dashboards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html){target="_blank"}
 
 **Abschnitt 5: Ausführung**
 
-* [Konvertieren eines Problems in ein Projekt in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html?lang=en){target="_blank"}
-* [Pinnwand erstellen oder bearbeiten](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en){target="_blank"}
-* [Hinzufügen oder Entfernen von Mitgliedern aus einer Pinnwand](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=en){target="_blank"}
-* [Grundlegendes zum Layout des Zeitplans](https://experienceleague.adobe.com/docs/workfront/using/timesheets/details/timesheet-layout.html?lang=en){target="_blank"}
+* [Konvertieren eines Problems in ein Projekt unter Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html){target="_blank"}
+* [Pinnwand erstellen oder bearbeiten](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html){target="_blank"}
+* [Hinzufügen oder Entfernen von Mitgliedern aus einer Pinnwand](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html){target="_blank"}
+* [Grundlegendes zum Layout des Zeitplans](https://experienceleague.adobe.com/docs/workfront/using/timesheets/details/timesheet-layout.html){target="_blank"}
 
 ## Zertifizierung verlängern
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den unten stehenden Link Workfront Core Developer Professional Erneuerung - AD5-835 .
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung der Zertifizierung auf die Schaltfläche [!DNL Workfront] Core Developer Professional-Verlängerung - AD5-E835-Link unten.
 
-* [Workfront Core Developer Professional-Verlängerung - AD5-835](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
+* [Adobe [!DNL Workfront] Core Developer Professional-Verlängerung - AD5-E835](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >
@@ -336,9 +336,98 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 
 +++
 
->[!TAB Experte]
+>[!TAB Expert]
 
-++ + Workfront Core-Entwicklerexperte
++++Adobe [!DNL Workfront] für Adobe [!DNL Experience Manager] Verbesserter Connector-Experte
+
+## Anweisungen zur Verlängerung Ihrer Zertifizierung:
+
+* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
+* **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
+* **Schritt 3**: Führen Sie die Prüfung durch.
+
+### Bereit
+
+**Prüfungsdetails:**
+
+* Übergeben der Punktzahl: 21/28
+* Zeit: 56 Minuten
+* Kosten: KOSTENLOS/NICHT VERARBEITET
+* Versand: On-Demand
+* Verfügbare Sprachen: Englisch
+* Voraussetzung: Adobe [!DNL Workfront] für Adobe [!DNL Experience Manager] Verbesserte Connector-Expertenzertifizierung
+* Prüfungs-ID: AD5-E849-Adobe [!DNL Workfront] für Adobe [!DNL Experience Manager] Verbesserter Connector-Experte
+
+**Anwendungsbereich und Ziele**
+
+Abschnitt 1: Technische Anforderungen 25 %
+
+* Verwendung [!DNL Workfront] Benutzerdefinierte Forms
+* In einem Szenario wird die Dokumentenverwaltung demonstriert
+* Demonstration der Kenntnisse zur Förderung von Code in allen Umgebungen
+* Identifizieren Sie bei einem Szenario, wie Werte an übergeben werden. [!DNL Workfront] benutzerdefinierte Formulare
+* Fehlerbehebung für serverseitigen Code
+
+Abschnitt 2: Konfiguration 26,25 %
+
+* Best Practices für die Benutzerverwaltung veranschaulichen
+* Anwenden von Verfahrenskonzepten, die zur Änderung bestehender AEM Asset-Workflows erforderlich sind
+* Treffen von Entscheidungen erforderlich, um das Metadatenschema für verschiedene Asset-Typen anzupassen
+* Anwenden AEM Verfahrenskonzepte für die Bereitstellung von OSGi-Bundles, Assets, Metadatenschemata, Tagging und Berechtigungen
+
+Abschnitt 3: Geschäftspraktiken 21,25 %
+
+* Interpretieren der Kundenanforderungen, um die entsprechenden Workflow-Strategien zu empfehlen
+* Veranschaulichen der Einrichtung [!DNL Workfront] Genehmigungs- und Testversandarbeitsabläufe
+* Identifizieren Sie in einem Szenario die Best Practices für die Verwendung der Funktion zum Testen von Viewer, Einstellungen und Markup
+* Nachweis eines Verständnisses für das Tracking von Sendungen im Rahmen der Kampagnenverwaltung
+* Ermitteln Sie bei einem Szenario die wichtigsten Aspekte des Änderungsverwaltens für ein [!DNL Workfront] Implementierung
+
+Abschnitt 4: Installation und Konfiguration von Connector 27,5 %
+
+* Validieren der Voraussetzungen in AEM
+* Identifizieren Sie bei einem Kundenanwendungsfall die Funktionen des zu implementierenden Connectors.
+
+**Abschnitt 1**
+
+* [Übertragen benutzerdefinierter Formulardaten beim Konvertieren eines Objekts](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreate_manage_Custom_Forms%2Ftransfer-custom-form-data-larger-item.html&amp;_LANG=en){target="_blank"}
+* [Benutzeroberfläche AssetManager](https://www.adobe.io/experience-manager/reference-materials/6-5/javadoc/com/day/cq/dam/api/AssetManager.html){target="_blank"}
+
+**Abschnitt 2**
+
+* [Benutzeroberfläche](https://www.adobe.io/experience-manager/reference-materials/6-5/javadoc/com/adobe/granite/asset/api/Asset.html){target="_blank"}
+* [Starten von Workflows](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/workflows-starting.html){target="_blank"}
+* [Variablen in AEM Workflows](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/using-variables-in-aem-workflows.html){target="_blank"}
+* [Schrittreferenz für Arbeitsabläufe](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-step-ref.html){target="_blank"}
+* [Hinzufügen oder Bearbeiten von Metadaten in Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html#applying-a-metadata-profile-to-folders){target="_blank"}
+
+**Abschnitt 3**
+
+* [Konfigurieren der Einstellungen des Testversand-Viewers](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReview_and_approve_work%2FProofing%2FReviewing_Proofs_within_Workfront%2Fconfigure-proofing-viewer-settings.html){target="_blank"}
+* [[!DNL Workfront] Dokumentation](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReview_and_approve_work%2FProofing%2FCreating_Proofs_within_Workfront%2Fconfigure-proof.html){target="_blank"}
+* [Meilensteinpfad erstellen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FConfigure_approval_milestone_processes%2Fcreate-milestone-path.html){target="_blank"}
+* [Benutzerdefiniertes Formular mit dem alten Formular-Builder erstellen oder bearbeiten](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreate_manage_Custom_Forms%2Fcreate-or-edit-a-custom-form.html){target="_blank"}
+* [7 Best Practices in der Kommunikation über das Change Management](https://whatfix.com/blog/best-practices-change-management-communication/){target="_blank"}
+
+**Abschnitt 4**
+
+* [Installieren [!DNL Workfront] für Experience Manager Enhanced Connector](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install.html){target="_blank"}
+* [Konfigurieren der Zulassungsliste Ihrer Firewall](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Fconfigure-your-firewall.html?lang=de){target="_blank"}
+* [Grundlegende Informationen für Ihr System konfigurieren](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Fconfigure-basic-info.html){target="_blank"}
+
+## Zertifizierung verlängern
+
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung der Zertifizierung auf die Adobe [!DNL Workfront] für Adobe [!DNL Experience Manager] Enhanced Connector Expert - Link AD5-E849 unten.
+
+* [Adobe [!DNL Workfront] für Adobe [!DNL Experience Manager] Verbesserter Connector-Expert - AD5-E849](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E849){target="_blank"}
+
+>[!NOTE]
+>
+>Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+
++++
+
++++Adobe [!DNL Workfront] Core-Entwicklerexpertenzertifizierung
 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
@@ -355,7 +444,7 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 * Kosten: KOSTENLOS/NICHT VERARBEITET
 * Versand: On-Demand
 * Verfügbare Sprachen: Englisch
-* Voraussetzung: aktuelle (nicht abgelaufene) Adobe Workfront Core Developer Expert-Zertifizierung
+* Voraussetzung: aktuelle (nicht abgelaufene) Adobe [!DNL Workfront] Core-Entwicklerexpertenzertifizierung
 * Prüfungs-ID: AD5-E829
 
 **Anwendungsbereich und Ziele**
@@ -384,14 +473,14 @@ Abschnitt 4: Dokumentenverwaltung und -nachweis (11 %)
 Abschnitt 5: Berichterstattung (11%)
 
 * Legen Sie bei einem Szenario fest, wie ein Feldtyp in einem Bericht dargestellt wird. (Feldtypen umfassen Rich-Text, Bilder, Mehrfachauswahl)
-* Ermitteln Sie Adobe Workfront-Funktionen, die die Überwachung und Verbesserung der Benutzerakzeptanz unterstützen.
+* Adobe identifizieren [!DNL Workfront] Funktionen zur Überwachung und Verbesserung der Benutzerakzeptanz.
 
 Abschnitt 6: Methode/Best Practices/Anwendungsfälle (29%)
 
-* In einem Szenario innerhalb von Workfront zeigen Sie die Funktionalität zum Einrichten des Trackings von Sendungen, die Teil einer Kampagne sind. (Betrachten Sie einen Marketing-Anwendungsfall.)
-* In einem Szenario innerhalb von Workfront Funktionen zu Finanzdienstleistungen, Nutzung, Prognosen, Abrechnungsraten/Datensätzen demonstrieren (professionelle Dienstleistungen)
-* In einem Szenario innerhalb von Workfront zeigen Sie die Funktionen zum Einrichten von Workflows und Genehmigungen. (Betrachten Sie Regulierungs-/Compliance-Situationen.)
-* Identifizieren Sie bei einem Szenario mit Workfront-Pinnwänden native Funktionen, um den Fortschritt anzuzeigen.
+* Bei einem Szenario in [!DNL Workfront], demonstrieren Sie die Funktionalität zum Einrichten des Trackings von Sendungen, die Teil einer Kampagne sind. (Betrachten Sie einen Marketing-Anwendungsfall.)
+* Bei einem Szenario in [!DNL Workfront], demonstrieren Sie Funktionalität rund um Finanzen, Nutzung, Prognosen, Abrechnungsraten/Datensätze (Professional Services)
+* Bei einem Szenario in [!DNL Workfront], demonstrieren Sie die Funktionen zum Einrichten von Workflows und Genehmigungen. (Betrachten Sie Regulierungs-/Compliance-Situationen.)
+* Bei einem Szenario mit [!DNL Workfront] Pinnwände, um den Fortschritt anzuzeigen, native Funktionen zu identifizieren.
 * In einem Szenario empfehlen Sie ein Framework für Governance rund um die System- und Gruppenverwaltung.
 
 ## Vorbereiten
@@ -414,13 +503,13 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 2: Aufnahme, benutzerdefinierte Forms und Projektmanagement**
 
-* [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Administration und Einrichtung, benutzerdefinierte Forms, Berichte, Berichterstellungselemente)
+* [[!DNL Workfront] Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Administration und Einrichtung, benutzerdefinierte Forms, Berichte, Berichterstellungselemente)
 * [Hinzufügen eines Abschnittsumbruchs zu einem benutzerdefinierten Formular mit dem Legacy-Formular](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/add-a-section-break-to-a-custom-form.html){target="_blank"}
 * [Platzhalterfiltervariablen](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html){target="_blank"}
 
 **Abschnitt 3: Strategische Funktionen (Portfolio- und Programmmanagement, Ressourcenmanagement)**
 
-* [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Der Arbeitslastausgleich, Ressourcenplanung in Adobe Workfront, Aufgaben zuweisen)
+* [[!DNL Workfront] Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Der Lastenausgleich, Ressourcenplanung im Adobe [!DNL Workfront], Aufgaben zuweisen)
 * [Stapelweises Zuweisen von Arbeiten mithilfe des Lastenausgleichs](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
 * [Budgetressourcen im Ressourcenplaner mithilfe der Projekt- und Rollenansichten](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner.html){target="_blank"}
 * [Filtern von Informationen im Arbeitslastausgleich](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html){target="_blank"}
@@ -429,7 +518,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 4: Dokumentenverwaltung und -nachweis**
 
-* [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Überprüfen und genehmigen Sie die Arbeit, Testversand konfigurieren, Integrationen konfigurieren)
+* [[!DNL Workfront] Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Überprüfen und genehmigen Sie die Arbeit, Testversand konfigurieren, Integrationen konfigurieren)
 * [Übersicht über das Profil für Testberechtigungen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
 * [Übersicht über Testrollen](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html){target="_blank"}
 * [Konfigurieren des Testversand-Zugriffs eines Benutzers](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/configure-a-users-proofing-access.html){target="_blank"}
@@ -438,7 +527,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 5: Berichterstattung**
 
-* [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Überprüfen und genehmigen Sie die Arbeit, Testversand konfigurieren, Integrationen konfigurieren)
+* [[!DNL Workfront] Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Überprüfen und genehmigen Sie die Arbeit, Testversand konfigurieren, Integrationen konfigurieren)
 * [Erstellen einer Projektvorlage](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
 * [Hinzufügen oder Bearbeiten von Bildern oder anderen Asset-Widgets in einem benutzerdefinierten Formular mit dem alten Formular-Builder](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-widget-or-edit-its-properties-in-a-custom-form.html){target="_blank"}
 * [Bericht anhand eines benutzerdefinierten Mehrfachauswahlfelds grafisch darstellen](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html){target="_blank"}
@@ -446,19 +535,19 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 6: Methode/Best Practices/Anwendungsfälle**
 
-* [as a Cloud Service Dokumentation zu Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=de){target="_blank"} - (Integration mit Adobe Workfront)
-* [Workfront-Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} (Berichterstellungselemente, Projektfinanzen, Ressourcenauslastung, Verwenden agiler Planungstools in Foren, Konfigurieren der Testversandfunktion)
-* [Webinar zu den Systemadministratorgrundlagen: Was ist Workfront Governance?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
-* [Konfigurieren der Asset-Metadatenzuordnung zwischen Adobe Workfront und Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html){target="_blank"}
+* [as a Cloud Service Dokumentation zu Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=de){target="_blank"} - (Integration mit Adobe [!DNL Workfront])
+* [[!DNL Workfront] Dokumentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} (Berichterstellungselemente, Projektfinanzen, Ressourcenauslastung, Verwenden agiler Planungstools in Foren, Konfigurieren der Testversandfunktion)
+* [Webinar zu den Systemadministratorgrundlagen: Was ist [!DNL Workfront] Governance?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
+* [Konfigurieren der Asset-Metadatenzuordnung zwischen Adobe [!DNL Workfront] und Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html){target="_blank"}
 * [Über Metadaten](https://www.adobe.com/digitalimag/pdfs/about_metadata.pdf){target="_blank"}
 * [Verwenden der Milestone-Ansicht](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
 * [Kosten verfolgen](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
 ## Zertifizierung verlängern
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den unten stehenden Link Workfront Core Developer Erneuerung - AD5-829 .
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung der Zertifizierung auf die Schaltfläche [!DNL Workfront] Kernentwickler-Erneuerung - Link AD5-829 unten.
 
-* [Verlängerung der Workfront Core Developer Expert - AD5-829](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E829){target="_blank"}
+* [Adobe [!DNL Workfront] Verlängerung von Entwicklerexperten - AD5-829](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E829){target="_blank"}
 
 >[!NOTE]
 >

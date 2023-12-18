@@ -6,16 +6,20 @@ role: Developer
 badge: label="Prüfung AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 3%
+source-wordcount: '736'
+ht-degree: 0%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>Diese Prüfung, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905) wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 26. Februar 2024 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir Ihnen, die [neueste Version dieser Prüfung (AD0-E908)](aw-core-p-developer-23-12.md).
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -74,19 +78,19 @@ Und Sie sollten:
 
 {{exam-objectives}}
 
-**Bereich 1. Strategie und Aufnahme (24%)**
+**Abschnitt 1. Strategie und Aufnahme (24%)**
 
 * Verwenden von Portfolios und Programmen
 * Verwenden von Anforderungswarteschlangen
 * Verwenden benutzerdefinierter Formulare
 * Grundlegende Genehmigungen verwenden
 
-**Bereich 2. Haushalt und Planung (11%)**
+**Abschnitt 2. Haushalt und Planung (11%)**
 
 * Verwenden des Ressourcen-Planers
 * Wenden Sie bei einem Szenario/einer Reihe von Anforderungen die Konfigurationen an, um eine Projektvorlage einzurichten.
 
-**Bereich 3. Anwendererlebnis (25 %)**
+**Abschnitt 3. Anwendererlebnis (25 %)**
 
 * Best Practices für die Benutzerverwaltung bei der Erstellung des richtigen Benutzererlebnisses
 * Wenden Sie bei einem Szenario das richtige Setup für Freigabe- und Zugriffsberechtigungen im gesamten System an
@@ -94,13 +98,13 @@ Und Sie sollten:
 * Erstellen und Verwenden von Timesheets
 * Zweck und Wert von Connectoren, Plug-ins und Add-ons beschreiben
 
-**Bereich 4. Metriken und Berichterstellung (16%)**
+**Abschnitt 4. Metriken und Berichterstellung (16%)**
 
 * Grundlegende Konzepte zum Erstellen, Senden und Anpassen von Berichten beschreiben
 * Dashboards erstellen und anpassen
 * Darstellung der Konfiguration funktionaler Ansichten von Berichten
 
-**Bereich 5. Ausführung (24%)**
+**Abschnitt 5. Ausführung (24%)**
 
 * Demonstration der Einrichtung von Genehmigungs- und Testversandarbeitsabläufen
 * Erkennen des Zwecks der Erstellung eines Problems für ein Projekt
@@ -144,7 +148,7 @@ Und Sie sollten:
 * [Erstellen einer Anforderungswarteschlange](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
 * [Anforderungswarteschlangen verstehen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [Übersicht über benutzerdefinierte Formulare](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
-* [Erstellen und Freigeben eines benutzerdefinierten Formulars](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
+* [Benutzerdefiniertes Formular erstellen und freigeben](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
 
 **Abschnitt 2: Haushalt und Planung**
 
@@ -160,13 +164,13 @@ Und Sie sollten:
 * [Best Practices - Onboarding und Adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [Erstellen eines individuellen Benutzerprofils](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
 * [System-Setup: Gruppen und Benutzer](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
-* [Freigeben eines Projekts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=de){target="_blank"}
+* [Projekt freigeben](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=de){target="_blank"}
 * [Wie Zugriffsebenen und Berechtigungen zusammenarbeiten](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [Daten in Adobe importieren [!DNL Workfront] Verwendung einer Kick-Start-Vorlage](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
 
 **Abschnitt 4: Metriken und Berichte**
 
-* [Erstellen benutzerspezifischer Berichte](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
+* [Benutzerdefinierten Bericht erstellen](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
 * [Berichte senden und freigeben](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
 * [Best Practice - Benutzerspezifische Berichte](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html){target="_blank"}
 
@@ -211,6 +215,10 @@ Und Sie sollten:
 {{about-certification-exam}}
 
 ## Prüfung AD0-E905 planen oder durchführen
+
+>[!NOTE]
+>
+>Diese Prüfung, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905) wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 26. Februar 2024 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir Ihnen, die [neueste Version dieser Prüfung (AD0-E908)](aw-core-p-developer-23-12.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 

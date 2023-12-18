@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d8759508e4f618a8c66c91c9ebce0478f2bd5168
 workflow-type: tm+mt
-source-wordcount: '2139'
-ht-degree: 14%
+source-wordcount: '1862'
+ht-degree: 3%
 
 ---
 
@@ -107,33 +107,33 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-**Bereich 1**
+**Abschnitt 1**
 
 * [Cookies in Analytics](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html?lang=de)
 * [Hinzufügen von Datenelementen, Regeln und Bibliotheken](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html?lang=de){target="_blank"}
-* [Fügen Sie den Einbettungs-Code hinzu](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html?lang=de){target="_blank"}
+* [Hinzufügen des Einbettungscodes](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html?lang=de){target="_blank"}
 
-**Bereich 2**
+**Abschnitt 2**
 
 * [Validieren der globalen Seitenladeregel in Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.html){target="_blank"}
 * [Satellitenobjektreferenz](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
 * [linkTrackEvents](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linktrackevents.html){target="_blank"}
 
-**Bereich 3**
+**Abschnitt 3**
 
 * [appendVisitorIDsTo (domänenübergreifendes Tracking)](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/appendvisitorid.html?lang=de){target="_blank"}
 * [s_objectID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/s-objectid.html){target="_blank"}
 * [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
 
-**Bereich 4**
+**Abschnitt 4**
 
-* [Fügen Sie den Einbettungs-Code hinzu](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html?lang=de){target="_blank"}
-* [Adobe Experience Cloud Identity Service-Erweiterung – Übersicht](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/id-service/overview.html?lang=de){target="_blank"}
+* [Hinzufügen des Einbettungscodes](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html?lang=de){target="_blank"}
+* [Übersicht über die Adobe Experience Cloud Identity Service-Erweiterung](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/id-service/overview.html?lang=de){target="_blank"}
 * [Opt-in-Referenz](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
 
-**Bereich 5**
+**Abschnitt 5**
 
-* [Analytics-Exportanleitung](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=de){target="_blank"}
+* [Exportleitfaden für Analytics](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=de){target="_blank"}
 * [Funktionsweise von Verarbeitungsregeln](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 * [Adobe Analytics-APIs](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 
@@ -231,35 +231,35 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-**Bereich 1**
+**Abschnitt 1**
 
 * [Übersicht über die Beitragsanalyse](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=de)
 * [Analysis Workspace – Übersicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=de)
 * [Konversionstrichter](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
 * [Einstiegsdimensionen](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
-**Bereich 2**
+**Abschnitt 2**
 
 * [Freigeben von Projekten](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=de)
 * [Komponentenübersicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=de)
-* [Warnhinweiserstellung](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+* [Warnhinweiserstellung](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html?lang=de)
 * [Erstellen einer mobilen Scorecard](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=de)
 
-**Bereich 3**
+**Abschnitt 3**
 
 * [Segmentvergleich](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=de)
-* [Erstellen von Metriken](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=de)
+* [Metriken erstellen](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=de)
 * [Verwenden von Dropdown-Filtern in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=de)
 * [Segmente taggen](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
-**Bereich 4**
+**Abschnitt 4**
 
 * [Fehlerbehebung bei Datenspitzen und Datenrückgängen](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
 * [Benutzerspezifische Ereignisse](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=de)
 * [Herunterladen von PDF- oder CSV-Dateien](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=de)
 * [Anfängerhandbuch zu URL-Parametern](https://www.semrush.com/blog/url-parameters/)
 
-**Bereich 5**
+**Abschnitt 5**
 
 * [Verarbeitungsregeln für Marketing-Kanäle](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
 * [Übersicht über Klassifizierungen](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=de)
