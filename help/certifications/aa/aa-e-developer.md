@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Prüfung AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '809'
-ht-degree: 14%
+source-wordcount: '707'
+ht-degree: 2%
 
 ---
 
@@ -53,7 +53,7 @@ Sie, da der Analytics-Entwickler die Tags selten auf der Seite implementiert, we
 
 Sie sollten mit den folgenden Tools und Umgebungen vertraut sein:
 
-Tools:
+Instrumente:
 
 * Adobe Experience Platform Launch (Adobe Launch)
 * Debugging-Tools für [!DNL Adobe Analytics] (Paketmonitor, z. B. Adobe Debugger, Browser-Entwicklertools, Charles)
@@ -150,36 +150,36 @@ Umgebungen:
 **Abschnitt 1: Grundlegendes zu Analytics im Adobe Experience Cloud-Ökosystem**
 
 * [Technische Hinweise zu Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=de){target="_blank"}
-* [Einrichten von Analytics- und Experience Cloud IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=de){target="_blank"}
-* [Videos und Tutorials zu Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=de){target="_blank"}
+* [Einrichten von Analytics- und Experience Cloud-IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=de){target="_blank"}
+* [Analytics-Videos und -Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Strategie und Design basierend auf einer Lösungsdesignreferenz (Solution Design Reference, SDR)**
 
-* [Verwalten von Ressourcen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
+* [Ressourcen verwalten](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
 * [[!DNL Adobe Analytics] Dokumentation](https://experienceleague.adobe.com/docs/analytics.html?lang=de)
 
 **Abschnitt 3: Analytics-Implementierung und -Konfiguration**
 
-* [Implementieren von  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=de){target="_blank"}
-* [Verstehen und Erstellen von Report Suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=de){target="_blank"}
-* [Konfigurieren der Linktracking für [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html?lang=de){target="_blank"}
+* [Implementierung [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=de){target="_blank"}
+* [Grundlagen und Erstellen von Report Suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=de){target="_blank"}
+* [Konfigurieren der Linktracking für [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
 
 **Abschnitt 4: Tag-Management-Systeme**
 
-* [Tag-Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
+* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
 * [Übersicht über Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=de){target="_blank"}
 * [Übersicht](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=de){target="_blank"}
 
 **Abschnitt 5: Mobile Services**
 
-* [Implementieren von Analytics für Mobilgeräte](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
+* [Analytics für Mobilgeräte implementieren](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
 * [Migrieren Sie die Verarbeitungsregeln für Mobile Services zu [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
 
 **Abschnitt 6: Tests, Validierung und Fehlerbehebung**
 
 * [Übersicht über Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html?lang=de){target="_blank"}
 * [Aktivieren, Debuggen und Anpassen des [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
-* [Optimieren der Leistung von Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=de){target="_blank"}
+* [Optimieren der Analysis Workspace-Leistung](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=de){target="_blank"}
 
 <br>
 
@@ -222,14 +222,14 @@ Umgebungen:
 
 ## Prüfung AD0-E209-J (Japanisch) planen oder durchführen
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Gehen Sie zum Examity-Portal - japanische Prüfung
 </span>
 </a>
-
-[Japanische Anweisungen für die Planung](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

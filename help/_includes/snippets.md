@@ -1,7 +1,7 @@
 ---
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '1741'
+source-wordcount: '1746'
 ht-degree: 0%
 
 ---
@@ -137,9 +137,9 @@ Massenrabatte sind verfügbar:
 
 | Menge | Rabatt |
 |---|---|
-| 10-24 | 20 % |
+| 24.10. | 20 % |
 | 25-49 | 25 % |
-| 50+ | 33% |
+| 50+ | 33 % |
 
 Partnerrabatte: Partner auf Bronze-Ebene und höher erhalten Rabatte auf alle Adobe-Zertifizierungsprüfungen und -Klassen. Weitere Informationen zu diesen Rabatten und wie Sie auf Partnervorteile im Solution Partner Portal zugreifen können.
 
@@ -220,3 +220,9 @@ Ihr Abzeichen dient als greifbarer Beweis für Ihre Kompetenz mit Adobe Experien
 Die Zertifizierungen laufen nach zwei Jahren ab. Um Ihre Zertifizierung beizubehalten, müssen Sie sie verlängern, bevor sie abläuft. Besuchen Sie die [Zertifizierung verlängern](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} für weitere Informationen.
 
 <!--divider-->
+
+## Details zur japanischen Prüfung {#Japanese-exam-details}
+
+Bitte planen Sie Ihre Prüfung zwischen Sonntag - Donnerstag 17:00 - 2:00 Uhr ET, um sicherzustellen, dass wir einen japanischsprachigen Proktor zuweisen können. Wenn Sie außerhalb dieser Stunden planen, können wir keinen japanischsprachigen Produzenten garantieren.
+
+[Japanische Anweisungen für die Planung](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
