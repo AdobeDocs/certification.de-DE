@@ -1,5 +1,5 @@
 ---
-source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
+source-git-commit: fa645594bc1c3996182282abfede63267de5d238
 workflow-type: tm+mt
 source-wordcount: '1769'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Auf dieser Seite finden Sie Informationen zum Erhalt dieser Zertifizierung. Es enthält eine Beschreibung der Prüfung, des Studienmaterials, eine schrittweise Anleitung zum Zertifizierungsprozess und eine Anleitung zur Verlängerung Ihrer Zertifizierung.
 
->[!WARNING]
+>[!NOTE]
 >
 >Adobe wird vom 22. Dezember 2023 bis zum 1. Januar 2024 geschlossen. Bitte erwarten Sie in diesem Zeitraum Verzögerungen bei der Beantwortung von Supportanfragen. Wir schätzen Ihre Geduld.
 
