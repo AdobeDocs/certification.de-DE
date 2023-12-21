@@ -1,13 +1,13 @@
 ---
 title: Erste Schritte mit Adobe-Zertifikaten
-description: Machen Sie erste Schritte mit  [!DNL Experience Cloud] -Zertifizierungen. Erfahren Sie mehr über das Programm und diese Website.
+description: Erste Schritte mit [!DNL Experience Cloud] Zertifizierungen. Erfahren Sie mehr über das Programm und diese Website.
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '811'
-ht-degree: 2%
+source-wordcount: '825'
+ht-degree: 1%
 
 ---
 
@@ -15,9 +15,14 @@ ht-degree: 2%
 
 Die Adobe dienen der Validierung von Kenntnissen und Fertigkeiten von Fachleuten, die mit unseren digitalen Marketinglösungen arbeiten. Verwenden Sie die folgenden Tabs, um sich mit dem Zertifizierungsprogramm vertraut zu machen.
 
->[!TIP]
+>[!NOTE]
 >
->**Unser Jahresende-Verkauf beginnt am Cyber Montag!** <br><br> Erhalten Sie 50 % Rabatt auf die Zertifizierungsprüfungen vom Adobe Digital Experience Credential Program, vom 27. November bis 31. Dezember. Dieses Angebot ist nur gültig, wenn Sie über die Variable [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Angebotscode verwenden **Urlaub2023** an der Kasse. <br><br> <i>Dieses Angebot ist nur für den genannten Zeitraum verfügbar, gilt nur für neue Bestellungen und kann nicht auf zuvor platzierte Bestellungen angewendet werden. Die Gutscheincodes sind ein Jahr ab Kaufdatum gültig.</i>
+>Adobe wird vom 22. Dezember 2023 bis zum 1. Januar 2024 geschlossen. Bitte erwarten Sie in diesem Zeitraum Verzögerungen bei der Beantwortung von Supportanfragen. Wir schätzen Ihre Geduld.
+
+>[!BEGINSHADEBOX]
+>
+>**50% Rabatt auf den Gutscheinverkauf!** <br><br> Erhalten Sie 50 % Rabatt auf die Zertifizierungsprüfungen vom Adobe Digital Experience Credential Program, vom 27. November bis 31. Dezember. Dieses Angebot ist nur gültig, wenn Sie über die Variable [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Angebotscode verwenden **Urlaub2023** an der Kasse. <br><br> <i>Dieses Angebot ist nur für den genannten Zeitraum verfügbar, gilt nur für neue Bestellungen und kann nicht auf zuvor platzierte Bestellungen angewendet werden. Die Gutscheincodes sind ein Jahr ab Kaufdatum gültig.</i>
+>[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 

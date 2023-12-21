@@ -1,13 +1,13 @@
 ---
 title: Zertifizierung – Startseite
-description: Informationen zur  [!DNL Experience Cloud] -Zertifizierung bei Adobe. Finden Sie heraus, was eine Zertifizierung für Sie bedeuten kann.
+description: Informationen zu [!DNL Experience Cloud] Zertifizierung bei Adobe. Finden Sie heraus, was eine Zertifizierung für Sie bedeuten kann.
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 9%
+source-wordcount: '498'
+ht-degree: 5%
 
 ---
 
@@ -17,9 +17,14 @@ Erfahren Sie mehr über Zertifizierung bei Adobe und darüber, was eine Zertifiz
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
->[!TIP]
+>[!NOTE]
 >
->**Unser Jahresende-Verkauf beginnt am Cyber Montag!** <br><br> Erhalten Sie 50 % Rabatt auf die Zertifizierungsprüfungen vom Adobe Digital Experience Credential Program, vom 27. November bis 31. Dezember. Dieses Angebot ist nur gültig, wenn Sie über die Variable [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Angebotscode verwenden **Urlaub2023** an der Kasse. <br><br> <i>Dieses Angebot ist nur für den genannten Zeitraum verfügbar, gilt nur für neue Bestellungen und kann nicht auf zuvor platzierte Bestellungen angewendet werden. Die Gutscheincodes sind ein Jahr ab Kaufdatum gültig.</i>
+>Adobe wird vom 22. Dezember 2023 bis zum 1. Januar 2024 geschlossen. Bitte erwarten Sie in diesem Zeitraum Verzögerungen bei der Beantwortung von Supportanfragen. Wir schätzen Ihre Geduld.
+
+>[!BEGINSHADEBOX]
+>
+>**50% Rabatt auf den Gutscheinverkauf!** <br><br> Erhalten Sie 50 % Rabatt auf die Zertifizierungsprüfungen vom Adobe Digital Experience Credential Program, vom 27. November bis 31. Dezember. Dieses Angebot ist nur gültig, wenn Sie über die Variable [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Angebotscode verwenden **Urlaub2023** an der Kasse. <br><br> <i>Dieses Angebot ist nur für den genannten Zeitraum verfügbar, gilt nur für neue Bestellungen und kann nicht auf zuvor platzierte Bestellungen angewendet werden. Die Gutscheincodes sind ein Jahr ab Kaufdatum gültig.</i>
+>[!ENDSHADEBOX]
 
 Das Adobe Digital Experience Credential Programm wurde entwickelt, um Ihnen beim Nachweis Ihrer Kenntnisse im Adobe zu helfen. [!DNL Experience Cloud] Produkte. Mit der Zertifizierung als Adobe können Sie Ihr Fachwissen präsentieren und Kunden und Arbeitgeber gleichermaßen beeindrucken.
 

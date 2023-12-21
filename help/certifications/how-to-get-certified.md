@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie bei Adobe zertifiziert werden. Finden Sie all
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '1550'
-ht-degree: 2%
+source-wordcount: '1503'
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,14 @@ ht-degree: 2%
 
 Erfahren Sie, wie Sie bei Adobe zertifiziert werden. Finden Sie alle Ressourcen, die Sie vor, während und nach der Zertifizierung benötigen.
 
->[!TIP]
+>[!NOTE]
 >
->**Unser Jahresende-Verkauf beginnt am Cyber Montag!** <br><br> Erhalten Sie 50 % Rabatt auf die Zertifizierungsprüfungen vom Adobe Digital Experience Credential Program, vom 27. November bis 31. Dezember. Dieses Angebot ist nur gültig, wenn Sie über die Variable [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Angebotscode verwenden **Urlaub2023** an der Kasse. <br><br> <i>Dieses Angebot ist nur für den genannten Zeitraum verfügbar, gilt nur für neue Bestellungen und kann nicht auf zuvor platzierte Bestellungen angewendet werden. Die Gutscheincodes sind ein Jahr ab Kaufdatum gültig.</i>
+>Adobe wird vom 22. Dezember 2023 bis zum 1. Januar 2024 geschlossen. Bitte erwarten Sie in diesem Zeitraum Verzögerungen bei der Beantwortung von Supportanfragen. Wir schätzen Ihre Geduld.
+
+>[!BEGINSHADEBOX]
+>
+>**50% Rabatt auf den Gutscheinverkauf!** <br><br> Erhalten Sie 50 % Rabatt auf die Zertifizierungsprüfungen vom Adobe Digital Experience Credential Program, vom 27. November bis 31. Dezember. Dieses Angebot ist nur gültig, wenn Sie über die Variable [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Angebotscode verwenden **Urlaub2023** an der Kasse. <br><br> <i>Dieses Angebot ist nur für den genannten Zeitraum verfügbar, gilt nur für neue Bestellungen und kann nicht auf zuvor platzierte Bestellungen angewendet werden. Die Gutscheincodes sind ein Jahr ab Kaufdatum gültig.</i>
+>[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 
@@ -63,9 +68,9 @@ Wenn Sie beim ersten Versuch keine Adobe-Zertifizierungsprüfung bestehen, müss
 
 | Adobe-Zertifikat | Preis (USD) | Indien Preis (USD) |
 | ------- | ------- | ------- |
-| Adobe Certified Professional | $125 | 95$ |
-| Adobe Certified Expert | $225 | $150 |
-| Adobe Certified Master | $225 | $150 |
+| Adobe Certified Professional | 125 $ | 95$ |
+| Adobe Certified Expert | 225 $ | 150$ |
+| Adobe Certified Master | 225 $ | 150$ |
 
 **Erneuerungspreise**
 
@@ -91,9 +96,9 @@ Hinweis: Massenrabatte können nicht mit anderen Angeboten oder Rabatten kombini
 
 | Menge | % Rabatt |
 | ------- | ------- |
-| 10-24 | 20 % |
+| 24.10. | 20 % |
 | 25-49 | 25 % |
-| 50+ | 33% |
+| 50+ | 33 % |
 
 >[!TAB Zertifizierungsanbieter]
 
@@ -101,7 +106,7 @@ Das Adobe Credential-Team arbeitet mit Anbietern zusammen, um die Programminitia
 
 | Name des Anbieters | Beschreibung | Supportseite/E-Mail |
 | ------- | ------- | ------- |
-| Kreativ | Badge Management System | [-Support](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
+| Kreativ | Badge Management System | [Support](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | Prüfung | Testversandanbieter (nur Online-Verarbeitung) | [Email](mailto:support@examity.com){target="_blank"} oder 855-Untersuchung (855-392-6489) |
 | Xvoucher - Adobe Certification Voucher Center | Gutscheinzentrum zum Erwerb von individuellen oder Massengutscheinen | [Email](mailto:support@xvoucher.com){target="_blank"} oder [Online-Hilfe](https://help.xvoucher.com/hc/en-us) |
 
@@ -110,7 +115,7 @@ Andere Ressourcen des Anbieters:
 **Prüfung**
 
 * [Online-Verarbeitungshandbuch für Examity](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
-* [Häufig gestellte Fragen](https://www.examity.com/faq/test-takers/){target="_blank"}
+* [FAQs](https://www.examity.com/faq/test-takers/){target="_blank"}
 * [Systemanforderungen für Prüfer](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!NOTE]
