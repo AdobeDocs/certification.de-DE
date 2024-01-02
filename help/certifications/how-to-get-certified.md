@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie bei Adobe zertifiziert werden. Finden Sie all
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: fa645594bc1c3996182282abfede63267de5d238
+source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
 workflow-type: tm+mt
-source-wordcount: '1503'
+source-wordcount: '1402'
 ht-degree: 0%
 
 ---
@@ -14,20 +14,6 @@ ht-degree: 0%
 # Zertifizierungen{#how}
 
 Erfahren Sie, wie Sie bei Adobe zertifiziert werden. Finden Sie alle Ressourcen, die Sie vor, während und nach der Zertifizierung benötigen.
-
->[!NOTE]
->
->Adobe wird vom 22. Dezember 2023 bis zum 1. Januar 2024 geschlossen. Bitte erwarten Sie in diesem Zeitraum Verzögerungen bei der Beantwortung von Supportanfragen. Wir schätzen Ihre Geduld.
-
->[!BEGINSHADEBOX]
-
-**50% Rabatt auf den Gutscheinverkauf!**
-
-Erhalten Sie 50 % Rabatt auf die Zertifizierungsprüfungen vom Adobe Digital Experience Credential Program, vom 27. November bis 31. Dezember. Dieses Angebot ist nur gültig, wenn Sie über die Variable [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Angebotscode verwenden **Urlaub2023** an der Kasse.
-
-<i>Dieses Angebot ist nur für den genannten Zeitraum verfügbar, gilt nur für neue Bestellungen und kann nicht auf zuvor platzierte Bestellungen angewendet werden. Die Gutscheincodes sind ein Jahr ab Kaufdatum gültig.</i>
-
->[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 

@@ -4,30 +4,16 @@ description: Erste Schritte mit [!DNL Experience Cloud] Zertifizierungen. Erfahr
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: fa645594bc1c3996182282abfede63267de5d238
+source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
 workflow-type: tm+mt
-source-wordcount: '825'
-ht-degree: 1%
+source-wordcount: '724'
+ht-degree: 2%
 
 ---
 
 # Erste Schritte {#getting-started}
 
 Die Adobe dienen der Validierung von Kenntnissen und Fertigkeiten von Fachleuten, die mit unseren digitalen Marketinglösungen arbeiten. Verwenden Sie die folgenden Tabs, um sich mit dem Zertifizierungsprogramm vertraut zu machen.
-
->[!NOTE]
->
->Adobe wird vom 22. Dezember 2023 bis zum 1. Januar 2024 geschlossen. Bitte erwarten Sie in diesem Zeitraum Verzögerungen bei der Beantwortung von Supportanfragen. Wir schätzen Ihre Geduld.
-
->[!BEGINSHADEBOX]
-
-**50% Rabatt auf den Gutscheinverkauf!**
-
-Erhalten Sie 50 % Rabatt auf die Zertifizierungsprüfungen vom Adobe Digital Experience Credential Program, vom 27. November bis 31. Dezember. Dieses Angebot ist nur gültig, wenn Sie über die Variable [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Angebotscode verwenden **Urlaub2023** an der Kasse.
-
-<i>Dieses Angebot ist nur für den genannten Zeitraum verfügbar, gilt nur für neue Bestellungen und kann nicht auf zuvor platzierte Bestellungen angewendet werden. Die Gutscheincodes sind ein Jahr ab Kaufdatum gültig.</i>
-
->[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 
