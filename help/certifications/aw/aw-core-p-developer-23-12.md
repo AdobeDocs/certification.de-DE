@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="Prüfung AD0-E908" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
+source-git-commit: 87f0c3b4ff24d750cd528009001012b6e4f5724c
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Dies ist die neueste Adobe [!DNL Workfront] Core-Entwicklerprüfung (ADO-E908). Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version (ADO-E905)](aw-core-p-developer.md)müssen Sie sie bis zum 26. Februar 2024 abschließen.
+>Dies ist die neueste Adobe [!DNL Workfront] Core-Entwicklerprüfung (ADO-E908). Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version (ADO-E905)](aw-core-p-developer.md)müssen Sie sie bis zum 26. Februar 2024 abschließen. Wenn du eine Neuplanung vornehmen musst, musst du die neue Prüfung ablegen.
 
 ## Prüfbeschreibung {#exam-description}
 
