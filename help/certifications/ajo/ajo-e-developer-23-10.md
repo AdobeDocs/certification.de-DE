@@ -5,20 +5,17 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="Prüfung AD0-E606" type="neutral"
-source-git-commit: 2181390cb00114540230097e9d21fbc2602aad9c
+exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '679'
-ht-degree: 7%
+source-wordcount: '591'
+ht-degree: 2%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Journey Optimizer] Entwicklerexperte
 
 {{intro}}
-
->[!NOTE]
->
->Dies ist die neueste Adobe [!DNL Journey Optimizer] Entwicklerexpertenprüfung (AD0-E606). Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](ajo-e-developer.md)müssen Sie sie bis zum 22. Dezember 2023 abschließen.
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -143,7 +140,7 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 **Abschnitt 4: Inhaltserstellung**
 
 * [AJO-Anleitung, SMS-Kanal, Datenschutz, Konfiguration, Journey, Ausdrücke, Content Management, Tracking und Überwachung, Push-Benachrichtigungskanal](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
-* [Journey Optimizer-Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de){target="_blank"}
+* [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de){target="_blank"}
 
 **Abschnitt 5: Datenmodellierung**
 
@@ -175,10 +172,6 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 {{about-certification-exam}}
 
 ## Prüfung AD0-E606 planen oder durchführen
-
->[!NOTE]
->
->Dies ist die neueste Adobe [!DNL Journey Optimizer] Entwicklerexpertenprüfung (AD0-E606). Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](ajo-e-developer.md)müssen Sie sie bis zum 22. Dezember 2023 abschließen.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 

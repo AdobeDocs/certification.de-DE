@@ -6,10 +6,11 @@ product: Journey Optimizer
 role: Developer
 badge: label="Prüfung AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: 1b8b15e7cb9db45cfa7400617a66a8f5e8f4f30e
+hidefromtoc: true
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '673'
-ht-degree: 15%
+source-wordcount: '628'
+ht-degree: 5%
 
 ---
 
@@ -139,7 +140,7 @@ Sie sollten über mindestens ein Jahr Erfahrung mit verschiedenen CDP- und Marke
 
 **Abschnitt 1: Verwaltung und Konfiguration**
 
-* [Dokumentation zu Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 
    * Zugriffssteuerung
    * Konfigurieren von Nachrichten
@@ -152,7 +153,7 @@ Sie sollten über mindestens ein Jahr Erfahrung mit verschiedenen CDP- und Marke
 
 **Abschnitt 2: AEP Foundation**
 
-* [Dokumentation zu Adobe  [!DNL Experience Platform] ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de){target="_blank"}
+* [Adobe [!DNL Experience Platform] Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de){target="_blank"}
 
    * XDM-Handbuch
    * Handbuch zum Echtzeit-Kundenprofil
@@ -170,7 +171,7 @@ Sie sollten über mindestens ein Jahr Erfahrung mit verschiedenen CDP- und Marke
 
 **Abschnitt 3: Offer decisioning**
 
-* [Dokumentation zu Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 
    * Entscheidungs-Management
 
@@ -180,7 +181,7 @@ Sie sollten über mindestens ein Jahr Erfahrung mit verschiedenen CDP- und Marke
 
 **Abschnitt 4: Inhaltserstellung**
 
-* [Dokumentation zu Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 
    * Inhaltserstellung
    * Journeys
@@ -190,10 +191,10 @@ Sie sollten über mindestens ein Jahr Erfahrung mit verschiedenen CDP- und Marke
 
 **Abschnitt 5: Journey Orchestration**
 
-* [Dokumentation zu Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 
    * Journeys
-   * Nachverfolgen und Überwachen
+   * Verfolgen und überwachen
    * Segmente
    * Profile und Identitäten
 
