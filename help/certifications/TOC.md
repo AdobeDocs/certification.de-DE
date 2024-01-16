@@ -2,9 +2,9 @@
 user-guide-title: Zertifizierung bei Adobe
 breadcrumb-title: Zertifizierung bei Adobe
 user-guide-description: Informationen zu [!DNL Experience Cloud] Zertifizierung bei Adobe. Finden Sie heraus, was eine Zertifizierung für Sie bedeuten kann.
-source-git-commit: bb24587d80c6607219d36fca9dd63a578ccf08d6
+source-git-commit: b8ace7d5d249933e54f6828356cd7e569bfe3f84
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '252'
 ht-degree: 32%
 
 ---
@@ -119,7 +119,6 @@ ht-degree: 32%
          + [Business Practitioner](/help/certifications/rtcdp/rtcdp-p-business.md)
       + Expert {#rtcdp-expert}
          + [Entwickler](/help/certifications/rtcdp/rtcdp-e-developer.md)
-         + [Technische Fachkraft](/help/certifications/rtcdp/rtcdp-e-technical.md)
       + [Verlängerung](/help/certifications/rtcdp/rtcdp-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
       + [Übersicht über Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
