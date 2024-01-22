@@ -7,10 +7,10 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: dcad25077afd7883333326939ce8751eee191f36
 workflow-type: tm+mt
-source-wordcount: '2085'
-ht-degree: 2%
+source-wordcount: '1657'
+ht-degree: 0%
 
 ---
 
@@ -99,7 +99,7 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-**Bereich 1**
+**Abschnitt 1**
 
 * [Adobe [!DNL Commerce] Anleitung für Inhalt und Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=de){target="_blank"}
 * [Widgets](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
@@ -112,7 +112,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Bestellstatus](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html){target="_blank"}
 * [Business Intelligence](https://experienceleague.adobe.com/docs/commerce-admin/start/reporting/business-intelligence.html){target="_blank"}
 
-**Bereich 2**
+**Abschnitt 2**
 
 * [Übersicht zu Page Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/content/page-builder-overview.html)
 * [E-Mail-Vorlagen](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
@@ -122,7 +122,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Pro Architektur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
 * [Sicherheit](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/cloud/security.html){target="_blank"}
 
-**Bereich 3**
+**Abschnitt 3**
 
 * [Google Analytics](https://experienceleague.adobe.com/docs/commerce-admin/marketing/google-tools/google-analytics.html){target="_blank"}
 * [SEO-Übersicht](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
@@ -130,7 +130,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [PCI-Compliance](https://business.adobe.com/de/products/magento/pci-compliance.html){target="_blank"}
 * [Lernen Sie den Unterschied zwischen Omnichannel- und Multichannel-Marketing kennen](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
 
-**Bereich 4**
+**Abschnitt 4**
 
 * [DSGVO](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/privacy/gdpr.html){target="_blank"}
 * [Adobe [!DNL Commerce] Best Practices für die Sicherheit](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
@@ -174,7 +174,7 @@ Adobe [!DNL Commerce] Entwickler Professional
 **Prüfungsdetails:**
 
 * Niveau: Professional (0-12 Monate Erfahrung)
-* Übergeben der Bewertung: 228/37
+* Übergeben der Punktzahl: 28/37
 * Zeit: 74 Minuten
 * Versand: On-Demand/nicht verarbeitet
 * Verfügbare Sprachen: Englisch
@@ -244,33 +244,33 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-**Bereich 1**
+**Abschnitt 1**
 
 * [Erstellen einer ACL-Regel (Access Control List)](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
 * [Admin-Raster hinzufügen](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
 * [system.xml-Referenz](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
 
-**Bereich 2**
+**Abschnitt 2**
 
 * [Routing](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
 * [URL-Neuschreibungen](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
 * [Cachetypkonfiguration](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
-* [Site-, Store- und Ansichtsbereich](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
+* [Site-, Store- und Ansichtsbereich](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=de){target="_blank"}
 * [Befehlszeilen-Tool](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
 * [Konfiguration der Abhängigkeitseinleitung](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
-* [Erstellen eines Moduls](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=de){target="_blank"}
+* [Modul erstellen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=de){target="_blank"}
 * [Indizierung](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
 * [Übersetzungen](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
-* [Plug-ins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
 
-**Bereich 3**
+**Abschnitt 3**
 
 * [Attributsätze](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
 * [EAV- und Erweiterungsattribute](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
 * [Deklaratives Schema konfigurieren](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
 * [Komponentendateistruktur erstellen](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
 
-**Bereich 4**
+**Abschnitt 4**
 
 * [Inhaltsbausteine](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
 * [Modelle anzeigen](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
@@ -279,7 +279,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [JavaScript aufrufen und initialisieren](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
 * [Private Inhalte](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
 
-**Bereich 5**
+**Abschnitt 5**
 
 * [Warenkorbkonfiguration](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
 * [Erstellen einer Preisregel für den Warenkorb](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
