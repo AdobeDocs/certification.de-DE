@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: dcad25077afd7883333326939ce8751eee191f36
+source-git-commit: b8ef42ca081201940034bc1a2129aecf086d4ed5
 workflow-type: tm+mt
-source-wordcount: '1657'
+source-wordcount: '2241'
 ht-degree: 0%
 
 ---
@@ -304,6 +304,138 @@ Adobe verlängern [!DNL Commerce] Zertifizierung für Entwickler:
 2. Klicken Sie auf die Schaltfläche unten, um zum Portal zu gehen und Ihre Prüfung durchzuführen (AD5-E839).
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Gehen Sie zum Portal "Examity"
+</span>
+</a>
+
+>[!NOTE]
+>
+>Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+
++++Adobe [!DNL Commerce] Front-End-Entwickler Professional
+
+## Sie benötigen Folgendes: **active** Zertifizierung zur Verlängerung nach dieser Methode:
+
+Adobe [!DNL Commerce] Front-End-Entwickler Professional
+
+## Anweisungen zur Verlängerung Ihrer Zertifizierung:
+
+* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
+* **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
+* **Schritt 3**: Führen Sie die Prüfung durch.
+
+## Bereit
+
+**Prüfungsdetails:**
+
+* Niveau: Professional (0-12 Monate Erfahrung)
+* Übergeben der Punktzahl: 26/34
+* Zeit: 68 Minuten
+* Versand: On-Demand/nicht verarbeitet
+* Verfügbare Sprachen: Englisch
+* Kosten: KOSTENLOS
+* Prüfungs-ID: Adobe AD5-E844 [!DNL Commerce] Front-End-Verlängerung für Entwickler
+
+**Anwendungsbereich und Ziele:**
+
+**Abschnitt 1: Designverwaltung (Themenhierarchie, Bildkonfiguration, Übersetzungen) (14 %)**
+
+* Adobe beschreiben [!DNL Commerce] Designordnerstruktur
+* Möglichkeiten zur Erstellung neuer oder Erweiterung vorhandener Designs demonstrieren
+* Verwendung benutzerdefinierter Übersetzungssätze demonstrieren
+
+**Abschnitt 2: Layout-XML und Vorlagen (30%)**
+
+* Verwenden grundlegender XML-Anweisungen für Layouts
+* Verwenden vorhandener Seitenlayouts
+* Beschreiben der Schritte zum Erweitern und Überschreiben von XML
+* Erstellen und Anpassen von Vorlagen demonstrieren
+* Beschreiben Sie die Vorlagensicherheit (Escaping-Ausgabe).
+
+**Abschnitt 3: Stile (22 %)**
+
+* Beschreiben Sie den Zweck von styles-m.less, styles-l.less, print.less
+* Beschreiben Sie den Unterschied zwischen bestimmten partiellen Dateien (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,).
+* Zeigen Sie bei einem Szenario die Möglichkeit, Magento LESS zu überschreiben oder zu erweitern.
+* Grundlegende Konzepte von LESS beschreiben
+* Hierarchie der Stile erklären (lib, module, themes)
+* Client- und Server-seitige Kompilierung erläutern
+
+**Abschnitt 4: JavaScript (18%)**
+
+* JavaScript-Komponenten initialisieren und aufrufen
+* Verwendung von RequireJS demonstrieren
+* Beschreiben der Verwendung von Mixins
+* Beschreiben, wie eine Übersetzung in JS hinzugefügt wird
+* Beschreiben der Verwendung von Knockout JS
+* Verwendung von jQuery-Widgets beschreiben
+
+**Abschnitt 5: Admin-Konfiguration und PageBuilder (8 %)**
+
+* Möglichkeiten zur Anpassung von Page Builder- und CMS-Inhalten demonstrieren
+* Beschreibung der Schritte zum Anpassen von Transaktions-E-Mails
+
+**Abschnitt 6: Tools (CLI und Grunt) (8 %)**
+
+* Beschreiben Sie die Verwendung von einfachen bin/Magento-Befehlen
+* Beschreiben Sie die Verwendung von Composer-Befehlen (installieren, aktualisieren, benötigen, entfernen)
+* Den geeigneten Anwendungsfall für Bereitstellungsmodi unterscheiden
+* Beschreiben Sie zusätzliche Tools, die von Cloud bereitgestellt werden (schnelles Herunterladen der Datenbank, Bereitstellung von Inhalten)
+
+## Vorbereiten
+
+Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+
+Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+
+**Abschnitt 1**
+
+* [Beispiel für ein Design-Übersetzungswörterbuch](https://developer.adobe.com/commerce/frontend-core/guide/translations/practice/)
+* [Designstruktur](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/)
+* [Konfigurieren von Designeigenschaften](https://developer.adobe.com/commerce/frontend-core/guide/themes/configure/)
+* [Verwenden eines Wörterbuchs zum Anpassen von Zeichenfolgen](https://developer.adobe.com/commerce/frontend-core/guide/translations/dictionary/)
+
+**Abschnitt 2**
+
+* [referenceBlock und referenceContainer](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#referenceblock-and-referencecontainer)
+* [Layout-Anweisungen](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/)
+* [Layout überschreiben](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/)
+* [argument](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#argument)
+* [Neues Layout erstellen](https://developer.adobe.com/commerce/frontend-core/guide/layouts/create/)
+* [Layout überschreiben](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/#how-to-override-a-layout)
+* [Anleitung zur Vorlagenanpassung](https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough/)
+* [magento2/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer/](https://github.com/magento/magento2/tree/2.4.6/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer)
+* [Designvererbung](https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance/)
+* [Site-übergreifende Skripterstellung (XSS)](https://developer.adobe.com/commerce/php/development/security/cross-site-scripting/)
+
+**Abschnitt 3**
+
+* [CSS in responsivem Design](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/css/)
+* [Anpassen von Designstilen](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/)
+* [Erweitern von übergeordneten Stilen](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#extend-parent-styles)
+* [Überschreiben übergeordneter Stile](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#override-parent-styles)
+* [Kompilierungsmodus](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/)
+
+**Abschnitt 4**
+
+* [JavaScript aufrufen und initialisieren](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+* [mixins](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/#shim)
+* [Mixin-Umfang](https://developer.adobe.com/commerce/frontend-core/javascript/mixins/#mixin-scope)
+* [Designzeichenfolgen](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/)
+* [Bindungskarte](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/#binding-map)
+* [Initialisieren des Akkordeon-Widgets](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion/#initialize-the-accordion-widget)
+
+## Zertifizierung verlängern
+
+Adobe verlängern [!DNL Commerce] Front-End-Professional-Zertifizierung für Entwickler:
+
+1. Melden Sie sich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}
+
+2. Klicken Sie auf die Schaltfläche unten, um zum Portal zu gehen und Ihre Prüfung durchzuführen (AD5-E844).
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Gehen Sie zum Portal "Examity"
