@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Prüfung AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7e8e35f64fad7e82c6560eac5ba04d1e9ebbd937
+source-git-commit: 63240c83879075315fb13635e06d9c1cbcf2a37d
 workflow-type: tm+mt
-source-wordcount: '958'
-ht-degree: 13%
+source-wordcount: '824'
+ht-degree: 1%
 
 ---
 
@@ -142,15 +142,15 @@ Außerdem sollten Sie Erfahrung mit den folgenden Aufgaben haben:
 
 **Abschnitt 1: Analyse im Adobe Experience Cloud-Ökosystem**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de){target="_blank"}
-* [ Häufig gestellte Fragen (FAQ) ](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
-* [AEM 6.5 Authoring-Benutzeranleitung](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=de){target="_blank"}
+* [Adobe Experience Cloud Identity-Dienst](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de){target="_blank"}
+* [FAQs](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
+* [AEM 6.5 Authoring-Benutzerhandbuch](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=de){target="_blank"}
 * [Übersicht über Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Analytics-Strategie und -Design basierend auf einer Lösungsdesignreferenz**
 
-* [Implementieren von  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=de){target="_blank"}
-* [Analytics-Administratorenhandbuch](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=de){target="_blank"}
+* [Implementierung [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=de){target="_blank"}
+* [Administratorhandbuch für Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=de){target="_blank"}
 * [Listenvariablen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
 * [Merchandising-eVars und Methoden zur Produktsuche](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
 
@@ -159,12 +159,12 @@ Außerdem sollten Sie Erfahrung mit den folgenden Aufgaben haben:
 * [Anleitung für Analytics-Tools](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=de){target="_blank"}
 * [QuickInfo - Übergeben von Daten an Launch-Regeln](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
 * [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
-* [So werden Analytics-Daten erfasst](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
+* [Erfassungsart der Analysedaten](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
 
 **Abschnitt 4: Tag-Management-Systeme**
 
 * [Übersicht über Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=de){target="_blank"}
-* [Tag-Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
+* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
 * [Paket-Analyzer](https://experienceleague.adobe.com/docs/analytics/implementation/validate/packet-monitor.html){target="_blank"}
 * [Satellitenobjektreferenz](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?lang=de){target="_blank"}
 
@@ -173,7 +173,7 @@ Außerdem sollten Sie Erfahrung mit den folgenden Aufgaben haben:
 * [[!DNL Adobe Analytics]: Email Marketing (ESP) Integration Case Studies](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
 * [[!DNL Adobe Analytics] APIs](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
 * [Willkommen beim Administratorhandbuch für Unternehmen und Teams](https://helpx.adobe.com/de/enterprise/admin-guide.html){target="_blank"}
-* [Analytics-Reporting-API](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
+* [Analytics Reporting-API](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
 * [Funktionsweise von Verarbeitungsregeln](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 
 **Abschnitt 6: Tests, Validierung und Fehlerbehebung**
@@ -191,6 +191,12 @@ Außerdem sollten Sie Erfahrung mit den folgenden Aufgaben haben:
 {{sample-questions}}
 
 [Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
+
+<br>
+
+**Einen Praxistest durchführen**
+
+{{practice-test}}
 
 <br>
 
