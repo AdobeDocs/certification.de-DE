@@ -5,10 +5,10 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
 workflow-type: tm+mt
-source-wordcount: '2348'
-ht-degree: 0%
+source-wordcount: '2341'
+ht-degree: 1%
 
 ---
 
@@ -51,7 +51,7 @@ Manchmal gibt es mehrere Versionen einer Prüfung. Es ist am besten, die neueste
 
 [!DNL Examity] bietet Unterstützung per Chat, E-Mail und Telefon. Die Adobe-Unterstützung kann bei technischen Problemen, die während der Prüfung auftreten, nicht helfen.
 
-[!DNL Examity] Support: `adobepartnersupport@examity.com`
+[!DNL Examity] Unterstützung: `adobepartnersupport@examity.com`
 
 Die schnellste Hilferessource ist ihr Chat. Alle Testkandidaten sollten vor der Prüfung sicherstellen, dass ihr Computer über die entsprechenden Systemanforderungen verfügt.
 
@@ -84,8 +84,8 @@ Bewerber, die bei ihrem ersten Versuch die Adobe-Zertifizierungsprüfung nicht b
 +++ Wie erhalte ich eine Kopie meines Punktberichts?
 
 * Schritt 1: Anmelden bei der [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Melden Sie sich mit Ihrer ID oder E-Mail-Adresse und Ihrem Kennwort an.
-* Schritt 2: Klicken Sie auf Transkripte.
-* Schritt 3: Scrollen Sie durch Ihren Transkriptverlauf und wählen Sie den Bericht aus, den Sie anzeigen möchten. Sie können den Bericht per E-Mail versenden oder auf dem Bildschirm anzeigen lassen.
+* Schritt 2: Klicken Sie auf Verlauf .
+* Schritt 3: Scrollen Sie durch Ihren Verlauf und wählen Sie den Bericht aus, den Sie anzeigen möchten. Sie können den Bericht per E-Mail versenden oder auf dem Bildschirm anzeigen lassen.
 
 +++
 
@@ -137,7 +137,7 @@ Nicht direkt, nein. Da die Zertifizierung nun alle 2 Jahre erneuert werden muss,
 
 Adobe-Zertifizierungen laufen nach zwei Jahren ab. Sie können Ihre Zertifizierung verlängern, indem Sie die neueste Version der entsprechenden Adobe-Zertifizierungsprüfung ablegen und durchlaufen.
 
-Sie haben zwei Optionen:
+Es gibt zwei Optionen:
 
 * Führen Sie eine regelmäßige Zertifizierungsprüfung durch.
 * Nehmen Sie die Erneuerungsprüfung - eine kürzere Prüfung, die sich auf die neuesten Lösungsfunktionen sowie auf die Dinge konzentriert, die Sie bereits kennen.
