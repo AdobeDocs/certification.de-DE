@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
+source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
 workflow-type: tm+mt
-source-wordcount: '2341'
+source-wordcount: '2342'
 ht-degree: 1%
 
 ---
@@ -85,7 +85,7 @@ Bewerber, die bei ihrem ersten Versuch die Adobe-Zertifizierungsprüfung nicht b
 
 * Schritt 1: Anmelden bei der [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Melden Sie sich mit Ihrer ID oder E-Mail-Adresse und Ihrem Kennwort an.
 * Schritt 2: Klicken Sie auf Verlauf .
-* Schritt 3: Scrollen Sie durch Ihren Verlauf und wählen Sie den Bericht aus, den Sie anzeigen möchten. Sie können den Bericht per E-Mail versenden oder auf dem Bildschirm anzeigen lassen.
+* Schritt 3: Scrollen Sie durch Ihren Transkriptverlauf und wählen Sie den Bericht aus, den Sie anzeigen möchten. Sie können den Bericht per E-Mail versenden oder auf dem Bildschirm anzeigen lassen.
 
 +++
 
