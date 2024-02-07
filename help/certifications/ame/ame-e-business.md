@@ -7,9 +7,9 @@ role: User
 badge: label="Prüfung AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: d91f73b3d70ad04a864c196d3a9fb802475392ae
+source-git-commit: 352e6c3a35bb1429a187800519bedc9495e8f7cd
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '891'
 ht-degree: 0%
 
 ---
@@ -165,13 +165,11 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 **Abschnitt 1: Verwaltung und Instandhaltung**
 
 * [Grundlagen zum [!DNL Salesforce] Synchronisieren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
-* [[!DNL Marketo]: Administration für Geschäftspraktiker](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&amp;lp_id=undefined){target="_blank"}
 * [Exportieren einer Liste aller [!DNL Marketo] API-Feldnamen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html){target="_blank"}
 * [Glossar zum benutzerdefinierten Feldtyp](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary.html){target="_blank"}
 * [Sprache, Gebietsschema und Zeitzone auswählen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/select-your-language-locale-and-time-zone.html){target="_blank"}
 * [Grundlagen zu Arbeitsbereichen und Personen-Partitionen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 * [Audit-Protokoll - Überblick](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html){target="_blank"}
-
 
 **Abschnitt 2: Marketingaktivitäten/Kampagnenverwaltung**
 
@@ -188,7 +186,6 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 * [Grundlagen zu Ereignisprogrammen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
 * [Webhook erstellen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html){target="_blank"}
 
-
 **Abschnitt 3: Leitung**
 
 * [Festlegen eines Werts für ein ausgeblendetes Formularfeld](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html){target="_blank"}
@@ -199,7 +196,6 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 * [Trigger-Token für interessante Momente](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.html){target="_blank"}
 * [Grundlagen zu Umsatzmodellen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
-
 **Abschnitt 4: Daten-Management**
 
 * [Datenwert ändern](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html){target="_blank"}
@@ -207,7 +203,6 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 * [Marketo Activities - Richtlinien zur Datenaufbewahrung](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}
 * [Erstellen einer Segmentierung](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
 * [Verwenden von Segmentfiltern in einer Smart-Liste](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.html){target="_blank"}
-
 
 **Abschnitt 5: Berichterstattung**
 
