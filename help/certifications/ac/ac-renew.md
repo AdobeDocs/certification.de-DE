@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
 workflow-type: tm+mt
-source-wordcount: '2241'
+source-wordcount: '2293'
 ht-degree: 0%
 
 ---
@@ -140,16 +140,9 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 Adobe verlängern [!DNL Commerce] Berufszertifizierung für Geschäftspraktiker:
 
-1. Melden Sie sich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung der Zertifizierung auf die Adobe [!DNL Commerce] Link &quot;Business Practitioner Professional Renewal Exam (AD5-E840)&quot;unten.
 
-2. Klicken Sie auf die Schaltfläche unten, um zum Portal zu gehen und Ihre Prüfung durchzuführen (AD5-E840).
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Gehen Sie zum Portal "Examity"
-</span>
-</a>
+[!BADGE Nehmen Sie die Adobe [!DNL Commerce] Berufliche Erneuerungsprüfung für Geschäftspraktiker (AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840 newtab=true"}
 
 >[!NOTE]
 >
@@ -299,16 +292,9 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 Adobe verlängern [!DNL Commerce] Zertifizierung für Entwickler:
 
-1. Melden Sie sich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung der Zertifizierung auf die Adobe [!DNL Commerce] Link zur Erneuerungsprüfung für Entwickler (AD5-E839) unten.
 
-2. Klicken Sie auf die Schaltfläche unten, um zum Portal zu gehen und Ihre Prüfung durchzuführen (AD5-E839).
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Gehen Sie zum Portal "Examity"
-</span>
-</a>
+[!BADGE Nehmen Sie die Adobe [!DNL Commerce] Berufliche Erneuerungsprüfung für Entwickler (AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839 newtab=true"}
 
 >[!NOTE]
 >
@@ -433,16 +419,9 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 Adobe verlängern [!DNL Commerce] Front-End-Professional-Zertifizierung für Entwickler:
 
-1. Melden Sie sich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}
+Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung der Zertifizierung auf die Adobe [!DNL Commerce] Link zur Frontend-Entwickler-Professional-Erneuerungsprüfung (AD5-E844) unten.
 
-2. Klicken Sie auf die Schaltfläche unten, um zum Portal zu gehen und Ihre Prüfung durchzuführen (AD5-E844).
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Gehen Sie zum Portal "Examity"
-</span>
-</a>
+[!BADGE Nehmen Sie die Adobe [!DNL Commerce] Frontend-Entwicklerprüfung für professionelle Erneuerung (AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844 newtab=true"}
 
 >[!NOTE]
 >
