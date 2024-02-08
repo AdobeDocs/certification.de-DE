@@ -6,10 +6,11 @@ product: Target
 role: Data Architect
 badge: label="Prüfung AD0-E409" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
+source-git-commit: 31a239ac92392d84d8307f9f298b9904234d167d
 workflow-type: tm+mt
-source-wordcount: '841'
-ht-degree: 21%
+source-wordcount: '665'
+ht-degree: 3%
 
 ---
 
@@ -148,38 +149,38 @@ Umgebungen:
 
 {{study-materials-intro}}
 
-**Bereich 1**
+**Abschnitt 1**
 
 * [Target-Aktivitätstypen](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html?lang=de){target="_blank"}
-* [Multivarianz-Tests – Überblick](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
-* [„at.js“-Funktionen ](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/atjs-functions.html){target="_blank"}
+* [Überblick über Multivarianz-Tests](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
+* [&quot;at.js&quot;-Funktionen](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/atjs-functions.html){target="_blank"}
 * [Besucherprofile](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=de){target="_blank"}
 
-**Bereich 2**
+**Abschnitt 2**
 
 * [Integration von Target in Adobe Campaign](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html?lang=de){target="_blank"}
 * [Adobe Analytics als Berichtsquelle für Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=de){target="_blank"}
-* [Experience Cloud-Zielgruppen](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=de){target="_blank"}
+* [Experience Cloud-Audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=de){target="_blank"}
 * [Verwenden von Experience Fragment-Angeboten in Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/personalization/experience-fragment-target-offer-feature-video-use.html?lang=de){target="_blank"}
 
-**Bereich 3**
+**Abschnitt 3**
 
 * [Hosts](https://experienceleague.adobe.com/docs/target/using/administer/hosts.html?lang=de){target="_blank"}
 * [Benutzer](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/users/user-management.html){target="_blank"}
-* [Konfigurieren von Enterprise-Berechtigungen](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/properties-overview.html?lang=de){target="_blank"}
+* [Konfigurieren von Unternehmensberechtigungen](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/properties-overview.html?lang=de){target="_blank"}
 * [Best Practices und Einschränkungen von Visual Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/vec/experience-composer-best-practices.html){target="_blank"}
 
 
-**Bereich 4**
+**Abschnitt 4**
 
-* [Integration von Recommendations in E-Mail](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/integrating-recs-email.html){target="_blank"}
+* [Integrieren von Recommendations mit E-Mail](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/integrating-recs-email.html){target="_blank"}
 * [Form-Based Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html?lang=de){target="_blank"}
-* [Erstellen von JSON-Angeboten](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
+* [JSON-Angebote erstellen](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
 
-**Bereich 5**
+**Abschnitt 5**
 
 * [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
-* [Recommendations-FAQs](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
+* [Häufig gestellte Fragen zu Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
 * [Feeds](https://experienceleague.adobe.com/docs/target/using/recommendations/entities/feeds.html){target="_blank"}
 * [Anpassen eines Designs mithilfe von Velocity](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/customizing-a-template.html){target="_blank"}
 
@@ -194,9 +195,15 @@ Umgebungen:
 
 * [Aktivitäts-QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 * [Fehlerbehebung bei der Inhaltsbereitstellung](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
-* [Häufig gestellte Fragen: Entwürfe](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
-* [Recommendations-FAQs](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
+* [Design-FAQs](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
+* [Häufig gestellte Fragen zu Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
 * [Protokollierung von Adobe Analytics for Target (A4T) im Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
+
+<br>
+
+**Einen Praxistest durchführen**
+
+{{practice-test}}
 
 +++
 
