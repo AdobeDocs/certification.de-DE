@@ -7,10 +7,10 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: 5d8842eefd4c61966743d52e3eb843890d92648c
 workflow-type: tm+mt
-source-wordcount: '1521'
-ht-degree: 10%
+source-wordcount: '1209'
+ht-degree: 0%
 
 ---
 
@@ -111,22 +111,22 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-**Bereich 1**
+**Abschnitt 1**
 
 * [Erfolgsmetriken](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=de){target="_blank"}
 * [Kriterien](https://experienceleague.adobe.com/docs/target/using/recommendations/criteria/algorithms.html){target="_blank"}
 * [QuickStart für Personalisierungstests und Roadmap-Erstellung](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html){target="_blank"}
 * [Best Practices für die Optimierung mit Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html){target="_blank"}
 * [Festlegen von Metriken](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-set-metrics.html){target="_blank"}
-* [Erstellen einer Zielgruppe „Nur Aktivität“](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
+* [Erstellen einer Zielgruppe &quot;Nur Aktivität&quot;](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
 * [Adobe Analytics als Berichtsquelle für Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=de){target="_blank"}
 * [Einrichten von A4T-Berichten in Analysis Workspace für Aktivitäten mit automatisierter Zuordnung](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html?lang=de){target="_blank"}
 
-**Bereich 2**
+**Abschnitt 2**
 
-* [Erstellen von JSON-Angeboten](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
+* [JSON-Angebote erstellen](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
 * [Form-Based Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html?lang=de){target="_blank"}
-* [Erstellen einer Zielgruppe „Nur Aktivität“](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
+* [Erstellen einer Zielgruppe &quot;Nur Aktivität&quot;](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
 * [Erweiterte Einstellungen](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html#section_7CE95A2FA8F5438E936C365A6D43BC5B){target="_blank"}
 * [Aktivitäts-QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 * [Erstellen von Zielgruppen in Target](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/create-audience.html){target="_blank"}
@@ -135,21 +135,21 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Gleiches Erlebnis auf ähnlichen Seiten](https://experienceleague.adobe.com/docs/target/using/experiences/vec/temtest.html){target="_blank"}
 * [Ziele und Einstellungen](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-goals-and-settings.html){target="_blank"}
 * [Erstellen eines A/B-Tests](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html){target="_blank"}
-* [Experience Targeting (XT)](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html){target="_blank"}
+* [Erlebnis-Targeting (XT)](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html){target="_blank"}
 * [Schätzen des für eine erfolgreiche Multivarianz-Test-Aktivität erforderlichen Traffics](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/create-mvt/traffic-estimator.html){target="_blank"}
 * [Verwalten von Ausschlüssen](https://experienceleague.adobe.com/docs/target/using/activities/automated-personalization/managing-exclusions.html){target="_blank"}
 
-**Bereich 3**
+**Abschnitt 3**
 
 * [Berichtseinstellungen](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
 * [Wie lange sollten A/B-Tests laufen?](https://experienceleague.adobe.com/docs/target/using/activities/abtest/sample-size-determination.html){target="_blank"}
-* [Automatische Zuordnung – Überblick](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.){target="_blank"}
+* [Übersicht über die automatische Zuordnung](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.){target="_blank"}
 * [Automated Personalization-Zusammenfassungsberichte](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html){target="_blank"}
 * [AT (Automatisches Targeting)-Zusammenfassungsbericht](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/auto-target-summary-report.html){target="_blank"}
 * [Experience Performance-Bericht (MVT)](https://experienceleague.adobe.com/docs/target/using/reports/multivariate-test-reports/experience-performance-report.html){target="_blank"}
 * [Zehn häufige Fehler bei A/B-Tests und wie diese vermieden werden](https://experienceleague.adobe.com/docs/target/using/activities/abtest/common-ab-testing-pitfalls.html){target="_blank"}
 
-**Bereich 4**
+**Abschnitt 4**
 
 * [Fehlerbehebung bei Aktivitätsfehlern](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
 * [Testen einer Adobe Target-Implementierung mit Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-platform/debugger/solutions/target.html){target="_blank"}
@@ -159,7 +159,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung der Zertifizierung auf die Adobe [!DNL Target] Business Practitioner Professional Renewal Exam Link unten.
 
-[!BADGE Nehmen Sie die Adobe [!DNL Target]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E838 newtab=true"}
+[!BADGE Nehmen Sie die Adobe [!DNL Target] Geschäftspraktiker Berufliche Erneuerungsprüfung AD5-E838]{type=Informative url="https://scorpion.caveon.com/launchpad/ad5-e838-adobe-target-business-practitioner-professional-renewal newtab=true"}
 
 >[!NOTE]
 >
