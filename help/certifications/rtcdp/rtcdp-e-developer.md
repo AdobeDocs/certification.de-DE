@@ -7,9 +7,9 @@ role: Developer,Data Architect
 badge: label="Prüfung AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 16ffac2b0619d0cdce85e6f73a45cff84a5e306b
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '877'
 ht-degree: 4%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 4%
 # Zertifizierungs-Journey für Adobe [!DNL Real-Time Customer Data Platform] Entwicklerexperte
 
 {{intro}}
-
->[!TIP]
->
->Zu erhalten **50 % Rabatt** diese Prüfung, kaufen Sie und planen Sie Ihre Prüfung. **Prüfung** before **15. Februar 2024**. Der Rabatt wird automatisch angewendet. Anweisungen zum Kauf und zur Planung finden Sie unten in Schritt 3. <br><br><i>Bitte beachten Sie, dass dieses Angebot nicht für Käufe gilt, die über eine andere Website getätigt werden.</i>
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -251,10 +247,6 @@ Sie sollten sich in diesen Umgebungen wohl fühlen:
 <br>
 
 ++ Schritt 3: Test &amp; Test für Prüfungen planen
-
->[!TIP]
->
->Zu erhalten **50 % Rabatt** diese Prüfung, kaufen Sie und planen Sie Ihre Prüfung. **Prüfung** before **15. Februar 2024**. Der Rabatt wird automatisch angewendet. <br><br><i>Bitte beachten Sie, dass dieses Angebot nicht für Käufe gilt, die über eine andere Website getätigt werden.</i>
 
 {{schedule-and-pay}}
 
