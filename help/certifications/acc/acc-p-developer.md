@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prüfung AD0-E331" type="neutral"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: 68fc4c19e0dc551baff9a3c8056249dd49ef8c38
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '761'
 ht-degree: 1%
 
 ---
@@ -201,11 +201,9 @@ Sie sollten über Folgendes verfügen:
 
 <br>
 
-**Beispielfragen**
+**Einen Praxistest durchführen**
 
-{{sample-questions}}
-
-[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad4-e331-adobe-campaign-classic-developer-professional-practice-exam){target="_blank"}
+{{practice-test}}
 
 +++
 
