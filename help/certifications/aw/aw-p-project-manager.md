@@ -6,9 +6,9 @@ role: Developer
 badge: label="Prüfung AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
+source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
 workflow-type: tm+mt
-source-wordcount: '1352'
+source-wordcount: '779'
 ht-degree: 0%
 
 ---
@@ -150,7 +150,7 @@ Sie sollten über Folgendes verfügen:
 **Abschnitt 2: Ausführen**
 
 * [Genehmigungsprozesse und Meilensteinpfade](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FConfigure_approval_milestone_processes%2F_config-approval-milestone-paths.htm&amp;_LANG=en){target="_blank"}
-* [Aufgaben verwalten](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FManage_tasks%2F_manage-tasks.htm&amp;_LANG=en){target="_blank"}
+* [Verwalten von Aufgaben](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FManage_tasks%2F_manage-tasks.htm&amp;_LANG=en){target="_blank"}
 * [Projekte verwalten](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FManage_projects%2F_manage-projects-overview.htm&amp;_LANG=en){target="_blank"}
 * [Aufgabeninformationen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTask_information%2F_task-information.htm&amp;_LANG=en){target="_blank"}
 * [Aufgaben](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2F_tasks-overview.htm&amp;_LANG=en){target="_blank"}
@@ -178,11 +178,9 @@ Sie sollten über Folgendes verfügen:
 
 <br>
 
-**Beispielfragen**
+**Einen Praxistest durchführen**
 
-{{sample-questions}}
-
-[Beispielfragen anzeigen](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-professional-practice-exam){target="_blank"}
+{{practice-test}}
 
 +++
 
