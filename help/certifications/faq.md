@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '2342'
+source-wordcount: '2485'
 ht-degree: 1%
 
 ---
@@ -62,6 +62,16 @@ Weitere Informationen finden Sie unter [!DNL Examity] Seite zur Verwaltung von P
 +++An wen kann ich mich bei Fragen oder Problemen bezüglich der Zertifizierung wenden?
 
 Wenden Sie sich bei Fragen zur Registrierung von Prüfungen, zu Prüfungszahlungen, zum Testversand, zu Testzentren, zu Prüfungsfragen, zu Prüfungsfragen, zu Testerfahrungen, zu Testunterkünften oder Fragen zum Zertifizierungsportal an . `certif@adobe.com`.
+
++++
+
++++ Kann ich meinen Prüfungstermin stornieren oder neu planen?
+
+Stornierungen und Umplanungen sind in der Regel möglich, wenn sie vor 48 Stunden vor dem geplanten Prüfungstermin eingeleitet werden. Die Kandidaten müssen diese Ernennung selbst ändern.
+
+Weder Adobe Support noch Examity können Neuplanungs- und Löschanfragen verarbeiten. Für Stornierungen unter 48 Stunden wird zusätzlich zur Prüfungsgebühr eine Umbuchungsgebühr erhoben.
+
+Wenn Sie Ihre Prüfung nicht neu planen können, obwohl sie mehr als 48 Stunden vor der Prüfung liegt, kann dies daran liegen, dass es eine neue Version der Prüfung gibt. Wenn Ihr Termin für die vorherige Version der Prüfung war, können Sie Ihren Prüfungstermin nicht neu planen. Es wird empfohlen, dass Sie Ihren Prüfungstermin nach Möglichkeit beibehalten. Falls nicht, müssen Sie Ihre Prüfung abbrechen und einen neuen Termin für die neue Prüfung planen.
 
 +++
 

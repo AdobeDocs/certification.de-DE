@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie bei Adobe zertifiziert werden. Finden Sie all
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1494'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ Prüfung:
 
 * [Anmeldung für eine Online-Prüfung](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [Anleitung zum Starten der Prüfung und Herstellen einer Verbindung mit dem Proctor](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
+* [Systemanforderungen für Prüfer](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!TAB Prüfung ablegen]
 
@@ -43,9 +44,11 @@ Ihre [profile](https://www.certmetrics.com/adobe/candidate/demographics.aspx){ta
 
 **Abbruch und Umschuldung**
 
-Stornierungen und Umschulungen sind möglich, wenn sie vor 48 Stunden vor dem geplanten Prüfungstermin begonnen werden. Die Kandidaten müssen diese Ernennung selbst ändern.
+Stornierungen und Umplanungen sind in der Regel möglich, wenn sie vor 48 Stunden vor dem geplanten Prüfungstermin eingeleitet werden. Die Kandidaten müssen diese Ernennung selbst ändern.
 
 Weder Adobe Support noch Examity können Neuplanungs- und Löschanfragen verarbeiten. Für Stornierungen unter 48 Stunden wird zusätzlich zur Prüfungsgebühr eine Umbuchungsgebühr erhoben.
+
+Wenn Sie Ihre Prüfung nicht neu planen können, obwohl sie mehr als 48 Stunden vor der Prüfung liegt, kann dies daran liegen, dass es eine neue Version der Prüfung gibt. Wenn Ihr Termin für die vorherige Version der Prüfung war, können Sie Ihren Prüfungstermin nicht neu planen. Es wird empfohlen, dass Sie Ihren Prüfungstermin nach Möglichkeit beibehalten. Falls nicht, müssen Sie Ihre Prüfung abbrechen und einen neuen Termin für die neue Prüfung planen.
 
 **Nach der Prüfung**
 
