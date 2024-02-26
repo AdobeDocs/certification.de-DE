@@ -7,10 +7,10 @@ role: Developer
 badge: label="Prüfung AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: b85f78f953bf07135a2c77680b9015f7a8d17990
 workflow-type: tm+mt
-source-wordcount: '769'
-ht-degree: 13%
+source-wordcount: '686'
+ht-degree: 1%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 13%
 * Übergeben der Punktzahl: 30/50
 * Zeit: 100 Minuten
 * Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: Englisch
+* Verfügbare Sprachen: Englisch, Japanisch
 * Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E124
+* Prüfungs-ID: AD0-E124 (Englisch), AD0-E124-J (Japanisch)
 
 <br>
 
@@ -140,26 +140,26 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 **Abschnitt 1: Konfigurieren von Adobe Experience Manager**
 
 * [Grundlegende Konfigurationskonzepte](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html){target="_blank"}
-* [Beheben von Fehlern in AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
+* [Fehlerbehebung AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
 * [OSGi in AEM konfigurieren](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Verwenden der Cloud Manager- und Cloud Manager-API**
 
-* [Verwalten von Umgebungen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=de){target="_blank"}
-* [Erste Schritte auf der Migrationstour zu Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
+* [Umgebungen verwalten](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=de){target="_blank"}
+* [Erste Schritte mit der Migration-Journey zu AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
 * [Übersicht über die Adobe I/O-Integration](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html){target="_blank"}
 
 **Abschnitt 3: Web-Proxy-Infrastruktur konfigurieren**
 
-* [Dispatcher-Konfigurationen](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html){target="_blank"}
+* [Dispatcher-Konfigurationen](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html?lang=de){target="_blank"}
 * [Caching-Leistung](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html){target="_blank"}
 
 **Abschnitt 4: Erstellen und Bereitstellen**
 
-* [Code-Bereitstellung](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html?lang=de){target="_blank"}
-* [Konfigurieren von Produktions-Pipelines](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html){target="_blank"}
-* [Arbeiten mit Paketen](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=de){target="_blank"}
-* [Struktur von AEM-Projekten](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=de){target="_blank"}
+* [Codebereitstellung](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html?lang=de){target="_blank"}
+* [Konfigurieren von Produktions-Pipelines](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html?lang=de){target="_blank"}
+* [Arbeiten mit Paketen](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html){target="_blank"}
+* [AEM Projektstruktur](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=de){target="_blank"}
 
 **Abschnitt 5: Qualitätsmetriken überwachen und Berichte dazu erstellen**
 
@@ -197,12 +197,23 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 {{about-certification-exam}}
 
-## Prüfung AD0-E124 planen oder durchführen
+## Prüfung AD0-E124 (Englisch) planen oder durchführen
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Gehen Sie zum Portal "Examity"
+   Gehen Sie zum Examity-Portal - Englischprüfung
+</span>
+</a>
+
+## Prüfung AD0-E124-J (Japanisch) planen oder durchführen
+
+{{Japanese-exam-details}}
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Gehen Sie zum Examity-Portal - japanische Prüfung
 </span>
 </a>
 
