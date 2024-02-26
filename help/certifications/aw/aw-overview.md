@@ -3,24 +3,14 @@ title: Überblick über die Workfront-Zertifizierung
 description: Überblick über die Zertifizierungsoptionen für Adobe Workfront
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: 6242b08cb1ecd63d58bd059dd3b5ac4ccd3f20f9
+source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 1%
+source-wordcount: '48'
+ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Workfront] Zertifizierungsübersicht
-
-## Neue Funktionen
-
-Die **Adobe [!DNL Workfront] Core Developer Professional** Die Zertifizierungsprüfung wurde aktualisiert.
-
-Die aktuelle Version ist: [Adobe [!DNL Workfront] Core Developer Professional (AD0-E905)](/help/certifications/aw/aw-core-p-developer.md)
-
-Wenn Sie die Prüfung bereits geplant haben oder mit dem Studium für die aktuelle Prüfung begonnen haben, stellen Sie bitte sicher, dass Sie die Prüfung planen und abschließen **vor dem 26. Februar 2024**.
-
-Wenn Sie jedoch gerade erst mit der Zertifizierung beginnen, empfehlen wir Ihnen, die **Neu** Version der Prüfung: [Adobe [!DNL Workfront] Core Developer Professional (AD0-E908)](/help/certifications/aw/aw-core-p-developer-23-12.md)
 
 ## Alle verfügbaren Prüfungen für Adobe [!DNL Workfront]
 
@@ -28,8 +18,7 @@ Wenn Sie jedoch gerade erst mit der Zertifizierung beginnen, empfehlen wir Ihnen
 
 * [Entwickler (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
 * [Projektmanager](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
-* [Entwickler (Core) - läuft am 26. Februar 2024 ab](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
-* [Entwickler (Core) - NEU](/help/certifications/aw/aw-core-p-developer-23-12.md) <!--AD0-E908-->
+* [Entwickler (Core)](/help/certifications/aw/aw-core-p-developer-23-12.md) <!--AD0-E908-->
 
 **Expert**
 
