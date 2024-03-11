@@ -1,5 +1,5 @@
 ---
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
 workflow-type: tm+mt
 source-wordcount: '1746'
 ht-degree: 0%
@@ -123,7 +123,7 @@ Bezahlen mit Gutschein: Um einen Prüfgutschein zu erwerben, gehen Sie zu: Adobe
 
 **Kauf eines Gutscheins**
 
-Sie können eine Prüfung mit einem Gutschein bezahlen. Um einen Prüfgutschein zu erwerben, gehen Sie zum [Adobe Certification Voucher Center](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=de){target="_blank"}.
+Sie können eine Prüfung mit einem Gutschein bezahlen. Um einen Prüfgutschein zu erwerben, gehen Sie zum [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Weitere Informationen zu Gutscheinrabatten finden Sie unten.
 
