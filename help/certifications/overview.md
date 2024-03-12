@@ -4,20 +4,20 @@ description: Informationen zu [!DNL Experience Cloud] Zertifizierung bei Adobe. 
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
+source-git-commit: 70d644fb8bbf20a4826ed187174c0127f98bce89
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '437'
 ht-degree: 6%
 
 ---
 
 # Willkommen bei der Zertifizierung auf der Adobe!
 
-Erfahren Sie mehr über Zertifizierung bei Adobe und darüber, was eine Zertifizierung für Sie bedeuten kann.
+Erfahren Sie mehr über die Experience Cloud-Zertifizierung bei Adobe und was die Zertifizierung für Sie tun kann.
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
-Das Adobe Digital Experience Credential Programm wurde entwickelt, um Ihnen beim Nachweis Ihrer Kenntnisse im Adobe zu helfen. [!DNL Experience Cloud] Produkte. Mit der Zertifizierung als Adobe können Sie Ihr Fachwissen präsentieren und Kunden und Arbeitgeber gleichermaßen beeindrucken.
+Das Adobe Digital Experience Certification Program wurde entwickelt, um Ihnen beim Nachweis Ihrer Kenntnisse im Adobe zu helfen [!DNL Experience Cloud] Produkte. Mit der Zertifizierung als Adobe können Sie Ihr Fachwissen präsentieren und Kunden und Arbeitgeber gleichermaßen beeindrucken.
 
 Adobe [!DNL Experience Cloud] ist eine Suite digitaler Marketinglösungen, mit denen Unternehmen personalisierte Kundenerlebnisse über verschiedene Kanäle hinweg bereitstellen können, einschließlich Web, Mobile, E-Mail und Social Media. Adobe [!DNL Experience Cloud] umfasst eine Reihe von Produkten, wie Adobe [!DNL Real-Time CDP], ADOBE [!DNL Experience Manager], ADOBE [!DNL Commerce], ADOBE [!DNL Journey Optimizer], ADOBE [!DNL Customer Analytics]und mehr.
 
@@ -36,11 +36,11 @@ Adobe abrufen [!DNL Experience Cloud] -Zertifizierung bietet viele Vorteile:
 * **Freie Praxistests:** Adobe bietet kostenlose Praxisprüfungen, um sicherzustellen, dass Sie vollständig auf Ihre Zertifizierungsprüfung vorbereitet sind.
 * **Freie Zertifizierung:** Adobe-Zertifizierungen sind zwei Jahre gültig, und die meisten Zertifizierungen können kostenlos erneuert werden, indem entweder eine On-Demand-Prüfung ohne Verarbeitung durchgeführt oder eine Reihe kontinuierlicher Lernmaßnahmen durchgeführt wird.
 
-Das Adobe Digital Experience Credential Programm ist für Fachkräfte in verschiedenen Bereichen konzipiert, darunter Entwickler, Geschäftsleute und Architekten. Ob Sie ein erfahrener Experte sind oder einfach nur anfangen, die Zertifizierung hilft Ihnen, Ihre Karriere voranzutreiben und dem Wettbewerb voraus zu bleiben.
+Das Adobe Digital Certification Program ist für Fachleute in verschiedenen Bereichen konzipiert, darunter Entwickler, Geschäftsleute und Architekten. Ob Sie ein erfahrener Experte sind oder einfach nur anfangen, die Zertifizierung hilft Ihnen, Ihre Karriere voranzutreiben und dem Wettbewerb voraus zu bleiben.
 
 ## Erste Schritte
 
-Erschließen Sie Ihr professionelles Potenzial noch heute, indem Sie sich mit dem Adobe Digital Experience Credential Program vertraut machen.
+Erschließen Sie Ihr professionelles Potenzial noch heute, indem Sie sich mit dem Adobe Digital Experience Certification Program vertraut machen.
 
 <a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Erste Schritte</span></a>
 
@@ -48,17 +48,25 @@ Erschließen Sie Ihr professionelles Potenzial noch heute, indem Sie sich mit de
 
 Alle Details zu den einzelnen verfügbaren Produktzertifizierungen sind im Inhaltsverzeichnis auf der linken Seite und in der folgenden Liste aufgeführt:
 
-* [Adobe [!DNL Analytics]](/help/certifications/aa/aa-overview.md)
-* [Adobe [!DNL Advertising]](/help/certifications/aac/aac-overview.md)
-* [Adobe [!DNL Audience Manager]](/help/certifications/aam/aam-overview.md)
-* [Adobe [!DNL Commerce]](/help/certifications/ac/ac-overview.md)
-* [Adobe [!DNL Campaign Classic]](/help/certifications/acc/acc-overview.md)
-* [Adobe [!DNL Campaign Standard]](/help/certifications/acs/acs-overview.md)
-* [Adobe [!DNL Customer Journey Analytics]](/help/certifications/acja/acja-overview.md)
-* [Adobe [!DNL Document Cloud]](/help/certifications/adc/adc-overview.md)
-* [Adobe [!DNL Experience Manager]](/help/certifications/aem/aem-overview.md)
-* [Adobe [!DNL Journey Optimizer]](/help/certifications/ajo/ajo-overview.md)
-* [Adobe [!DNL Marketo Engage]](/help/certifications/ame/ame-overview.md)
-* [Adobe [!DNL Real-Time CDP]](/help/certifications/rtcdp/rtcdp-overview.md)
-* [Adobe [!DNL Target]](/help/certifications/at/at-overview.md)
-* [Adobe [!DNL Workfront]](/help/certifications/aw/aw-overview.md)
+* [Adobe [!DNL Analytics]](/help/certifications/aa/aa-overview.md){target="_blank"}
+* [Adobe [!DNL Advertising]](/help/certifications/aac/aac-overview.md){target="_blank"}
+* [Adobe [!DNL Audience Manager]](/help/certifications/aam/aam-overview.md){target="_blank"}
+* [Adobe [!DNL Commerce]](/help/certifications/ac/ac-overview.md){target="_blank"}
+* [Adobe [!DNL Campaign Classic]](/help/certifications/acc/acc-overview.md){target="_blank"}
+* [Adobe [!DNL Campaign Standard]](/help/certifications/acs/acs-overview.md){target="_blank"}
+* [Adobe [!DNL Customer Journey Analytics]](/help/certifications/acja/acja-overview.md){target="_blank"}
+* [Adobe [!DNL Document Cloud]](/help/certifications/adc/adc-overview.md){target="_blank"}
+* [Adobe [!DNL Experience Manager]](/help/certifications/aem/aem-overview.md){target="_blank"}
+* [Adobe [!DNL Journey Optimizer]](/help/certifications/ajo/ajo-overview.md){target="_blank"}
+* [Adobe [!DNL Marketo Engage]](/help/certifications/ame/ame-overview.md){target="_blank"}
+* [Adobe [!DNL Real-Time CDP]](/help/certifications/rtcdp/rtcdp-overview.md){target="_blank"}
+* [Adobe [!DNL Target]](/help/certifications/at/at-overview.md){target="_blank"}
+* [Adobe [!DNL Workfront]](/help/certifications/aw/aw-overview.md){target="_blank"}
+
+Suchst du Adobe? [!DNL Creative Cloud] Zertifikate? Besuchen Sie die [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} Website, um zu erfahren, wie man in Creative Cloud-Programmen zertifiziert wird.
+
+## Fragen
+
+Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+
+Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
