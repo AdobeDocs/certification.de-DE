@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prüfung AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1265'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,11 @@ ht-degree: 0%
 # Journey für die Zertifizierung [!DNL Adobe Commerce] Geschäftspraktiker-Experte
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/386) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -155,89 +160,20 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 
 {{study-materials-intro}}
 
-**Abschnitt 1: Kernfunktionen/allgemeine Konfiguration**
-
-* [[!DNL Commerce] Handelsdokumentation](https://docs.magento.com/user-guide/getting-started.html){target="_blank"}
-* [Grundlegendes zu Produkttypen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html){target="_blank"}
-* [Kunden-Management](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-2-customer-management.html){target="_blank"}
-* [Produkt erstellen](https://docs.magento.com/user-guide/catalog/product-types.html){target="_blank"}
-* [Admin-Menüs](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html){target="_blank"}
-* [Datenraster](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html){target="_blank"}
-* [Speichereinstellungen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html){target="_blank"}
-* [Einführung in Stores und Kauferlebnisse](https://docs.magento.com/user-guide/stores/stores.html){target="_blank"}
-* [Einführung in Admin-Systeme: Betriebsverwaltung](https://docs.magento.com/user-guide/operations.html){target="_blank"}
-* [Einfuhr- und Ausfuhrerzeugnisse](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-7-import-export-products.html){target="_blank"}
-* [Datenübertragung](https://docs.magento.com/user-guide/system/data-transfer.html){target="_blank"}
-* [Warenkorb](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
-* [Checkout](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
-* [Versand und Lieferung](https://docs.magento.com/user-guide/shipping/delivery.html){target="_blank"}
-* [Auftragsverwaltung und -vorgänge](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
-* [Geschenkkarten](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-8-gift-cards.html){target="_blank"}
-* [Geschenkkartenprodukt](https://docs.magento.com/user-guide/catalog/product-gift-card.html){target="_blank"}
-* [Geschenkoptionen](https://docs.magento.com/user-guide/sales/gift-options.html){target="_blank"}
-* [E-Mail-Kommunikation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"}
-* [E-Mail-Vorlagen](https://docs.magento.com/user-guide/marketing/email-templates.html){target="_blank"}
-* [Einführung in B2B für Adobe [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-basics.html){target="_blank"}
-* [Lohn- und Treueprogramme](https://docs.magento.com/user-guide/marketing/rewards-loyalty.html){target="_blank"}
-
-**Abschnitt 2: Merchandising**
-
-* [Promotions](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [Produktkategorien](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html){target="_blank"}
-* [Kategoriepositionierung](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-2-arrange-product-categories.html){target="_blank"}
-* [Produkteinstellungen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-2-product-settings.html){target="_blank"}
-* [Attribute](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-3-product-attributes.html){target="_blank"}
-* [Attributsätze](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-4-product-attribute-sets.html){target="_blank"}
-* [Einfache Produkte](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-5-create-simple-product.html){target="_blank"}
-* [Konfigurierbare Attribute](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-6-configurable-attributes.html){target="_blank"}
-* [Ebenennavigation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-1-layered-navigation.html){target="_blank"}
-* [Einführung in die Katalogverwaltung](https://docs.magento.com/user-guide/catalog.html){target="_blank"}
-* [Erweiterte Preise](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
-
-**Abschnitt 3: Digitales Marketing**
-
-* [Einführung in [!DNL Commerce] Merchandising und Promotions](https://docs.magento.com/user-guide/marketing.html){target="_blank"}
-* [SEO-Übersicht](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [Erste Schritte mit Business Intelligence (Webinar-Aufzeichnung)](https://business.adobe.com/resources/getting-started-magento-business-intelligence.html){target="_blank"}
-* [Google-Site-Tools](https://docs.magento.com/user-guide/marketing/google-tools.html){target="_blank"}
-* [Business Intelligence-Tools](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
-
-**Abschnitt 4: Zusatzmodule und zusätzliche Produkte**
-
-* [B2B-Funktionen](https://docs.magento.com/user-guide/configuration/general/b2b-features.html){target="_blank"}
-* [Einführung in B2B für Adobe [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-features.html){target="_blank"}
-* [Verwalten des Bestands](https://docs.magento.com/user-guide/catalog/inventory-management.html){target="_blank"}
-* [Einführung in MBI](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
-* [Voraussetzungen für Suchmaschinen](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/elasticsearch.html){target="_blank"}
-* [Steuern](https://docs.magento.com/user-guide/tax/taxes.html){target="_blank"}
-* [Arbeiten mit freigegebenen Katalogen](https://docs.magento.com/user-guide/catalog/catalog-shared.html){target="_blank"}
-* [Adobe Sensei Powers Magento Product Recommendations](https://business.adobe.com/summit/2020/adobe-sensei-powers-magento-product-recommendations.html){target="_blank"}
-* [Einführung in Product Recommendations](https://docs.magento.com/user-guide/marketing/product-recommendations.html){target="_blank"}
-
-**Abschnitt 5: Systemarchitektur**
-
-* [Commerce für Geschäftsbenutzer - Sites, Stores und Ansichten](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html){target="_blank"}
-* [Commerce für Geschäftsbenutzer - Ansichten speichern und Cache löschen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html){target="_blank"}
-* [Commerce für Geschäftsbenutzer - Storefront](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-1-storefront-experience.html){target="_blank"}
-* [Store-Details](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
-* [Berichte, Menü](https://docs.magento.com/user-guide/reports.html){target="_blank"}
-* [Erste Schritte mit Adobe Commerce Web APIs](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
-
-**Abschnitt 6: Einhaltung/Sicherheit**
-
-* [Benutzer und Rollen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html){target="_blank"}
-* [Rollenbereiche und Berechtigungen](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html){target="_blank"}
-* [Zugriffsberechtigung](https://docs.magento.com/user-guide/system/permissions.html){target="_blank"}
-* [Datenschutzrichtlinie für Stores](https://docs.magento.com/user-guide/stores/privacy-policy.html){target="_blank"}
-* [Sicherheit und Einhaltung](https://docs.magento.com/user-guide/payment-services/security.html){target="_blank"}
-* [Sicherheit](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
-* [Steuerleitlinien nach Ländern](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
-
-<br>
-
 **Einen Praxistest durchführen**
 
 {{practice-test}}
+
+**Handbuch zur Prüfungsvorbereitung**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/386" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Anleitung zur Prüfungsvorbereitung anzeigen
+</span>
+</a>
 
 +++
 

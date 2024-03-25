@@ -8,17 +8,20 @@ level: Experienced
 badge: label="Prüfung AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 4a1f0a422dca8343b690d9ed7b1d22f8a319d659
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Commerce] Architekturmeister
 
-
 {{intro}}
+
+>[!NOTE]
+>
+>**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/388) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -141,42 +144,20 @@ Darüber hinaus sollten Sie sich mit den folgenden Aktivitäten und Technologien
 
 {{study-materials-intro}}
 
-**Abschnitt 1: Design**
-
-* [Produkt erstellen](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [Seiten-Zwischenspeicherung](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"}
-* [Einführung in [!DNL Commerce] Kundenverwaltung](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"}
-* [Veranstaltungen und Beobachter](https://developer.adobe.com/commerce/php/development/components/events-and-observers/){target="_blank"}
-* [SEO-Übersicht](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [Store-Details](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
-* [Seiten](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [Hinzufügen einer neuen Zahlungsintegration (Zahlungsmethode)](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [Authentifizierung](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
-* [Übersicht über GraphQL](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
-
-**Abschnitt 2: Überprüfung**
-
-* [Einführung](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-* [Benutzerdefiniertes Textfeld-Attribut hinzufügen](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
-* [Einführung in das Handbuch für Anwendungstests](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
-* [Komponentenentwicklung](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [Best Practices](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
-* [Konfigurieren von Varnish](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-
-**Abschnitt 3: Konfigurieren und Bereitstellen**
-
-* [Konfigurationshandbuch](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [Konfigurationsdateien für die Bereitstellung](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [Konfigurieren von Redis](https://devdocs.magento.com/guides/v2.4/config-guide/redis/config-redis.html){target="_blank"}
-* [Währung](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-* [Übersicht über Initialisierung und Bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
-* [Übersicht über Fastly Services](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
-
-<br>
-
 **Einen Praxistest durchführen**
 
 {{practice-test}}
+
+**Handbuch zur Prüfungsvorbereitung**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/388" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Anleitung zur Prüfungsvorbereitung anzeigen
+</span>
+</a>
 
 +++
 

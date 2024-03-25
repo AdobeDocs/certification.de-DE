@@ -1,7 +1,7 @@
 ---
-source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1800'
 ht-degree: 0%
 
 ---
@@ -226,3 +226,11 @@ Die Zertifizierungen laufen nach zwei Jahren ab. Um Ihre Zertifizierung beizubeh
 Bitte planen Sie Ihre Prüfung zwischen Sonntag - Donnerstag 17:00 - 2:00 Uhr ET, um sicherzustellen, dass wir einen japanischsprachigen Proktor zuweisen können. Wenn Sie außerhalb dieser Stunden planen, können wir keinen japanischsprachigen Produzenten garantieren.
 
 [Japanische Anweisungen für die Planung](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
+## Nehmen Sie einen kostenlosen Kurs. {#take-course}
+
+Dieser kostenlose On-Demand-Kurs hilft Ihnen bei der Vorbereitung auf Ihre Prüfung mit Erläuterungen zu Schlüsselkonzepten, praktischen Demonstrationen und Wissenstests.
+
+## Handbuch zur Prüfungsvorbereitung {#exam-prep-guide}
+
+Der kostenlose Test-Prep-Leitfaden bietet einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der ausführlichen Studienmaterialien, die Sie für eine erfolgreiche Prüfung benötigen.
