@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
+source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -36,17 +36,17 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 >[!TAB Professional]
 
+## Anweisungen zur Verlängerung Ihrer Zertifizierung:
+
+* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
+* **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
+* **Schritt 3**: Führen Sie die Prüfung durch.
+
 ### Adobe [!DNL Audience Manager] Geschäftspraktiker, Professional Renewal-Prüfung
 
 Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
 * Adobe [!DNL Audience Manager] Geschäftspraktiker/innen
-
-### Anweisungen zur Verlängerung Ihrer Zertifizierung:
-
-* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
-* **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
-* **Schritt 3**: Führen Sie die Prüfung durch.
 
 ### Bereit
 
@@ -163,15 +163,15 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 
 >[!TAB Expert]
 
-Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
-
-* Adobe Audience Manager-Geschäftspraktiker
-
-### Anweisungen zur Verlängerung Ihrer Zertifizierung:
+## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
 * **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
 * **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
 * **Schritt 3**: Führen Sie die Prüfung durch.
+
+### Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
+
+* Adobe Audience Manager-Geschäftspraktiker
 
 ### Bereit
 
@@ -244,15 +244,15 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 
 >[!TAB Vorlage]
 
-### Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
-
-* Adobe Audience Manager Architect-Master
-
-### Anweisungen zur Verlängerung Ihrer Zertifizierung
+## Anweisungen zur Verlängerung Ihrer Zertifizierung
 
 * **Schritt 1** - Überprüfung der Prüfungsziele
 * **Schritt 2** - Ressourcen überprüfen
 * **Schritt 3** - Führen Sie die Prüfung durch.
+
+### Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
+
+* Adobe Audience Manager Architect-Master
 
 ### Bereit
 
