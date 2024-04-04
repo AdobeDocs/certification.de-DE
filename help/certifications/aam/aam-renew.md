@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 856946800cb9911550c2c79555350e1f250d1665
+source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
 workflow-type: tm+mt
-source-wordcount: '1714'
+source-wordcount: '1729'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 >[!TAB Professional]
 
-## Adobe [!DNL Audience Manager] Geschäftspraktiker, Professional Renewal-Prüfung
+### Adobe [!DNL Audience Manager] Geschäftspraktiker, Professional Renewal-Prüfung
 
 Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
@@ -60,9 +60,9 @@ Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 * Kosten: KOSTENLOS
 * Prüfungs-ID: Adobe AD5-E852 [!DNL Audience Manager] Geschäftspraktiker, Professional Renewal-Prüfung
 
-### Prüfungsziele und -umfang**
+### Prüfungsziele und -umfang
 
-**Erstellung von Segmenten und Syndikation 32 %**
+**Abschnitt 1: Erstellung und Syndikation von Segmenten (32 %)**
 
 * Ermitteln von Möglichkeiten zur Verwendung von Erstanbieter-, Zweit- und Drittanbieterdaten für Targeting- und Analysezwecke.
 * Beschreiben Sie den grundlegenden Prozess für die Aktivierung von Geschäfts- oder Kampagnenzielen.
@@ -70,27 +70,27 @@ Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 * Identifizieren der verschiedenen Zieltypen
 * Identifizieren der verschiedenen Quellen
 
-**Erstellung von Eigenschaften 16 %**
+**Abschnitt 2: Erstellung von Eigenschaften (16%)**
 
 * Identifizieren von Signalen, Eigenschaften, Segmenten und Zielgruppen
 * Verwendung verschiedener Eigenschaftstypen identifizieren
 
-**Berichterstattung und Messungen 16 %**
+**Abschnitt 3: Berichterstattung und Messungen (16%)**
 
 * Generieren Sie in einem Szenario Berichte zur Messung der Aktivierung oder der Kampagnenziele
 * Vergleichen Sie in einem Szenario Zielgruppen anhand von Übereinstimmungsraten.
 
-**Fehlerbehebung 10 %**
+**Abschnitt 4: Fehlerbehebung (10 %)**
 
 * In einem Szenario führen Sie eine Fehlerbehebung bei eingehenden Daten aus verschiedenen Quellen und Quelltypen durch
 * Format für eingehende Datendateien überprüfen
 
-**Taxonomie 12%**
+**Abschnitt 5: Taxonomie (12%)**
 
 * Best Practices für die organisierte Ordnerstruktur mithilfe einer klaren und einheitlichen Nomenklatur identifizieren
 * Klassifizieren von Eigenschaften und Segmenten in Ordnern mithilfe einer konsistenten und klaren Nomenklatur
 
-**Profilzusammenführung, ID-Synchronisierung und Audience Marketplace 14 %**
+**Abschnitt 6: Profilzusammenführung, ID-Synchronisierung und Audience Marketplace (14 %)**
 
 * Organisieren von Benutzereigenschaften in einem einheitlichen Profil, um auf Haushalts- oder Gerätebasis basierende Zielgruppen zu erstellen
 * Aktivierung mithilfe von Audience Marketplace identifizieren
@@ -161,18 +161,13 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 >
 >Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
 
-
-
-
-<!--divider-->
-
 >[!TAB Expert]
 
 Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
 * Adobe Audience Manager-Geschäftspraktiker
 
-## Anweisungen zur Verlängerung Ihrer Zertifizierung:
+### Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
 * **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
 * **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
@@ -188,9 +183,9 @@ Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 * Versand: On-Demand/nicht verarbeitet
 * Verfügbare Sprachen: Englisch
 * Kosten: KOSTENLOS
-* Prüfungs-ID: AD5-E826 - Verlängerung der Adobe Audience Manager Business Practitioner durch Experten
+* Prüfungs-ID: AD5-E826 - Adobe Audience Manager Business Practitioner Expert Renewal-Prüfung
 
-**Prüfungsziele und -umfang**
+### Prüfungsziele und -umfang
 
 **Abschnitt 1: Erstellung und Syndikation von Segmenten (25 %)**
 
@@ -229,7 +224,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 [!BADGE Beispielfragen]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
-**Ressourcen:**
+### Ressourcen:
 
 * [Adobe [!DNL Audience Manager] Produktdokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de){target="_blank"}
 * [Adobe-Unterstützung - Experience Cloud-Zielgruppen](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
@@ -249,11 +244,11 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 
 >[!TAB Vorlage]
 
-Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
+### Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
 * Adobe Audience Manager Architect-Master
 
-## Anweisungen zur Verlängerung Ihrer Zertifizierung
+### Anweisungen zur Verlängerung Ihrer Zertifizierung
 
 * **Schritt 1** - Überprüfung der Prüfungsziele
 * **Schritt 2** - Ressourcen überprüfen
@@ -269,11 +264,11 @@ Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 * Versand: On-Demand/nicht verarbeitet
 * Verfügbare Sprachen: Englisch
 * Kosten: KOSTENLOS
-* Test-ID: AD5-E825 - Adobe Audience Manager Architect Master-Erneuerung
+* Prüfungs-ID: AD5-E825 - Adobe Audience Manager Architect Master Renewal-Prüfung
 
-**Anwendungsbereich und Ziele:**
+## Prüfungsziele und -umfang:
 
-Abschnitt 1: Analyse der Implementierung (28%)
+**Abschnitt 1: Analyse der Implementierung (28%)**
 
 * Ermitteln Sie, wie Sie die Implementierung von AAM als eigenständiges Produkt oder als Teil einer Cloud-Lösung steuern und unterstützen
 * Analysieren Sie ausgehende Zieloptionen und empfehlen Sie einen AAM Implementierungsansatz.
@@ -281,14 +276,14 @@ Abschnitt 1: Analyse der Implementierung (28%)
 * Identifizieren von Funktionen wie Besucherprofil-Viewer, Tags, RBAC usw. zur Anpassung an Geschäftsziele
 * Bestimmen, wie Sie zum Erstellen von Segmenten und Eigenschaften erforderliche Pixel entwerfen und testen
 
-Abschnitt 2: Lösungsdesign und Recommendations (17%)
+**Abschnitt 2: Lösungsdesign und Recommendations (17%)**
 
 * Ermitteln AAM Funktionen anhand des Anwendungsfalls des Kunden für Zielgruppe und Aktivierung
 * Anwenden von Verfahrenskonzepten zur Verwendung von Identitätslösungen für Zielgruppen in der Kompliment-Design-Architektur
 * Identifizieren von Attribut- und Verhaltensdaten und Zuordnen zu bestimmten geschäftlichen Anwendungsfällen
 * Anwenden von Verfahrenskonzepten auf die Taxonomie und Benennungskonvention für Designordner
 
-Abschnitt 3: Segmentierung und Aktivierung (31%)
+**Abschnitt 3: Segmentierung und Aktivierung (31%)**
 
 * Anwenden von Verfahrenskonzepten zum Erstellen von Zielen in [!DNL Audience Manager]
 * Identifizieren von Signalen zum Erstellen regelbasierter, integrierter und algorithmischer Eigenschaften
@@ -297,12 +292,12 @@ Abschnitt 3: Segmentierung und Aktivierung (31%)
 * Anwenden von Verfahrenskonzepten zum Erstellen eines algorithmischen oder prädiktiven Modells
 * Bestimmen der Segmentierungslogik basierend auf Anwendungsfällen
 
-Abschnitt 4: Datenschutz und Data Governance (7 %)
+**Abschnitt 4: Datenschutz und Data Governance (7 %)**
 
 * Empfohlen [!DNL Audience Manager] Funktionen im Zusammenhang mit Governance, Datenschutz und Sicherheit
 * Identifizieren von Kundendatenrichtlinien, die den behördlichen Vorschriften entsprechen
 
-Abschnitt 5: Leistung und Berichterstellung (17%)
+**Abschnitt 5: Leistung und Berichterstellung (17%)**
 
 * Bestimmen, wie Sie Berichte in AAM konfigurieren, um Signal-, Eigenschaften- und Segmentleistung nach Geschäftsanforderungen zu erfassen
 
