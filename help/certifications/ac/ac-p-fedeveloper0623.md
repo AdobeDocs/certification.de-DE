@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prüfung AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '706'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/384) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
+>
+>**Kurs**: Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie unsere [Adobe Commerce Foundation-Kurs](https://app.rockinfo.com/courses/148) , um Erläuterungen zu Schlüsselkonzepten, Produkt-Durchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet Ihnen eine Wissensgrundlage, auf der Sie auf Ihrer Zertifizierungs-Journey aufbauen können.
+>
+>**Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/384) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
+>
+>_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -149,6 +155,17 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 **Einen Praxistest durchführen**
 
 {{practice-test}}
+
+**Kurs machen**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Adobe Commerce-Gründungskurs
+</span>
+</a>
 
 **Handbuch zur Prüfungsvorbereitung**
 

@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Prüfung AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: bd08c54f5c17b9eb08becfbf5ba47925db8d4254
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '643'
 ht-degree: 2%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 2%
 # Zertifizierungs-Journey für Adobe [!DNL Journey Optimizer] Entwicklerexperte
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Neuer Kurs verfügbar:** Die kostenlose On-Demand [Adobe Journey Optimizer-Expertenkurs](https://app.rockinfo.com/courses/147) enthält Erläuterungen zu Schlüsselkonzepten, praxisorientierten Demonstrationen und Wissenstests. _Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -122,6 +126,19 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 **Studienmaterial**
 
 {{study-materials-intro}}
+
+**Kurs machen**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/147" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Adobe Journey Optimizer-Expertenkurs besuchen
+</span>
+</a>
+
+**Studienressourcen**
 
 **Abschnitt 1: Administration und Konfiguration**
 

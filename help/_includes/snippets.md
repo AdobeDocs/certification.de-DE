@@ -1,5 +1,5 @@
 ---
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
 source-wordcount: '1800'
 ht-degree: 0%
@@ -227,9 +227,13 @@ Bitte planen Sie Ihre Prüfung zwischen Sonntag - Donnerstag 17:00 - 2:00 Uhr ET
 
 [Japanische Anweisungen für die Planung](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
+<!--divider-->
+
 ## Nehmen Sie einen kostenlosen Kurs. {#take-course}
 
 Dieser kostenlose On-Demand-Kurs hilft Ihnen bei der Vorbereitung auf Ihre Prüfung mit Erläuterungen zu Schlüsselkonzepten, praktischen Demonstrationen und Wissenstests.
+
+<!--divider-->
 
 ## Handbuch zur Prüfungsvorbereitung {#exam-prep-guide}
 

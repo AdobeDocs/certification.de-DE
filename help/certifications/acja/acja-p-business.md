@@ -7,9 +7,9 @@ role: User
 badge: label="Prüfung AD0-E608" type="neutral"
 mini-toc-levels: 1
 exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/375) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
+>
+>**Kurs:** Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie unsere [Adobe Experience Platform Foundation-Kurs](https://app.rockinfo.com/courses/216) , um Erläuterungen zu Schlüsselkonzepten, Produkt-Durchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet Ihnen eine Wissensgrundlage, auf der Sie auf Ihrer Zertifizierungs-Journey aufbauen können.
+>
+>**Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/375) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
+>
+>_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -110,6 +116,17 @@ Der ideale, minimal qualifizierte Kandidat ist ein Analyst mit mindestens 6 Mona
 **Einen Praxistest durchführen**
 
 {{practice-test}}
+
+**Kurs machen**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/216" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Kurs "Adobe Experience Platform Foundation"
+</span>
+</a>
 
 **Handbuch zur Prüfungsvorbereitung**
 
