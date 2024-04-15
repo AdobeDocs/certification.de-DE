@@ -1,7 +1,7 @@
 ---
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
-source-wordcount: '1800'
+source-wordcount: '1804'
 ht-degree: 0%
 
 ---
@@ -231,7 +231,7 @@ Bitte planen Sie Ihre Prüfung zwischen Sonntag - Donnerstag 17:00 - 2:00 Uhr ET
 
 ## Nehmen Sie einen kostenlosen Kurs. {#take-course}
 
-Dieser kostenlose On-Demand-Kurs hilft Ihnen bei der Vorbereitung auf Ihre Prüfung mit Erläuterungen zu Schlüsselkonzepten, praktischen Demonstrationen und Wissenstests.
+Unsere kostenlosen On-Demand-Kurse helfen Ihnen bei der Vorbereitung auf Ihre Prüfung. Kurse können Erklärungen zu Schlüsselkonzepten, Produktdurchläufen, praktischen Demonstrationen und Wissenstests enthalten.
 
 <!--divider-->
 
