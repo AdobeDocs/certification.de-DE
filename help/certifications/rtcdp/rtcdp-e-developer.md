@@ -7,7 +7,7 @@ role: Developer,Data Architect
 badge: label="Prüfung AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 16ffac2b0619d0cdce85e6f73a45cff84a5e306b
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
 source-wordcount: '877'
 ht-degree: 4%
@@ -21,6 +21,18 @@ ht-degree: 4%
 ## Prüfbeschreibung {#exam-description}
 
 {{exam-description}}
+
+<br>
+
+### Prüfungsdetails {#exam-details}
+
+* Ebene: Expert (1-3 Jahre Erfahrung)
+* Übergeben der Punktzahl: 45/68
+* Zeit: 136 Minuten
+* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Sprache: Englisch
+* Kosten: 225 USD (global) / 150 USD (Indien)
+* Prüfungs-ID: AD0-E605
 
 <br>
 
@@ -66,18 +78,6 @@ Sie sollten sich in diesen Umgebungen wohl fühlen:
 
 * AEP
 * Edge-Netzwerk
-
-<br>
-
-### Prüfungsdetails {#exam-details}
-
-* Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 45/68
-* Zeit: 136 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Sprache: Englisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E605
 
 <br>
 
