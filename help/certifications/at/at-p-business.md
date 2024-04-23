@@ -7,10 +7,10 @@ role: User
 badge: label="Prüfung AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
+source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
 workflow-type: tm+mt
-source-wordcount: '580'
-ht-degree: 1%
+source-wordcount: '593'
+ht-degree: 2%
 
 ---
 
@@ -37,6 +37,8 @@ ht-degree: 1%
 <br>
 
 ### Vorgesehene Zielgruppe {#intended-audience}
+
+Die für diese Zertifizierung vorgesehenen Bewerber umfassen Mitglieder der folgenden Teams/Organisationen:
 
 * Optimierung
 * Personalisierung

@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Prüfung AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: d50dfa88269e422b67613528efaa9057205a8a44
+source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1116'
 ht-degree: 1%
 
 ---
@@ -115,14 +115,14 @@ Die Bewerber sollten auch in der Lage sein,
 
 {{exam-objectives}}
 
-**Abschnitt 1: Kampagnen- und Journey-Optimierung**
+**Abschnitt 1: Kampagnen- und Journey-Optimierung (48%)**
 
 * Identifizieren Sie bei einem Szenario, wie Sie eine Journey erstellen
 * Ermitteln Sie bei einem Szenario, wie Sie eine Kunden-Journey überprüfen
 * Wenn ein Szenario nach dem Ausführen einer Journey angezeigt wird, ermitteln Sie, wie die Journey des Kunden bewertet werden kann.
 * Geben Sie bei einem Szenario an, wann Einzelereignisse oder Geschäftsereignisse verwendet werden sollen
 
-**Abschnitt 2: Offer decisioning**
+**Abschnitt 2: Offer decisioning (12%)**
 
 * Erstellung einer Angebotskollektion
 * Identifizieren der Phasen des offer decisioning
@@ -131,7 +131,7 @@ Die Bewerber sollten auch in der Lage sein,
 * Geben Sie bei einem Szenario an, wann offer decisioning oder Personalisierung skaliert verwendet werden soll
 * Unterscheiden Sie in einem Szenario zwischen statischen und dynamischen Angeboten.
 
-**Abschnitt 3: Inhaltserstellung**
+**Abschnitt 3: Inhaltserstellung (20%)**
 
 * Ermitteln, wie Asset-Grundlagen verwendet werden
 * Identifizieren Sie bei einem Szenario, wie Sie personalisierte Felder zu E-Mails hinzufügen.
@@ -141,7 +141,7 @@ Die Bewerber sollten auch in der Lage sein,
 * Fragmenttypen identifizieren
 * Ermitteln, wie eine E-Mail-Vorlage erstellt wird
 
-**Abschnitt 4: Grundlagen von AEP**
+**Abschnitt 4: Grundlagen von AEP (20%)**
 
 * Legen Sie für ein Szenario fest, wann verschiedene Datentypen verwendet werden sollen
 * Ermitteln, wo die Profilattribute und die Zielgruppenzugehörigkeit überprüft werden
