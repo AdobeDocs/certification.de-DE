@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Prüfung AD0-E454" type="neutral"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 15%
+source-wordcount: '557'
+ht-degree: 3%
 
 ---
 
@@ -38,8 +38,6 @@ ht-degree: 15%
 <br>
 
 ### Vorgesehene Zielgruppe {#intended-audience}
-
-**Vorgesehene Zielgruppe:**
 
 * [!DNL Audience Manager] Berater
 * Architektur mit mehreren Lösungen
@@ -141,7 +139,7 @@ Außerdem sollten Sie in der Lage sein, die folgenden Aufgaben auszuführen:
 
 * [[!DNL Audience Manager] Handbuch](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de){target="_blank"}
 * [Analytics-Integration](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=de){target="_blank"}
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de){target="_blank"}
+* [Adobe Experience Cloud Identity-Dienst](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Lösungsdesign und Recommendations**
 
@@ -158,11 +156,11 @@ Außerdem sollten Sie in der Lage sein, die folgenden Aufgaben auszuführen:
 
 * [[!DNL Audience Manager] Handbuch](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de){target="_blank"}
 * [[!DNL Audience Manager] REST-API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [Analytics-Administratorenhandbuch](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=de){target="_blank"}
+* [Administratorhandbuch für Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=de){target="_blank"}
 
 **Abschnitt 5: Leistung und Berichterstellung**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de){target="_blank"}
+* [Adobe Experience Cloud Identity-Dienst](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de){target="_blank"}
 
 +++
 
