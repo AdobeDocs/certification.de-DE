@@ -6,9 +6,9 @@ role: Developer
 badge: label="Prüfung AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '823'
+source-wordcount: '721'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Neuer Kurs verfügbar:** Die [Adobe Workfront Project Manager - Professional Kurs](https://app.rockinfo.com/courses/230) enthält Erläuterungen zu Schlüsselkonzepten, praxisorientierten Demonstrationen und Wissenstests. _Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
+>Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
+>
+>* **Kurs:** Die [Adobe Workfront Project Manager - Professional Kurs](https://app.rockinfo.com/courses/230) enthält Erläuterungen zu Schlüsselkonzepten, praxisorientierten Demonstrationen und Wissenstests.
+>
+>* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/551) bietet Ihnen einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der ausführlichen Studienmaterialien, die Sie für eine erfolgreiche Prüfung benötigen.
+>
+>_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -137,51 +143,6 @@ Sie sollten über Folgendes verfügen:
 
 {{study-materials-intro}}
 
-**Abschnitt 1: Aufnahme und Planung**
-
-* [Benachrichtigungen verwenden](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&amp;_LANG=en){target="_blank"}
-* [Aufgabendauer und -dauer](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTaskDurtn%2F_task-duration-duration-type.htm&amp;_LANG=en){target="_blank"}
-* [Verwenden von Aufgabenvorgängen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FUse_Prdcssrs%2F_use-task-predecessors.htm&amp;_LANG=en){target="_blank"}
-* [Aufgabeninformationen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTask_information%2F_task-information.htm&amp;_LANG=en){target="_blank"}
-* [Aktualisieren von Arbeiten an einem Projekt](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
-* [Projekte verwalten](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FManage_projects%2F_manage-projects-overview.htm&amp;_LANG=en){target="_blank"}
-* [Adobe [!DNL Workfront] Grundlagen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2F_workfront-basics.htm&amp;_LANG=en){target="_blank"}
-* [Adobe navigieren [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2FNavigate_Workfront%2F_navigate-workfront.htm&amp;_LANG=en){target="_blank"}
-* [Aufgaben zuweisen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FAssign_tasks%2F_assign-tasks.htm&amp;_LANG=en){target="_blank"}
-* [Erste Schritte mit agile in Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FGet_Started_with_Agile_in_Workfront%2F_get-started-with-agile.htm&amp;_LANG=en){target="_blank"}
-* [Berichte erstellen und verwalten](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FCreating_and_Managing_Reports%2F_create-manage-reports.htm&amp;_LANG=en){target="_blank"}
-
-**Abschnitt 2: Ausführen**
-
-* [Genehmigungsprozesse und Meilensteinpfade](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FConfigure_approval_milestone_processes%2F_config-approval-milestone-paths.htm&amp;_LANG=en){target="_blank"}
-* [Verwalten von Aufgaben](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FManage_tasks%2F_manage-tasks.htm&amp;_LANG=en){target="_blank"}
-* [Projekte verwalten](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FManage_projects%2F_manage-projects-overview.htm&amp;_LANG=en){target="_blank"}
-* [Aufgabeninformationen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTask_information%2F_task-information.htm&amp;_LANG=en){target="_blank"}
-* [Aufgaben](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2F_tasks-overview.htm&amp;_LANG=en){target="_blank"}
-* [Aufgabenbegrenzungen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FTasks%2FTask_Constraints%2F_task-constraints.htm&amp;_LANG=en){target="_blank"}
-* [Verwenden des Startbereichs](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FWorkfront_basics%2FUsing_Home%2FUsing_the_Home_Area%2F_use-the-home-area.htm&amp;_LANG=en){target="_blank"}
-* [Hinzufügen neuer Dokumente zu Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FDocuments%2FAdding_Documents_to_Workfront%2F_add-new-documents-_to-workfront.htm&amp;_LANG=en){target="_blank"}
-* [Niederschlag](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FUse_Scrum_in_an_Agile_Team%2FBurndown%2F_burndown.htm&amp;_LANG=en){target="_blank"}
-* [Ressourcenauslastung](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FResource_Mgmt%2FResource_utilization%2F_resource-utilization.htm&amp;_LANG=en){target="_blank"}
-* [Projektfinanzierung](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FProject_Finances%2F_project-finances-overview.htm&amp;_LANG=en){target="_blank"}
-* [[!DNL Workfront] Dokumentation](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topic[%C3%A2%E2%82%AC%C2%A6]urce_usage%2Fview-usage-information.htm&amp;_LANG=en){target="_blank"}
-* [Gantt-Diagramm - Übersicht](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FGantt_Chart%2FUse_the_Gantt_Chart%2F_gantt-chart-overview.htm&amp;_LANG=en){target="_blank"}
-* [Gruppenrollen](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FGroup_roles%2F_group-roles.htm&amp;_LANG=en){target="_blank"}
-* [Arbeiten mit Objekten einer Gruppe](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FWork_with_group_objects%2F_work-with-a-groups-objects.htm&amp;_LANG=en){target="_blank"}
-* [Arbeiten mit Gruppen und Teams](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FPeople_Teams_and_Groups%2FWork_with_Groups_and_Teams%2F_work-with-groups-and-teams.htm&amp;_LANG=en){target="_blank"}
-* [Aktualisieren von Arbeiten an einem Projekt](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&amp;_LANG=en){target="_blank"}
-* [Status und Prioritätsbezeichnungen](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreating_Custom_Status_and_Priority_Labels%2F_create-custom-status-and-priority-labels.htm&amp;_LANG=en){target="_blank"}
-
-**Abschnitt 3: Schließung**
-
-* [Übersicht über Berichterstellungselemente](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReports_and_Dashboards%2FReports%2FReporting_Elements%2F_reporting-elements-overview.htm&amp;_LANG=en){target="_blank"}
-* [Erstellen und Verwalten von Timesheets im Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FTimesheets%2FCreate_and_Manage_Timesheets%2F_create-and-manage-timesheets.htm&amp;_LANG=en){target="_blank"}
-* [Portfolio-Management](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
-* [Projekt-Timeline](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
-* [Erstellen von Projekten](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&amp;_LANG=enus){target="_blank"}
-
-<br>
-
 **Einen Praxistest durchführen**
 
 {{practice-test}}
@@ -191,6 +152,12 @@ Sie sollten über Folgendes verfügen:
 {{take-course}}
 
 [Nehmen Sie Adobe Workfront Project Manager - Professional Kurs.](https://app.rockinfo.com/courses/230)
+
+**Handbuch zur Prüfungsvorbereitung**
+
+{{exam-prep-guide}}
+
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/playScorm/551)
 
 +++
 

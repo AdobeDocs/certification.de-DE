@@ -7,9 +7,9 @@ role: User
 badge: label="Prüfung AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '961'
+source-wordcount: '857'
 ht-degree: 1%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 1%
 # Journey für die Zertifizierung [!DNL Adobe Target] Geschäftspraktiker-Experte
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/594) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -165,43 +169,11 @@ Umgebungen:
 
 {{study-materials-intro}}
 
-**Abschnitt 1: Planung und Strategie**
+**Handbuch zur Prüfungsvorbereitung**
 
-* [Einrichten von Kontovoreinstellungen in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-account-preferences.html){target="_blank"}
-* [Grundlegendes zu Berechtigungen für Unternehmensbenutzer in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/understanding-enterprise-user-permissions.html){target="_blank"}
-* [Konfigurieren von Berechtigungen für Unternehmensbenutzer](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.2-configure-ent-user-permissions.html){target="_blank"}
-* [Einrichten von Arbeitsbereichen in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-workspaces.html?lang=de){target="_blank"}
-* [Einführung in die Administrationseinstellungen](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.3-intro-to-admin-setup.html){target="_blank"}
-* [Einrichten von Eigenschaften in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-properties.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Abschnitt 2: Konfigurieren, Ausführen und Verwalten**
-
-* [Einführung in [!DNL Adobe Target] Implementierung](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.1-intro-to-target-implementation.html){target="_blank"}
-* [Target mit Tags integrieren](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/3.1-target-launch.html){target="_blank"}
-* [Vorteile der Verwendung von Standorten](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.2-benefits-of-locations.html){target="_blank"}
-* [Einführung in Target-Anforderungen](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.3-intro-to-target-requests.html){target="_blank"}
-* [Einführung in Target-Parameter](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.4-intro-to-target-params.html){target="_blank"}
-* [Grundlegendes zu [!DNL Adobe Target]&quot;s at.js 2.0 funktioniert&quot;](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works.html){target="_blank"}
-* [Implementierung [!DNL Adobe Target]&quot;s at.js 2.0 in einer Einzelseiten-App (SPA)](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html){target="_blank"}
-* [Erstellen einer Target-Implementierung](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
-* [Nächste Schritte zum Entwerfen einer Target-Implementierung](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.6-next-steps-design-target-implementation.html){target="_blank"}
-
-**Abschnitt 3: Analyse und Berichterstellung**
-
-* [Verwenden der Personalization Insights-Berichte](https://experienceleague.adobe.com/docs/target-learn/tutorials/reports/use-the-personalization-insights-reports.html){target="_blank"}
-* [Integration von Target in Analytics](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html){target="_blank"}
-* [Adobe Analytics als Datenquelle für [!DNL Adobe Target] (A4T)](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/use-analytics-as-a-data-source-a4t.html){target="_blank"}
-* [Einrichten von A4T-Berichten in Analysis Workspace für Aktivitäten mit automatischem Targeting](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=de){target="_blank"}
-
-**Abschnitt 4: Fehlerbehebung**
-
-* [Fehlerbehebung beim Experience Cloud Debugger](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html){target="_blank"}
-* [Fehlerbehebung mit Target Traces](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-target-traces.html){target="_blank"}
-* [Fehlerbehebung bei Mbox-Fehlern](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.1-troubleshoot-mbox-errors.html){target="_blank"}
-* [Fehlerbehebung bei Aktivitätsfehlern](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
-* [Fehlerbehebung bei Integrationsfehlern](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html){target="_blank"}
-
-<br>
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/playScorm/594)
 
 **Einen Praxistest durchführen**
 

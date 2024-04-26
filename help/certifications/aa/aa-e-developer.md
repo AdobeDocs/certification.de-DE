@@ -8,16 +8,20 @@ level: Experienced
 badge: label="Prüfung AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 2%
+source-wordcount: '647'
+ht-degree: 1%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Analytics] Entwicklerexperte
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/530) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -147,39 +151,11 @@ Umgebungen:
 
 {{study-materials-intro}}
 
-**Abschnitt 1: Grundlegendes zu Analytics im Adobe Experience Cloud-Ökosystem**
+**Handbuch zur Prüfungsvorbereitung**
 
-* [Technische Hinweise zu Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=de){target="_blank"}
-* [Einrichten von Analytics- und Experience Cloud-IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=de){target="_blank"}
-* [Analytics-Videos und -Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=de){target="_blank"}
+{{exam-prep-guide}}
 
-**Abschnitt 2: Strategie und Design basierend auf einer Lösungsdesignreferenz (Solution Design Reference, SDR)**
-
-* [Ressourcen verwalten](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
-* [[!DNL Adobe Analytics] Dokumentation](https://experienceleague.adobe.com/docs/analytics.html?lang=de)
-
-**Abschnitt 3: Analytics-Implementierung und -Konfiguration**
-
-* [Implementierung [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=de){target="_blank"}
-* [Grundlagen und Erstellen von Report Suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=de){target="_blank"}
-* [Konfigurieren der Linktracking für [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
-
-**Abschnitt 4: Tag-Management-Systeme**
-
-* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Übersicht über Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=de){target="_blank"}
-* [Übersicht](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=de){target="_blank"}
-
-**Abschnitt 5: Mobile Services**
-
-* [Analytics für Mobilgeräte implementieren](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
-* [Migrieren Sie die Verarbeitungsregeln für Mobile Services zu [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
-
-**Abschnitt 6: Tests, Validierung und Fehlerbehebung**
-
-* [Übersicht über Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html?lang=de){target="_blank"}
-* [Aktivieren, Debuggen und Anpassen des [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
-* [Optimieren der Analysis Workspace-Leistung](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=de){target="_blank"}
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/playScorm/530)
 
 <br>
 

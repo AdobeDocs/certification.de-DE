@@ -6,9 +6,9 @@ role: Developer
 badge: label="Prüfung AD0-E902" type="neutral"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '966'
+source-wordcount: '917'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Zertifizierungs-Journey für Adobe [!DNL Workfront Fusion] Entwickler Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/550) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -134,36 +138,11 @@ Sie sollten über Folgendes verfügen:
 
 {{study-materials-intro}}
 
-**Abschnitt 1. Grundlegende technische Konzepte**
+**Handbuch zur Prüfungsvorbereitung**
 
-* [Zuordnung in Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FMapping%2F_mapping.htm&amp;_LANG=en){target="_blank"}
-* [Funktionen im Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
-* [Organisationen im Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FOrganizations%2F_organizations.htm&amp;_LANG=enus){target="_blank"}
-* [Erste Schritte mit Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FGet_Started%2F_Get_started.htm&amp;_LANG=en){target="_blank"}
-* [Apps und ihre Module](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
-* [Szenarios im Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
-* [Module im Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
+{{exam-prep-guide}}
 
-**Abschnitt 2: Szenario-Design und -Architektur**
-
-* [Apps und ihre Module](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
-* [Module im Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
-* [Funktionen im Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
-* [Aktualisieren von Arbeitselementen und Anzeigen von Updates](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2FUpdating_Work_Items_and_Viewing_Updates%2F_update-work-items-and-view-updates.htm&amp;_LANG=en){target="_blank"}
-* [Vom System getrackte Aktualisierungs-Feeds](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FSet_up_Workfront%2FSystem-Tracked_Update_Feeds%2F_system-tracked-updates-feeds.htm&amp;_LANG=en){target="_blank"}
-* [Szenarios im Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
-
-**Abschnitt 3: Tests und Fehlerbehandlung**
-
-* [Fehler in Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FErrors%2F_errors.htm&amp;_LANG=en){target="_blank"}
-* [Szenarios im Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
-* [Apps und ihre Module](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
-* [Zuordnung in Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FMapping%2F_mapping.htm&amp;_LANG=en){target="_blank"}
-
-**Abschnitt 4: Arbeiten mit APIs**
-
-* [Apps und ihre Module](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
-* [Module im Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/playScorm/550)
 
 <br>
 

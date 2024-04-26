@@ -7,16 +7,20 @@ role: User
 badge: label="Prüfung AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '593'
-ht-degree: 2%
+source-wordcount: '563'
+ht-degree: 0%
 
 ---
 
 # Journey für die Zertifizierung [!DNL Adobe Target] Geschäftspraktiker/innen
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/593) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -42,7 +46,7 @@ Die für diese Zertifizierung vorgesehenen Bewerber umfassen Mitglieder der folg
 
 * Optimierung
 * Personalisierung
-* Analysen
+* Analytics
 * Digital- und Produktmarketing
 
 <br>
@@ -127,41 +131,18 @@ Sie sollten über Folgendes verfügen:
 
 {{study-materials-intro}}
 
-**Abschnitt 1: Planung und Strategie**
-
-* [[!DNL Adobe Target] Handbuch für Geschäftspraktiken](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=de){target="_blank"}
-* [[!DNL Adobe Target] Dokumentation](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
-* [Besucherprofile](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=de){target="_blank"}
-* [[!DNL Adobe Target] Willkommensset](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
-* [Erfolgsmetriken](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=de){target="_blank"}
-* [Kategorien für Zielgruppen](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html){target="_blank"}
-
-**Abschnitt 2: Konfigurieren, Ausführen und Verwalten**
-
-* [Visual Experience Composer (VEC)](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
-* [[!DNL Adobe Target] Willkommensset](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
-* [A/B-Test - Überblick](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
-* [Erstellen einer Erlebnis-Targeting-Aktivität](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html){target="_blank"}
-* [Überblick über Multivarianz-Tests](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
-* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
-* [Erstellen von Zielgruppen](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=de){target="_blank"}
-* [Aktivitäts-QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-
-**Abschnitt 3: Analyse und Berichterstellung**
-
-* [Berichtseinstellungen](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
-* [A/B-Test - Überblick](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
-
-**Abschnitt 4: Fehlerbehebung**
-
-* [[!DNL Adobe Target] Handbuch für Geschäftspraktiken](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=de){target="_blank"}
-* [Übersicht über Adobe Experience Cloud Debugger](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
-
-<br>
 
 **Einen Praxistest durchführen**
 
 {{practice-test}}
+
+**Handbuch zur Prüfungsvorbereitung**
+
+{{exam-prep-guide}}
+
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/playScorm/593)
+
+<br>
 
 +++
 
