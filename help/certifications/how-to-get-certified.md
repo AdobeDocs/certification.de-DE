@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie bei Adobe zertifiziert werden. Finden Sie all
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1494'
+source-wordcount: '1496'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ Hinweis: Massenrabatte können nicht mit anderen Angeboten oder Rabatten kombini
 
 >[!TAB Zertifizierungsanbieter]
 
-Das Adobe Credential-Team arbeitet mit Anbietern zusammen, um die Programminitiativen und -ziele zu unterstützen.  Hier finden Sie die Anbieter und ihre Kontaktdaten:
+Das Adobe Digital Experience Certification Program arbeitet mit Anbietern zusammen, um die Initiativen und Ziele des Programms zu unterstützen. Hier finden Sie die Anbieter und ihre Kontaktdaten:
 
 | Name des Anbieters | Beschreibung | Supportseite/E-Mail |
 | ------- | ------- | ------- |
