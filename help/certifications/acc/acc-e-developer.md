@@ -7,10 +7,10 @@ role: Developer
 badge: label="Prüfung AD0-E330" type="neutral"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: 6196ca57b04cb2c197db3c3dc96eedb89fbf9ccc
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '727'
-ht-degree: 2%
+source-wordcount: '732'
+ht-degree: 3%
 
 ---
 
@@ -136,7 +136,7 @@ Sie sollten über Folgendes verfügen:
 
 <br>
 
-++ Schritt 2: Vorbereitung auf Ihre Prüfung
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

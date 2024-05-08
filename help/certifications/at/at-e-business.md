@@ -7,9 +7,9 @@ role: User
 badge: label="Prüfung AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '862'
 ht-degree: 1%
 
 ---
@@ -163,7 +163,7 @@ Umgebungen:
 
 <br>
 
-++ Schritt 2: Vorbereitung auf Ihre Prüfung
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prüfung AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -138,7 +138,7 @@ Darüber hinaus sollten Sie sich mit den folgenden Aktivitäten und Technologien
 
 <br>
 
-++ Schritt 2: Vorbereitung auf Ihre Prüfung
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

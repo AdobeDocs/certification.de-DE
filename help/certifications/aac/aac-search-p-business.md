@@ -8,10 +8,10 @@ role: User
 badge: label="Prüfung AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 7%
+source-wordcount: '585'
+ht-degree: 1%
 
 ---
 
@@ -130,7 +130,7 @@ Sie sollten auch Erfahrung mit den folgenden Funktionen haben:
 
 <br>
 
-++ Schritt 2: Vorbereitung auf Ihre Prüfung
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
 
 **Studienmaterial**
 
@@ -147,9 +147,9 @@ Sie sollten auch Erfahrung mit den folgenden Funktionen haben:
 
 **Abschnitt 2: Berichte, Einblicke und Werkzeuge**
 
-* [[!DNL Analytics] Tools-Anleitung](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=de){target="_blank"}
+* [[!DNL Analytics] Tools-Handbuch](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=de){target="_blank"}
 * [Erste Schritte mit [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=de){target="_blank"}
-* [[!DNL Campaign] Reporting](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
+* [[!DNL Campaign] Berichterstellung](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
 * [Erstellen [!DNL Analytics] Profile für Adobe [!DNL Advertising] Aktivierung und Berichterstellung](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
 * [Bericht über [!DNL Advertising] Daten in Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
 * [Berichtszeitverarbeitung](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html?lang=de){target="_blank"}
@@ -169,7 +169,7 @@ Sie sollten auch Erfahrung mit den folgenden Funktionen haben:
 * [Raster, Führungslinien und Messungen in PDF](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
 * [Attribution und Messung](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
 * [Dokumentation zur Marketo Measure-Hilfe](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
-* [Konversionsvariablen (eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
+* [Konversionsvariablen (eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html?lang=de){target="_blank"}
 
 +++
 

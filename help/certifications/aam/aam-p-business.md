@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prüfung AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '594'
 ht-degree: 1%
 
 ---
@@ -87,7 +87,7 @@ Sie sollten ein grundlegendes Verständnis der Datenflüsse, Geschäftsziele und
 * Legen Sie die geeignete Struktur fest, um Eigenschaften und Segmente zu erstellen, die eine klare und konsistente Nomenklatur verwenden.
 * Bestimmen Sie die richtige Technik, um eine organisierte Plattform mithilfe einer klaren Ordnerstruktur zu verwalten.
 
-**Abschnitt 6: Profilzusammenführung, ID-Synchronisierung und Audience Marketplace**
+**Abschnitt 6: Profilzusammenführung, ID-Synchronisierung und Audience Marketplace (14 %)**
 
 * Organisieren von Benutzereigenschaften in einem einheitlichen Profil, um auf Haushalts- oder Gerätebasis basierende Zielgruppen zu erstellen
 * Aktivierung mithilfe von Audience Marketplace identifizieren
@@ -106,7 +106,7 @@ Sie sollten ein grundlegendes Verständnis der Datenflüsse, Geschäftsziele und
 
 <br>
 
-++ Schritt 2: Vorbereitung auf Ihre Prüfung
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
 
 **Studienmaterial**
 
