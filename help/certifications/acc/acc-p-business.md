@@ -7,7 +7,7 @@ role: User
 badge: label="Prüfung AD0-E329" type="neutral"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '836'
 ht-degree: 3%
@@ -97,7 +97,7 @@ Sie sollten über Folgendes verfügen:
 
 * Bestimmen, wie Spalten in einer Ansicht geändert werden, um Daten/Ausgaben zu testen
 * Beschreiben Sie die Ziele der Zielgruppen-Aktivitäten Vereinigung, Schnittmenge, Ausschluss und Aufspaltung des Workflows.
-* Bestimmen Sie die geeignete Methode zur Abstimmung von Daten, Generieren eines Komplements, Deduplizieren und Importieren von Daten.
+* Bestimmen der geeigneten Methode zur Abstimmung von Daten, Generieren eines Komplements, Deduplizieren und Importieren von Daten
 * Identifizieren Sie bei einem Szenario, welche Datenanreicherungsregel verwendet werden soll.
 * Ermitteln Sie bei einem Szenario, wie Sie eine Zielgruppe segmentieren und als Liste und Zellen speichern
 * Legen Sie bei einem Szenario die beste Methode zum Exportieren von Daten an Ziele fest, indem Sie sie konfigurieren
@@ -142,7 +142,7 @@ Sie sollten über Folgendes verfügen:
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

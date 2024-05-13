@@ -7,7 +7,7 @@ role: Developer
 badge: label="Prüfung AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Kurse:** Nehmen Sie die [Adobe Commerce Developer Professional-Kurs](https://app.rockinfo.com/courses/92) , die Erläuterungen zu Schlüsselkonzepten, praxisorientierten Demonstrationen und Wissenstests enthält. Wenn du gerade erst anfliegst, wird die [Adobe Commerce Foundation-Kurs](https://app.rockinfo.com/courses/148) bietet eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/382) bietet Ihnen einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der ausführlichen Studienmaterialien, die Sie für eine erfolgreiche Prüfung benötigen.
+>* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/382) bietet Ihnen einen maßgeschneiderten Weg durch Ihren Prüfungsvorbereitungsprozess, einschließlich der detaillierten Studienmaterialien, die Sie für eine erfolgreiche Prüfung benötigen.
 >
 >Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID.
 
@@ -176,7 +176,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

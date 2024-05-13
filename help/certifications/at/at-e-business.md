@@ -7,9 +7,9 @@ role: User
 badge: label="Prüfung AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '863'
 ht-degree: 1%
 
 ---
@@ -74,7 +74,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 Technologien:
 
-* Experience Cloud-Debugger / auch als Adobe Experience Cloud-Debugger bezeichnet
+* Experience Cloud-Debugger/auch als Adobe Experience Cloud-Debugger bezeichnet
 * Adobe Analytics als Berichtsquelle für die Target-spezifische A4T-Integration
 * Browser-Konsole/Browser-Entwicklertools wie Konsole, Registerkarte &quot;Netzwerk&quot;
 * Netzwerkwerkzeuge im Browser
@@ -91,7 +91,7 @@ Technologien:
 Umgebungen:
 
 * Desktop/Website einschließlich Desktops und Mobilgeräten
-* Mobile App (Grundverständnis) / Verwendung von Target für Mobilgeräte
+* Mobile App (Grundverständnis)/Verwendung von Target für Mobilgeräte
 * Staging-Entwicklung
 * Produktion
 * Produktionsumgebungen für mobile Geräte, Tablet-Geräte und Desktop-Geräte
@@ -163,7 +163,7 @@ Umgebungen:
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

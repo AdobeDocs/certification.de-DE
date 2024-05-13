@@ -7,7 +7,7 @@ role: Developer
 badge: label="Prüfung AD0-E306" type="neutral"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '701'
 ht-degree: 0%
@@ -128,7 +128,7 @@ Sie sollten über Folgendes verfügen:
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

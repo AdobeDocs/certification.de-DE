@@ -7,7 +7,7 @@ level: Experienced
 badge: label="Prüfung AD0-E716" type="neutral"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '858'
 ht-degree: 0%
@@ -153,9 +153,9 @@ Sie sollten mindestens 1-3 Jahre Erfahrung mit Adobe haben [!DNL Commerce] und S
 **Abschnitt 9: [!DNL Commerce] Cloud-CLI-Tool (Teil verwalten) (6 %)**
 
 * Erläuterung der Aktualisierung von Cloud-Variablen mithilfe von CLI
-* Verstehen des Umgebungsmanagements mithilfe von CLI (CLI-Funktionen: E-Mails aktivieren, Umgebung neu starten, Snapshot, DB-Dump, lokale Umgebung einrichten)
+* Verstehen des Umgebungsmanagements mithilfe von CLI (CLI-Exklusivfunktionen: E-Mails aktivieren, Umgebungen neu starten, Snapshot, DB-Dump, lokale Umgebung einrichten)
 * Verzweigungen mithilfe von CLI demonstrieren
-* Veranschaulichen Sie, wie Sie eine Fehlerbehebung bei Cloud Services durchführen können. (My SQL, Redis, tunnel:info)
+* Veranschaulichen Sie die Fehlerbehebung bei Cloud-Services. (My SQL, Redis, tunnel:info)
 
 <br>
 
@@ -179,7 +179,7 @@ Sie sollten mindestens 1-3 Jahre Erfahrung mit Adobe haben [!DNL Commerce] und S
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

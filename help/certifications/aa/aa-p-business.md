@@ -7,7 +7,7 @@ role: User
 badge: label="Prüfung AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 0%
@@ -48,7 +48,7 @@ ht-degree: 0%
 * Datenanalysten
 * Webanalysten
 * Digitale Analysten
-* Medien-/Marketing-Analysten
+* Medien-/Marketinganalysten
 * Produkteigentümer und -manager
 * UI-Analysten
 * Konversions-/Optimierungsspezialisten
@@ -123,7 +123,7 @@ Sie sollten über mindestens 3 Monate Erfahrung in [!DNL Adobe Analytics] und da
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

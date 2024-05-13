@@ -7,7 +7,7 @@ product: Customer Journey Analytics
 badge: label="Prüfung AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Sie sollten über 12-24 Monate Erfahrung im Adobe verfügen [!DNL Customer Journ
 * Definieren eines QC-Skripts, das an den AEP-Techniker übergeben wird
 * Verbindungen mit primären Identitäten konfigurieren (Personen-ID)
 * Verbindungen mit mehreren Datensätzen konfigurieren
-* Datenansicht konfigurieren (Metrik-/Dimensionskonfiguration)
+* Datenansicht konfigurieren (Konfiguration von Metrik/Dimension)
 * Adobe konfigurieren [!DNL Customer Journey Analytics]
 * Transformieren von Daten innerhalb der Dimensionen und Metriken
 * Analysis Workspace-Grundlagen (Visualisierungen, Attributionseinstellungen, Filter, berechnete Metriken)
@@ -117,7 +117,7 @@ Sie sollten über 12-24 Monate Erfahrung im Adobe verfügen [!DNL Customer Journ
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

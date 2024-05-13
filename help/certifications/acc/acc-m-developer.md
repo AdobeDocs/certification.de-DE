@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Prüfung AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '697'
 ht-degree: 2%
 
 ---
@@ -56,14 +56,14 @@ Sie sollten über Folgendes verfügen:
 * Die Möglichkeit, den technischen Fahrplan einschließlich LEO- und Aufgabenabhängigkeiten bereitzustellen
 * Möglichkeit zur Bereitstellung technischer Anforderungsinformationen für den Projektumfang und die Zeitleiste
 * Erfahrungen mit Workshops zu Geschäftsanforderungen
-* Experience-führende Lösungs-Design-Workshops
+* Erfahrung in führenden Lösungs-Design-Workshops
 * Die Fähigkeit, mehrere Lösungsansätze zu bewerten und Empfehlungen bereitzustellen
 * Möglichkeit, bestehende Kampagnen und Prozesse auf anderen Plattformen zu überprüfen, um die Anforderungen für die Implementierung von Adobe Campaign zu ermitteln
 * Die Fähigkeit, Produktfunktionen und -funktionen zu beschreiben und zu demonstrieren
 * Die Möglichkeit, Produktfunktionen Anwendungsfällen mit hohem Anwendungsfall zuzuordnen
-* Erfahrung, die das Pre-Sales-Team unterstützt
+* Erfahrung bei der Unterstützung des Pre-Sales-Teams
 * Möglichkeit, Desktop-Coaching anzubieten (Best Practice für Produkte, Berichtsmetriken usw.)
-* Erlebnisse, die die Unterschiede zwischen den Implementierungsmodellen beschreiben
+* Erfahrung mit der Beschreibung der Unterschiede zwischen Bereitstellungsmodellen
 
 <br>
 
@@ -129,7 +129,7 @@ Sie sollten über Folgendes verfügen:
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

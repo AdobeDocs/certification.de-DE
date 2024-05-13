@@ -1,15 +1,15 @@
 ---
 title: Neue Zertifizierung für Frontend-Entwickler Professional
-description: Erfahren Sie, wie Sie zu einem zertifizierten Adobe Developer-Profi für Adobe werden. [!DNL Commerce] .
+description: Erfahren Sie, wie Sie zu einem zertifizierten Adobe Developer-Profi für Adobe werden. [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
 badge: label="Prüfung AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
 >
->* **Kurs**: Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie unsere [Adobe Commerce Foundation-Kurs](https://app.rockinfo.com/courses/148) , um Erläuterungen zu Schlüsselkonzepten, Produkt-Durchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet Ihnen eine Wissensgrundlage, auf der Sie auf Ihrer Zertifizierungs-Journey aufbauen können.
+>* **Kurs**: Wenn Sie gerade erst anfangen oder einen Auffrischungskurs benötigen, nehmen Sie die [Adobe Commerce Foundation-Kurs](https://app.rockinfo.com/courses/148) , um Erläuterungen zu Schlüsselkonzepten, Produkt-Durchläufen und Wissensüberprüfungen zu erhalten. Dies bietet eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
 >
 >* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/384) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
 >
@@ -106,7 +106,7 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 * Beschreiben Sie den Unterschied zwischen bestimmten partiellen Dateien (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less).
 * Zeigen Sie bei einem Szenario die Möglichkeit, [!DNL Magento] WENIGER
 * Grundlegende Konzepte von LESS beschreiben
-* Hierarchie der Stile erklären ( lib, modules, themes)
+* Hierarchie der Stile erklären (lib, module, themes)
 * Client- und Server-seitige Kompilierung erläutern
 
 **Abschnitt 4: JavaScript (18%)**
@@ -118,7 +118,7 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 * Beschreiben der Verwendung von Knockout JS
 * Verwendung von jQuery-Widgets beschreiben
 
-**Abschnitt 5: Admin-Konfiguration und PageBuilder (6 %)**
+**Abschnitt 5: Admin-Konfiguration und Seitenaufbau (6 %)**
 
 * Veranschaulichen der Möglichkeit, den Seitenaufbau und den CMS-Inhalt anzupassen&quot;
 * Anwenden/Planen eines Designs auf einen bestimmten Bereich (Website, Store, Store-Ansicht)
@@ -127,7 +127,7 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 
 **Abschnitt 6: Tools (CLI und Grunt) (8 %)**
 
-* Beschreiben Sie die Verwendung der einfachen Befehle bin/magento
+* Beschreiben Sie die Verwendung von einfachen bin/Magento-Befehlen
 * Beschreiben Sie die Verwendung von Composer-Befehlen (installieren, aktualisieren, benötigen, entfernen)
 * Den geeigneten Anwendungsfall für Bereitstellungsmodi unterscheiden
 * Beschreiben Sie zusätzliche Tools, die von Cloud bereitgestellt werden (schnelles Herunterladen der Datenbank, Bereitstellung von Inhalten)
@@ -146,7 +146,7 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

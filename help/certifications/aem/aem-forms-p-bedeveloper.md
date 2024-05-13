@@ -7,7 +7,7 @@ role: Developer
 badge: label="Prüfung AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
@@ -86,7 +86,7 @@ Sie sollten mit den folgenden Technologien und Umgebungen vertraut sein:
 * Identifizieren Sie in einem Szenario die Schritte, die zum Erstellen von AEM Forms erforderlich sind
 * Beschreiben des Forms-Datenmodells
 * Schritte zur Anpassung von AEM Forms identifizieren
-* Identifizieren Sie in einem Szenario die Schritte zur Verwendung der JavaScript ClientLib-API GuideBridge
+* Identifizieren Sie in einem Szenario die Schritte zur Verwendung von JavaScript ClientLib mithilfe der GuideBridge-API
 
 **Abschnitt 2: Prozesse und Workflows (34%)**
 
@@ -128,7 +128,7 @@ Sie sollten mit den folgenden Technologien und Umgebungen vertraut sein:
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

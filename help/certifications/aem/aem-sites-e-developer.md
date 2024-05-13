@@ -7,7 +7,7 @@ role: Developer
 badge: label="Prüfung AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '501'
 ht-degree: 0%
@@ -77,10 +77,10 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 **Abschnitt 1: Konfigurationen (22%)**
 
-* Identifizieren Sie die Schritte zum Erstellen und Verwalten AEM Dispatcher-Konfigurationen
+* Ermitteln der Schritte zum Erstellen und Verwalten AEM Dispatcher-Konfigurationen
 * Bestimmen der richtigen Schritte zum Konfigurieren der Multi-Mandate
 * Erläuterung der Erstellung und Verwaltung von OSGi-Konfigurationen
-* Legen Sie bei einem Szenario die richtige Methode zum Erstellen und Verwalten benutzerdefinierter OAK-Indizes fest.
+* Legen Sie bei einem Szenario die richtige Methode zum Erstellen und Verwalten benutzerdefinierter Oak-Indizes fest.
 * Bestimmen der richtigen Schritte zum Konfigurieren der OOTB SAML- und LDAP-Integration
 
 **Abschnitt 2: AEM (44%)**
@@ -126,7 +126,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

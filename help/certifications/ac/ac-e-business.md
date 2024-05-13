@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prüfung AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,6 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/386) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
-
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -88,10 +87,10 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 * Ermitteln, wie Produktarten und ihre Funktionen zur Erfüllung von Kundenanforderungen genutzt werden können
 * Interpretieren von Anforderungen und Nachahmen, um festzustellen, ob sie mit nativen Funktionen erfüllt werden können
 * Demonstration der Kenntnisse des Admin-Bedienfelds und des Standorts gemeinsamer Funktionen
-* Adobe zum Importieren/Exportieren von Funktionen demonstrieren [!DNL Commerce] Entitäten
+* Adobe importieren/exportieren [!DNL Commerce] Entitäten
 * Informationen zur nativen Konfiguration von Warenkorb und Checkout
 * Bewerten Sie die nativen verfügbaren Versandmethoden im Adobe. [!DNL Commerce] und wie sie für häufige Anwendungsfälle gelten
-* Verstehen der Möglichkeiten zum Erstellen und Veröffentlichen von stilisierten Inhalten mithilfe der Adobe [!DNL Commerce] CMS-Funktionen, einschließlich PageBuilder
+* Verstehen der Möglichkeiten zum Erstellen und Veröffentlichen von stilisierten Inhalten mithilfe der Adobe [!DNL Commerce] CMS-Funktionen, einschließlich Page Builder
 * Verwenden nativer Tools zur Verwaltung des Auftragslebenszyklus
 * Demonstration der Möglichkeit, die verschiedenen Giftoptionen zu konfigurieren (Geschenkkarten, Geschenkverpackung, Nachrichten senden)
 * Transaktionsnachrichten konfigurieren und ändern
@@ -154,7 +153,7 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

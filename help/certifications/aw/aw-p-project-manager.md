@@ -6,7 +6,7 @@ role: Developer
 badge: label="Prüfung AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '726'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **Kurs:** Die [Adobe Workfront Project Manager - Professional Kurs](https://app.rockinfo.com/courses/230) enthält Erläuterungen zu Schlüsselkonzepten, praxisorientierten Demonstrationen und Wissenstests.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/609) bietet Ihnen einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der ausführlichen Studienmaterialien, die Sie für eine erfolgreiche Prüfung benötigen.
+>* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/609) bietet Ihnen einen maßgeschneiderten Weg durch Ihren Prüfungsvorbereitungsprozess, einschließlich der detaillierten Studienmaterialien, die Sie für eine erfolgreiche Prüfung benötigen.
 >
 >_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 Sie sollten über Folgendes verfügen:
 
-* Ein Verständnis des Arbeitsprozesses von einem ersten Arbeitserfordernis bis zum Abschluss oder wurde dem Projekt- oder Arbeitsmanagement ausgesetzt.
+* Verständnis des Arbeitsprozesses von einem ersten Arbeitserfordernis bis hin zum Abschluss oder hatte Kontakt zum Projekt- oder Arbeitsmanagement.
 * Abgeschlossene selbstgeführte Schulung oder Bootcamp oder [!DNL Workfront] Benutzer 6-12 Monate lang verwenden, um die grundlegenden Funktionen zu verstehen.
 * Grundlegendes zur Konfiguration, Verfolgung und Überwachung von Berichtsdaten
 
@@ -133,7 +133,7 @@ Sie sollten über Folgendes verfügen:
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Empfohlener Schulungskurs**
 

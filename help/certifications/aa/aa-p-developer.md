@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Prüfung AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '722'
 ht-degree: 0%
@@ -81,7 +81,7 @@ Außerdem sollten Sie Erfahrung mit den folgenden Aufgaben haben:
 
 * Identifizieren Sie Funktionen und Funktionen der Adobe Experience Cloud ID.
 * Identifizieren Sie die Verwendung von für Adobe Launch.
-* Ermitteln, wie Sie Support aktivieren [!DNL Adobe Analytics] Tags im Adobe Experience Cloud-Ökosystem.
+* Ermitteln, wie Sie diese Funktion aktivieren/unterstützen [!DNL Adobe Analytics] Tags im Adobe Experience Cloud-Ökosystem.
 
 **Abschnitt 2: Analytics-Strategie und -Design basierend auf einer SDR (12 %)**
 
@@ -138,7 +138,7 @@ Außerdem sollten Sie Erfahrung mit den folgenden Aufgaben haben:
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

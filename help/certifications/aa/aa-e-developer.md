@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Prüfung AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '653'
 ht-degree: 1%
 
 ---
@@ -51,9 +51,9 @@ ht-degree: 1%
 
 ### Minimales Erlebnis {#minimum-experience}
 
-Sie sollten Erfahrung als Implementierungsberater in einer Hybridrolle mit etwa 2-jähriger Erfahrung in der [!DNL Adobe Analytics] Implementierung. Sie fungieren als Brücke zwischen IT und dem Unternehmen, übersetzen die Geschäftsanforderungen in eine technische Lösung (SDR) und verstehen anhand der Anforderungen des Analytikers, welcher Variablentyp benötigt wird, wo und wie die Daten gesammelt werden, gestalten das Datenmodell (Datenschicht), konfigurieren und verwalten die Tag-Management-Lösung.
+Sie sollten Erfahrung als Implementierungsberater in einer Hybridrolle mit etwa 2-jähriger Erfahrung in der [!DNL Adobe Analytics] Implementierung. Sie fungieren als Brücke zwischen der IT und dem Unternehmen, übersetzen die Geschäftsanforderungen in eine technische Lösung (SDR) und verstehen anhand der Anforderungen des Analytikers, welcher Variablentyp benötigt wird, wo und wie die Daten gesammelt werden, gestalten das Datenmodell (Datenschicht), konfigurieren und verwalten die Tag-Management-Lösung.
 
-Sie, da der Analytics-Entwickler die Tags selten auf der Seite implementiert, werden sie stattdessen von der IT oder dem Systemintegrator implementiert.
+Sie als Analytics-Entwickler implementieren die Tags selten auf der Seite. Stattdessen werden sie von der IT oder dem Systemintegrator implementiert.
 
 Sie sollten mit den folgenden Tools und Umgebungen vertraut sein:
 
@@ -61,7 +61,7 @@ Instrumente:
 
 * Adobe Experience Platform Launch (Adobe Launch)
 * Debugging-Tools für [!DNL Adobe Analytics] (Paketmonitor, z. B. Adobe Debugger, Browser-Entwicklertools, Charles)
-* [!DNL Adobe Analytics] Report Suite-Einstellungen der Admin Console
+* [!DNL Adobe Analytics] Admin Console Report Suite-Einstellungen
 * Grundlegendes zu Workspace
 * Web-Entwicklungs-Tools, Code-Editor und mobile Debugging-Tools
 * Adobe Auditor
@@ -145,7 +145,7 @@ Umgebungen:
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

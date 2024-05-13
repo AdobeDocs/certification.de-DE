@@ -7,9 +7,9 @@ role: Developer,Data Architect
 badge: label="Prüfung AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 8e20ec297693b463b2065e70c6f057e03c3cee60
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ ht-degree: 0%
 Sie sollten über Folgendes verfügen:
 
 * Unterschiede bei der Segmentauswertung (Stream, Batch, Edge)
-* Grundlegendes zu den Anwendungsfällen für APIs (wie man Entwicklerprojekte erstellt, wie Auth funktioniert)
+* Grundlegendes zu Anwendungsfällen für APIs (wie ein Entwicklerprojekt erstellt wird, wie Authoring funktioniert)
 * Grundlagen zum Identitätsdienst
 * Grundlagen zum Datenfluss
 * Grundlagen des Adobe I/O
@@ -100,7 +100,7 @@ Sie sollten sich in diesen Umgebungen wohl fühlen:
 * Beschreiben Sie, wie die Profilassemblierung funktioniert
 * Beschreiben der Funktionsweise des Identitätsdiagramms
 * Beschreibung der Profilkomposition
-* Zwischen Edge- und Hub-Profil unterscheiden
+* Unterscheidung zwischen Edge- und Hub-Profil
 
 **Datenerfassung (13%)**
 
@@ -146,7 +146,7 @@ Sie sollten sich in diesen Umgebungen wohl fühlen:
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

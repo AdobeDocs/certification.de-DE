@@ -7,7 +7,7 @@ role: User,Developer
 badge: label="Prüfung AD0-E457" type="neutral"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 1%
@@ -55,7 +55,9 @@ Sie sollten über Folgendes verfügen:
 * 1-2 Jahre Erfahrung im Bereich der Marketingtechnologie
 * 3-6 Monate Erfahrung mit Aktivierung der Zielgruppe
 * Erfahrung mit Boolescher Logik, Digital Marketing-Fachjargon, Datenanalyse und Strategien
-* Kenntnis der Geschäftsziele und KPIs, der Kenntnis von digitalen Marketingtechnologiestapeln und verschiedenen Plattformintegrationen sowie eines Verständnisses der Datenflüsse (ID-Typen, ID-Synchronisierungen, Pixelverfolgung, benutzerbasierte Ziele)
+* Kenntnis der Geschäftsziele und KPIs
+* Vertrautheit mit digitalen Marketingtechnologiestapeln und verschiedenen Plattformintegrationen
+* Grundlegendes zu Datenflüssen (ID-Typen, ID-Synchronisierungen, Pixel-Tracking, personenbasierte Ziele)
 
 Sie sollten mit den folgenden Technologien und Umgebungen vertraut sein:
 
@@ -63,7 +65,7 @@ Technologien:
 
 * DSP Plattform (Trade Desk, Double Click Bid Manager usw.)
 * Excel
-* Tableau und ähnliche Tools (PowerBI, Qlik)
+* Tableau und ähnliche Werkzeuge (Power BI, Qlik)
 * Anzeigenserver (Doppelklick auf den Kampagnen-Manager)
 * Adobe/Google Analytics
 * Adobe Experience Platform
@@ -132,7 +134,7 @@ Umgebungen:
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

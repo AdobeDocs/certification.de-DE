@@ -7,9 +7,9 @@ role: User
 badge: label="Prüfung AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '744'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 0%
 * Datenanalysten
 * Webanalysten
 * Digitale Analysten
-* Medien-/Marketing-Analysten
+* Medien-/Marketinganalysten
 * Produkteigentümer und -manager
 * UI-Analysten
 * Konversions-/Optimierungsspezialisten
@@ -59,8 +59,8 @@ ht-degree: 0%
 
 Sie sollten über Folgendes verfügen:
 
-* 2 Jahre Erfahrung mit digitalen Analysen mit Marketing-Hintergrund
-* Ein tiefgehendes Verständnis der Metriken und Dimensionen der digitalen Analyse
+* 2 Jahre Erfahrung mit Digital Analytics mit Marketing-Hintergrund
+* Umfassendes Verständnis der Metriken und Dimensionen von Digital Analytics
 * Ein Verständnis des Geschäftswerts von Web-Technologien
 * Die Fähigkeit, Geschäftsanforderungen in Metriken oder KPIs zu übersetzen
 * Die Fähigkeit, Berichte zu erstellen und zu interpretieren
@@ -68,7 +68,7 @@ Sie sollten über Folgendes verfügen:
 * Hilft Kunden, die gewünschten Informationen zu extrahieren/abzurufen (z. B. bei der Definition ihrer Geschäftsfragen)
 * Ein Verständnis, wie die Technologie funktioniert und wie sie die Implementierung eines Kunden versteht (z. B. wo sich die Daten befinden, wie sie erfasst werden können, wie sie verfolgt werden), und zwar aus funktionaler Sicht
 * Mindestens ein Jahr [!DNL Adobe Analytics] Praktisches Erlebnis
-* Grundlegendes dazu, wie digitale Analysen Daten filtern/strukturieren
+* Grundlegendes dazu, wie Digital Analytics Daten filtert/strukturiert
 * Ein Bewusstsein für die Integration von [!DNL Adobe Analytics] mit anderen Adobe-Lösungen
 
 Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sein:
@@ -76,7 +76,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * FTP-Client
 * Aktuell [!DNL Adobe Analytics] Workspace-Funktionen und andere Berichtsoptionen außerhalb von Workspace (z. B. Projekte planen und Berichte planen)
 * Debugging-Tools für [!DNL Adobe Analytics] (Paketmonitor, z. B. ein Adobe Debugger, Browser-Entwicklertools, Charles)
-* Admin Console (Analytics Report Suite Admin Console und Experience Cloud Admin Console)
+* Admin Console (Admin Console und Experience Cloud-Admin Console der Analytics Report Suite)
 * Adobe Launch-Grundlagen/Grundlagen
 * Grundlegendes zu Apps, SPA und Websites
 * Mobile Services-Benutzeroberfläche
@@ -152,7 +152,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

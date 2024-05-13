@@ -7,7 +7,7 @@ role: Developer
 badge: label="Prüfung AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 1%
@@ -73,7 +73,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Integration mit Datendiensten
 * Workflow-Implementierung
 * Grundlegendes zu AEM Forms Workbench (JEE), um lange Live-Prozesse und -Dienste zu erstellen.
-* Entwickeln von JavaScript-Clientlibs mithilfe der GuideBridge-API
+* Entwickeln von JavaScript-Clientlibs mit der GuideBridge-API
 * Basierend auf dem Zeichen v Government CAC weiß, welcher AEM Forms-Umgebungs-Desktop oder -Server verwendet werden soll
 * Grundlegendes zu Java/J2EE und JavaScript zum Schreiben von Logik und Aufrufen verschiedener Dienste.
 * Vorausfüllen eines adaptiven Formulars
@@ -146,7 +146,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

@@ -6,7 +6,7 @@ role: Developer
 badge: label="Prüfung AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '950'
 ht-degree: 0%
@@ -114,7 +114,7 @@ Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]un
 **Abschnitt 6: Methode/Best Practices/Anwendungsfälle (22%)**
 
 * Bei einem Szenario in [!DNL Workfront], demonstrieren Sie die Funktionalität zum Einrichten des Trackings von Sendungen, die Teil einer Kampagne sind.
-* Bei einem Szenario in [!DNL Workfront], zeigen Funktionen rund um die strategische Priorisierung und Rechtfertigung der Arbeit .
+* Bei einem Szenario in [!DNL Workfront], demonstrieren Funktionen rund um die strategische Priorisierung und Rechtfertigung der Arbeit.
 * Bei einem Szenario in [!DNL Workfront], demonstrieren Sie die Funktionalität rund um Finanzen, Nutzung, Prognosen, Abrechnungsraten/Datensätze
 * Bei einem Szenario in [!DNL Workfront], demonstrieren Sie die Funktionen zum Einrichten von Workflows und Genehmigungen.
 * In einem Szenario empfehlen Sie ein Framework für Governance rund um die Systemverwaltung, wenn Sie die Instanz eines Kunden erweitern.
@@ -152,7 +152,7 @@ Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]un
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

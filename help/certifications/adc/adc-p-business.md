@@ -7,7 +7,7 @@ role: User
 badge: label="Prüfung AD0-D106" type="neutral"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 1%
@@ -48,9 +48,9 @@ ht-degree: 1%
 
 Sie sollten über Folgendes verfügen:
 
-* Mindestens 0-12 Monate Erfahrung innerhalb von [!DNL Adobe Document Cloud]
+* Mindestens 0-12 Monate Erfahrung innerhalb [!DNL Adobe Document Cloud]
 * in der Lage sein, geschäftliche Anforderungen zu identifizieren und zu kommunizieren
-* Beratung zur Produktimplementierung zu [!DNL Adobe Document Cloud] Lösungen.
+* Beratung zur Produktaktivierung [!DNL Adobe Document Cloud] Lösungen.
 
 <br>
 
@@ -92,7 +92,7 @@ Sie sollten über Folgendes verfügen:
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

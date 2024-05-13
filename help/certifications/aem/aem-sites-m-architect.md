@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Prüfung AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '644'
 ht-degree: 0%
@@ -64,7 +64,7 @@ Darüber hinaus sollten Sie die folgenden Aufgaben ausführen können:
 * Definieren Sie ein Inhaltsmodell für Inhalte/Assets, das künftigen Anforderungen gerecht werden kann.
 * Definiert die erforderlichen Vorlagen und Komponenten basierend auf Geschäftsanforderungen
 * Ermitteln Sie, wann native/funktionale/Kernkomponenten und benutzerdefinierte Komponenten verwendet werden sollen.
-* Design-Caching, Lastenausgleich und Sicherheitsstrategien (Dispatcher, Firewall, CDN,
+* Design-Caching, Lastenausgleich und Sicherheitsstrategien (Dispatcher, Firewall, CDN)
 * Übergeordnete Aufwandsschätzungen für die Ersteinrichtung und die Bereitstellung von Funktionen bereitstellen
 * Funktion und Anwendungsfälle der Internationalisierung festlegen
 * Strategien zur Unterstützung von mehrsprachigen und Site-übergreifenden
@@ -137,7 +137,7 @@ Darüber hinaus sollten Sie die folgenden Aufgaben ausführen können:
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

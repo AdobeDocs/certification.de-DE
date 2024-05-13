@@ -8,9 +8,9 @@ role: Data Architect,Developer
 badge: label="Prüfung AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '393'
 ht-degree: 1%
 
 ---
@@ -76,7 +76,7 @@ Darüber hinaus sind Sie für die Übersetzung von Geschäftsanforderungen in Tr
 
 * Nachweis der Fähigkeit zur Prüfung von Sites
 * Untersuchung der Kundenanforderungen zum Erstellen von Geschäftsanforderungen
-* Erstellen Sie für ein Szenario ein Messungs-Framework.
+* Erstellen Sie für ein Szenario ein Messungs-Framework
 
 **Abschnitt 2: Lösungsdesign (54%)**
 
@@ -109,7 +109,7 @@ Darüber hinaus sind Sie für die Übersetzung von Geschäftsanforderungen in Tr
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 

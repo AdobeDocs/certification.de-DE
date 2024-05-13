@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Prüfung AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '934'
+source-wordcount: '933'
 ht-degree: 1%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 1%
 >
 >Kostenlose On-Demand-Kurse sind jetzt verfügbar, um Sie bei der Vorbereitung auf Ihre Prüfung zu unterstützen. Beginnen Sie noch heute mit dem Journey, indem Sie den Kurs auswählen, der am besten zu Ihrem Erlebnislevel passt!
 >
->* Die [Adobe Experience Platform Foundation-Kurs](https://app.rockinfo.com/courses/216) stellt Ihnen Adobe Experience Cloud vor, eine umfassende Suite digitaler Marketingtools, die auf der einzigen Plattform für maßgeschneiderte Personalisierung basiert.
+>* Die [Adobe Experience Platform Foundation-Kurs](https://app.rockinfo.com/courses/216) führt Adobe Experience Cloud ein, eine End-to-End-Suite mit Digital Marketing-Tools, die auf der einzigen Plattform für skalierte Personalisierung basieren.
 >* Die [Adobe Journey Optimizer Foundation-Kurs](https://app.rockinfo.com/courses/113) bietet eine Wissensgrundlage über diese spezifische Anwendung.
 >* Die [Adobe Journey Optimizer Business Practices Professional-Kurs](https://app.rockinfo.com/courses/107) baut auf dem Gründungskurs auf und hilft Ihnen bei der Vorbereitung auf die Zertifizierungsprüfung auf professioneller Ebene.
->* Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/588) bietet Ihnen einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der ausführlichen Studienmaterialien, die Sie für eine erfolgreiche Prüfung benötigen.
+>* Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/588) bietet Ihnen einen maßgeschneiderten Weg durch Ihren Prüfungsvorbereitungsprozess, einschließlich der detaillierten Studienmaterialien, die Sie für eine erfolgreiche Prüfung benötigen.
 >
 >_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
 
@@ -84,8 +84,8 @@ Die Bewerber sollten in der Lage sein,
 * Verstehen und Verwenden verschiedener Aktivitäten im Journey
 * Grundlegendes Debugging - Über Testmodus oder Berichterstellung (kein Abfragedienst erforderlich)
 * Anforderungen an das Sammeln und Dokumentieren von Journey mit dem Unternehmen
-* Machen Sie sich mit Best Practices für Journey und Kanäle vertraut (z. B. beste Sendezeit, bestmöglicher Verwendungskanal, Best Journey-Design-Muster für verschiedene Anwendungsfälle, Verwendungszeitpunkt der Transaktions- und Marketingnachrichten).
-* Konzepte der Zustellbarkeit (z. B. unterschiedliche Absprünge, Erwärmung)
+* Machen Sie sich mit Best Practices für Journey und Kanäle vertraut (z. B. beste Sendezeit, bestmöglicher Verwendungskanal, Best Journey-Design-Muster für verschiedene Anwendungsfälle, Verwendungszeitpunkt von Transaktions- und Marketingnachrichten).
+* Konzepte zur Zustellbarkeit (z. B. unterschiedliche Absprünge, Erwärmung)
 * Grundlegendes zu Häufigkeit und Ermüdungsregeln
 * Vorschau von Datensätzen anzeigen
 * Grundlegendes zu Identitäten
@@ -99,7 +99,7 @@ Die Bewerber sollten auch in der Lage sein,
 * HTML für E-Mail hochladen und automatisch konvertieren (neuer HTML-Konverter)
 * Erstellen eines Inhaltsexperiments
 * Messen der Ergebnisse eines Inhaltsexperiments
-* Taggen/Filtern/Suchen nach Journey, Kampagnen und mehr
+* Journey, Kampagnen und mehr taggen/filtern/suchen
 * Fragment aus einer Vorlage erstellen
 * Benutzerdefinierte Aktion
 * Erstellen von Inhalten in Asset-Grundlagen
@@ -167,7 +167,7 @@ Die Bewerber sollten auch in der Lage sein,
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit unseren kostenlosen Studienmaterialien
++++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
 **Studienmaterial**
 
