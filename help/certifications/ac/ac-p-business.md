@@ -7,7 +7,7 @@ role: User
 badge: label="Prüfung AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
+source-git-commit: 06625c3d7b0672b42a71e43a62cec7c09eb02abd
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
 >
->* **Kurse**: Nehmen Sie die [Adobe Commerce Business Practices Professional-Kurs](https://app.rockinfo.com/courses/playScorm/620) für Erläuterungen zu Schlüsselkonzepten, praktische Demonstrationen und Wissenstests. Wenn du gerade erst anfliegst, wird die [Adobe Commerce Foundation-Kurs](https://app.rockinfo.com/courses/148) bietet eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
+>* **Kurse**: Nehmen Sie die [Adobe Commerce Business Practices Professional-Kurs](https://app.rockinfo.com/courses/105) für Erläuterungen zu Schlüsselkonzepten, praktische Demonstrationen und Wissenstests. Wenn du gerade erst anfliegst, wird die [Adobe Commerce Foundation-Kurs](https://app.rockinfo.com/courses/148) bietet eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/383) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
+>* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/620) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
 >
 >_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
 
