@@ -1,7 +1,7 @@
 ---
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '1804'
+source-wordcount: '1802'
 ht-degree: 0%
 
 ---
@@ -237,4 +237,4 @@ Unsere kostenlosen On-Demand-Kurse helfen Ihnen bei der Vorbereitung auf Ihre Pr
 
 ## Handbuch zur Prüfungsvorbereitung {#exam-prep-guide}
 
-Der kostenlose Test-Prep-Leitfaden bietet einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der ausführlichen Studienmaterialien, die Sie für eine erfolgreiche Prüfung benötigen.
+Der kostenlose Test-Vorbereitungshandbuch bietet einen maßgeschneiderten Weg durch Ihren Test-Vorbereitungsprozess, einschließlich der Materialien, die Sie für eine erfolgreiche Prüfung benötigen.
