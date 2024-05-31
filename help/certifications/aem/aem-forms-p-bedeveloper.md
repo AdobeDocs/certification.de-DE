@@ -7,7 +7,7 @@ role: Developer
 badge: label="Prüfung AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '579'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Kurs:** Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie die [Adobe Experience Manager Foundation-Kurs](https://app.rockinfo.com/courses/240) , um Erläuterungen zu Schlüsselkonzepten, Produkt-Durchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet Ihnen eine Wissensgrundlage, auf der Sie auf Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/367) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
+>* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/123) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
 >
 >_Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
 
@@ -150,12 +150,7 @@ Sie sollten mit den folgenden Technologien und Umgebungen vertraut sein:
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/367" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Anleitung zur Prüfungsvorbereitung anzeigen
-</span>
-</a>
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/123)
 
 **Beispielfragen**
 

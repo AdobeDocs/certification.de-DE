@@ -8,7 +8,7 @@ role: Data Architect,Developer
 badge: label="Prüfung AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/541) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/223) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -115,17 +115,15 @@ Darüber hinaus sind Sie für die Übersetzung von Geschäftsanforderungen in Tr
 
 {{study-materials-intro}}
 
+**Einen Praxistest durchführen**
+
+{{practice-test}}
+
 **Handbuch zur Prüfungsvorbereitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/playScorm/541)
-
-<br>
-
-**Einen Praxistest durchführen**
-
-{{practice-test}}
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/223)
 
 +++
 

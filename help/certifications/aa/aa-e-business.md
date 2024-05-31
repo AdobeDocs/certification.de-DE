@@ -7,7 +7,7 @@ role: User
 badge: label="Prüfung AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '742'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/533) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/220) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -158,15 +158,15 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 {{study-materials-intro}}
 
+**Einen Praxistest durchführen**
+
+{{practice-test}}
+
 **Handbuch zur Prüfungsvorbereitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/playScorm/533)
-
-**Einen Praxistest durchführen**
-
-{{practice-test}}
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/220)
 
 +++
 

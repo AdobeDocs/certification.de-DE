@@ -7,7 +7,7 @@ role: Developer
 badge: label="Prüfung AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '757'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Kurse:** Nehmen Sie die [Adobe Commerce Developer Professional-Kurs](https://app.rockinfo.com/courses/92) , die Erläuterungen zu Schlüsselkonzepten, praxisorientierten Demonstrationen und Wissenstests enthält. Wenn du gerade erst anfliegst, wird die [Adobe Commerce Foundation-Kurs](https://app.rockinfo.com/courses/148) bietet eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/382) bietet einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der Materialien, die Sie benötigen, um erfolgreich in Ihrer Prüfung sein zu können.
+>* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/136) bietet einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der Materialien, die Sie benötigen, um erfolgreich in Ihrer Prüfung sein zu können.
 >
 >Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID.
 
@@ -208,12 +208,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/382" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Anleitung zur Prüfungsvorbereitung anzeigen
-</span>
-</a>
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/136)
 
 +++
 

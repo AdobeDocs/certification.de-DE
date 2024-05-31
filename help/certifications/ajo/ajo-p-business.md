@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="Prüfung AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '931'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 1%
 >* Die [Adobe Experience Platform Foundation-Kurs](https://app.rockinfo.com/courses/216) führt Adobe Experience Cloud ein, eine End-to-End-Suite mit Digital Marketing-Tools, die auf der einzigen Plattform für skalierte Personalisierung basieren.
 >* Die [Adobe Journey Optimizer Foundation-Kurs](https://app.rockinfo.com/courses/113) bietet eine Wissensgrundlage über diese spezifische Anwendung.
 >* Die [Adobe Journey Optimizer Business Practices Professional-Kurs](https://app.rockinfo.com/courses/107) baut auf dem Gründungskurs auf und hilft Ihnen bei der Vorbereitung auf die Zertifizierungsprüfung auf professioneller Ebene.
->* Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/588) bietet einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der Materialien, die Sie benötigen, um erfolgreich in Ihrer Prüfung sein zu können.
+>* Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/232) bietet einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der Materialien, die Sie benötigen, um erfolgreich in Ihrer Prüfung sein zu können.
 >
 >_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
 
@@ -189,7 +189,7 @@ Die Bewerber sollten auch in der Lage sein,
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/playScorm/588)
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/232)
 
 +++
 

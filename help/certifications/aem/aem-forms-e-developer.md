@@ -7,10 +7,10 @@ role: Developer
 badge: label="Prüfung AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '545'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/372) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/128) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -65,7 +65,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Erstellen von PDF forms (statisch/dynamisch, interaktiv und nicht interaktiv)
 * Schema- oder XML-Datenbindung
 * Formularfragment erstellen
-* Erstellen eines adaptiven Formulars
+* Adaptives Formular erstellen
 * Debugging komplexer Formulare
 * Konfigurieren und Durchführen der Übermittlung von Formularen
 * Erstellen und Bereitstellen von AEM-Instanzen für adaptive Formulare
@@ -160,12 +160,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/372" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Anleitung zur Prüfungsvorbereitung anzeigen
-</span>
-</a>
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/128)
 
 +++
 

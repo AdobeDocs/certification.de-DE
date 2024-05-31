@@ -7,10 +7,10 @@ role: Developer
 badge: label="Prüfung AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '564'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/373) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/129) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -70,7 +70,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Best Practices Analyzer
 * AEM Modernisierung
 * Repository-Browser
-* Developer Console
+* Entwicklerkonsole
 * Benutzerzuordnungstool für IMS-Adobe
 * I/O-Befehl-Tool
 * New Relic
@@ -152,12 +152,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/373" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Anleitung zur Prüfungsvorbereitung anzeigen
-</span>
-</a>
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/129)
 
 +++
 

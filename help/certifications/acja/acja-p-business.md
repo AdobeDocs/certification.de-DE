@@ -7,7 +7,7 @@ role: User
 badge: label="Prüfung AD0-E608" type="neutral"
 mini-toc-levels: 1
 exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Kurs:** Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie die [Adobe Experience Platform Foundation-Kurs](https://app.rockinfo.com/courses/216) , um Erläuterungen zu Schlüsselkonzepten, Produkt-Durchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet Ihnen eine Wissensgrundlage, auf der Sie auf Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/375) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
+>* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/131) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
 >
 >_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
 
@@ -132,12 +132,7 @@ Der ideale, minimal qualifizierte Kandidat ist ein Analyst mit mindestens 6 Mona
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/375" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Anleitung zur Prüfungsvorbereitung anzeigen
-</span>
-</a>
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/131)
 
 +++
 
