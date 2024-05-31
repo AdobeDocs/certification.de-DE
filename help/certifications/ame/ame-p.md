@@ -7,9 +7,9 @@ role: User
 badge: label="Prüfung AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
+source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/618) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/247) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -85,12 +85,20 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 
 **Abschnitt 1: Erstellung und Verwaltung von Programmen (39%)**
 
-* Geben Sie bei geschäftlichen Anforderungen/Fragen eine geeignete Berichtsstrategie für eine Analyse an
-* Daten zur Beantwortung von Geschäftsfragen analysieren
-* Ermitteln von Konversionstrichter (als Konzept zum Verständnis der Geschäftsanalyse)
-* In der Lösungs-Design-Referenz (Solution Design Reference, SDR) können Sie ermitteln, welche Daten in Berichten verfügbar sind.
-* Zusammenfassende Analyse der Berichtsdaten und Erarbeitung von Schlussfolgerungen
-* Erkennung von Ausreißern und Anomalien in Berichten
+* Bestimmen Sie, wann die vier Programmtypen verwendet werden sollen.
+* Ermitteln Sie, warum/wann das Ereignisprogramm verwendet werden soll.
+* Ermitteln Sie, warum/wann das Standardprogramm verwendet werden soll.
+* Ermitteln Sie die besonderen Funktionen des Interaktionsprogramms.
+* Ermitteln Sie die Besonderheiten des E-Mail-Programms.
+* Erkennen Sie, was geklont werden kann.
+* Ermitteln Sie die Vorteile benutzerdefinierter Tags.
+* Identifizieren Sie den Zweck von Kanälen.
+* Beschreiben Sie die Bedeutung von Zeitkosten.
+* Erkennen Sie das Konzept der Verwendung von Lead-Scoring.
+* Verstehen der Kommunikationsbeschränkungen.
+* Anerkennung der Programmmitgliedschaft und -akquise.
+* Grundlegendes zu Kundenpräferenzen (Abonnement, Kommunikation).
+* Best Practices zur Überprüfung vor dem Start anwenden.
 
 **Abschnitt 2: Erstellen von Assets (19%)**
 
@@ -159,7 +167,7 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/playScorm/618)
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/247)
 
 +++
 
