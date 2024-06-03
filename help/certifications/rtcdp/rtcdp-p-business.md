@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="Prüfung AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 368efd8497209e2342806f9cea6005c30ced306f
+source-git-commit: d2631442d3a4029453edbd532e9f52708c01c3f9
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >* **Kurs:** Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie unsere [Adobe Experience Platform Foundation-Kurs](https://app.rockinfo.com/courses/216) , um Erläuterungen zu Schlüsselkonzepten, Produkt-Durchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/playScorm/637) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
+>* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/133) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
 >
 >_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
 
@@ -130,10 +130,6 @@ Erlebnis mit Aufgaben, die Folgendes umfassen:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
-
-{{practice-test}}
-
 **Kurs machen**
 
 {{take-course}}
@@ -145,16 +141,16 @@ Erlebnis mit Aufgaben, die Folgendes umfassen:
 </span>
 </a>
 
+**Einen Praxistest durchführen**
+
+{{practice-test}}
+
 **Handbuch zur Prüfungsvorbereitung**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/637" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/133)
 
-<span class="spectrum-Button-label has-no-wrap">
-   Anleitung zur Prüfungsvorbereitung anzeigen
-</span>
-</a>
 
 +++
 
