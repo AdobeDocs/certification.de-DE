@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="Prüfung AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
 workflow-type: tm+mt
-source-wordcount: '649'
-ht-degree: 2%
+source-wordcount: '595'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,13 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->**Neuer Kurs verfügbar:** Die kostenlose On-Demand [Adobe Journey Optimizer-Expertenkurs](https://app.rockinfo.com/courses/147) enthält Erläuterungen zu Schlüsselkonzepten, praxisorientierten Demonstrationen und Wissenstests. _Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
+>Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
+>
+>* **Kurs:** Die kostenlose On-Demand [Adobe Journey Optimizer-Expertenkurs](https://app.rockinfo.com/courses/147) enthält Erläuterungen zu Schlüsselkonzepten, praxisorientierten Demonstrationen und Wissenstests.
+>
+>* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/143) bietet Ihnen einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der ausführlichen Studienmaterialien, die Sie für eine erfolgreiche Prüfung benötigen.
+>
+>_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -131,44 +137,17 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/147" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Adobe Journey Optimizer-Expertenkurs besuchen
-</span>
-</a>
-
-**Studienressourcen**
-
-**Abschnitt 1: Administration und Konfiguration**
-
-* [Experience Platform, Zugriffskontrolle, Sandbox-Anleitung](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=de){target="_blank"}
-* [AJO-Anleitung, Konfiguration, SMS-Kanal, Journey](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
-* [AJO-APIs](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
-
-**Abschnitt 2: Journey Orchestration**
-
-* [AJO-Anleitung, Journey, Ausdrücke, verfolgen und überwachen](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
-
-**Abschnitt 3: Offer decisioning**
-
-* [AJO-Handbuch, Entscheidungsverwaltung, API-Referenz](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
-
-**Abschnitt 4: Inhaltserstellung**
-
-* [AJO-Anleitung, SMS-Kanal, Datenschutz, Konfiguration, Journey, Ausdrücke, Content Management, Tracking und Überwachung, Push-Benachrichtigungskanal](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
-* [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de){target="_blank"}
-
-**Abschnitt 5: Datenmodellierung**
-
-* [AJO-Handbuch, Konfiguration, Zielgruppen, Profile und Identität, Datenverwaltung](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
-* [Experience Platform, Datensätze, Source Connectors-Anleitung, API-Tutorials, Platform Identity Service-Anleitung, Segmentierungs-Benutzeroberfläche, Benutzeroberflächen-Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de){target="_blank"}
-
-<br>
+[Adobe Journey Optimizer-Expertenkurs besuchen](https://app.rockinfo.com/courses/147)
 
 **Einen Praxistest durchführen**
 
 {{practice-test}}
+
+**Handbuch zur Prüfungsvorbereitung**
+
+{{exam-prep-guide}}
+
+[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/143)
 
 +++
 
