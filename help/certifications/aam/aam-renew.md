@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
+source-git-commit: 9724d768dc56c7bb67ae709ab623ca5ae173150f
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -146,7 +146,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 **Abschnitt 6**
 
 * [Allgemeine Anwendungsfälle für Profilzusammenführungsrichtlinien](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html?lang=en){target="_blank"}
-* [Profilzusammenführungsrichtlinien – Überblick](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=en)
+* [Profilzusammenführungsrichtlinien - Überblick](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=en)
 * [Erste Schritte mit Profilzusammenführungsrichtlinien](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-start.html?lang=en){target="_blank"}
 * [Erstellen, Bewerten und Verwalten von Daten-Feeds](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-providers/marketplace-create-manage-feeds.html?lang=en){target="_blank"}
 * [Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace.html?lang=en){target="_blank"}
@@ -242,7 +242,7 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 >Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
 
 
->[!TAB Vorlage]
+>[!TAB Master]
 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung
 
@@ -316,7 +316,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den Link Adobe Audience Manager Architect Master Erneuerung - AD5-E825 unten.
 
-[!BADGE Nehmen Sie die Adobe Audience Manager Architect Master-Erneuerungsprüfung AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE Nehmen Sie die Adobe Audience Manager Architect Master-Erneuerungsprüfung AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/support/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825&amp;cid=358899 newtab=true"}
 
 >[!NOTE]
 >
