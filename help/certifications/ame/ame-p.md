@@ -7,9 +7,9 @@ role: User
 badge: label="Prüfung AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
+source-git-commit: 8102211f100b326a62f51081f34db145320fe231
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '727'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/247) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
+>
+>* **Kurs**: Wenn Sie gerade erst anfangen oder einen Auffrischungskurs benötigen, nehmen Sie die [Adobe Marketo Engage Foundation-Kurs](https://app.rockinfo.com/courses/261) , um Erläuterungen zu Schlüsselkonzepten, Produkt-Durchläufen und Wissensüberprüfungen zu erhalten. Dies bietet eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
+>
+>* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/247) bietet Ihnen einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der ausführlichen Studienmaterialien, die Sie für eine erfolgreiche Prüfung benötigen.
+>
+>_Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -162,6 +168,12 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 **Einen Praxistest durchführen**
 
 {{practice-test}}
+
+**Kurs machen**
+
+{{take-course}}
+
+[Kurs &quot;Adobe Marketo Engage Foundation&quot;](https://app.rockinfo.com/courses/261)
 
 **Handbuch zur Prüfungsvorbereitung**
 
