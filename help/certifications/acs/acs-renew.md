@@ -7,10 +7,10 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: f443d1012717ae90dea490d67595bfa5c879484b
 workflow-type: tm+mt
-source-wordcount: '1445'
-ht-degree: 12%
+source-wordcount: '1195'
+ht-degree: 1%
 
 ---
 
@@ -34,13 +34,7 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 >[!BEGINTABS]
 
->[!TAB Professional]
-
->[!NOTE]
->
->Berufliche Erneuerung in Kürze.
-
->[!TAB Experte]
+>[!TAB Expert]
 
 +++Adobe [!DNL Campaign Standard] Verlängerung von Geschäftspraktikern
 
@@ -187,7 +181,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 1: Datenmodellierung und -verwaltung**
 
-* [eine Benutzerdefinierte Ressource erstellt](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
+* [Benutzerdefinierte Ressource erstellen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
 * [Ressource erstellen oder erweitern](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
 * [Bildschirmdefinition für eine benutzerdefinierte Ressource konfigurieren](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
 * [Bildschirmdefinition konfigurieren](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
@@ -200,31 +194,31 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 **Abschnitt 2: Campaign Management**
 
 * [Programme und Kampagnen](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=de){target="_blank"}
-* [Best Practices für Workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=de){target="_blank"}
+* [Best Practices bei Workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=de){target="_blank"}
 * [Programme und Kampagnen](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=de){target="_blank"}
-* [Erste Schritte mit Profilen und Zielgruppen](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
+* [Erste Schritte mit Profilen und Audiences](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
 * [Über Typologien und Typologieregeln](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
 * [Filterregeln](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
-* [Vorlagen für Marketing-Aktivitäten](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
-* [Konfigurieren einer Landingpage](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
-* [Abonnements](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
-* [Wichtigste Schritte im Nachrichtenversand](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
-* [Nachverfolgen und Überwachen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
+* [Vorlagen für Marketingaktivitäten](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
+* [Landingpage konfigurieren](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
+* [An-/Abmeldedienst](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
+* [Die wichtigsten Schritte zum Senden einer Nachricht](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
+* [Tracken und überwachen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
 * [Versandzusammenfassung](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
-* [Campaign E-Mail-Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
+* [Campaign Email Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
 * [Erste Schritte mit dynamischen Berichten](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 
 **Abschnitt 3: Verwaltung**
 
-* [Verwalten von Gruppen und Benutzern](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
-* [Organisationseinheiten](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html?lang=de){target="_blank"}
+* [Gruppen und Benutzer verwalten](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
+* [Organisationseinheiten](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html){target="_blank"}
 * [Package-Verwaltung](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
 * [Exportieren/Importieren benutzerdefinierter Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html){target="_blank"}
 * [Externe Konten](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html){target="_blank"}
 * [Ausführungsoptionen verwalten](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html?lang=de){target="_blank"}
 * [Ausführung des Workflows überwachen](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html){target="_blank"}
 * [Branding](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html){target="_blank"}
-* [Über die Konfiguration von Kanälen](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
+* [Über die Kanalkonfiguration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
 * [Erste Schritte mit Kommunikationskanälen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
 
