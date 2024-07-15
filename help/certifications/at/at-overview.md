@@ -2,26 +2,26 @@
 title: Target-Zertifizierung - Überblick
 description: Überblick über die Zertifizierungsoptionen für Adobe Target
 solution: Target
-exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
+source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
 workflow-type: tm+mt
 source-wordcount: '37'
-ht-degree: 18%
+ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Target] Zertifizierung – Übersicht
+# [!DNL Adobe Target] Zertifizierungsübersicht
 
 **Professional**
 
-* [Certified Professional](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
+* [Zertifizierter Professional](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
 
-**Experte**
+**Expert**
 
-* [Business Practitioner](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
+* [Geschäftspraktiker](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
 
-**Vorlage**
+**Master**
 
 * [Architekt](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
 
-Besuchen Sie die [Zertifizierung verlängern](/help/certifications/renew.md) angezeigt, um zu sehen, ob für dieses Produkt eine Verlängerungsoption verfügbar ist.
+Rufen Sie die Seite [Zertifikat erneuern](/help/certifications/renew.md) auf, um zu sehen, ob eine Verlängerungsoption für dieses Produkt verfügbar ist.

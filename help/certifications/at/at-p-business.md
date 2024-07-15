@@ -1,6 +1,6 @@
 ---
 title: Berufliche Zertifizierung durch Business Practice
-description: Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Business Practitioner Professional.
+description: Erfahren Sie, wie Sie ein zertifizierter [!DNL Adobe Target] Business Practitioner Professional werden.
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Journey für die Zertifizierung [!DNL Adobe Target] Geschäftspraktiker/innen
+# Zertifizierungs-Journey für [!DNL Adobe Target] Business Practitioner Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/235) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/235) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -56,7 +56,7 @@ Die für diese Zertifizierung vorgesehenen Bewerber umfassen Mitglieder der folg
 Sie sollten über Folgendes verfügen:
 
 * Erlebnis über 0 bis 12 Monate mit Optimierungsplattformen, einschließlich [!DNL Adobe Target]
-* Überwachter Erfahrungsaustausch mit [!DNL Adobe Target]
+* Überwachtes praktisches Erlebnis mit [!DNL Adobe Target]
 * 0-12 Monate Erfahrung, die zu Optimierungsprogrammen führt/dazu beiträgt
 * Möglichkeit, grundlegende Verwaltungsaufgaben in Target/Adobe Marketing Cloud zu identifizieren (Voreinstellungen, Benutzerrollen und Berechtigungen, Einstellungen)
 * Grundlegendes zum dreistufigen Workflow (Erlebnisse, Targeting, Ziele und Einstellungen, einschließlich aller Berichtsquellen)
@@ -79,7 +79,7 @@ Sie sollten über Folgendes verfügen:
 * In einem Szenario sollten Sie die Zielgruppenanforderungen bewerten
 * Beschreiben Sie geeignete Analytics-Berichtsquellen (d. h. Target oder Adobe Analytics).
 
-**Abschnitt 2: Konfiguration, Ausführung und Verwaltung (50%)**
+**Abschnitt 2: Konfigurieren, Ausführen und Verwalten (50%)**
 
 * Die Verwendung von Form-Based Experience Composer und Visual Experience Composer erläutern
 * Beschreiben Sie Verfahren zum Erstellen eines Erlebnisses mit VEC.
@@ -99,7 +99,7 @@ Sie sollten über Folgendes verfügen:
 **Abschnitt 3: Analyse und Berichterstellung (16%)**
 
 * Beschreiben Sie die Einstellungen, um die in einem Bericht angezeigten Elemente festzulegen.
-* Beschreiben Sie den Unterschied in [!DNL Adobe Target] Einstellungen des Stichprobengrößenrechners zwischen Planung und Validierung
+* Beschreiben Sie den Unterschied zwischen Planung und Validierung in den Einstellungen für den Stichprobengrößenrechner in [!DNL Adobe Target]
 * Beschreibung häufiger Probleme im Zusammenhang mit A/B-Tests
 * Ermitteln, wie sich die Automated Personalization-Zusammenfassungsberichte von anderen Berichten unterscheiden
 * Beschreiben der Funktionen von Experience Performance-Berichten (MVT)
@@ -131,15 +131,15 @@ Sie sollten über Folgendes verfügen:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/235)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/235)
 
 <br>
 
@@ -196,6 +196,6 @@ Sie sollten über Folgendes verfügen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner-Experte in [!DNL Adobe Target].
+description: Erfahren Sie, wie Sie in [!DNL Adobe Target] ein zertifizierter Adobe Business Practitioner-Experte werden.
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Journey für die Zertifizierung [!DNL Adobe Target] Geschäftspraktiker-Experte
+# Zertifizierungs-Journey für [!DNL Adobe Target] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/236) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/236) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -61,9 +61,9 @@ Sie sollten über Folgendes verfügen:
 * Grundlagen zu den Grundlagen von Target-/Adobe Marketing Cloud-Verwaltungsaufgaben (Voreinstellungen, Benutzerrollen und Berechtigungen, Einstellungen)
 * Die Fähigkeit, Geschäfts-KPIs in Optimierungsziele zu verstehen und zu übersetzen
 * Möglichkeit zur Vorlage von Vorschlägen auf der Grundlage einer Bedarfsanalyse
-* Die Fähigkeit, die geeignete [!DNL Adobe Target] Aktivitätstypen basierend auf Optimierungszielen
+* Die Möglichkeit, die entsprechenden [!DNL Adobe Target] Aktivitätstypen basierend auf Optimierungszielen zu bestimmen
 * Kenntnisse darüber, wie HTML und CSS zur Optimierung des Benutzererlebnisses verwendet werden können
-* Grundlagen zu JavaScript as a concept
+* Grundlegendes zu JavaScript as a concept
 * Das Wissen über statistische Konzepte und Datenanalysen, wie sie für die Optimierung gelten
 * Detaillierte Kenntnisse des dreistufigen Workflows (Erlebnisse, Targeting, Ziele und Einstellungen, einschließlich aller Berichtsquellen)
 * Die Fähigkeit, die Ergebnisse der Aktivitätsberichte in umsetzbare Einblicke und Vorschläge zu übersetzen
@@ -117,7 +117,7 @@ Umgebungen:
 * Anforderungen an Zielgruppen bewerten
 * Bestimmen Sie die entsprechenden Analytics-Berichtsquellen (d. h. Target oder Adobe Analytics).
 
-**Abschnitt 2: Konfiguration, Ausführung und Verwaltung (42%)**
+**Abschnitt 2: Konfigurieren, Ausführen und Verwalten (42%)**
 
 * Die Verwendung von Form-Based Experience Composer und Visual Experience Composer erläutern
 * Anwenden von Verfahren zum Erstellen eines Erlebnisses mit VEC
@@ -137,13 +137,13 @@ Umgebungen:
 **Abschnitt 3: Analyse und Berichterstellung (17%)**
 
 * Berichtseinstellungen definieren und auswerten, um die in einem Bericht angezeigten Elemente leichter festlegen zu können
-* Bewerten und Vergleichen [!DNL Adobe Target] Stichprobengrößenrechnereinstellungen bei der Planung von Target-Aktivitäten und der Validierung von Target-Aktivitätsberichten
+* Bewerten und vergleichen Sie [!DNL Adobe Target] Stichprobengrößenrechnereinstellungen bei der Planung von Target-Aktivitäten und der Validierung von Target-Aktivitätsberichten
 * Bewerten und identifizieren häufiger Probleme im Zusammenhang mit A/B-Tests und wie diese vermieden werden
 * So unterscheiden sich die Zusammenfassungsberichte von Automated Personalization von anderen Berichten
 * Bewerten von Experience Performance-Berichten (MVT)
 * Bestimmen Sie die Gewinnervariante anhand der beobachteten Steigerung, der Konfidenzniveaus und der Geschäftsziele.
 
-**Abschnitt 4: Fehlerbehebung (10 %)**
+**Abschnitt 4: Fehlerbehebung (10%)**
 
 * Probleme bei der Aktivitätsqualifizierung diagnostizieren
 * Verwenden Sie Browser-Debugging-Tools (einschließlich Experience Cloud Debugger) zur Überprüfung der Implementierung
@@ -169,15 +169,15 @@ Umgebungen:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/236)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/236)
 
 +++
 
@@ -243,6 +243,6 @@ Umgebungen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

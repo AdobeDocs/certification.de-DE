@@ -1,6 +1,6 @@
 ---
 title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre [!DNL Adobe Analytics] -Zertifizierung vor ihrem Ablauf.
+description: Erfahren Sie, wie Sie Ihre [!DNL Adobe Analytics] Zertifizierung verlängern können, bevor sie abläuft.
 solution: Analytics
 product: Analytics
 role: User,Developer, Data Architect
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe erneuern [!DNL Analytics] Zertifizierung
+# Adobe [!DNL Analytics]-Zertifizierung erneuern
 
 Ihr Adobe-Zertifikat ist zwei Jahre gültig. Wenn Sie sich dieser zweijährigen Marke nähern, ist es an der Zeit, Ihre Zertifizierung zu erneuern, damit sie aktiv bleibt.
 
@@ -26,27 +26,27 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 >[!IMPORTANT]
 >
->**Melden Sie sich zuerst an:** Die folgenden Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Melden Sie sich zuerst an:** Die folgenden Links funktionieren **nur**, nachdem Sie sich **erfolgreich angemeldet haben**, und zwar im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Freigeben eines Links:** Wenn Sie den Link zu einer Erneuerungsprüfung oder -bewertung mit einem Kollegen teilen möchten, verknüpfen Sie bitte die Gesamtseite zur Prüfungsverlängerung, nicht die URL der Prüfung selbst, um Anmeldungsprobleme zu vermeiden.
+>**So geben Sie einen Link frei:** Wenn Sie den Link zu einer Erneuerungsprüfung oder -bewertung für einen Kollegen freigeben möchten, verknüpfen Sie bitte mit der Gesamt-Prüfungsverlängerungsseite, nicht mit der URL der Prüfung selbst, um Anmeldungsprobleme zu vermeiden.
 
 >[!BEGINTABS]
 
 >[!TAB Professional]
 
-+++Adobe [!DNL Analytics] Entwickler Professional
+++ + Adobe [!DNL Analytics] Entwickler-Professional
 
 ## Sie müssen über die folgende aktive Zertifizierung verfügen, um verlängert werden zu können:
 
-* Adobe [!DNL Analytics] Entwickler Professional
+* Adobe [!DNL Analytics] Developer Professional
 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
-* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
-* **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
-* **Schritt 3**: Führen Sie die Prüfung durch.
+* **Schritt 1**: Melden Sie sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} an und kehren Sie dann zu dieser Seite zurück.
+* **Schritt 2**: Prüfungsziele und -ressourcen überprüfen
+* **Schritt 3**: Führen Sie die Prüfung durch und bestehen Sie sie.
 
 ### Bereit
 
@@ -60,7 +60,7 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 * Voraussetzung: aktuelles (nicht abgelaufenes) Adobe Analytics Developer Professional-Zertifikat
 * Prüfungs-ID: AD5-E831
 
-**Anwendungsbereich und Ziele**
+**Umfang und Ziele**
 
 Abschnitt 1: Analytics im Ökosystem der Adobe Experience Cloud (13 %)
 
@@ -110,7 +110,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 **Abschnitt 1**
 
 * [Cookies in Analytics](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html)
-* [Hinzufügen von Datenelementen, Regeln und Bibliotheken](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
+* [Hinzufügen eines Datenelements, einer Regel und einer Bibliothek](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
 * [Hinzufügen des Einbettungscodes](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
 
 **Abschnitt 2**
@@ -133,7 +133,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 5**
 
-* [Exportleitfaden für Analytics](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
+* [Analytics-Exportleitfaden](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
 * [Funktionsweise von Verarbeitungsregeln](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 * [Adobe Analytics-APIs](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 
@@ -145,27 +145,27 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 ## Zertifizierung verlängern
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den Link Adobe Analytics Developer Professional Renewal Exam - AD5-E831 unten.
+Vergewissern Sie sich, dass Sie Schritt 1 oben befolgt haben und sich zuerst erfolgreich beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} angemeldet haben. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den Link Adobe Analytics Developer Professional Renewal Exam - AD5-E831 unten.
 
 * [Adobe Analytics Developer Professional Renewal-Prüfung - AD5-E831](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E831){target="_blank"}
 
 >[!NOTE]
 >
->Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+>Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie **30 Tage** warten, bis Sie es erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
 
 +++
 
-+++Adobe [!DNL Analytics] Geschäftspraktiker/innen
+++ + Adobe [!DNL Analytics] Business Practitioner Professional
 
-## Sie benötigen Folgendes: **active** Zertifizierung zur Verlängerung nach dieser Methode:
+## Sie müssen über die folgende **aktive** -Zertifizierung verfügen, um mit dieser Methode zu erneuern:
 
-* Adobe [!DNL Analytics] Geschäftspraktiker/innen
+* Adobe [!DNL Analytics] Business Practitioner Professional
 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
-* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
-* **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
-* **Schritt 3**: Führen Sie die Prüfung durch.
+* **Schritt 1**: Melden Sie sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} an und kehren Sie dann zu dieser Seite zurück.
+* **Schritt 2**: Prüfungsziele und -ressourcen überprüfen
+* **Schritt 3**: Führen Sie die Prüfung durch und bestehen Sie sie.
 
 ## Bereit
 
@@ -179,7 +179,7 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 * Voraussetzung: aktuelles (nicht abgelaufenes) Adobe Analytics Business Practitioner Professional-Zertifikat
 * Prüfungs-ID: AD5-E832
 
-**Anwendungsbereich und Ziele**
+**Umfang und Ziele**
 
 Abschnitt 1: Geschäftsanalyse
 
@@ -240,7 +240,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 2**
 
-* [Freigeben von Projekten](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+* [Projekte freigeben](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
 * [Komponentenübersicht](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
 * [Warnhinweiserstellung](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
 * [Erstellen einer mobilen Scorecard](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
@@ -257,7 +257,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Fehlerbehebung bei Datenspitzen und Datenrückgängen](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
 * [Benutzerspezifische Ereignisse](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=de)
 * [PDF- oder CSV-Dateien herunterladen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
-* [Anfängerhandbuch zu URL-Parametern](https://www.semrush.com/blog/url-parameters/)
+* [Ein Anfängerhandbuch zu URL-Parametern](https://www.semrush.com/blog/url-parameters/)
 
 **Abschnitt 5**
 
@@ -268,19 +268,19 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 ## Zertifizierung verlängern
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den unten stehenden Link AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam (AD5-E832).
+Vergewissern Sie sich, dass Sie Schritt 1 oben befolgt haben und sich zuerst erfolgreich beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} angemeldet haben. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den unten stehenden Link AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam (AD5-E832).
 
-* [AD5-E832 Adobe Analytics Business Practitioner Professional Renewal-Prüfung](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
+* [AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
 
 >[!NOTE]
 >
->Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+>Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie **30 Tage** warten, bis Sie es erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
 
 +++
 
->[!TAB Experten und Master]
+>[!TAB Expert und Master]
 
-## Sie müssen über mindestens eine der folgenden **active** Zertifizierung zur Verlängerung nach dieser Methode:
+## Sie müssen über mindestens eine der folgenden **aktiven** Zertifizierungen verfügen, um mit dieser Methode erneuert zu werden:
 
 * Adobe Analytics-Entwicklerexperte
 * Adobe Analytics-Geschäftspraktiker
@@ -288,17 +288,17 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich 
 
 ## Anleitung zur Verlängerung der Adobe Analytics-Zertifizierung
 
-* **Schritt 1:** Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
-* **Schritt 2:** Studieren Sie die Kurse im Experience League
-* **Schritt 3:** Wählen Sie aus den folgenden Optionen aus, um Ihre Verlängerung abzuschließen.
+* **Schritt 1:** Anmeldung erfolgreich beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} und anschließendes erneutes Rückkehr zu dieser Seite
+* **Schritt 2:** Untersuchen Sie die Kurse in Experience League
+* **Schritt 3:** Wählen Sie aus den unten stehenden Optionen aus, um Ihre Verlängerung abzuschließen.
 
   **Option A:**
-Auswählen **drei Kurse** die Kursbewertungen mit einer Punktzahl von 80% oder höher abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
+Wählen Sie **drei Kurse** aus, um die Kursbewertungen abzuschließen und mit einer Punktzahl von mindestens 80 % zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
 
   **Option B:**
-Wählen Sie zuerst **zwei Kurse** die Kursbewertungen mit einer Punktzahl von 80% oder höher abzuschließen und zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
+Wählen Sie zunächst **zwei Kurse** aus, um die Kursbewertungen abzuschließen und mit einer Punktzahl von mindestens 80 % zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
 
-  Zweitens: **Kundenreferenzformular senden** Validierung Ihrer kontinuierlichen Arbeit als Adobe-zertifizierter Einzelleiter, der Verwaltung und/oder der Teilnahme an einem Adobe Experience Cloud-Implementierungsprojekt. In diesem Antragsformular wird bestätigt, dass Sie während Ihrer zweijährigen Zertifizierungsverlängerung mindestens 100 Stunden nachweislicher Projektinteraktion teilgenommen haben.
+  Zweitens senden Sie **ein Kundenreferenzformular**, mit dem Sie Ihre weitere Arbeit als Adobe-zertifizierter Einzelanwender validieren können, der an einem Adobe Experience Cloud-Implementierungsprojekt beteiligt ist. In diesem Antragsformular wird bestätigt, dass Sie während Ihrer zweijährigen Zertifizierungsverlängerung mindestens 100 Stunden nachweislicher Projektinteraktion teilgenommen haben.
 
   [Kundenreferenzformular für Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
 
@@ -312,7 +312,7 @@ Wählen Sie zuerst **zwei Kurse** die Kursbewertungen mit einer Punktzahl von 80
 
 | Kurse für Experten und Master | Kursbewertungen |
 | ------- | ------- |
-| [Adobe Analytics-Wertzuweisung zu digitalen Touchpoints auf der Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=de){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
+| [Adobe Analytics-Zuweisung von Werten zu digitalen Touchpoints in der Kunden-Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=de){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
 | [Exportieren und Demokratisieren von Adobe Analytics-Daten - Lektion 5 und 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADR-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
 | [Filtern Ihrer Daten mit benutzerdefinierter Segmentierung und Datumsangaben - Lektion 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=de){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
 | [Geführte Analytics-Implementierung - Lektion 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=de){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
@@ -323,6 +323,6 @@ Wählen Sie zuerst **zwei Kurse** die Kursbewertungen mit einer Punktzahl von 80
 
 ### Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

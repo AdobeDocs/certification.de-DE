@@ -1,6 +1,6 @@
 ---
 title: Berufliche Zertifizierung
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Professional werden. [!DNL Customer Journey Analytics]
+description: Erfahren Sie, wie Sie in [!DNL Customer Journey Analytics] ein zertifizierter Adobe Professional werden.
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Customer Journey Analytics] Geschäftspraktiker/innen
+# Zertifizierungs-Journey für Adobe [!DNL Customer Journey Analytics] Business Practitioner Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
 >
->* **Kurs:** Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie die [Adobe Experience Platform Foundation-Kurs](https://app.rockinfo.com/courses/216) , um Erläuterungen zu Schlüsselkonzepten, Produkt-Durchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet Ihnen eine Wissensgrundlage, auf der Sie auf Ihrer Zertifizierungs-Journey aufbauen können.
+>* **Kurs:** Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie den [Adobe Experience Platform Foundation Kurs](https://app.rockinfo.com/courses/216), um Erklärungen zu Schlüsselkonzepten, Produktdurchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet Ihnen eine Wissensgrundlage, auf der Sie auf Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/131) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
+>* **Prüfungsvorbereitungsanleitung:** Das [Prüfungsvorbereitungshandbuch](https://app.rockinfo.com/courses/131) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für Ihre Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
 >
->_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
+>_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Minimales Erlebnis {#minimum-experience}
 
-Der ideale, minimal qualifizierte Kandidat ist ein Analyst mit mindestens 6 Monaten Erfahrung im Adobe. [!DNL Customer Journey Analytics] und ein grundlegendes Verständnis dessen, wie es in Verbindung mit [!DNL Adobe Experience Platform]. Der Kandidat kann die entsprechenden Berichts- und Visualisierungsoptionen verwenden, um grundlegende und erweiterte Analysen für eine bestimmte Geschäftsanforderung durchzuführen.
+Der ideale, minimalqualifizierte Kandidat ist ein Analysten mit mindestens 6 Monaten Erfahrung im Adobe [!DNL Customer Journey Analytics] und einem grundlegenden Verständnis dessen, wie es in Verbindung mit [!DNL Adobe Experience Platform] funktioniert. Der Kandidat kann die entsprechenden Berichts- und Visualisierungsoptionen verwenden, um grundlegende und erweiterte Analysen für eine bestimmte Geschäftsanforderung durchzuführen.
 
 <br>
 
@@ -75,7 +75,7 @@ Der ideale, minimal qualifizierte Kandidat ist ein Analyst mit mindestens 6 Mona
 * Erstellen einer Teilmenge von Daten mit entsprechenden Komponenten und Filtern
 * Erstellen von Nicht-Admin-Komponenten zur Beantwortung von Geschäftsfragen
 
-**Abschnitt 2: Berichterstattung (32%)**
+**Abschnitt 2: Berichterstellung (32%)**
 
 * Bestimmen Sie geeignete Visualisierungen oder Tabellen, um Geschäftsfragen zu beantworten.
 * Bestimmen Sie anhand von Datenquellen, Identitäten und Datumsbereichen, welche Datenansicht verwendet werden soll.
@@ -113,11 +113,11 @@ Der ideale, minimal qualifizierte Kandidat ist ein Analyst mit mindestens 6 Mona
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Kurs machen**
+**Nehmen Sie einen Kurs vor**
 
 {{take-course}}
 
@@ -128,11 +128,11 @@ Der ideale, minimal qualifizierte Kandidat ist ein Analyst mit mindestens 6 Mona
 </span>
 </a>
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/131)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/131)
 
 +++
 
@@ -187,6 +187,6 @@ Der ideale, minimal qualifizierte Kandidat ist ein Analyst mit mindestens 6 Mona
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

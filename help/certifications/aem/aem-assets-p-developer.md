@@ -1,6 +1,6 @@
 ---
 title: Berufliche Zertifizierung
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager] Professional.
+description: Erfahren Sie, wie Sie eine zertifizierte Adobe [!DNL Experience Manager] Professional werden.
 solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
 >
->* **Kurs:** Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie die [Adobe Experience Manager Foundation-Kurs](https://app.rockinfo.com/courses/240) , um Erläuterungen zu Schlüsselkonzepten, Produkt-Durchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet Ihnen eine Wissensgrundlage, auf der Sie auf Ihrer Zertifizierungs-Journey aufbauen können.
+>* **Kurs:** Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie den [Adobe Experience Manager Foundation Kurs](https://app.rockinfo.com/courses/240), um Erklärungen zu Schlüsselkonzepten, Produktdurchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet Ihnen eine Wissensgrundlage, auf der Sie auf Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/120) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
+>* **Prüfungsvorbereitungsanleitung:** Das [Prüfungsvorbereitungshandbuch](https://app.rockinfo.com/courses/120) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für Ihre Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
 >
->_Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>_Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Minimales Erlebnis {#minimum-experience}
 
-Sie sollten sich mit Adobe Managed Services und Adobe vertraut machen [!DNL Experience Manager as a Cloud Service]und Adobe einrichten können [!DNL Experience Manager] Umgebungen und Infrastruktur.
+Sie sollten sich bei der Arbeit mit Adobe Managed Services und Adobe [!DNL Experience Manager as a Cloud Service] wohlfühlen und Adobe [!DNL Experience Manager]-Umgebungen und -Infrastruktur einrichten können.
 
 Sie sollten über Folgendes verfügen:
 
@@ -99,7 +99,7 @@ Darüber hinaus sollten Sie über Erfahrungen mit den folgenden Technologien und
 **Abschnitt 2: Asset-Organisation und Asset-Konsole (22 %)**
 
 * Erstellen und Organisieren von Assets in Sammlungen
-* Organisieren von Assets mit Tags
+* Demonstrieren der Organisation von Assets mithilfe von Tags
 * Ermitteln, wie Sie OOTB-Suchfilter und -Facetten nutzen
 * Beschreiben Sie, wie Sie AEM Asset-Berichte konfigurieren und generieren
 * Beschreiben Sie, wie Sie Benutzerberechtigungen für Asset-Ordner verwalten.
@@ -111,7 +111,7 @@ Darüber hinaus sollten Sie über Erfahrungen mit den folgenden Technologien und
 * Ermitteln Sie in einem Szenario, wie Metadatenprofile zur Erfüllung von Anforderungen genutzt werden können.
 * Funktionsweise von kaskadierenden Metadatenschemata
 
-**Abschnitt 4: Asset-Typen (18 %)**
+**Abschnitt 4: Asset-Typen (18%)**
 
 * Beschreibung der für Asset-Typen verfügbaren OOTB-Funktionen
 * Inhaltsfragmente und Inhaltsfragmentmodelle erklären
@@ -147,21 +147,21 @@ Darüber hinaus sollten Sie über Erfahrungen mit den folgenden Technologien und
 
 +++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
 
-**Kurs machen**
+**Nehmen Sie einen Kurs vor**
 
 {{take-course}}
 
-[Nehmen Sie den Adobe Experience Manager Foundation-Kurs vor](https://app.rockinfo.com/courses/240)
+[Nehmen Sie den Adobe Experience Manager-Gründungskurs](https://app.rockinfo.com/courses/240)
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/120)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/120)
 
 
 +++
@@ -217,6 +217,6 @@ Darüber hinaus sollten Sie über Erfahrungen mit den folgenden Technologien und
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

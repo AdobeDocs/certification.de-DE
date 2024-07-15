@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner-Experte im Adobe werden. [!DNL Campaign Standard]
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner-Experte auf dem Gebiet Adobe [!DNL Campaign Standard] werden.
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Campaign Standard] Geschäftspraktiker-Experte
+# Zertifizierungs-Journey für Adobe [!DNL Campaign Standard] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/255) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/255) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für Ihre Zertifizierungsprüfung, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -60,7 +60,7 @@ Sie sollten Erfahrung in der Arbeit mit einer Umgebung für den Kanalversand (E-
 
 Zusätzlich sollten Sie Folgendes haben:
 
-* Felderfahrung beim Arbeiten mit Adobe [!DNL Campaign Standard] mit regelmäßiger Häufigkeit
+* Felderfahrung mit Adobe [!DNL Campaign Standard] mit regulärer Häufigkeit
 * Möglichkeit zur Verarbeitung von Datendateien
 * Grundlegendes zu den Konzepten von relationalen Datenbanken, Triggern, APIs und technischen Workflows
 * Grundlagen zum Erstellen von Marketing-Workflows und zum Verwenden der zugrunde liegenden Daten, um Marketing-Workflows zu starten
@@ -77,7 +77,7 @@ Zusätzlich sollten Sie Folgendes haben:
 
 * Best Practices beim Einrichten und Bereitstellen eines Versands anwenden
 * Bestimmen der korrekten Versandkonfiguration
-* Anwenden von Email Designer-Funktionen auf das entsprechende Szenario
+* Anwenden der Funktionen von Email Designer auf das entsprechende Szenario
 
 **Abschnitt 2: Kampagnenverwaltung (25%)**
 
@@ -89,14 +89,14 @@ Zusätzlich sollten Sie Folgendes haben:
 * Erstellen Sie einen neuen Workflow basierend auf Unternehmens-/Kampagnenanforderungen.
 * Kundenanforderungen interpretieren
 
-**Abschnitt 4: Berichterstattung (15%)**
+**Abschnitt 4: Berichterstellung (15%)**
 
 * Legen Sie bei Kundenanforderungen den zu generierenden Bericht fest.
 * Passen Sie bei einem Szenario einen vordefinierten dynamischen Bericht an
 * Anhand der OOTB-Beispielberichtdaten können Sie die Ergebnisse interpretieren.
 * Anwenden des Prozesses zum Planen und Senden eines OOTB-Berichts
 
-**Abschnitt 5: Fehlerbehebung (10 %)**
+**Abschnitt 5: Fehlerbehebung (10%)**
 
 * Fehler überwachen und identifizieren
 * Implementierungsergebnisse analysieren und interpretieren
@@ -104,7 +104,7 @@ Zusätzlich sollten Sie Folgendes haben:
 **Abschnitt 6: Datenverwaltung und -administration (15%)**
 
 * Datenmodellressourcen erklären
-* Ausführen [!DNL Campaign Standard] Administration
+* Administration mit [!DNL Campaign Standard] durchführen
 * Anwenden des Prozesses zum Erstellen zielgerichteter Zielgruppen
 
 <br>
@@ -135,15 +135,15 @@ Zusätzlich sollten Sie Folgendes haben:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/255)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/255)
 
 +++
 
@@ -198,7 +198,7 @@ Zusätzlich sollten Sie Folgendes haben:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
 

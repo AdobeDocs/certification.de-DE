@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Experten
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Journey Optimizer] Entwicklerexperte.
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe [!DNL Journey Optimizer] Entwickler-Experte werden.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -9,17 +9,17 @@ exl-id: null
 source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '650'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Journey Optimizer] Entwicklerexperte
+# Zertifizierungs-Journey für Adobe [!DNL Journey Optimizer] Entwickler-Experte
 
 {{intro}}
 
 >[!NOTE]
 >
->Dies ist die neueste Adobe [!DNL Journey Optimizer] Entwicklerexpertenprüfung (AD0-E606). Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](ajo-e-developer.md)müssen Sie sie bis zum 22. Dezember 2023 abschließen.
+>Dies ist die neueste Adobe [!DNL Journey Optimizer] Developer Expert-Prüfung (AD0-E606). Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](ajo-e-developer.md) geplant haben, müssen Sie sie bis zum 22. Dezember 2023 abschließen.
 
 
 ## Prüfbeschreibung {#exam-description}
@@ -77,7 +77,7 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 * Beschreiben Sie das Konzept der Sandbox und wie die Daten in Geschäftseinheiten verwendet werden können
 * Verstehen der Kanalverwaltung
 * Bestimmen Sie die geeignete Anwendung von Ereignissen/Aktionen/Datenquellen.
-* Identifizieren Sie, wann AJO-spezifische APIs verwendet werden sollen - Einschränkungen, Unterdrücken, Objektkopie, Ausführung interaktiver Nachrichten
+* Ermitteln Sie, wann AJO-spezifische APIs verwendet werden sollen - Einschränken, Begrenzen, Unterdrücken, Objektkopie, Ausführung interaktiver Nachrichten
 
 **Abschnitt 2: Journey Orchestration (22%)**
 
@@ -94,7 +94,7 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 * Anwenden des Prozesses zum Erstellen von Entscheidungen
 * Anwenden des Prozesses zum Hinzufügen von Angeboten auf verschiedenen Kanälen
 
-**Abschnitt 4: Inhaltserstellung (22%)**
+**Abschnitt 4: Inhaltsbearbeitung (22%)**
 
 * Erstellen von E-Mails, SMS, In-App-Nachrichten und Push-Benachrichtigungen
 * Helper-Funktionen und Personalisierungssyntax interpretieren, um anzuzeigen, was angezeigt wird
@@ -130,27 +130,27 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 
 **Abschnitt 1: Administration und Konfiguration**
 
-* [Experience Platform, Zugriffskontrolle, Sandbox-Anleitung](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=de){target="_blank"}
-* [AJO-Anleitung, Konfiguration, SMS-Kanal, Journey](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [Experience Platform, Zugriffssteuerung, Sandbox-Anleitung](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=de){target="_blank"}
+* [AJO-Handbuch, Konfiguration, SMS-Kanal, Journey](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 * [AJO-APIs](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **Abschnitt 2: Journey Orchestration**
 
-* [AJO-Anleitung, Journey, Ausdrücke, verfolgen und überwachen](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [AJO-Handbuch, Journey, Ausdrücke, verfolgen und überwachen](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Offer decisioning**
 
 * [AJO-Handbuch, Entscheidungsverwaltung, API-Referenz](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 
-**Abschnitt 4: Inhaltserstellung**
+**Abschnitt 4: Inhaltsbearbeitung**
 
-* [AJO-Anleitung, SMS-Kanal, Datenschutz, Konfiguration, Journey, Ausdrücke, Content Management, Tracking und Überwachung, Push-Benachrichtigungskanal](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [AJO-Handbuch, SMS-Kanal, Datenschutz, Konfiguration, Journey, Ausdrücke, Inhaltsverwaltung, Tracking und Überwachung, Push-Benachrichtigungskanal](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 * [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de){target="_blank"}
 
 **Abschnitt 5: Datenmodellierung**
 
 * [AJO-Handbuch, Konfiguration, Zielgruppen, Profile und Identität, Datenverwaltung](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
-* [Experience Platform, Datensätze, Source Connectors-Anleitung, API-Tutorials, Platform Identity Service-Anleitung, Segmentierungs-Benutzeroberfläche, Benutzeroberflächen-Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de){target="_blank"}
+* [Experience Platform, Datensätze, Source Connectors-Anleitung, API-Tutorials, Platform Identity Service-Anleitung, Segmentation-Benutzeroberfläche, UI-Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de){target="_blank"}
 
 +++
 
@@ -180,7 +180,7 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 
 >[!NOTE]
 >
->Dies ist die neueste Adobe [!DNL Journey Optimizer] Entwicklerexpertenprüfung (AD0-E606). Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](ajo-e-developer.md)müssen Sie sie bis zum 22. Dezember 2023 abschließen.
+>Dies ist die neueste Adobe [!DNL Journey Optimizer] Developer Expert-Prüfung (AD0-E606). Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](ajo-e-developer.md) geplant haben, müssen Sie sie bis zum 22. Dezember 2023 abschließen.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -209,6 +209,6 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

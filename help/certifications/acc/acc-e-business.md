@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie mit [!DNL Campaign Classic].
+description: Erfahren Sie, wie Sie mit [!DNL Campaign Classic] ein zertifizierter Adobe Business Practitioner-Experte werden.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Geschäftspraktiker-Experte
+# Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/253) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/253) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für Ihre Zertifizierungsprüfung, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 Sie sollten über Folgendes verfügen:
 
-* Mindestens 2 Jahre ausgedehntes Adobe [!DNL Campaign Classic] Software-Erfahrung
+* Mindestens 2 Jahre lang umfassende Erfahrung mit Adobe [!DNL Campaign Classic]-Software
 * Mehrjährige Erfahrung bei der Entwicklung von Marketing-Kampagnen und -Taktiken mithilfe von digitalem Omnichannel
 * Erfahrungsaustausch/Übersetzung von Geschäftsanforderungen in umsetzbare Campaign-Ergebnisse
 * Erlebnis mit Marketing-Metriken wie ROI, Clickthrough-Raten und Konversion
@@ -77,7 +77,7 @@ Sie sollten über Folgendes verfügen:
 * Zielgruppen-Mappings beschreiben
 * Web-Apps und Web-Formulare konfigurieren
 
-**Abschnitt 2: Workflow-Management (22%)**
+**Abschnitt 2: Workflow-Verwaltung (22 %)**
 
 * Bewerten einer bestimmten Gruppe von Kampagnenanforderungen und Empfehlungen für den Ablauf der Aktion
 * Analysieren Sie in einem Szenario Workflow-Fehler.
@@ -100,7 +100,7 @@ Sie sollten über Folgendes verfügen:
 * Wählen Sie für ein Szenario die entsprechende Audience für den Testversand für die Validierungen aus und richten Sie sie ein
 * Versandprüfungen analysieren und interpretieren
 
-**Abschnitt 5: Berichterstattung (12%)**
+**Abschnitt 5: Berichterstellung (12%)**
 
 * Legen Sie für ein Szenario die entsprechenden zu generierenden Berichte fest.
 * Interpretieren integrierter Berichte
@@ -132,15 +132,15 @@ Sie sollten über Folgendes verfügen:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/253)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/253)
 
 +++
 
@@ -195,6 +195,6 @@ Sie sollten über Folgendes verfügen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

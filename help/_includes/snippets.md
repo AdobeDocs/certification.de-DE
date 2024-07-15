@@ -11,7 +11,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Ab dem 1. August 2023 ist die Prüfungszeitplanung bei PSI nicht mehr verfügbar. Wenn Sie bereits eine Prüfung mit PSI geplant haben, müssen Sie sie vor dem 1. August 2023 durchführen. Wenn Sie eine Prüfung mit PSI nach dem 1. August 2023 geplant haben, setzen Sie Ihre Prüfung bitte neu, damit sie vor diesem Datum durchgeführt wird. Wenn Sie Ihre Prüfung nicht vor dem 1. August 2023 abschließen können oder nicht, senden Sie bitte eine E-Mail an <certif@adobe.com> damit wir Sie bei der Übertragung Ihrer Prüfung auf Examity unterstützen können. Dazu gehören japanischsprachige Prüfungen.
+>Ab dem 1. August 2023 ist die Prüfungszeitplanung bei PSI nicht mehr verfügbar. Wenn Sie bereits eine Prüfung mit PSI geplant haben, müssen Sie sie vor dem 1. August 2023 durchführen. Wenn Sie eine Prüfung mit PSI nach dem 1. August 2023 geplant haben, setzen Sie Ihre Prüfung bitte neu, damit sie vor diesem Datum durchgeführt wird. Wenn Sie Ihre Prüfung nicht vor dem 1. August 2023 ablegen können oder nicht, wenden Sie sich bitte per E-Mail an <certif@adobe.com>, damit wir Sie bei der Übertragung Ihrer Prüfung auf Examity unterstützen können. Dazu gehören japanischsprachige Prüfungen.
 
 <!--divider-->
 
@@ -49,13 +49,13 @@ Diese Schritte führen Sie von Anfang bis Ende durch den Zertifizierungsprozess.
 
 >[!IMPORTANT]
 >
-> **Behördliche Kennung erforderlich:** Sie MÜSSEN eine staatlich ausgestellte Foto-ID als gültige Form der ID verwenden. Weiche Kopien oder digitale IDs sind nicht zulässig. <br><br> **Adobe ID-Kontoname:** Ihr Adobe ID-Kontoname MUSS mit Ihrem Namen auf Ihrer Regierungskennung übereinstimmen. Um den Namen Ihres Adobe ID-Kontos zu aktualisieren, senden Sie eine E-Mail an <certif@adobe.com>. Bitte fordern Sie diese Berichtigung an **72 Stunden im Voraus**. Wenn die Namen zum Zeitpunkt der Prüfung nicht übereinstimmen, müssen Sie sich gegen eine zusätzliche Gebühr für eine neue Prüfung anmelden.
+> **Öffentliche Kennung erforderlich:** Sie MÜSSEN eine staatlich ausgestellte Foto-ID als gültige Form der ID verwenden. Weiche Kopien oder digitale IDs sind nicht zulässig. <br><br> **Adobe ID-Kontoname:** Ihr Adobe ID-Kontoname MUSS mit Ihrem Namen auf Ihrer Regierungskennung übereinstimmen. Um den Namen Ihres Adobe ID-Kontos zu aktualisieren, senden Sie eine E-Mail an <certif@adobe.com>. Bitte fordern Sie diese Korrektur an **72 Stunden im Voraus**. Wenn die Namen zum Zeitpunkt der Prüfung nicht übereinstimmen, müssen Sie sich gegen eine zusätzliche Gebühr für eine neue Prüfung anmelden.
 
-Sie benötigen eine Adobe ID, um Ihre Prüfung planen und durchführen zu können. Wenn Sie keinen Adobe ID haben, können Sie einen erstellen [here](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+Sie benötigen eine Adobe ID, um Ihre Prüfung planen und durchführen zu können. Wenn Sie keinen Adobe ID haben, können Sie einen [hier](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html) erstellen.
 
 Eine Adobe ID ist aus drei Gründen erforderlich:
 
-* Sie benötigen eine Adobe ID, um Ihre [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} -Konto. Hier können Sie Ihre Zertifizierungen, den Prüfungsverlauf, Prüfungsbewertungen und zusätzliche Informationen einsehen.
+* Sie benötigen eine Adobe ID, um Ihr [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}-Konto zu erstellen und sich dort anzumelden. Hier können Sie Ihre Zertifizierungen, den Prüfungsverlauf, Prüfungsbewertungen und zusätzliche Informationen einsehen.
 * Sie müssen beim Adobe Credential Management System angemeldet sein, um Ihr Examity-Konto erstellen und sich dort anmelden zu können. Dort werden Sie Ihren Test planen, bezahlen und durchführen.
 * Sie müssen beim Adobe Credential Management System angemeldet sein, um Praxistests für das Adobe Certification Exam Prep Portal durchführen zu können.
 
@@ -69,7 +69,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 >[!NOTE]
 >
->Einige Links in diesem Abschnitt funktionieren erst, nachdem Sie sich bei der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Bitte nehmen Sie sich einen Moment Zeit, um sich jetzt anzumelden.
+>Einige Links in diesem Abschnitt funktionieren erst, nachdem Sie sich beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} angemeldet haben. Bitte nehmen Sie sich einen Moment Zeit, um sich jetzt anzumelden.
 
 <!--divider-->
 
@@ -89,9 +89,9 @@ Beachten Sie bitte, dass das Bestehen eines Praktikumstests nicht garantiert, da
 
 So nehmen Sie den Praxistest vor:
 
-1. Melden Sie sich zunächst bei der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} mit Ihrer Adobe ID.
+1. Melden Sie sich zunächst bei Ihrem Adobe ID beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} an.
 
-2. Gehen Sie dann zum [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} um Ihren Übungstest zu finden.
+2. Navigieren Sie dann zum Vorabportal der [Adobe-Zertifizierungsprüfung](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"}, um Ihren Übungstest zu finden.
 
 <!--divider-->
 
@@ -99,23 +99,23 @@ So nehmen Sie den Praxistest vor:
 
 >[!NOTE]
 >
->Einige in diesem Abschnitt funktionieren erst, nachdem Sie sich bei der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Bitte nehmen Sie sich einen Moment Zeit, um sich jetzt anzumelden.
+>Einige in diesem Abschnitt funktionieren erst, nachdem Sie sich beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} angemeldet haben. Bitte nehmen Sie sich einen Moment Zeit, um sich jetzt anzumelden.
 
 **Testversand**
 
 Adobe verwendet einen Anbieter namens Examity, um geplante, abgeschlossene Prüfungen zu verwalten. Alle neuen Zertifizierungsprüfungen werden durchgeführt. Erneuerungsprüfungen sind auf Anfrage und nicht durchgeführt.
 
-**Planen, Neuplanen oder Abbrechen der Prüfung**
+**Prüfung planen, neu planen oder abbrechen**
 
 So planen, planen oder brechen Sie Ihre Prüfung ab:
 
-1. Melden Sie sich zunächst bei der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} mit Ihrer Adobe ID.
+1. Melden Sie sich zunächst bei Ihrem Adobe ID beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} an.
 
-2. Gehen Sie dann zum [Testportal](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} und folgen Sie den Anweisungen auf dem Bildschirm.
+2. Gehen Sie dann zum [Examity-Portal](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} und befolgen Sie die Anweisungen auf dem Bildschirm.
 
-Stornierungen und Umschuldungen müssen eingeleitet werden **48 Stunden vor** den geplanten Prüfungstermin. Die Kandidaten müssen diese Ernennung selbst ändern. Weder Adobe-Support noch Prüfungsanbieter können Neuplanungs- und Löschanfragen verarbeiten. Für Stornierungen unter 48 Stunden wird zusätzlich zur Prüfungsgebühr eine Umbuchungsgebühr erhoben.
+Stornierungen und Umplanungen müssen **48 Stunden vor** dem geplanten Prüfungstermin eingeleitet werden. Die Kandidaten müssen diese Ernennung selbst ändern. Weder Adobe-Support noch Prüfungsanbieter können Neuplanungs- und Löschanfragen verarbeiten. Für Stornierungen unter 48 Stunden wird zusätzlich zur Prüfungsgebühr eine Umbuchungsgebühr erhoben.
 
-**Zahlungsweise**
+**Bezahlen**
 
 Zahlung mit Kreditkarte: Wenn Sie Ihre Prüfung planen, werden Sie aufgefordert, Ihre Kreditkarte zur Zahlung einzugeben.
 
@@ -129,7 +129,7 @@ Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Weitere I
 
 Alle Bewerber erhalten beim Kauf über das Adobe Certification Voucher Center einen Rabatt auf den Massenkauf von 10 oder mehr Prüfungen.
 
-Weitere Informationen zu Gutscheinen finden Sie im [FAQs](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
+Weitere Informationen zu Gutscheinen finden Sie in den [FAQ](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
 
 **Rabatte**
 
@@ -151,7 +151,7 @@ Hinweis: Massenrabatte können nicht mit anderen Angeboten oder Rabatten kombini
 
 ## Vor und nach {#before-and-after}
 
-**Vor dem Prüfungstag**
+**Vor Prüfungstag**
 
 * Führen Sie Ihren Systemtest aus.
 * Stellen Sie sicher, dass Zoom auf Ihrem Computer installiert ist. Zoom muss über die Berechtigung verfügen, Ihre Kamera und Ihr Mikrofon zu verwenden, Ihren Bildschirm gemeinsam zu nutzen und Ihren Computer vorübergehend von Ihrem Produzenten übernehmen zu lassen.
@@ -160,7 +160,7 @@ Hinweis: Massenrabatte können nicht mit anderen Angeboten oder Rabatten kombini
 
 >[!IMPORTANT]
 >
-> **Behördliche Kennung erforderlich:** Sie MÜSSEN eine staatlich ausgestellte Foto-ID als gültige Form der ID verwenden. Weiche Kopien oder digitale IDs sind nicht zulässig. <br><br> **Adobe ID-Kontoname:** Ihr Adobe ID-Kontoname MUSS mit Ihrem Namen auf Ihrer Regierungskennung übereinstimmen. Um den Namen Ihres Adobe ID-Kontos zu aktualisieren, senden Sie eine E-Mail an <certif@adobe.com>. Bitte fordern Sie diese Berichtigung an **72 Stunden im Voraus**. Wenn die Namen zum Zeitpunkt der Prüfung nicht übereinstimmen, müssen Sie sich gegen eine zusätzliche Gebühr für eine neue Prüfung anmelden.
+> **Öffentliche Kennung erforderlich:** Sie MÜSSEN eine staatlich ausgestellte Foto-ID als gültige Form der ID verwenden. Weiche Kopien oder digitale IDs sind nicht zulässig. <br><br> **Adobe ID-Kontoname:** Ihr Adobe ID-Kontoname MUSS mit Ihrem Namen auf Ihrer Regierungskennung übereinstimmen. Um den Namen Ihres Adobe ID-Kontos zu aktualisieren, senden Sie eine E-Mail an <certif@adobe.com>. Bitte fordern Sie diese Korrektur an **72 Stunden im Voraus**. Wenn die Namen zum Zeitpunkt der Prüfung nicht übereinstimmen, müssen Sie sich gegen eine zusätzliche Gebühr für eine neue Prüfung anmelden.
 
 **Prüfungstag**
 
@@ -181,15 +181,15 @@ Hinweis: Massenrabatte können nicht mit anderen Angeboten oder Rabatten kombini
 
 Adobe verwendet Examity, um verarbeitete Prüfungen online zu verwalten. Im Portal &quot;Examity&quot;haben Sie folgende Möglichkeiten:
 
-* **Planen Sie Ihre Prüfung, planen Sie sie neu oder brechen Sie sie ab.** Bitte beachten Sie, dass Stornierungen und Umschulungen vor 48 Stunden vor dem geplanten Prüfungstermin erfolgen müssen. Die Kandidaten müssen diese Ernennung selbst ändern.
+* **Planen Sie Ihre Prüfung, planen Sie sie neu oder brechen Sie sie ab.** Bitte beachten Sie, dass die Absage und Umschulung vor 48 Stunden vor dem geplanten Prüfungstermin begonnen werden muss. Die Kandidaten müssen diese Ernennung selbst ändern.
 
-* **Bezahlen Sie Ihre Prüfung.** Bezahlen Sie Ihre Zertifizierungsprüfung entweder per Gutschein oder Kreditkarte im Portal. Um einen Prüfgutschein zu erwerben, gehen Sie zu: [Adobe Certification Voucher System](https://market.xvoucher.com/adobe/global){target="_blank"}. Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie einen Rabatt haben, wird er beim Checkout angewendet.
+* **Bezahlen Sie Ihre Prüfung.** Bezahlen Sie Ihre Zertifizierungsprüfung entweder per Gutschein oder Kreditkarte im Portal von Examity. Um einen Prüfgutschein zu erwerben, gehen Sie zu: [Adobe Certification Voucher System](https://market.xvoucher.com/adobe/global){target="_blank"}. Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie einen Rabatt haben, wird er beim Checkout angewendet.
 
-* **Nehmt eure Prüfung.**
+* **Nimm deine Prüfung.**
 
 >[!NOTE]
 >
->Sie müssen sich bei der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} , bevor Sie auf die Schaltfläche &quot;Prüfung&quot;unten klicken.
+>Sie müssen sich beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} anmelden, bevor Sie auf die Schaltfläche &quot;Prüfung&quot;unten klicken.
 
 <!--divider-->
 
@@ -201,15 +201,15 @@ Ihr Abzeichen dient als greifbarer Beweis für Ihre Kompetenz mit Adobe Experien
 
 **Für bestehende Benutzer gibt es zwei Möglichkeiten, Ihr Adobe-Zertifizierungs-Badge zu akzeptieren:**
 
-* **Schritt 1:** Anmelden [Kreativ](https://www.credly.com/users/sign_in){target="_blank"}. (Sie müssen dieselbe E-Mail verwenden, die Sie zum Verdienen Ihrer Adobe-Anmeldedaten verwendet haben, oder Ihr Badge wird nicht angezeigt.)
-* **Schritt 2:** Oder gehen Sie zur E-Mail, die Sie von Crely erhalten haben, um den Abzeichen zu akzeptieren.
-* **Schritt 3:** Akzeptieren und teilen Sie Ihr Abzeichen.
+* **Schritt 1:** Anmelden bei [Creely](https://www.credly.com/users/sign_in){target="_blank"}. (Sie müssen dieselbe E-Mail verwenden, die Sie zum Verdienen Ihrer Adobe-Anmeldedaten verwendet haben, oder Ihr Badge wird nicht angezeigt.)
+* **Schritt 2:** Oder gehen Sie zur E-Mail, die Sie von Crely erhalten haben, um den Badge zu akzeptieren.
+* **Schritt 3:** Akzeptieren und teilen Sie Ihr Zeichen.
 
-**Gehen Sie bei neuen Benutzern wie folgt vor, um Ihr Adobe-Zertifizierungs-Abzeichen zu akzeptieren:**
+**Für neue Benutzer befolgen Sie die folgenden Anweisungen, um Ihr Adobe-Zertifizierungs-Badge zu akzeptieren:**
 
-* **Schritt 1:** Gehen Sie zur E-Mail, die Sie von Creangeblich erhalten haben, um das Abzeichen zu akzeptieren.
+* **Schritt 1:** Rufen Sie die E-Mail auf, die Sie von Crely erhalten haben, um das Abzeichen zu akzeptieren.
 * **Schritt 2:** Erstellen Sie ein Konto. (Sie müssen dieselbe E-Mail verwenden, die Sie zum Verdienen Ihrer Adobe-Anmeldedaten verwendet haben, oder Ihr Badge wird nicht angezeigt.)
-* **Schritt 3:** Akzeptieren und teilen Sie Ihr Abzeichen.
+* **Schritt 3:** Akzeptieren und teilen Sie Ihr Zeichen.
 
 [Weitere Informationen](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
 
@@ -217,7 +217,7 @@ Ihr Abzeichen dient als greifbarer Beweis für Ihre Kompetenz mit Adobe Experien
 
 ## Verlängern der Zertifizierung {#renewing-intro}
 
-Die Zertifizierungen laufen nach zwei Jahren ab. Um Ihre Zertifizierung beizubehalten, müssen Sie sie verlängern, bevor sie abläuft. Besuchen Sie die [Zertifizierung verlängern](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} für weitere Informationen.
+Die Zertifizierungen laufen nach zwei Jahren ab. Um Ihre Zertifizierung beizubehalten, müssen Sie sie verlängern, bevor sie abläuft. Weitere Informationen finden Sie auf der Seite [Zertifikat erneuern](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} .
 
 <!--divider-->
 

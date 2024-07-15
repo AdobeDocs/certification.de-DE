@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Entwickler
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte in [!DNL Campaign Classic].
+description: Erfahren Sie, wie Sie in [!DNL Campaign Classic] ein zertifizierter Adobe Developer-Experte werden.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Entwicklerexperte
+# Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Entwickler-Experte
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/252) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/252) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für Ihre Zertifizierungsprüfung, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 Sie sollten über Folgendes verfügen:
 
 * Mindestens zwei Jahre Erfahrung mit Campaign-Software
-* Mindestens drei Jahre kombinierte Erfahrung in JavaScript-Programmierung, SQL-Entwicklung einschließlich ETL und Web-Technologien (XML, HTML und Web-Services)
+* Mindestens drei Jahre kombinierte Erfahrung in der Programmierung von JavaScript, SQL-Entwicklung einschließlich ETL und Web-Technologien (XML, HTML und Web-Services)
 * Erlebnis beim Ausführen einer Marketing-Kampagne mithilfe eines digitalen Omnichannel
 * Erfahrung mit der Datenbankarchitektur und Kenntnis des Datenbank-Marketings
 * Möglichkeit der Zuordnung von Anforderungen zu Campaign-Funktionen
@@ -79,9 +79,9 @@ Sie sollten über Folgendes verfügen:
 * Mit einer Reihe von Anforderungen wenden Sie Best Practices an, um ein Datenmodell zu entwerfen
 * Implementierung von APIs in Campaign beschreiben
 * Best Practices für die Entwicklung mit JavaScript in Adobe Campaign beschreiben
-* JavaScript-Bibliotheken in Workflows, SOAP-Aufrufen, Typologieregeln und Gestaltungsbausteinen anwenden
-* Best Practices für die Verwendung von SQL-Funktionen im Adobe beschreiben [!DNL Campaign Classic]
-* In einem Szenario können Sie wissen, wie SQL-Skripte im Adobe verwendet werden. [!DNL Campaign Classic]
+* Anwenden von JavaScript-Bibliotheken in Workflows, SOAP-Aufrufen, Typologieregeln und Gestaltungsbausteinen
+* Best Practices für die Verwendung von SQL-Funktionen in Adobe [!DNL Campaign Classic] beschreiben
+* In einem Szenario erfahren Sie, wie Sie SQL-Skripte in Adobe [!DNL Campaign Classic] verwenden.
 * Beschreibung häufig verwendeter OOTB-Funktionen
 
 **Abschnitt 3: Zugriffsverwaltung (8%)**
@@ -111,7 +111,7 @@ Sie sollten über Folgendes verfügen:
 
 * Erweiterte Personalisierungsverfahren anwenden
 * Benutzerdefinierte Zielgruppen-Mappings konfigurieren und anwenden
-* Identifizieren Sie die entsprechende JavaScript-Nutzung im Campaign-Workflow und warum
+* Identifizieren Sie die passende JavaScript-Nutzung im Campaign-Workflow und warum
 * Anwenden von benutzerdefiniertem Code zum Bearbeiten von temporären Tabellen und Workflow-Kontext
 * Überprüfen und Debuggen der Workflow-Logik
 * Erweiterte Versandeinstellungen anwenden
@@ -146,15 +146,15 @@ Sie sollten über Folgendes verfügen:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/252)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/252)
 
 +++
 
@@ -209,6 +209,6 @@ Sie sollten über Folgendes verfügen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

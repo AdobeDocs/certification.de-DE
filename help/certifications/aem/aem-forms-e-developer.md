@@ -1,6 +1,6 @@
 ---
 title: AEM Forms Backend Developer Professional-Zertifizierung
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager Forms] Backend-Entwickler-Expert.
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe [!DNL Experience Manager Forms] Backend-Entwickler-Expert werden.
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Experience Manager Forms] Entwicklerexperte
+# Zertifizierungs-Journey für Adobe [!DNL Experience Manager Forms] Entwickler-Experte
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/128) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/128) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -73,13 +73,13 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Integration mit Datendiensten
 * Workflow-Implementierung
 * Grundlegendes zu AEM Forms Workbench (JEE), um lange Live-Prozesse und -Dienste zu erstellen.
-* Entwickeln von JavaScript-Clientlibs mit der GuideBridge-API
+* Entwickeln von JavaScript-Clientlibs mithilfe der GuideBridge-API
 * Basierend auf dem Zeichen v Government CAC weiß, welcher AEM Forms-Umgebungs-Desktop oder -Server verwendet werden soll
 * Grundlegendes zu Java/J2EE und JavaScript zum Schreiben von Logik und Aufrufen verschiedener Dienste.
 * Vorausfüllen eines adaptiven Formulars
 * Grundlegendes zu OSGi und Sling-Komponenten oder Grundkenntnisse dazu
 * Verwendung von Document Services
-* AEM Designer, AEM Workbench, AEM Arbeitsbereich
+* AEM Designer, AEM Workbench, AEM Workspace
 * Konsole für adaptive Formulare
 * Java IDE-Tools
 * Maven
@@ -91,7 +91,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 {{exam-objectives}}
 
-**Abschnitt 1: Erstellung und Verwaltung der Forms (36%)**
+**Abschnitt 1: Erstellung und Verwaltung von Forms (36%)**
 
 * Forms erstellen
 * Forms-Datenmodell konfigurieren
@@ -107,7 +107,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Bearbeiten von PDF mithilfe von Forms- oder Assembler-Diensten
 * JDBC-Dienste implementieren
 
-**Abschnitt 3: Verwaltung und Fehlerbehebung (18 %)**
+**Abschnitt 3: Verwaltung und Fehlerbehebung (18%)**
 
 * Fehlerbehebung und Differenzierung von Protokolldateien
 * Verwaltungsaktivitäten durchführen
@@ -115,12 +115,12 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Ausführen AEM Dispatcher-Setups für Forms
 * Navigieren in verschiedenen Konsolen
 
-**Abschnitt 4: API-Endpunkte und Integrationen (8 %)**
+**Abschnitt 4: API-Endpunkte und Integrationen (8%)**
 
 * Integration mit Adobe Experience Cloud
 * Erstellen und Verwenden verschiedener Endpunktdienste
 
-**Abschnitt 5: Interaktive Kommunikation (4 %)**
+**Abschnitt 5: Interaktive Kommunikation (4%)**
 
 * Entwerfen, demonstrieren und implementieren von Prozessen für die interaktive Kommunikation
 
@@ -152,15 +152,15 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/128)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/128)
 
 +++
 
@@ -215,6 +215,6 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung für Entwickler
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Profi im Adobe werden. [!DNL Commerce].
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Profi in Adobe [!DNL Commerce] werden.
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Commerce] Entwickler Professional
+# Zertifizierungs-Journey für Adobe [!DNL Commerce] Developer Professional
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
 >
->* **Kurse:** Nehmen Sie die [Adobe Commerce Developer Professional-Kurs](https://app.rockinfo.com/courses/92) , die Erläuterungen zu Schlüsselkonzepten, praxisorientierten Demonstrationen und Wissenstests enthält. Wenn du gerade erst anfliegst, wird die [Adobe Commerce Foundation-Kurs](https://app.rockinfo.com/courses/148) bietet eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
+>* **Kurse:** Nehmen Sie den [Adobe Commerce Developer Professional Kurs](https://app.rockinfo.com/courses/92) mit Erläuterungen zu Schlüsselkonzepten, praktischen Demonstrationen und Wissensteuerungen. Wenn Sie gerade anfangen, bietet der [Adobe Commerce Foundation Kurs](https://app.rockinfo.com/courses/148) eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/136) bietet einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der Materialien, die Sie benötigen, um erfolgreich in Ihrer Prüfung sein zu können.
+>* **Prüfungsvorbereitungsanleitung:** Der [Prüfungsvorbereitungshandbuch](https://app.rockinfo.com/courses/136) bietet einen maßgeschneiderten Pfad durch Ihren Prüfungsvorbereitungsprozess, einschließlich der Materialien, die für eine erfolgreiche Prüfung benötigt werden.
 >
 >Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID.
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ### Minimales Erlebnis {#minimum-experience}
 
-Du solltest dich mit der Arbeit im Adobe wohl fühlen [!DNL Commerce] und Grundkenntnisse im Adobe haben [!DNL Commerce] Admin-Entwicklung, Architektur, EAV/Datenbank, Layout/Benutzeroberfläche, Checkout und Vertrieb sowie Katalog.
+Sie sollten sich mit der Arbeit in Adobe [!DNL Commerce] vertraut machen und über grundlegende Kenntnisse der Adobe [!DNL Commerce] Admin-Entwicklung, Architektur, EAV/Datenbank, Layout/Benutzeroberfläche, Checkout und Vertrieb sowie Katalog verfügen.
 
 Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sein:
 
@@ -84,8 +84,8 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 **Abschnitt 2: Architektur (29%)**
 
-* Beschreibung [!DNL Magento] Dateistruktur
-* Beschreibung [!DNL Magento] CLI-Befehle
+* Beschreibung der Dateistruktur [!DNL Magento]
+* Beschreibung der CLI-Befehle [!DNL Magento]
 * Beschreibung der Cron-Funktion
 * Beschreiben Sie für ein Szenario die Verwendung der Datei &quot;di.xml&quot;.
 * Erstellen Sie in einem Szenario Controller
@@ -95,7 +95,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Beschreiben von Plug-ins, Einstellungen, Ereignisbeobachtern und Abfängern
 * Beschreiben benutzerdefinierter Modulrouten
 * Beschreiben von URL-Neuschreibungen
-* Beschreiben Sie die [!DNL Magento] Caching-System
+* Beschreiben Sie das Cache-System [!DNL Magento] .
 * Beschreiben Sie Stores, Websites und Store-Ansichten (Grundverständnis).
 
 **Abschnitt 3: EAV/Datenbank (13%)**
@@ -106,7 +106,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Beschreiben von Modellen, Ressourcenmodellen und Sammlungen
 * Grundlagen des Entitätsattributwerts (EAV) beschreiben
 
-**Abschnitt 4: Layout/Benutzeroberfläche (15 %)**
+**Abschnitt 4: Layout/Benutzeroberfläche (15%)**
 
 * Anwenden von Änderungen auf bestehende Produkttypen und Erstellen neuer
 * Vorhandene Katalogentitäten ändern und erweitern
@@ -131,27 +131,27 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 **Abschnitt 7: Adobe [!DNL Commerce] Cloud-Architektur (12 %)**
 
-* Adobe definieren [!DNL Commerce] Architektur-/Umgebungs-Workflow
+* Architektur-/Umgebungs-Workflow von Adobe [!DNL Commerce] definieren
 * Beschreiben der Cloud-Projektdateien, Berechtigungen und Strukturen
-* Auf Adobe verfügbare Listendienste [!DNL Commerce] in Cloud
+* Auf Adobe [!DNL Commerce] in Cloud verfügbare Listendienste
 * Beschreiben Sie, wie Sie auf verschiedene Protokolltypen zugreifen.
 * Beschreiben Sie die Schritte zum Anwenden von Patches (Ermitteln Sie, in welchen Ordner Patches eingefügt werden sollen).
 * Beschreiben Sie, wie Sie ECE-Tools verwalten und aktualisieren.
 * Ermitteln Sie, wann Support *Yaml-Dateien und Einschränkungen (DIY vs. Support-Tickets) aufgerufen werden.
 
-**Abschnitt 8: Einrichten/Konfigurieren von Adobe [!DNL Commerce] Cloud (4 %)**
+**Abschnitt 8: Einrichten/Konfigurieren von Adobe [!DNL Commerce] Cloud (4%)**
 
-* Ermitteln, wie Adobe eingerichtet/konfiguriert wird [!DNL Commerce] Cloud
+* Ermitteln, wie Adobe [!DNL Commerce] Cloud eingerichtet/konfiguriert wird
 * Grundlegende Cloud-Fehlerbehebung definieren (Hierarchie der Web-Benutzeroberfläche und Variablen, Konfigurationspräferenz)
 * Grundlegende Kenntnisse des Cloud-Benutzermanagements und der Onboarding-Benutzeroberfläche
 * Beschreiben der Umgebungsverwaltung mithilfe der Benutzeroberfläche
 * Beschreiben der Verzweigung über die Benutzeroberfläche
 * Adobe Commerce Cloud-Planfunktionen identifizieren
 
-**Abschnitt 9: [!DNL Commerce] Cloud-CLI-Tool (Teil verwalten) (6 %)**
+**Abschnitt 9: [!DNL Commerce] Cloud-CLI-Tool (Teil verwalten) (6%)**
 
-* Beschreibung der exklusiven Funktionen von Adobe [!DNL Commerce] Cloud-CLI-Tool (CLI-Funktionen: E-Mails aktivieren, Umgebungen neu starten, Snapshot, Db-Dump, lokale Umgebung einrichten)
-* Beschreiben der Verzweigung mithilfe der Adobe [!DNL Commerce] Cloud-CLI-Tool
+* Beschreiben Sie die exklusiven Funktionen des Adobe [!DNL Commerce] Cloud-CLI-Tools (CLI-Exklusivfunktionen: E-Mails aktivieren, Umgebungen neu berechnen, Snapshot, DB-Dump, Einrichtung der lokalen Umgebung).
+* Beschreiben der Verzweigung mit dem Adobe [!DNL Commerce] Cloud-CLI-Tool
 * Ermitteln Sie, wie Sie eine Verbindung zu Cloud Services herstellen können? (My SQL, Redis, tunnel:info)
 
 <br>
@@ -182,11 +182,11 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Kurs machen**
+**Nehmen Sie einen Kurs vor**
 
 {{take-course}}
 
@@ -204,11 +204,11 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 </span>
 </a>
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/136)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/136)
 
 +++
 
@@ -263,6 +263,6 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

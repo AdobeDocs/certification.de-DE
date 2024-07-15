@@ -1,6 +1,6 @@
 ---
 title: Berufliche Zertifizierung durch Business Practice
-description: Erfahren Sie, wie Sie als Adobe zertifiziert werden [!DNL Audience Manager] Business Practitioner Professional.
+description: Erfahren Sie, wie Sie als Adobe [!DNL Audience Manager] Business Practitioner Professional zertifiziert werden.
 solution: Audience Manager
 product: Audience Manager
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Audience Manager] Geschäftspraktiker/innen
+# Zertifizierungs-Journey für Adobe [!DNL Audience Manager] Business Practitioner Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/245) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/245) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -63,7 +63,7 @@ Sie sollten ein grundlegendes Verständnis der Datenflüsse, Geschäftsziele und
 
 {{exam-objectives}}
 
-**Abschnitt 1: Erstellung und Syndikation von Segmenten (32 %)**
+**Abschnitt 1: Erstellung und Syndikation von Segmenten (32%)**
 
 * Ermitteln von Möglichkeiten zur Verwendung von Erstanbieter-, Zweit- und Drittanbieterdaten für Targeting- und Analysezwecke.
 * Beschreiben Sie den grundlegenden Prozess für die Aktivierung von Geschäfts- oder Kampagnenzielen.
@@ -76,12 +76,12 @@ Sie sollten ein grundlegendes Verständnis der Datenflüsse, Geschäftsziele und
 * Identifizieren von Signalen, Eigenschaften, Segmenten und Zielgruppen
 * Verwendung verschiedener Eigenschaftstypen identifizieren
 
-**Abschnitt 3: Berichterstattung und Messungen (16%)**
+**Abschnitt 3: Berichterstellung und Messung (16%)**
 
 * Generieren Sie in einem Szenario Berichte zur Messung der Aktivierung oder der Kampagnenziele
 * Vergleichen Sie in einem Szenario Zielgruppen anhand von Übereinstimmungsraten.
 
-**Abschnitt 4: Fehlerbehebung (10 %)**
+**Abschnitt 4: Fehlerbehebung (10%)**
 
 * In einem Szenario führen Sie eine Fehlerbehebung bei eingehenden Daten aus verschiedenen Quellen und Quelltypen durch
 * Format für eingehende Datendateien überprüfen
@@ -116,11 +116,11 @@ Sie sollten ein grundlegendes Verständnis der Datenflüsse, Geschäftsziele und
 
 {{study-materials-intro}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/245)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/245)
 
 +++
 
@@ -175,7 +175,7 @@ Sie sollten ein grundlegendes Verständnis der Datenflüsse, Geschäftsziele und
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
 

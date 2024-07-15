@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/126) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/126) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -68,7 +68,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Adobe IO CLI
 * Git-CLI
 * Cloud-Übergangstools
-* Dispatcher-Konverter
+* Dispatcher Converter
 * Repository Moderizer
 * Entwicklung und Produktion
 * Entwicklungs-Sandbox
@@ -86,31 +86,31 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * In einem Szenario führen Sie eine Fehlerbehebung bei Adobe Experience Manager-Problemen durch
 * Bestimmen der richtigen Methode zum Konfigurieren von OSGi
 
-**Abschnitt 2: Verwenden der Cloud Manager- und Cloud Manager-API (20 %)**
+**Abschnitt 2: Cloud Manager- und Cloud Manager-API verwenden (20 %)**
 
-* Bestimmen der richtigen Methode zum Verwalten von Cloud Manager-Umgebungseinstellungen über die Benutzeroberfläche
+* Festlegen der richtigen Methode zum Verwalten von Einstellungen für Cloud Manager-Umgebungen über die Benutzeroberfläche
 * Bestimmen der richtigen Methode für die Bereitstellung von Programmen und Umgebungen in Cloud Manager
 * Bestimmen der richtigen Methode für die Migration zu Adobe Experience Manager as a Cloud Service
 * Bestimmen der richtigen Methode zum Einrichten von Integrationen auf dem Adobe I/O
 
-**Abschnitt 3: Web-Proxy-Infrastruktur konfigurieren (12 %)**
+**Abschnitt 3: Konfigurieren der Web-Proxy-Infrastruktur (12 %)**
 
 * Bestimmen der richtigen Methode zum Verwalten von Dispatcher-Konfigurationen
 * Beheben Sie bei einem Szenario Zwischenspeicherungsprobleme.
 
-**Abschnitt 4: Build und Bereitstellungen (28 %)**
+**Abschnitt 4: Erstellen und Bereitstellen (28 %)**
 
-* Bestimmen der richtigen Methode zur Verwaltung von Cloud Manager-Bereitstellungen
+* Festlegen der richtigen Methode zum Verwalten von Cloud Manager-Implementierungen
 * Analysieren Sie in einem Szenario den Status einer Cloud Manager-Pipeline.
 * Bestimmen der richtigen Methode zum Verwalten von Inhaltspaketen über mehrere Adobe Experience Manager-Instanzen hinweg
 * Bestimmen Sie die richtige Methode, um Änderungen an Maven-Dateien vorzunehmen, um Pipelines zu unterstützen.
 
-**Abschnitt 5: Qualitätsmetriken überwachen und Berichte dazu erstellen (14%)**
+**Abschnitt 5: Überwachung und Berichterstellung von Qualitätsmetriken (14%)**
 
 * Bestimmen der richtigen Methode zur Erfassung von Leistungsmetriken und -berichten
 * Bestimmen der richtigen Methode zum Skalieren der Infrastruktur
 
-**Abschnitt 6: Betrieb der Admin Console (8%)**
+**Abschnitt 6: Admin Console bedienen (8%)**
 
 * Bestimmen der richtigen Methode zum Senden einer Support-Anfrage in der Admin Console
 * Bestimmen Sie die richtige Methode zum Konfigurieren von Federated SSO und Synchronisieren von Adobe Experience Manager-Benutzern und -Gruppen.
@@ -141,11 +141,11 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 {{study-materials-intro}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/126)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/126)
 
 +++
 
@@ -211,6 +211,6 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

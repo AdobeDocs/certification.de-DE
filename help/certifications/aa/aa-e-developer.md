@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Entwickler
-description: Erfahren Sie, wie Sie als [!DNL Adobe Analytics] Entwicklerexperte.
+description: Erfahren Sie, wie Sie als [!DNL Adobe Analytics] Entwickler-Experte zertifiziert werden.
 solution: Analytics
 product: Analytics
 role: Developer
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Analytics] Entwicklerexperte
+# Zertifizierungs-Journey für Adobe [!DNL Analytics] Entwickler-Experte
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/221) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/221) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ### Minimales Erlebnis {#minimum-experience}
 
-Sie sollten Erfahrung als Implementierungsberater in einer Hybridrolle mit etwa 2-jähriger Erfahrung in der [!DNL Adobe Analytics] Implementierung. Sie fungieren als Brücke zwischen der IT und dem Unternehmen, übersetzen die Geschäftsanforderungen in eine technische Lösung (SDR) und verstehen anhand der Anforderungen des Analytikers, welcher Variablentyp benötigt wird, wo und wie die Daten gesammelt werden, gestalten das Datenmodell (Datenschicht), konfigurieren und verwalten die Tag-Management-Lösung.
+Sie sollten über Erfahrung als Implementierungsberater in einer Hybridrolle mit etwa 2 Jahren Erfahrung in der Implementierung von [!DNL Adobe Analytics] verfügen. Sie fungieren als Brücke zwischen der IT und dem Unternehmen, übersetzen die Geschäftsanforderungen in eine technische Lösung (SDR) und verstehen anhand der Anforderungen des Analytikers, welcher Variablentyp benötigt wird, wo und wie die Daten gesammelt werden, gestalten das Datenmodell (Datenschicht), konfigurieren und verwalten die Tag-Management-Lösung.
 
 Sie als Analytics-Entwickler implementieren die Tags selten auf der Seite. Stattdessen werden sie von der IT oder dem Systemintegrator implementiert.
 
@@ -60,15 +60,15 @@ Sie sollten mit den folgenden Tools und Umgebungen vertraut sein:
 Instrumente:
 
 * Adobe Experience Platform Launch (Adobe Launch)
-* Debugging-Tools für [!DNL Adobe Analytics] (Paketmonitor, z. B. Adobe Debugger, Browser-Entwicklertools, Charles)
+* Debugging-Tools, die für [!DNL Adobe Analytics] relevant sind (Paketmonitor, z. B. Adobe Debugger, Browser-Entwicklertools, Charles)
 * [!DNL Adobe Analytics] Admin Console Report Suite-Einstellungen
-* Grundlegendes zu Workspace
+* Grundlegendes Workspace-Wissen
 * Web-Entwicklungs-Tools, Code-Editor und mobile Debugging-Tools
 * Adobe Auditor
 * Verarbeitungsregeln
 * Klassifizierungsregeln - regex-basierte Klassifizierungsregeln
 * JavaScript-Fehler
-* Grundlegendes zu den verfügbaren [!DNL Adobe Analytics] verwandte APIs
+* Grundlegendes zu den verfügbaren [!DNL Adobe Analytics] -APIs
 * Adobe I/O-Integration
 
 Umgebungen:
@@ -76,13 +76,13 @@ Umgebungen:
 * Frontend-Web-Entwicklungsumgebungen
 * Kenntnisse über Mobile Apps (Einschränkungen und Unterschiede, z. B. warum sie sich von Web unterscheiden)
 * Der Bereich des digitalen Marketings
-* Minimale Kenntnisse der Backend-Entwicklungsumgebungen, einschließlich der Betriebssysteme PC, Mac, Android/iOS (Grundbetrieb, nicht Entwicklung)
+* Minimale Kenntnisse der Backend-Entwicklungsumgebungen einschließlich der Betriebssysteme PC, Mac, Android/iOS (Grundbetrieb, nicht Entwicklung)
 
 ### Prüfungsziele und -umfang {#exam-objectives}
 
 {{exam-objectives}}
 
-**Prüfungsziele und -umfang**
+**Prüfungsziele und -bereich**
 
 **Abschnitt 1: Grundlegendes zu Analytics im Adobe Experience Cloud-Ökosystem (10 %)**
 
@@ -90,17 +90,17 @@ Umgebungen:
 * Adobe Launch-Kenntnisse demonstrieren
 * Verstehen geblicher Integrationen im gesamten Adobe Experience Cloud-Ökosystem
 
-**Abschnitt 2: Strategie und Design auf der Grundlage einer Lösungsdesignreferenz (SZR) (6%)**
+**Abschnitt 2: Strategie und Design basierend auf einer Lösungsdesignreferenz (Solution Design Reference, SDR) (6%)**
 
 * Interpretieren einer Lösungsdesign-Referenz zur Entwicklung eines effizienten Codes für die Datenerfassung
 * Verwenden Sie den Tech Spec zum Ausfüllen von Datenobjekten
 
 **Abschnitt 3: Analytics-Implementierung und -Konfiguration (36 %)**
 
-* Bestimmen der bereitzustellenden Umgebung [!DNL Adobe Analytics] Code
+* Bestimmen der Umgebung, in der [!DNL Adobe Analytics]-Code bereitgestellt werden soll
 * Ausführen eines minimalen Bereitstellungscodes für das Analytics-Tracking
-* Konfigurieren verschiedener Komponenten in [!DNL Adobe Analytics] Benutzeroberfläche
-* Konfigurieren [!DNL Adobe Analytics] Report Suite- und Variableneinstellungen
+* Konfigurieren verschiedener Komponenten in der Benutzeroberfläche von [!DNL Adobe Analytics]
+* Report Suite- und Variableneinstellungen für [!DNL Adobe Analytics] konfigurieren
 * Verwenden einer Datenschicht in einer Implementierung
 * Erweiterte Tracking-Funktionen wie Linktracking und Produktzeichenfolgen ausführen
 
@@ -116,12 +116,12 @@ Umgebungen:
 * Anwenden von Prozessen zum Konfigurieren und Ausführen eines Basis-Codes vor der Bereitstellung für Mobilgeräte
 * Verstehen der Verarbeitungsregeln und Mobile Services
 
-**Abschnitt 6: Tests, Validierung und Fehlerbehebung (20 %)**
+**Abschnitt 6: Tests, Validierung und Fehlerbehebung (20%)**
 
 * Fehlerbehebung bei JavaScript-Fehlern
-* Fehlerbehebung [!DNL Adobe Analytics] variables
+* Fehlerbehebung bei [!DNL Adobe Analytics] -Variablen
 * Best Practices für Tests und Debugging empfehlen
-* Fehlerbehebung bei einem [!DNL Adobe Analytics] Server-Aufruf über seinen gesamten Lebenszyklus (d. h. von der Beacon-Anforderung bis zur Anzeige im Bericht)
+* Fehlerbehebung für einen [!DNL Adobe Analytics] -Server-Aufruf während seines gesamten Lebenszyklus (d. h. von der Beacon-Anforderung bis zur Anzeige im Bericht)
 
 <br>
 
@@ -151,15 +151,15 @@ Umgebungen:
 
 {{study-materials-intro}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/221)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/221)
 
 <br>
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
@@ -228,6 +228,6 @@ Umgebungen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

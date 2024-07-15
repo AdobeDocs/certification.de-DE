@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Entwickler
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager Sites] Experten.
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe [!DNL Experience Manager Sites] Experte werden.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/125) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/125) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -97,7 +97,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Identifizieren Sie die Schritte zum Einrichten und Verwalten der Front-End- und Back-End-Abhängigkeitsverwaltung
 * Festlegen des richtigen Archetyps beim Erstellen von Projekten
 
-**Abschnitt 4: Instandhaltung der Umgebung (22%)**
+**Abschnitt 4: Umgebungswartung (22%)**
 
 * Legen Sie bei einem Szenario die Schritte fest, die zum Verwalten AEM Umgebungen erforderlich sind
 * Erläuterung der Einrichtungsschritte für die Versionsverwaltung
@@ -132,15 +132,15 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/125)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/125)
 
 +++
 
@@ -206,6 +206,6 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

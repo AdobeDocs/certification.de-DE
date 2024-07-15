@@ -1,6 +1,6 @@
 ---
 title: Professional-Zertifizierung für Projektmanager
-description: Erfahren Sie, wie Sie in Adobe ein zertifizierter Adobe Project Manager Professional werden. [!DNL Workfront].
+description: Erfahren Sie, wie Sie in Adobe [!DNL Workfront] ein zertifizierter Adobe Project Manager Professional werden.
 solution: Workfront
 role: Developer
 badge: label="Prüfung AD0-E903" type="neutral"
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Workfront] Projektmanager
+# Zertifizierungs-Journey für Adobe [!DNL Workfront] Projektmanager Professional
 
 {{intro}}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
 >
->* **Kurs:** Die [Adobe Workfront Project Manager - Professional Kurs](https://app.rockinfo.com/courses/230) enthält Erläuterungen zu Schlüsselkonzepten, praxisorientierten Demonstrationen und Wissenstests.
+>* **Kurs:** Der [Adobe Workfront Project Manager - Professional Kurs](https://app.rockinfo.com/courses/230) enthält Erläuterungen zu Schlüsselkonzepten, praxisorientierten Demonstrationen und Wissensprüfungen.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/229) bietet einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der Materialien, die Sie benötigen, um erfolgreich in Ihrer Prüfung sein zu können.
+>* **Prüfungsvorbereitungsanleitung:** Der [Prüfungsvorbereitungshandbuch](https://app.rockinfo.com/courses/229) bietet einen maßgeschneiderten Pfad durch Ihren Prüfungsvorbereitungsprozess, einschließlich der Materialien, die für eine erfolgreiche Prüfung benötigt werden.
 >
->_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
+>_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 Sie sollten über Folgendes verfügen:
 
 * Verständnis des Arbeitsprozesses von einem ersten Arbeitserfordernis bis hin zum Abschluss oder hatte Kontakt zum Projekt- oder Arbeitsmanagement.
-* Abgeschlossene selbstgeführte Schulung oder Bootcamp oder [!DNL Workfront] Benutzer 6-12 Monate lang verwenden, um die grundlegenden Funktionen zu verstehen.
+* Abgeschlossene selbstgeleitete Schulung oder Bootcamp oder seit 6-12 Monaten Benutzer von [!DNL Workfront], um die grundlegenden Funktionen zu verstehen
 * Grundlegendes zur Konfiguration, Verfolgung und Überwachung von Berichtsdaten
 
 <br>
@@ -79,14 +79,14 @@ Sie sollten über Folgendes verfügen:
 * Legen Sie für ein Szenario die entsprechenden Aufgabeneinstellungen fest, um die Ausführung einer Aufgabe in einem bestimmten Zeitrahmen zu planen.
 * Identifizieren von Methoden zum Suchen von Schlüsseldaten in einem Projekt
 * Identifizieren verschiedener Möglichkeiten zur Verfolgung des Projektrisikos
-* Die richtige Hierarchie von Objekten in [!DNL Workfront]
+* Identifizieren der richtigen Hierarchie von Objekten in [!DNL Workfront]
 * Identifizieren Sie das entsprechende Feld, um eine bestimmte zugewiesene Ressource anzuzeigen
 * Bestimmen Sie bei einer Person die Aufnahme- oder Planungsberichte/Dashboards, die für die Person während der Arbeitsinstallation oder Planungsphase des Projekts/Arbeitsprozesses hilfreich sind.
 
 **Abschnitt 2: Ausführen (50%)**
 
 * Identifizieren von Möglichkeiten zum Verständnis, zur Anwendung und zum Messen von Meilensteinen in einem Projekt
-* Erstellen [!DNL Workfront] Einzelanwendungsgenehmigungen und Zeitpunkt der Verwendung einer Genehmigung
+* Erstellen von [!DNL Workfront] Einzelanwendungsgenehmigungen und Zeitpunkt der Verwendung einer Genehmigung
 * Ermitteln, wie verschiedene Datumstypen vom System verwendet werden
 * Identifizieren Sie bei einem Szenario die Informationen, die die Datentypen einem Projektmanager übermitteln
 * Ermitteln Sie bei Verwendung eines Szenarios, wie sich unterschiedliche Aufgabenbeschränkungen auf die Projekt-Timeline auswirken.
@@ -94,17 +94,17 @@ Sie sollten über Folgendes verfügen:
 * Beschreiben Sie in einem Szenario, wie Sie ein Dokument hochladen und einen Testversand generieren
 * Identifizieren der verschiedenen Methoden zum Verwalten eines Projekts
 * Legen Sie bei einem Szenario die geplante Variante für eine bestimmte Stellenrolle innerhalb eines einzelnen Projekts fest.
-* Suchen Sie bei einem Szenario das spezifische Finanzelement in [!DNL Workfront]
+* Suchen Sie bei einem Szenario das spezifische Finanzelement in [!DNL Workfront].
 * Erläutern Sie anhand eines Gantt-Diagramms die Objektbeziehungen im Diagramm.
 * Unterschiede zwischen Bedingungen und Fortschrittsstatus vergleichen
-* Identifizieren, wie [!DNL Workfront] Teams und [!DNL Workfront] Gruppen können verwendet werden
+* Ermitteln, wie [!DNL Workfront] Teams und [!DNL Workfront] Gruppen verwendet werden können
 * Beschreiben Sie in einem Szenario, wie Sie den Interessengruppen die benötigten Informationen zur Verfügung stellen.
 * Legen Sie für ein Szenario fest, wie sich Datumstypen und -dauer auf die Projektbedingungen auswirken.
 * In einem Szenario müssen Sie die benutzerdefinierten Status ermitteln.
-* die verschiedenen Berichtstypen zu identifizieren, die in [!DNL Workfront]
+* Identifizieren der verschiedenen Berichtstypen, die in [!DNL Workfront] verfügbar sind
 * Beschreiben Sie in einem Szenario die Schritte zum Erstellen eines benutzerspezifischen Berichts
 
-**Abschnitt 3: Schließung (20%)**
+**Abschnitt 3: Schließen (20%)**
 
 * Legen Sie für einen bestimmten Objektstatus fest, welche Aktivitäten ausgeführt werden müssen oder welche Aktionen ausgelöst werden.
 * Legen Sie bei einem Szenario den Berichtstyp und das Berichterstellungselement fest, die zum Ändern einer Aufgabenliste oder eines Berichts verwendet werden sollen
@@ -137,27 +137,27 @@ Sie sollten über Folgendes verfügen:
 
 **Empfohlener Schulungskurs**
 
-[Grundlegende Teamschulung für Planer in der neuen [!DNL Workfront] Erlebnis](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
+[Kernteam-Training für Planer im neuen [!DNL Workfront] Erlebnis](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
 **Studienmaterial**
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Kurs machen**
+**Nehmen Sie einen Kurs vor**
 
 {{take-course}}
 
-[Nehmen Sie Adobe Workfront Project Manager - Professional Kurs.](https://app.rockinfo.com/courses/230)
+[Nehmen Sie den Adobe Workfront Project Manager - Professional Course](https://app.rockinfo.com/courses/230)
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/229)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/229)
 
 +++
 
@@ -212,6 +212,6 @@ Sie sollten über Folgendes verfügen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

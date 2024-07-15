@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Experten
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager] Experten.
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe [!DNL Experience Manager] Experte werden.
 solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/129) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/129) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
 ### Vorgesehene Zielgruppe {#intended-audience}
 
-* Entwickler, die Erfahrung mit Adobe haben [!DNL Experience Manager]
+* Entwickler mit Erfahrung mit Adobe [!DNL Experience Manager]
 * Entwickler, die an mindestens einer Cloud-Migration teilgenommen haben
 * Adobe [!DNL Experience Manager] Sites-Entwickler
-* Adobe [!DNL Experience Manager] Sites-Architekt
-* Adobe [!DNL Experience Manager] Asset-Entwickler
+* Adobe [!DNL Experience Manager] Sites Architect
+* Adobe [!DNL Experience Manager] Assets-Entwickler
 * Adobe [!DNL Experience Manager] Forms-Entwickler
-* Entwickler/DevOps/Leads/Architekten, die an mehreren AEM -Implementierungen teilgenommen haben und über mindestens 2-3 Jahre Erfahrung bei der Entwicklung von Webanwendungen mit Adobe verfügen [!DNL Experience Manager]
+* Entwickler/DevOps/Leads/Architekten, die an mehreren AEM -Implementierungen teilgenommen haben und über mindestens 2-3 Jahre Erfahrung bei der Entwicklung von Webanwendungen mit Adobe [!DNL Experience Manager] verfügen
 
 <br>
 
@@ -56,8 +56,8 @@ ht-degree: 0%
 
 Sie sollten über Folgendes verfügen:
 
-* Ein Verständnis der allgemeinen Änderungen an der Architektur und den Funktionen beim Wechsel von einem AEM-Dienst (Self-Managed, AMS oder einer Drittanbieter-Cloud) zu AEM as a Cloud Service.
-* 1-3 Jahre Erfahrung bei der Entwicklung von Webanwendungen mithilfe von Adobe [!DNL Experience Manager]
+* Ein Überblick über die allgemeinen Änderungen an der Architektur und den Funktionen beim Wechsel von einem AEM-Dienst (selbstverwaltete, AMS- oder Drittanbieter-Cloud) zu AEM as a Cloud Service.
+* 1-3 Jahre Erfahrung bei der Entwicklung von Webanwendungen mit Adobe [!DNL Experience Manager]
 * Handbücher für Erlebnisse mit AEM Forms, Assets und Sites
 * Die Fähigkeit, Kunden durch den Migrationsprozess zu führen, Beratung und Teilnahme an allen Phasen eines AEM Projekts
 
@@ -70,12 +70,12 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Best Practices Analyzer
 * AEM Modernisierung
 * Repository-Browser
-* Entwicklerkonsole
+* Developer Console
 * Benutzerzuordnungstool für IMS-Adobe
 * I/O-Befehl-Tool
 * New Relic
 * Lokales Cloud-SDK
-* Entwicklungs-, Staging-, Produkteditor-, Veröffentlichungs- und Vorschaudienst
+* Entwicklungs-, Staging-, Produkteditor-, Publish- und Vorschaudienst
 * Lokales Dispatcher-Setup mithilfe von Docker
 * Tailing von Cloud-Logs in einer lokalen Umgebung
 * Cloud-Konsolenschnittstellen
@@ -105,7 +105,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 **Abschnitt 3: Bereitstellung (16%)**
 
-* Cloud Manager-Pipelines konfigurieren und mit den Umgebungen verknüpfen
+* Konfigurieren von Cloud Manager-Pipelines und Zuordnen zu den Umgebungen
 * Bereitstellung von AEMaaCS-Umgebungen (Entwicklung, Staging, Produktion - Autor, Veröffentlichung, Vorschau)
 * Implementierungsprozess mithilfe von Adobe IO CLI verwalten
 
@@ -117,12 +117,12 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Ausführen von Migrationswerkzeugen (Inhaltstransfer, Modernisierung, Refaktorierung). Ergebnisse in Berichten und Feinabstimmung, insbesondere wichtige Ergebnisse, die nicht mit Tools verarbeitet werden
 * Planen des Post-Go-Live-Supports
 
-**Abschnitt 5: Umsetzung (16%)**
+**Abschnitt 5: Implementierung (16%)**
 
 * Zusammenführen mehrerer Projekte zu einem einzigen Projekt, das über die Adobe-Pipeline bereitgestellt werden soll
 * Repository-Skripte für Benutzer-/Gruppenberechtigungen verwalten
 * Einrichten lokaler SDKs
-* Aktualisieren von Konfigurationen basierend auf den auf AEM as a Cloud Service verfügbaren Ausführungsmodi
+* Aktualisieren von Konfigurationen basierend auf den in AEM as a Cloud Service verfügbaren Ausführungsmodi
 
 <br>
 
@@ -144,15 +144,15 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/129)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/129)
 
 +++
 
@@ -207,6 +207,6 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

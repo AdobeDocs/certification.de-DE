@@ -1,6 +1,6 @@
 ---
 title: ArchitekturMaster-Zertifizierung
-description: Erfahren Sie, wie Sie in Adobe ein zertifizierter Adobe Architect-Master werden. [!DNL Commerce].
+description: Erfahren Sie, wie Sie in Adobe [!DNL Commerce] ein zertifizierter Adobe Architect-Master werden.
 solution: Commerce
 product: Magento
 role: Data Architect
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Commerce] Architekturmeister
+# Zertifizierungs-Journey für Adobe [!DNL Commerce] Architekt Master
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/142) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/142) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -59,12 +59,12 @@ ht-degree: 0%
 
 ### Minimales Erlebnis {#minimum-experience}
 
-Sie sollten mindestens über eine Erfahrung von 3 bis 5 Jahren verfügen [!DNL Commerce] Entwicklungsprojekte zu entwickeln, zu integrieren, zu implementieren und Lösungen für Geschäftsprobleme zu erklären, indem sie [!DNL Adobe Commerce] zusammen mit den zugehörigen Diensten.
+Sie sollten über eine mindestens 3-5-jährige Erfahrung mit führenden [!DNL Commerce]-Entwicklungsprojekten verfügen und in der Lage sein, Lösungen für geschäftliche Probleme zu entwerfen, zu integrieren, zu implementieren und zu erklären, indem Sie [!DNL Adobe Commerce] zusammen mit zugehörigen Diensten verwenden.
 
 Darüber hinaus sollten Sie sich mit den folgenden Aktivitäten und Technologien auskennen:
 
 * Erweiterung der Kernfunktionen
-* Konfigurieren [!DNL Adobe Commerce] vollständig
+* [!DNL Adobe Commerce] vollständig konfigurieren
 * Erstellen Sie einen vollständigen Entwurf, in dem beschrieben wird, wie eine Erweiterung funktionieren sollte, Anforderungen des Unternehmens, um eine Übersicht darüber zu erhalten, wie sie funktionieren sollte, ohne in den Code eingebunden werden zu müssen.
 * Grundlegendes zu Geschäftsanforderungen/Funktionen
 * Leistungsauswirkungen von Lösungen und Erweiterungen
@@ -78,14 +78,14 @@ Darüber hinaus sollten Sie sich mit den folgenden Aktivitäten und Technologien
 * Fehlerbehebung und Fehlerbehebung bei verschiedenen Problemen in der Umgebung
 * Erweitern und Verwalten von Datenbankschemata
 * Sicherheitsfunktionen, sichere Installation und Entwicklererweiterung
-* Serverbasierte Dienste durchführen, die [!DNL Adobe Commerce] Verbindungen (Redis, Verwaltung der varnish-Konfiguration)
+* Führen Sie Server-basierte Dienste durch, die [!DNL Adobe Commerce] Verbindungen herstellt (Redis, Verwaltung der tierischen Konfiguration).
 * im Bewusstsein bewährter Kodierungsstandards, Kodierungsstandards, PSR, SOLID-Prinzipien
-* Einrichtung und Verwendung [!DNL Adobe Commerce] Services Connector (und zugehörige Dienste)
+* Einrichten und Verwenden von [!DNL Adobe Commerce] Services Connector (und zugehörigen Diensten)
 * Staging-Content-Management
-* Grundlagen [!DNL Adobe Commerce] Standardeinstellung, wenn sie verfügbar und nicht verfügbar ist
-* Umfassendes Wissen über alle damit zusammenhängenden Fragen [!DNL Adobe Commerce] domain
+* Grundlegendes zu den Standardwerten für [!DNL Adobe Commerce] , wenn sie verfügbar und nicht verfügbar sind
+* Umfassendes Verständnis aller zugehörigen [!DNL Adobe Commerce] -Domänen
 * Architektur von Designprojekten
-* Optimieren der Leistung von [!DNL Adobe Commerce] default
+* Optimieren der Leistung des Standardwerts [!DNL Adobe Commerce]
 * Erstellen und Ändern von B2B
 * AMQP-Protokoll und -Adapter in [!DNL Adobe Commerce] (S3)
 
@@ -97,24 +97,24 @@ Darüber hinaus sollten Sie sich mit den folgenden Aktivitäten und Technologien
 
 **Abschnitt 1: Design (46%)**
 
-* Optimale Lösungen für Adobe entwerfen und implementieren [!DNL Commerce] zur Erfüllung geschäftlicher Anforderungen
+* Entwickeln und implementieren Sie optimale Lösungen für Adobe [!DNL Commerce], um geschäftlichen Anforderungen gerecht zu werden
 * Logische und technische Abläufe erstellen
-* Anpassen [!DNL Commerce] Funktionen
-* Adobe integrieren [!DNL Commerce] mit externen Systemen und Diensten
+* Anpassen der Funktionen von [!DNL Commerce]
+* Integrieren von Adobe [!DNL Commerce] in externe Systeme und Dienste
 * Fehlerbehebung bei Designabläufen
 
 **Abschnitt 2: Überprüfung (32%)**
 
-* Bestehende Adobe überprüfen und umgestalten [!DNL Commerce] Anpassungen
-* Ausnutzen [!DNL Commerce] Test-Frameworks für den gesamten Workflow
+* Vorhandene Adobe [!DNL Commerce]-Anpassungen überprüfen und umgestalten
+* Verwenden Sie [!DNL Commerce]-Test-Frameworks für den gesamten Workflow
 * Optimieren der Leistung und Skalierbarkeit für Adobe [!DNL Commerce]
 * Fehlerbehebung zur Identifizierung der Hauptursache von Problemen mit Adobe [!DNL Commerce]
 * Codierungsstandards durchsetzen
 
 **Abschnitt 3: Konfigurieren und Bereitstellen (22 %)**
 
-* Adobe konfigurieren [!DNL Commerce] und stellen Sie sicher, dass das Projekt optimal eingerichtet ist
-* Alle Aspekte des Adobe konfigurieren [!DNL Commerce] Cloud
+* Adobe [!DNL Commerce] konfigurieren und sicherstellen, dass das Projekt optimal eingerichtet ist
+* Alle Aspekte von Adobe [!DNL Commerce] Cloud konfigurieren
 * Implementierungsprozess beobachten und verbessern
 * Fehlerbehebung bei Infrastruktur- und Konfigurationsproblemen
 
@@ -144,15 +144,15 @@ Darüber hinaus sollten Sie sich mit den folgenden Aktivitäten und Technologien
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/142)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/142)
 
 +++
 
@@ -207,6 +207,6 @@ Darüber hinaus sollten Sie sich mit den folgenden Aktivitäten und Technologien
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

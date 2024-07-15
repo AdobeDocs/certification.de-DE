@@ -1,14 +1,14 @@
 ---
-title: Übergeordnete technische Zertifizierungen
-description: Überblick über die Zertifizierungsoptionen für Übergeordnete Benutzer
+title: Technische Master-Zertifikate
+description: Überblick über die Zertifizierungsoptionen für Master-Benutzer
 source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 44%
+ht-degree: 21%
 
 ---
 
-# Übergeordnete technische Zertifizierungen
+# Technische Master-Zertifikate
 
 
 **Analytics**
@@ -41,6 +41,5 @@ ht-degree: 44%
 
 >[!MORELIKETHIS]
 >
->* [Technische Expertenzertifizierungen](expert.md)
+>* [Technische Zertifizierungen von Experten](expert.md)
 >* [Professionelle technische Zertifizierungen](professional.md)
-

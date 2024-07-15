@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Experience Manager Forms] Backend Developer Professional
+# Certification Journey für Adobe [!DNL Experience Manager Forms] Backend Developer Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
 >
->* **Kurs:** Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie die [Adobe Experience Manager Foundation-Kurs](https://app.rockinfo.com/courses/240) , um Erläuterungen zu Schlüsselkonzepten, Produkt-Durchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet Ihnen eine Wissensgrundlage, auf der Sie auf Ihrer Zertifizierungs-Journey aufbauen können.
+>* **Kurs:** Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie den [Adobe Experience Manager Foundation Kurs](https://app.rockinfo.com/courses/240), um Erklärungen zu Schlüsselkonzepten, Produktdurchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet Ihnen eine Wissensgrundlage, auf der Sie auf Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/123) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
+>* **Prüfungsvorbereitungsanleitung:** Das [Prüfungsvorbereitungshandbuch](https://app.rockinfo.com/courses/123) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für Ihre Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
 >
->_Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>_Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -87,12 +87,12 @@ Sie sollten mit den folgenden Technologien und Umgebungen vertraut sein:
 
 {{exam-objectives}}
 
-**Abschnitt 1: Erstellung und Verwaltung der Forms (26%)**
+**Abschnitt 1: Erstellung und Verwaltung von Forms (26 %)**
 
 * Identifizieren Sie in einem Szenario die Schritte, die zum Erstellen von AEM Forms erforderlich sind
 * Beschreiben des Forms-Datenmodells
 * Schritte zur Anpassung von AEM Forms identifizieren
-* Identifizieren Sie in einem Szenario die Schritte zur Verwendung von JavaScript ClientLib mithilfe der GuideBridge-API
+* Identifizieren Sie in einem Szenario die Schritte zur Verwendung der JavaScript ClientLib-API GuideBridge
 
 **Abschnitt 2: Prozesse und Workflows (34%)**
 
@@ -103,7 +103,7 @@ Sie sollten mit den folgenden Technologien und Umgebungen vertraut sein:
 * In einem Szenario können Sie eine PDF mithilfe von Forms oder Assembler-Diensten bearbeiten
 * Beschreiben der Möglichkeiten zur Implementierung von JDBC-Diensten
 
-**Abschnitt 3: Verwaltung und Fehlerbehebung (21 %)**
+**Abschnitt 3: Verwaltung und Fehlerbehebung (21%)**
 
 * In Protokolldateien generierte Probleme identifizieren
 * Identifizieren Sie in einem Szenario die Schritte zum Ausführen von Administrationsaktivitäten.
@@ -111,12 +111,12 @@ Sie sollten mit den folgenden Technologien und Umgebungen vertraut sein:
 * Beschreiben Sie die Schritte für AEM Dispatcher-Einrichtung für Forms
 * Beschreiben der Schritte zum Navigieren in verschiedenen Konsolen
 
-**Abschnitt 4: API-Endpunkte und Integrationen (10 %)**
+**Abschnitt 4: API-Endpunkte und Integrationen (10%)**
 
 * In einem Szenario beschreiben Sie den Ablauf, um AEM Formular in Adobe Experience Cloud zu integrieren.
 * Identifizieren der Schritte zum Generieren verschiedener Endpunktdienste
 
-**Abschnitt 5: Interaktive Kommunikation (9 %)**
+**Abschnitt 5: Interaktive Kommunikation (9%)**
 
 * In einem Szenario können Sie Prozesse für die interaktive Kommunikation demonstrieren und implementieren
 
@@ -140,19 +140,19 @@ Sie sollten mit den folgenden Technologien und Umgebungen vertraut sein:
 
 {{study-materials-intro}}
 
-**Kurs machen**
+**Nehmen Sie einen Kurs vor**
 
 {{take-course}}
 
-[Nehmen Sie den Adobe Experience Manager Foundation-Kurs vor](https://app.rockinfo.com/courses/240)
+[Nehmen Sie den Adobe Experience Manager-Gründungskurs](https://app.rockinfo.com/courses/240)
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/123)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/123)
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
@@ -209,8 +209,8 @@ Sie sollten mit den folgenden Technologien und Umgebungen vertraut sein:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
 
 

@@ -1,6 +1,6 @@
 ---
 title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre Adobe erneuern können [!DNL Marketo Engage] -Zertifizierung vor ihrem Ablauf.
+description: Erfahren Sie, wie Sie Ihre Adobe [!DNL Marketo Engage] Zertifizierung verlängern können, bevor sie abläuft.
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe erneuern [!DNL Marketo Engage] Zertifizierung
+# Adobe [!DNL Marketo Engage]-Zertifizierung erneuern
 
 Ihr Adobe-Zertifikat ist zwei Jahre gültig. Wenn Sie sich dieser zweijährigen Marke nähern, ist es an der Zeit, Ihre Zertifizierung zu erneuern, damit sie aktiv bleibt.
 
@@ -26,11 +26,11 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 >[!IMPORTANT]
 >
->**Melden Sie sich zuerst an:** Die folgenden Links funktionieren **only** nach **erfolgreiche Anmeldung** der [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Melden Sie sich zuerst an:** Die folgenden Links funktionieren **nur**, nachdem Sie sich **erfolgreich angemeldet haben**, und zwar im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Freigeben eines Links:** Wenn Sie den Link zu einer Erneuerungsprüfung oder -bewertung mit einem Kollegen teilen möchten, verknüpfen Sie bitte die Gesamtseite zur Prüfungsverlängerung, nicht die URL der Prüfung selbst, um Anmeldungsprobleme zu vermeiden.
+>**So geben Sie einen Link frei:** Wenn Sie den Link zu einer Erneuerungsprüfung oder -bewertung für einen Kollegen freigeben möchten, verknüpfen Sie bitte mit der Gesamt-Prüfungsverlängerungsseite, nicht mit der URL der Prüfung selbst, um Anmeldungsprobleme zu vermeiden.
 
 >[!BEGINTABS]
 
@@ -38,13 +38,13 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 
 ## Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
-* Adobe [!DNL Marketo Engage] Geschäftspraktiker/innen
+* Adobe [!DNL Marketo Engage] Business Practitioner Professional
 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
-* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
-* **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
-* **Schritt 3**: Führen Sie die Prüfung durch.
+* **Schritt 1**: Melden Sie sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} an und kehren Sie dann zu dieser Seite zurück.
+* **Schritt 2**: Prüfungsziele und -ressourcen überprüfen
+* **Schritt 3**: Führen Sie die Prüfung durch und bestehen Sie sie.
 
 ### Bereit
 
@@ -56,9 +56,9 @@ Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifi
 * Versand: On-Demand/nicht verarbeitet
 * Verfügbare Sprachen: Englisch
 * Kosten: KOSTENLOS
-* Prüfungs-ID: AD5-E836 - Adobe [!DNL Marketo Engage] Geschäftspraktiker, Professional Renewal-Prüfung
+* Prüfungs-ID: AD5-E836 - Adobe [!DNL Marketo Engage] Business Practitioner Professional Renewal-Prüfung
 
-**Anwendungsbereich und Ziele:**
+**Umfang und Ziele:**
 
 Abschnitt 1: Gebäude und Verwaltungsprogramme (39%)
 
@@ -77,7 +77,7 @@ Abschnitt 1: Gebäude und Verwaltungsprogramme (39%)
 * Grundlegendes zu Kundenpräferenzen (Abonnement, Kommunikation)
 * Best Practices zur Überprüfung vor dem Start anwenden
 
-Abschnitt 2: Erstellen von Assets (19%)
+Abschnitt 2: Aufbau von Assets (19 %)
 
 * Bearbeiten von Dateien in Design Studio (Hochladen/Ersetzen von Bildern und Dateien)
 * Erstellen/Ändern eines Formulars mit dem Formular-Editor
@@ -123,53 +123,53 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 **Abschnitt 1**
 
-* [Grundlegendes zu Interaktionsmaßnahmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
+* [Grundlegendes zu Interaktionsprogrammen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
 * [Einfache Bewertung](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring.html){target="_blank"}
 * [Kommunikationslinks aktivieren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html){target="_blank"}
 * [Grundlegendes zur Programmmitgliedschaft](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
-* [E-Mail-Betrieb](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html){target="_blank"}
+* [E-Mail betriebsbereit machen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html){target="_blank"}
 * [Best Practice für intelligente Listen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
-* [Grundlagen zu Ereignisprogrammen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
-* [Nutzung der Flexibilität von Standardprogrammen](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html?lang=de){target="_blank"}
+* [Grundlegendes zu Ereignisprogrammen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
+* [Nutzen Sie die Flexibilität der Standardprogramme](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html?lang=de){target="_blank"}
 * [E-Mail-Programme mit der Zeitzone der Empfänger planen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.html){target="_blank"}
 * [Klonen eines Programms](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html){target="_blank"}
-* [Grundlagen zu Tags](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html){target="_blank"}
+* [Grundlegendes zu Tags](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html){target="_blank"}
 * [Erstellen eines Programmkanals](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html){target="_blank"}
-* [Zeitkosten verstehen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.html){target="_blank"}
+* [Verstehen der Zeitkosten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.html){target="_blank"}
 
 **Abschnitt 2**
 
-* [Hinzufügen von Bildern und Dateien zu Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.html){target="_blank"}
-* [Dynamisches Umschalten der Sichtbarkeit eines Formularfelds](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.html){target="_blank"}
-* [Übersicht über Email Editor v2.0](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.html){target="_blank"}
+* [Bilder und Dateien zu Marketo hinzufügen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.html){target="_blank"}
+* [ Dynamisches Umschalten der Sichtbarkeit eines Formularfelds](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.html){target="_blank"}
+* [Überblick über den E-Mail-Editor v2.0](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.html){target="_blank"}
 * [Genehmigen, Aufheben der Genehmigung oder Löschen einer Landingpage](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
-* [Bearbeiten von Snippets mit dynamischen Inhalten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.html){target="_blank"}
+* [Snippets mit dynamischem Inhalt bearbeiten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.html){target="_blank"}
 
 **Abschnitt 3**
 
-* [Verwenden der erweiterten Smart-List-Regellogik](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.html){target="_blank"}
-* [Informationen zum Erstellen eines E-Mail-Programms für gesteuerte Inhalte](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/gated-content-offer-learn.html){target="_blank"}
-* [Standardprogramm erstellen und messen](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs.html){target="_blank"}
-* [Smart-Kampagnen für Batch und Trigger](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
-* [Eine Personenliste importieren](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people.html){target="_blank"}
-* [Verwenden eines bestimmten Datums in einem Warteflussschritt](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.html){target="_blank"}
-* [Überschreiben von Personenbeschränkungen in einer Smart-Kampagne](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.html){target="_blank"}
-* [Filtern von Ergebnissen intelligenter Kampagnen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.html){target="_blank"}
+* [Verwenden der Logik der erweiterten Smart-List-Regel](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.html){target="_blank"}
+* [Erfahren Sie mehr über das Erstellen eines E-Mail-Programms für verschachtelten Inhalt](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/gated-content-offer-learn.html){target="_blank"}
+* [Erstellen und Messen eines Standardprogramms](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs.html){target="_blank"}
+* [Smart-Kampagnen für Batch und Trigger verstehen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
+* [Importieren einer Personenliste](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people.html){target="_blank"}
+* [Verwenden eines bestimmten Datums in einem Schritt vom Typ &quot;Wartefluss&quot;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.html){target="_blank"}
+* [ Außerkraftsetzen von Personenbeschränkungen in einer Smart-Kampagne](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.html){target="_blank"}
+* [Ergebnisse intelligenter Kampagnen filtern](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.html){target="_blank"}
 * [Erstellen einer Segmentierung](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
 * [Datenbank-Dashboard](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html){target="_blank"}
 * [Grundlegendes zu Datenschutzeinstellungen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/understanding-privacy-settings.html){target="_blank"}
-* [Liste oder Smart-Liste aktualisieren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/refresh-a-list-or-smart-list.html){target="_blank"}
-* [Verwenden von integrierten/System-Smart-Listen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.html){target="_blank"}
+* [Aktualisieren einer Liste oder Smart-Liste](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/refresh-a-list-or-smart-list.html){target="_blank"}
+* [Verwenden integrierter/systemdefinierter Smart-Listen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.html){target="_blank"}
 
 **Abschnitt 4**
 
-* [Berichtstyp - Übersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
-* [Landingpage-Leistungsbericht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.html){target="_blank"}
+* [Berichtstyp - Überblick](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+* [Leistungsbericht der Einstiegsseite](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.html){target="_blank"}
 * [Benutzerdefinierte Dimensionen für E-Mail-Insights](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.html){target="_blank"}
 
 ### Zertifizierung verlängern
 
-Stellen Sie zunächst sicher, dass Sie sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Anschließend verlängern Sie Ihre Adobe [!DNL Marketo Engage] Business Practitioner Professional-Zertifizierung, klicken Sie auf den unten stehenden Link.
+Stellen Sie zunächst sicher, dass Sie sich erfolgreich beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} angemeldet haben. Klicken Sie dann auf den unten stehenden Link, um Ihr Adobe [!DNL Marketo Engage] Business Practitioner Professional-Zertifikat zu erneuern.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E836" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -180,7 +180,7 @@ Stellen Sie zunächst sicher, dass Sie sich erfolgreich bei angemeldet haben. [A
 
 >[!NOTE]
 >
->Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+>Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie **30 Tage** warten, bis Sie es erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
 
 >[!TAB Expert]
 
@@ -190,9 +190,9 @@ Stellen Sie zunächst sicher, dass Sie sich erfolgreich bei angemeldet haben. [A
 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
-* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
-* **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
-* **Schritt 3**: Führen Sie die Prüfung durch.
+* **Schritt 1**: Melden Sie sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} an und kehren Sie dann zu dieser Seite zurück.
+* **Schritt 2**: Prüfungsziele und -ressourcen überprüfen
+* **Schritt 3**: Führen Sie die Prüfung durch und bestehen Sie sie.
 
 ### Bereit
 
@@ -204,9 +204,9 @@ Stellen Sie zunächst sicher, dass Sie sich erfolgreich bei angemeldet haben. [A
 * Versand: On-Demand/nicht verarbeitet
 * Verfügbare Sprachen: Englisch
 * Kosten: KOSTENLOS
-* Prüfungs-ID: AD5-E824 - Adobe [!DNL Marketo Engage] Erneuerungsprüfung für Geschäftspraktiker
+* Test-ID: AD5-E824 - Adobe [!DNL Marketo Engage] Business Practitioner Expert Renewal-Prüfung
 
-**Anwendungsbereich und Ziele:**
+**Umfang und Ziele:**
 
 Abschnitt 1: Verwaltung und Wartung (12%)
 
@@ -268,48 +268,48 @@ Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung a
 
 Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
 
-**Abschnitt 1: Verwaltung und Instandhaltung**
+**Abschnitt 1: Verwaltung und Wartung**
 
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (Feldverwaltung, CRM-Synchronisierung, Audit-Protokoll, Benutzerverwaltung, Arbeitsbereiche und Partitionen, Smart-Listen, benutzerdefinierte Felder)
+* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (Feldverwaltung, CRM-Synchronisierung, Audit-Protokoll, Benutzerverwaltung, Arbeitsbereiche und Partitionen, intelligente Listen, benutzerdefinierte Felder)
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Synchronisation mit Salesforce, CRM-Integrationen)
 
 **Abschnitt 2: Marketingaktivitäten/Kampagnenverwaltung**
 
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Zufallsbeispiel, Smart-Kampagne mit Datenwertauslösung, Warteschritte, member.webinar url, Campaign Inspector, Filterlogik, Verwendung von Token in E-Mails, Lead-Erstellung über Formularausfüllung, Assets und Arbeitsbereiche, Forms verwalten)
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (Smart-Listen, Smart-Kampagnen, Forms für die Nachfragenerstellung, Ereignisse zur Nachfragenerstellung, E-Mail-Marketing, Erstellen von Programmen, Veranstaltungen, Audit-Protokoll, Arbeiten mit Programmen, Administrations-Tags, Drip-Nurturing, Landingpages, Token, zusätzliche Administrationsintegrationen, Webhook, benutzerdefinierte Felder für Programmmitglieder, Workspace und Personalisierungen)
+* [Adobe Marketo-Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Zufallsbeispiel, Smart-Kampagne mit Datenwertauslösung, Warteschritte, member.webinar url, Campaign Inspector, Filterlogik, Verwendung von Token in E-Mails, Lead-Erstellung über Formularausfüllen, Assets und Arbeitsbereiche, Forms verwalten)
+* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (Smart-Listen, Smart-Kampagnen, Forms zur Nachfragenerstellung, Nachfragenereignisse, E-Mail-Marketing, Erstellen von Programmen, Events, Audit-Protokoll, Arbeiten mit Programmen, Administrations-Tags, Drip-Nurturing, Landingpages, Token, zusätzliche Administrations-Integrationen, Webhook, benutzerdefinierte Programmfelder, Workspace- und Personen-Partitionen)
 
-**Abschnitt 3: Leitung**
+**Abschnitt 3: Lead-Management**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Video zum Erstellen eines Lead-Lebenszyklusprogramms, Abmeldung von E-Mail)
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (Smart-Kampagnen, Marketo Sales Insight, interessante Momente, Verwalten von Personen in intelligenten Listen, systemverwaltete Felder)
+* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (Smart-Kampagnen, Marketo Sales Insight, interessante Momente, Verwalten von Personen in intelligenten Listen, systemverwaltete Felder)
 
-**Abschnitt 4: Daten-Management**
+**Abschnitt 4: Datenverwaltung**
 
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Pflege eines Verzeichnisses von Leads Bounce-E-Mails, Artikel Verwalten der Marketo-Datenbank für die Zustellbarkeits-Support-Blog, Marketo Activities Data Retention Policy - unter dem Artikel &quot;Hood&quot;)
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (Hard- und Softbounces im E-Mail-Marketing, Berichtstypen, Personalisierung, dynamische Inhalte)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Pflege eines Verzeichnisses von Leads Bounce-E-Mails, Artikel Verwalten Ihrer Marketo-Datenbank für die Unterstützung der Zustellbarkeit, Marketo Activities-Datenaufbewahrungsrichtlinie - unter dem Artikel &quot;Hood&quot;)
+* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (E-Mail-Marketing-Hard- und Softbounces, Berichtstypen, Personalization, dynamische Inhalte)
 
-**Abschnitt 5: Berichterstattung**
+**Abschnitt 5: Berichterstellung**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Artikel Best Practices für die Akquise festlegen)
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (Berichterstellung, Leistungseinblicke, Bericht zur Programmleistung, Berichte bearbeiten, Programmmitgliedschaft)
+* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (Berichterstellung, Leistungseinblicke, Bericht zur Programmleistung, Berichterstellung, Programmmitgliedschaft)
 
 **Abschnitt 6: Best Practices**
 
-* [Der endgültige Leitfaden für die Lead-Scoring](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (Arbeiten mit Programmen, E-Mail-Marketing, A/B-Tests)
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Beachten Sie Ihren QS-Prozess)
+* [Der endgültige Leitfaden für die Lead-Bewertung](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
+* [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (Arbeiten mit Programmen, E-Mail-Marketing, A/B-Tests)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Beachten Sie Ihren QA-Prozess)
 
 ### Zertifizierung verlängern
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben ausgeführt und sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} zuerst. Klicken Sie dann zur Verlängerung der Zertifizierung auf die Adobe [!DNL Marketo Engage] Link zur Verlängerung der Geschäftspraxis für Experten unten.
+Vergewissern Sie sich, dass Sie Schritt 1 oben befolgt haben und sich zuerst erfolgreich beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} angemeldet haben. Klicken Sie dann zur Verlängerung Ihres Zertifikats auf den unten stehenden Link zur Verlängerung des Adobe [!DNL Marketo Engage] Business Practitioner Expert .
 
-[!BADGE Nehmen Sie die Adobe [!DNL Marketo Engage] Berufspraktikerexpertenprüfung AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
+[!BADGE Nehmen Sie die Adobe [!DNL Marketo Engage] Berufspraktiker-Verlängerungsprüfung AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
 
 >[!NOTE]
 >
->Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+>Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie **30 Tage** warten, bis Sie es erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
 
->[!TAB Vorlage]
+>[!TAB Master]
 
 Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
@@ -317,9 +317,9 @@ Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 
 ## Anweisungen zur Verlängerung Ihrer Zertifizierung:
 
-* **Schritt 1**: Anmeldung erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}und kehren dann zu dieser Seite zurück
-* **Schritt 2**: Überprüfen Sie die Prüfungsziele und -ressourcen.
-* **Schritt 3**: Führen Sie die Prüfung durch.
+* **Schritt 1**: Melden Sie sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} an und kehren Sie dann zu dieser Seite zurück.
+* **Schritt 2**: Prüfungsziele und -ressourcen überprüfen
+* **Schritt 3**: Führen Sie die Prüfung durch und bestehen Sie sie.
 
 ### Bereit
 
@@ -331,9 +331,9 @@ Sie sollten derzeit zertifiziert sein (nicht abgelaufen) in:
 * Versand: On-Demand/nicht verarbeitet
 * Verfügbare Sprachen: Englisch
 * Kosten: KOSTENLOS
-* Prüfungs-ID: AD5-E834 - Adobe [!DNL Marketo Engage] Architekturmeister
+* Prüfungs-ID: AD5-E834 - Adobe [!DNL Marketo Engage] Architect Master
 
-**Anwendungsbereich und Ziele:**
+**Umfang und Ziele:**
 
 Abschnitt 1: Projektleitung 16 %
 
@@ -384,32 +384,32 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 * [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
 * [Marketo-Produktdokumente](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"}
 * [Dokumentation - REST-API](https://developers.marketo.com/rest-api/){target="_blank"}
-* [Grundlagen zu Umsatzmodellen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
+* [Verstehen der Umsatzmodelle](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
-**Abschnitt 2: Adobe [!DNL Marketo Engage] Architekturdesign**
+**Abschnitt 2: Architekturdesign von Adobe [!DNL Marketo Engage]**
 
-* [Anweisungen zum Erstellen einer benutzerdefinierten Synchronisierungsregel](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
-* [Der endgültige Leitfaden für die Lead-Scoring](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
-* [Email Scripting](https://developers.marketo.com/email-scripting/){target="_blank"}
+* [Anweisungen zum Erstellen einer benutzerspezifischen Synchronisierungsregel](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
+* [Der endgültige Leitfaden für die Lead-Bewertung](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
+* [E-Mail-Skripterstellung](https://developers.marketo.com/email-scripting/){target="_blank"}
 * [Ersteinrichtung](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/initial-setup.html){target="_blank"}
 
-**Abschnitt 3: Berichterstattung und Attribution**
+**Abschnitt 3: Berichterstellung und Attribution**
 
-* [Berichtstyp - Übersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
-* [Grundlagen zur Attribution](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
+* [Berichtstyp - Überblick](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+* [Attribution verstehen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
 * [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [Die Zusammenfassung der vorausschauenden Inhalte](https://experienceleague.adobe.com/docs/marketo/using/product-docs/predictive-content/the-predictive-content-summary.html){target="_blank"}
+* [Die Zusammenfassung des prädiktiven Inhalts](https://experienceleague.adobe.com/docs/marketo/using/product-docs/predictive-content/the-predictive-content-summary.html){target="_blank"}
 
 **Abschnitt 4: Erweiterte Vorgänge**
 
 * [Marketo-Produktdokumente](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"}
 * [Unterdrücken von Softbounces](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
-* [Grundlagen zu Arbeitsbereichen und Personen-Partitionen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
+* [Grundlegendes zu Arbeitsbereichen und Personen-Partitionen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 * [Grundlegendes zu benutzerdefinierten Marketo-Objekten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html){target="_blank"}
 
 ### Zertifizierung verlängern
 
-Stellen Sie zunächst sicher, dass Sie sich erfolgreich bei angemeldet haben. [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Anschließend verlängern Sie Ihre Adobe [!DNL Marketo Engage] Architekten-Master-Zertifizierung, klicken Sie auf den Link unten.
+Stellen Sie zunächst sicher, dass Sie sich erfolgreich beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} angemeldet haben. Klicken Sie dann auf den unten stehenden Link, um Ihr Adobe [!DNL Marketo Engage] Architekten Master-Zertifikat zu erneuern.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E834" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -420,13 +420,13 @@ Stellen Sie zunächst sicher, dass Sie sich erfolgreich bei angemeldet haben. [A
 
 >[!NOTE]
 >
->Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie warten **30 Tage** erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+>Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie **30 Tage** warten, bis Sie es erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
 
 >[!ENDTABS]
 
 
 ### Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

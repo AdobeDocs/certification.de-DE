@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung für Entwickler
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Profi im Adobe werden. [!DNL Workfront Fusion].
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Profi in Adobe [!DNL Workfront Fusion] werden.
 solution: Workfront
 role: Developer
 badge: label="Prüfung AD0-E902" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Workfront Fusion] Entwickler Professional
+# Zertifizierungs-Journey für Adobe [!DNL Workfront Fusion] Developer Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/228) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/228) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -54,10 +54,10 @@ ht-degree: 0%
 
 Sie sollten über Folgendes verfügen:
 
-* Die Fähigkeit, [!DNL Workfront] API- und API-Explorer, aber nicht notwendigerweise mit API-Aufrufen
-* Die Möglichkeit, benutzerdefinierte API-Aufrufe für die Arbeit mit [!DNL Workfront] und andere APIs
-* Die Möglichkeit, Module für die [!DNL Workfront] App und andere Aktionen wie Erstellen, Lesen, Aktualisieren, Löschen und Suchen
-* Die Fähigkeit, lebensfähige Lösungen zu entwickeln, die Geschäftsergebnisse erzielen, ohne dass dies zu Problemen führt [!DNL Fusion] Limits
+* Die Möglichkeit, mit [!DNL Workfront] API- und API-Explorer zu arbeiten, aber nicht notwendigerweise in API-Aufrufen
+* Die Möglichkeit, benutzerdefinierte API-Aufrufe für die Arbeit mit [!DNL Workfront] und anderen APIs zu verwenden
+* Die Möglichkeit, Module für die [!DNL Workfront]-App und andere Aktionen wie Erstellen, Lesen, Aktualisieren, Löschen und Suchen zu verwenden
+* Die Fähigkeit, lebensfähige Lösungen zu entwickeln, die Geschäftsergebnisse erzielen, ohne die [!DNL Fusion]-Limits zu erreichen
 * Die Möglichkeit, ein geeignetes Trigger-Modul auszuwählen, um Geschäftsergebnisse zu erzielen
 * Grundlagen zur Verwendung der Flusssteuerung (Routen, Iteratoren/Aggregatoren, Fluss erklären)
 * Grundlegende Fehlerbehebung und Fehlerbehandlung
@@ -71,50 +71,50 @@ Sie sollten über Folgendes verfügen:
 
 {{exam-objectives}}
 
-**Abschnitt 1: Gründliche technische Konzepte (39%)**
+**Abschnitt 1: Grundlegende technische Konzepte (39%)**
 
-* Bei [!DNL Fusion] Szenario mit einem Feldformat, das in einem anderen Feldformat vorliegen muss, stellen Sie die möglichen Funktionen bereit, die zur korrekten Transformation der Daten verwendet werden können
-* Bei [!DNL Fusion] Szenario, für das eine Funktion in einer anderen Funktion verschachtelt werden muss, wählen Sie den ordnungsgemäß formatierten Ausdruck aus
-* Identifizieren von Möglichkeiten zur Verwendung von Teams zur Steuerung des Zugriffs auf Verbindungen und andere [!DNL Fusion] Funktionen
-* Bei [!DNL Fusion] Szenario, System- und Funktionsbeschränkungen identifizieren
-* Bei [!DNL Fusion] Szenario, für das eine Zeitzonenbearbeitung erforderlich ist, unterscheiden Sie zwischen dem Benutzer, der sichtbaren Organisation und wo das Überschreiben der Zeitzone erforderlich ist
-* Bei [!DNL Fusion] Szenario, wählen Sie die entsprechende [!DNL Workfront] Modul(e) oder Aktion(en)
-* Bei [!DNL Fusion] Wählen Sie den Zuordnungs-Bereichsausdruck und/oder das/die Modul(e) aus, das/die Eingabedaten entsprechend in Ausgabedaten umwandeln würde
-* Identifizieren Sie die richtige(n) Methode(n) zur Verwendung der [!DNL Fusion] Entwicklungstool zur Fehlerbehebung bei der Ausführung oder zur Bestimmung von Aufrufen und Antworten an Drittanbietersysteme
-* Bei [!DNL Fusion] Szenario, in dem Daten in einem Pfad in einem anderen Pfad benötigt werden, stellen Sie eine set-get-Lösung bereit, um diese Daten in zusätzlichen Routing-Pfaden verfügbar zu machen.
-* Identifizieren Sie die Methoden zur Verwendung oder Erstellung einer [!DNL Fusion] Vorlage für geschäftliche Anforderungen
-* Bei [!DNL Fusion] Szenario, um zu bestimmen, was zu tun ist, um Ausführungen anzuzeigen und/oder Fehler zu beheben
-* Identifizieren Sie die verschiedenen Optionen im [!DNL Fusion] Szenario-Einstellungen zur Erfüllung von Szenario-Anforderungen
-* Bei [!DNL Fusion] Szenario, wählen Sie die entsprechende Flusssteuerung aus und/oder bestimmen Sie die richtige Kombination aus Flusssteuerungsmodulen.
+* Bei einem [!DNL Fusion] -Szenario mit einem Feldformat, das in einem anderen Feldformat vorliegen muss, stellen Sie die möglichen Funktionen bereit, mit denen die Daten korrekt umgewandelt werden können
+* Wählen Sie bei einem [!DNL Fusion] -Szenario, für das eine Funktion innerhalb einer anderen Funktion verschachtelt werden muss, den ordnungsgemäß formatierten Ausdruck aus
+* Identifizieren von Möglichkeiten zur Verwendung von Teams zur Steuerung des Zugriffs auf Verbindungen und andere [!DNL Fusion]-Funktionen
+* Identifizieren Sie bei einem [!DNL Fusion] -Szenario System- und Funktionsbeschränkungen.
+* Bei einem [!DNL Fusion] -Szenario, das eine Manipulation der Zeitzone erfordert, müssen Sie zwischen dem Benutzer, der sichtbaren Organisation und dem Ort unterscheiden, an dem das Überschreiben der Zeitzone erforderlich ist
+* Wählen Sie bei einem [!DNL Fusion] -Szenario das/die entsprechende(n) [!DNL Workfront]-Modul(e) oder die entsprechende(n) Aktion(n) aus.
+* Wählen Sie bei einem [!DNL Fusion] -Szenario den Ausdruck des Zuordnungs-Bedienfelds und/oder das/die Modul(e) aus, das/die Eingabedaten entsprechend in Ausgabedaten umwandeln würde
+* Identifizieren Sie die richtige(n) Methode(n) zur Verwendung des [!DNL Fusion] Dev Tool zur Fehlerbehebung bei der Ausführung oder zur Bestimmung von Aufrufen und Antworten an Drittanbietersysteme.
+* Bei einem [!DNL Fusion] -Szenario, bei dem Daten in einem Pfad in einem anderen Pfad benötigt werden, stellen Sie eine set-get-Lösung bereit, um diese Daten in zusätzlichen Routing-Pfaden verfügbar zu machen.
+* Identifizieren Sie die Möglichkeiten, eine [!DNL Fusion]-Vorlage für geschäftliche Anforderungen zu verwenden oder zu erstellen.
+* Geben Sie bei einem [!DNL Fusion]-Szenario an, was zu tun ist, um Ausführungen anzuzeigen und/oder Fehler zu beheben
+* Identifizieren Sie die verschiedenen Optionen in den Einstellungen des [!DNL Fusion]-Szenarios, um die Anforderungen des Szenarios zu erfüllen.
+* Bei einem [!DNL Fusion] -Szenario wählen Sie die entsprechende Flusssteuerung aus und/oder bestimmen Sie die richtige Kombination aus Flusssteuerungs-Modulen.
 
-**Abschnitt 2: Szenario-Design und -Architektur (35 %)**
+**Abschnitt 2: Szenario-Design und -Architektur (35%)**
 
 * Wählen Sie für eine Liste von Schritten die richtige Sequenz aus, um JSON zu analysieren und in Bundles zu konvertieren
 * Identifizieren Sie bei einer Reihe von Anforderungen die richtige Datensuchmethode
 * Unterschiede zwischen sofortigen und geplanten Triggern identifizieren
-* Identifizieren Sie ein korrektes Modul zum Hochladen eines Dokuments in [!DNL Workfront]
-* Geben Sie bei einer geschäftlichen Anforderung den richtigen Ansatz an, um zu verfolgen, ob [!DNL Fusion] einen Datensatz verarbeitet haben (kein Benutzer) und wann
-* Bei [!DNL Fusion] Szenario, eine Gelegenheit zu identifizieren, das Design zu vereinfachen und/oder für die Wartung zu optimieren
-* Identifizieren [!DNL Fusion] Best Practices für die Dokumentation von Szenarien
+* Identifizieren Sie ein korrektes Modul für das Hochladen eines Dokuments in [!DNL Workfront].
+* Geben Sie bei einer Geschäftsanforderung den richtigen Ansatz an, um zu verfolgen, ob [!DNL Fusion] einen Datensatz (keinen Benutzer) verarbeitet hat und wann
+* Identifizieren Sie bei einem [!DNL Fusion] -Szenario eine Gelegenheit, das Design zu vereinfachen und/oder für die Wartung zu optimieren.
+* Identifizieren von [!DNL Fusion] Best Practices für die Dokumentation von Szenarien
 * Ermitteln Sie in einer Situation die Möglichkeit, den Datenfluss durch ein Szenario zu reduzieren.
 * Erläutern Sie anhand eines Beispiels der Anzahl der Bundles, die auf einem Suchmodul und einem nachfolgenden Aggregator angezeigt werden, die Änderungen in der Anzahl der vom Bundle-Inspektor verarbeiteten und angezeigten Vorgänge.
 * Identifizieren von Informationen, die im Bundle-Inspektor gefunden werden
 * Geben Sie eine Beschreibung der Notwendigkeit ein, ein Szenario länger als 60 Tage zu archivieren, und wählen Sie die einzige Möglichkeit aus (Import/Export-Blueprint).
 * Beispiel eines Fehlers 403: Verboten: Wählen Sie den Ursprung der Fehlermeldung korrekt aus und verursachen
 
-**Abschnitt 3: Tests und Umgang mit Fehlern (16 %)**
+**Abschnitt 3: Tests und Umgang mit Fehlern (16%)**
 
 * Identifizieren der Elemente eines Testplans
 * Identifizieren der Elemente eines Testfalls
-* Bei [!DNL Fusion] Szenario, um die entsprechende Anweisung zur Handhabung eines unzuverlässigen Dienstes richtig zu identifizieren,
-* Identifizieren Sie den Prozess, um die benutzerdefinierte Fehlerbehandlung in einem [!DNL Fusion] scenario
+* Bei einem [!DNL Fusion] -Szenario müssen Sie die entsprechende Anweisung richtig identifizieren, um einen unzuverlässigen Dienst zu handhaben
+* Identifizieren Sie den Prozess zum Hinzufügen einer benutzerdefinierten Fehlerbehandlung in einem [!DNL Fusion]-Szenario.
 * Ermitteln, wie unvollständige Ausführungen verfolgt, gelesen und aufgelöst werden können
-* Bei [!DNL Fusion] Szenario mit fehlenden erforderlichen Daten auswählen, wie die ungültigen Daten verarbeitet werden können
+* Bei einem [!DNL Fusion] -Szenario mit fehlenden erforderlichen Daten wählen Sie Wege, die ungültigen Daten zu verarbeiten
 
 **Abschnitt 4: Arbeiten mit APIs (10%)**
 
 * Identifizieren Sie bei einer Drittanbieter-API, die 429: Zu viele Anforderungen zurückgibt, eine Lösung, um den Fehler zu verhindern oder zu verarbeiten.
-* Bei [!DNL Fusion] Szenario, in dem keine neuen Funktionen im [!DNL Workfront] -Modul angeben, geben Sie die richtige Referenz und den richtigen Modultyp an, um die neue Funktion zu verwenden.
+* Geben Sie bei einem [!DNL Fusion]-Szenario, bei dem keine neuen Funktionen im [!DNL Workfront]-Modul verfügbar sind, den richtigen Verweis- und Modultyp für die Verwendung der neuen Funktion an.
 * Identifizieren Sie bei einem Drittanbietersystem ohne dedizierte App die HTTP-App und wählen Sie das entsprechende Modul aus.
 * Identifizieren Sie den Unterschied zwischen CRUD-Vorgängen und anderen allgemeinen Funktionen von REST-APIs.
 
@@ -138,15 +138,15 @@ Sie sollten über Folgendes verfügen:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/228)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/228)
 
 +++
 
@@ -201,6 +201,6 @@ Sie sollten über Folgendes verfügen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

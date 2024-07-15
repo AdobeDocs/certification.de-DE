@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner-Experte in [!DNL Marketo Engage].
+description: Erfahren Sie, wie Sie in [!DNL Marketo Engage] ein zertifizierter Adobe Business Practitioner-Experte werden.
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Marketo Engage] Geschäftspraktiker-Experte
+# Zertifizierungs-Journey für Adobe [!DNL Marketo Engage] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/144) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/144) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Minimales Erlebnis {#minimum-experience}
 
-* Etwa 18 Monate Erfahrung mit Adobe [!DNL Marketo Engage] Funktionen, die zur Erstellung von Marketing-Kampagnen und zur Verwendung von Kundenverhaltensdaten erforderlich sind
+* Ungefähr 18 Monate Erfahrung mit Funktionen und Funktionen von Adobe [!DNL Marketo Engage], die zur Erstellung von Marketingkampagnen und zur Nutzung von Kundenverhaltensdaten erforderlich sind
 
 Sie sollten Marketing-Experte mit Erfahrung in folgenden Bereichen sein:
 
@@ -110,7 +110,7 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 * Fehlerbehebung bei Kommunikationsbeschränkungen
 * Verwenden von Webinar-Anbieterinformationen in einem Veranstaltungsprogramm
 
-**Abschnitt 3: Leitung (12%)**
+**Abschnitt 3: Lead-Management (12%)**
 
 * Erläuterung der wichtigsten Entscheidungspunkte bei der Definition des Lebenszyklusmodells
 * Best Practices für die Lead-Bewertung anwenden
@@ -125,7 +125,7 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 * Identifizieren einiger wichtiger Marketo-Richtlinien zur Datenaufbewahrung im Zusammenhang mit Smart-Listen
 * Zusammenfassen der Funktionsweise der Segmentierung
 
-**Abschnitt 5: Berichterstattung (4%)**
+**Abschnitt 5: Berichterstellung (4%)**
 
 * Legen Sie anhand des Ergebnisses einer Kampagne fest, wie ein Programm zur Bereitstellung der besten Berichterstellung eingerichtet werden soll.
 * In einem Szenario können Sie das entsprechende Akquiseprogramm untersuchen und zuweisen
@@ -166,15 +166,15 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/144)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/144)
 
 +++
 
@@ -240,7 +240,7 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
 

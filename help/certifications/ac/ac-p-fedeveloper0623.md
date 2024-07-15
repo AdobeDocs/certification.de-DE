@@ -1,6 +1,6 @@
 ---
 title: Neue Zertifizierung für Frontend-Entwickler Professional
-description: Erfahren Sie, wie Sie zu einem zertifizierten Adobe Developer-Profi für Adobe werden. [!DNL Commerce].
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Profi für Adobe [!DNL Commerce] werden.
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Commerce] Frontend-Entwickler Professional
+# Zertifizierungs-Journey für Adobe [!DNL Commerce] Frontend-Entwickler-Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
 >
->* **Kurs**: Wenn Sie gerade erst anfangen oder einen Auffrischungskurs benötigen, nehmen Sie die [Adobe Commerce Foundation-Kurs](https://app.rockinfo.com/courses/148) , um Erläuterungen zu Schlüsselkonzepten, Produkt-Durchläufen und Wissensüberprüfungen zu erhalten. Dies bietet eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
+>* **Kurs**: Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, besuchen Sie den [Adobe Commerce Foundation Kurs](https://app.rockinfo.com/courses/148), um Erklärungen zu Schlüsselkonzepten, Produktdurchläufen und Wissensüberprüfungen zu erhalten. Dies bietet eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/138) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
+>* **Prüfungsvorbereitungsanleitung:** Das [Prüfungsvorbereitungshandbuch](https://app.rockinfo.com/courses/138) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für Ihre Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
 >
->_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
+>_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -63,7 +63,7 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 
 * Umfassendes Verständnis von Adobe Commerce Version 2.4.6
 * Grundlegendes zur Frontend-Struktur und zum Layout
-* Erlebnis und Verständnis von HTML, CSS (und Präprozessoren), LESS, JavaScript- und UI-Komponenten, jQuery, Underscore, Require.JS, Knockout, auch PHP-Vorlagen, DB-Kenntnissen und Content Management
+* Erfahrung und Verständnis von HTML, CSS (und Präprozessoren), LESS, JavaScript- und UI-Komponenten, jQuery, Underscore, Require.JS, Knockout, auch PHP-Vorlagen, DB-Kenntnissen und Content Management
 * Kenntnis der Plattform, der CMS-Blöcke, Widgets, CMS-Seiten, Kategorieseiten, Produktseiten, Warenkorb und Checkout sowie des Bereichs Konto-Dashboard
 * Grundlegendes zu Admin-Konfigurationen oder -Kenntnisse
 * Kenntnisse über das Erweitern und Überschreiben von Stilen, Layouts und JS-Dateien
@@ -86,9 +86,9 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 
 {{exam-objectives}}
 
-**Abschnitt 1: Designverwaltung (Themenhierarchie, Bildkonfiguration, Übersetzungen) (14 %)**
+**Abschnitt 1: Designverwaltung (Themenhierarchie, Bildkonfiguration, Übersetzungen) (14%)**
 
-* Adobe beschreiben [!DNL Commerce] Designordnerstruktur
+* Beschreiben der Ordnerstruktur des Designs Adobe [!DNL Commerce]
 * Möglichkeiten zur Erstellung neuer oder Erweiterung vorhandener Designs demonstrieren
 * Verwendung benutzerdefinierter Übersetzungssätze demonstrieren
 
@@ -100,11 +100,11 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 * Erstellen und Anpassen von Vorlagen demonstrieren
 * Beschreiben Sie die Vorlagensicherheit (Escaping-Ausgabe).
 
-**Abschnitt 3: Stile (22 %)**
+**Abschnitt 3: Stile (22%)**
 
 * Beschreiben Sie den Zweck von styles-m.less, styles-l.less, print.less
 * Beschreiben Sie den Unterschied zwischen bestimmten partiellen Dateien (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less).
-* Zeigen Sie bei einem Szenario die Möglichkeit, [!DNL Magento] WENIGER
+* Zeigen Sie bei einem Szenario die Möglichkeit, [!DNL Magento] LESS zu überschreiben oder zu erweitern.
 * Grundlegende Konzepte von LESS beschreiben
 * Hierarchie der Stile erklären (lib, module, themes)
 * Client- und Server-seitige Kompilierung erläutern
@@ -118,14 +118,14 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 * Beschreiben der Verwendung von Knockout JS
 * Verwendung von jQuery-Widgets beschreiben
 
-**Abschnitt 5: Admin-Konfiguration und Seitenaufbau (6 %)**
+**Abschnitt 5: Admin-Konfiguration und Seitenaufbau (6%)**
 
 * Veranschaulichen der Möglichkeit, den Seitenaufbau und den CMS-Inhalt anzupassen&quot;
 * Anwenden/Planen eines Designs auf einen bestimmten Bereich (Website, Store, Store-Ansicht)
 * Anwenden von Designänderungen auf Kategorien, Produkte und CMS-Seiten mithilfe der Admin-Konfiguration
 * Beschreibung der Schritte zum Anpassen von Transaktions-E-Mails
 
-**Abschnitt 6: Tools (CLI und Grunt) (8 %)**
+**Abschnitt 6: Werkzeuge (CLI und Grunt) (8%)**
 
 * Beschreiben Sie die Verwendung von einfachen bin/Magento-Befehlen
 * Beschreiben Sie die Verwendung von Composer-Befehlen (installieren, aktualisieren, benötigen, entfernen)
@@ -152,11 +152,11 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Kurs machen**
+**Nehmen Sie einen Kurs vor**
 
 {{take-course}}
 
@@ -167,11 +167,11 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 </span>
 </a>
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/138)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/138)
 
 +++
 
@@ -226,6 +226,6 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

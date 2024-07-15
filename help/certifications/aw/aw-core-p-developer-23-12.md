@@ -1,6 +1,6 @@
 ---
 title: Core Developer Professional-Zertifizierung
-description: Erfahren Sie, wie Sie in Adobe ein zertifizierter Adobe Developer Professional werden. [!DNL Workfront].
+description: Erfahren Sie, wie Sie in Adobe [!DNL Workfront] zertifizierter Adobe Developer Professional werden.
 solution: Workfront
 role: Developer
 badge: label="Prüfung AD0-E908" type="neutral"
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
 >
->* **Neuer Kurs verfügbar:** Die [Adobe Workfront Core Developer - Professional Kurs](https://app.rockinfo.com/courses/231) enthält Erläuterungen zu Schlüsselkonzepten, praxisorientierten Demonstrationen und Wissenstests.
+>* **Neuer verfügbarer Kurs:** Der [Adobe Workfront Core Developer - Professional Kurs](https://app.rockinfo.com/courses/231) enthält Erläuterungen zu Schlüsselkonzepten, praxisorientierten Demonstrationen und Wissensprüfungen.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/238) bietet einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der Materialien, die Sie benötigen, um erfolgreich in Ihrer Prüfung sein zu können.
+>* **Prüfungsvorbereitungsanleitung:** Der [Prüfungsvorbereitungshandbuch](https://app.rockinfo.com/courses/238) bietet einen maßgeschneiderten Pfad durch Ihren Prüfungsvorbereitungsprozess, einschließlich der Materialien, die für eine erfolgreiche Prüfung benötigt werden.
 >
->_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
+>_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -61,16 +61,16 @@ ht-degree: 0%
 
 ### Minimales Erlebnis {#minimum-experience}
 
-Diese Prüfung erfordert zwar keine Programmierkenntnisse, erfordert jedoch mindestens 3 bis 6 Monate praktische Erfahrung mit Adobe. [!DNL Workfront]
+Diese Prüfung erfordert zwar keine Kenntnisse über Programmierung/Programmierung, sie erfordert jedoch mindestens 3 bis 6 Monate praktische Erfahrung mit Adobe [!DNL Workfront]
 
 Qualifizierte Bewerber sollten auch über Folgendes verfügen:
 
-* Erlebnis mit Adobe [!DNL Workfront] Funktionalität und Konnektivität durch Aufnahme, Genehmigung, Planung, Ausführung und Reporting
-* Detaillierte Kenntnisse des Adobe [!DNL Workfront] Objekttypen, einschließlich benutzerdefinierter Formulare und Genehmigungs-Workflows, Vorlagen, Zeiträume, Arbeitsaufwand/geplante Stunden
-* Detaillierte Kenntnisse des Adobe [!DNL Workfront] Einrichtung, einschließlich Zugriffsebenen, Layoutvorlagen, Projektvoreinstellungen und anderer Methoden, um das Design für Endbenutzer zu vereinfachen
+* Erlebnis mit Adobe [!DNL Workfront]-Funktionalität und Konnektivität durch Aufnahme, Genehmigung, Planung, Ausführung und Reporting
+* Detaillierte Kenntnisse zu Adobe [!DNL Workfront]-Objekttypen, einschließlich benutzerdefinierter Formulare und Genehmigungs-Workflows, Vorlagen, Zeitspannen, Arbeitsaufwand/geplante Arbeitszeiten
+* Detaillierte Kenntnisse der Adobe [!DNL Workfront]-Einrichtung, einschließlich Zugriffsebenen, Layoutvorlagen, Projektvoreinstellungen und anderer Methoden, um das Design für Endbenutzer zu vereinfachen
 * Grundlagen und Erfahrung mit der Prozesszuordnung
-* Verstehen verschiedener Adobe [!DNL Workfront] Personas und Unterstützung
-* Kompatibilität mit nativen Connectoren und anderen Adobe [!DNL Workfront] Produkte und Dienstleistungen
+* Grundlegendes zu verschiedenen Adobe [!DNL Workfront]-Rollen und zur Unterstützung
+* Kenntnis der nativen Connectoren und anderer Adobe [!DNL Workfront]-Produkte und -Dienste
 * Vertrautheit mit dem Projektmanagement, einschließlich agiler und Wasserfall- und Ressourcenmanagementkonzepten
 
 <br>
@@ -86,12 +86,12 @@ Qualifizierte Bewerber sollten auch über Folgendes verfügen:
 * Verwenden benutzerdefinierter Forms
 * Grundlegende Genehmigungen verwenden
 
-**Abschnitt 2: Haushalt und Planung (11%)**
+**Abschnitt 2: Budget und Planung (11%)**
 
 * Verwenden des Ressourcen-Planers
 * Wenden Sie bei einem Szenario/einer Reihe von Anforderungen die Konfigurationen an, um eine Projektvorlage einzurichten.
 
-**Abschnitt 3: Anwendererlebnis (25 %)**
+**Abschnitt 3: Anwendererlebnis (25%)**
 
 * Best Practices für die Benutzerverwaltung bei der Erstellung des richtigen Benutzererlebnisses
 * Wenden Sie bei einem Szenario das richtige Setup für Freigabe- und Zugriffsberechtigungen im gesamten System an
@@ -110,9 +110,9 @@ Qualifizierte Bewerber sollten auch über Folgendes verfügen:
 * Demonstration der Einrichtung von Genehmigungs- und Testversandarbeitsabläufen
 * Erkennen des Zwecks der Erstellung eines Problems für ein Projekt
 * Demonstrieren der Anpassung des Projektstatus auf Gruppenebene
-* Identifizieren Sie die Attribute, die zur Aktivierung von Agile in [!DNL Workfront]
-* Identifizieren Sie die Möglichkeiten zur Zeiteingabe in [!DNL Workfront]
-* Identifizieren Sie die Elemente der finanziellen Verfolgung in [!DNL Workfront]
+* Identifizieren Sie die Attribute, die zum Aktivieren von Agile in [!DNL Workfront] erforderlich sind.
+* Identifizieren Sie die Möglichkeiten, Zeit in [!DNL Workfront] einzugeben.
+* Identifizieren der Elemente der finanziellen Verfolgung in [!DNL Workfront]
 
 <br>
 
@@ -134,21 +134,21 @@ Qualifizierte Bewerber sollten auch über Folgendes verfügen:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Kurs machen**
+**Nehmen Sie einen Kurs vor**
 
 {{take-course}}
 
 [Nehmen Sie den Adobe Workfront Core Developer - Professional Kurs](https://app.rockinfo.com/courses/231)
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/238)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/238)
 
 +++
 
@@ -203,6 +203,6 @@ Qualifizierte Bewerber sollten auch über Folgendes verfügen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

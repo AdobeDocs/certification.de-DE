@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Experience Manager Sites] Architekturmeister
+# Zertifizierungs-Journey für Adobe [!DNL Experience Manager Sites] Architekt Master
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/130) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/130) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -55,8 +55,8 @@ ht-degree: 0%
 Sie sollten über Folgendes verfügen:
 
 * Mindestens 3 Jahre Erfahrung als Architekt beim Erstellen von AEM Sites
-* Die Möglichkeit, in Adobe Managed Services und Adobe zu arbeiten [!DNL Experience Manager as a Cloud Service]
-* Die Möglichkeit, Adobe einzurichten [!DNL Experience Manager] Umgebungen und Infrastruktur
+* Die Fähigkeit, in Adobe Managed Services und Adobe zu arbeiten [!DNL Experience Manager as a Cloud Service]
+* Die Möglichkeit, Adobe [!DNL Experience Manager]-Umgebungen und -Infrastruktur einzurichten
 
 Darüber hinaus sollten Sie die folgenden Aufgaben ausführen können:
 
@@ -87,7 +87,7 @@ Darüber hinaus sollten Sie die folgenden Aufgaben ausführen können:
 
 {{exam-objectives}}
 
-**Abschnitt 1: Entdeckung (18%)**
+**Abschnitt 1: Erkennung (18%)**
 
 * Übersetzen Sie allgemeine Geschäftsziele in funktionale Anforderungen.
 * Wenn ein Szenario vorliegt, bewerten Sie den aktuellen Status einer Architektur
@@ -102,7 +102,7 @@ Darüber hinaus sollten Sie die folgenden Aufgaben ausführen können:
 * Anwenden von Verfahrenskonzepten für die Entwicklung skalierbarer und widerstandsfähiger Architektur
 * In einem Szenario empfehlen Sie Migrationsstrategien
 
-**Abschnitt 3: Umsetzung (22%)**
+**Abschnitt 3: Implementierung (22%)**
 
 * Identifizieren und beheben Sie bei einem Szenario Designprobleme, die während der Implementierungsphase aufgedeckt wurden.
 * In einem Szenario empfehlen Sie Implementierungskonzepte basierend auf Anforderungen.
@@ -143,11 +143,11 @@ Darüber hinaus sollten Sie die folgenden Aufgaben ausführen können:
 
 {{study-materials-intro}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/130)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/130)
 
 +++
 
@@ -213,6 +213,6 @@ Darüber hinaus sollten Sie die folgenden Aufgaben ausführen können:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

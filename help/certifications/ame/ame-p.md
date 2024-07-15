@@ -1,6 +1,6 @@
 ---
 title: Berufliche Zertifizierung
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Marketo Engage] Professional.
+description: Erfahren Sie, wie Sie eine zertifizierte Adobe [!DNL Marketo Engage] Professional werden.
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
 >
->* **Kurs**: Wenn Sie gerade erst anfangen oder einen Auffrischungskurs benötigen, nehmen Sie die [Adobe Marketo Engage Foundation-Kurs](https://app.rockinfo.com/courses/261) , um Erläuterungen zu Schlüsselkonzepten, Produkt-Durchläufen und Wissensüberprüfungen zu erhalten. Dies bietet eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
+>* **Kurs**: Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, besuchen Sie den [Adobe Marketo Engage Foundation Kurs](https://app.rockinfo.com/courses/261), um Erklärungen zu Schlüsselkonzepten, Produktdurchläufen und Wissensüberprüfungen zu erhalten. Dies bietet eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/247) bietet Ihnen einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der ausführlichen Studienmaterialien, die Sie für eine erfolgreiche Prüfung benötigen.
+>* **Prüfungsvorbereitungsanleitung:** Der [Prüfungsvorbereitungshandbuch](https://app.rockinfo.com/courses/247) bietet einen maßgeschneiderten Pfad durch Ihren Prüfungsvorbereitungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie für eine erfolgreiche Prüfung benötigen.
 >
->_Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>_Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -89,7 +89,7 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 
 {{exam-objectives}}
 
-**Abschnitt 1: Erstellung und Verwaltung von Programmen (39%)**
+**Abschnitt 1: Erstellen und Verwalten von Programmen (39%)**
 
 * Bestimmen Sie, wann die vier Programmtypen verwendet werden sollen.
 * Ermitteln Sie, warum/wann das Ereignisprogramm verwendet werden soll.
@@ -116,7 +116,7 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 * Unterscheiden Sie die Differenz zwischen Entwurf und genehmigten Assets.
 * Unterscheidung zwischen lokalen und globalen Assets.
 
-**Abschnitt 3: Zielgruppenbestimmung und -bestimmung (33%)**
+**Abschnitt 3: Definieren und Targeting von Zielgruppen (33%)**
 
 * Erstellen/Ändern von Smart-Listen.
 * Grundlegendes zu den Workflow-Schritten für intelligente Kampagnen.
@@ -124,16 +124,16 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 * Ergebnisse intelligenter Kampagnen interpretieren.
 * Beschreiben Sie den Zweck und die Verwendung einer Segmentierung.
 * Identifizieren und navigieren Sie zur Datenbank.
-* Erfahren Sie, wie Sie Datenschutzeinstellungen in Adobe festlegen [!DNL Marketo Engage].
+* Erfahren Sie, wie Sie Datenschutzeinstellungen in Adobe [!DNL Marketo Engage] festlegen.
 * Unterscheidung zwischen Smart-Listen und statischen Listen.
 * Definieren Sie System-Smart-Listen.
 * Vergleichen und Vergleichen der verschiedenen Typen von Smart-Kampagnen.
 * Erfahren Sie, wie die Trigger und Filter von Smart Campaign funktionieren.
 * Unterscheiden Sie die verschiedenen Listenimporte.
 
-**Abschnitt 4: Analyse und Erstellung von Berichten (9%)**
+**Abschnitt 4: Analysieren und Erstellen von Berichten (9%)**
 
-* Die standardmäßige Adobe erläutern [!DNL Marketo Engage] und wann sie verwendet werden sollten (E-Mail-Link-Leistung, E-Mail-Leistung, Landingpage-Leistung, Personenleistung, Programmleistung, Web-Seitenaktivität usw.)
+* Erläuterung der standardmäßigen Adobe [!DNL Marketo Engage] -Berichte und deren Verwendung (E-Mail-Link-Leistung, E-Mail-Leistung, Leistung von Landingpages, Leistung von Personen, Programmleistung, Web-Seitenaktivität usw.)
 * Vergleichen von Dashboard-Informationen und -Metriken (E-Mail-Programm-Dashboard, Interaktionsprogramm-Dashboard)
 * Vergleichen von E-Mail-Insights-Metriken
 
@@ -165,21 +165,21 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Kurs machen**
+**Nehmen Sie einen Kurs vor**
 
 {{take-course}}
 
-[Kurs &quot;Adobe Marketo Engage Foundation&quot;](https://app.rockinfo.com/courses/261)
+[Nehmen Sie den Adobe Marketo Engage-Gründungskurs](https://app.rockinfo.com/courses/261)
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/247)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/247)
 
 +++
 
@@ -245,6 +245,6 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

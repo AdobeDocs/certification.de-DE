@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie als Adobe Business Practitioner-Experte im Adobe zertifiziert werden. [!DNL Commerce].
+description: Erfahren Sie, wie Sie als Adobe Business Practitioner-Experte für Adobe [!DNL Commerce] zertifiziert werden.
 solution: Commerce
 product: Magento
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Journey für die Zertifizierung [!DNL Adobe Commerce] Geschäftspraktiker-Experte
+# Zertifizierungs-Journey für [!DNL Adobe Commerce] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/140) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/140) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### Minimales Erlebnis {#minimum-experience}
 
-Sie sollten ungefähr 1-3 Jahre praktische Erfahrung haben. [!DNL Commerce] Erfahrung und ein breites Verständnis der E-Commerce-Erfahrung.
+Sie sollten über ca. 1-3 Jahre praktische [!DNL Commerce] Erfahrung und ein breites Verständnis der E-Commerce-Erfahrung verfügen.
 
 Sie sollten Erfahrung in folgenden Bereichen haben:
 
@@ -80,17 +80,17 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 
 {{exam-objectives}}
 
-**Abschnitt 1: Kernfunktionen/Allgemeine Konfiguration (46 %)**
+**Abschnitt 1: Kernfunktionen/Allgemeine Konfiguration (46%)**
 
-* Funktionen von Adobe identifizieren [!DNL Commerce] Open Source Edition und [!DNL Commerce] Edition
-* Unterschiede zwischen allen Editionen von Adobe unterscheiden [!DNL Commerce] products
+* Identifizieren Sie die Funktionen von Adobe [!DNL Commerce] Open Source Edition und [!DNL Commerce] Edition.
+* Unterschiede zwischen allen Editionen von Adobe [!DNL Commerce]-Produkten unterscheiden
 * Ermitteln, wie Produktarten und ihre Funktionen zur Erfüllung von Kundenanforderungen genutzt werden können
 * Interpretieren von Anforderungen und Nachahmen, um festzustellen, ob sie mit nativen Funktionen erfüllt werden können
 * Demonstration der Kenntnisse des Admin-Bedienfelds und des Standorts gemeinsamer Funktionen
-* Adobe importieren/exportieren [!DNL Commerce] Entitäten
+* Adobe [!DNL Commerce]-Entitäten importieren/exportieren
 * Informationen zur nativen Konfiguration von Warenkorb und Checkout
-* Bewerten Sie die nativen verfügbaren Versandmethoden im Adobe. [!DNL Commerce] und wie sie für häufige Anwendungsfälle gelten
-* Verstehen der Möglichkeiten zum Erstellen und Veröffentlichen von stilisierten Inhalten mithilfe der Adobe [!DNL Commerce] CMS-Funktionen, einschließlich Page Builder
+* Bewerten Sie die nativen verfügbaren Versandmethoden unter Adobe [!DNL Commerce] und wie sie auf häufige Anwendungsfälle angewendet werden.
+* Verstehen der Möglichkeiten zum Erstellen und Veröffentlichen von stilisierten Inhalten mit den Adobe [!DNL Commerce] CMS-Funktionen, einschließlich Page Builder
 * Verwenden nativer Tools zur Verwaltung des Auftragslebenszyklus
 * Demonstration der Möglichkeit, die verschiedenen Giftoptionen zu konfigurieren (Geschenkkarten, Geschenkverpackung, Nachrichten senden)
 * Transaktionsnachrichten konfigurieren und ändern
@@ -102,33 +102,33 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 * Verwaltung von Kategorien und Produkten demonstrieren
 * Machen Sie sich mit den unterschiedlichen Preiskonfigurationen und deren Auswirkungen auf den Endpreis vertraut.
 
-**Abschnitt 3: Digitales Marketing (4%)**
+**Abschnitt 3: Digital Marketing (4%)**
 
 * Empfohlene Best Practices für SEO mit nativen Funktionen
 * Allgemeine Metriken in Google Analytics und BI bewerten
 
-**Abschnitt 4: Zusatzmodule und Zusatzprodukte (18 %)**
+**Abschnitt 4: Add-On-Module und zusätzliche Produkte (18%)**
 
 * Beschreiben Sie die B2B-Funktionalität und wie sie mit gängigen B2B-Szenarien in Beziehung steht
 * Anwenden von Geschäftsanforderungen, um eine Lösung mit MSI vorzuschlagen
-* Erläuterung der Vorteile und Verwendung von BI zum Adobe [!DNL Commerce] Lösung
+* Die Vorteile und die Verwendung von BI zur Adobe [!DNL Commerce]-Lösung erläutern
 * Unterschiede zwischen nativer Suche und LiveSearch unterscheiden
 * Anwendung von Geschäftsanforderungen zur Bestimmung der Anwendung von Steuern, Zöllen und Befreiungen in einem B2B-Umfeld
 * Erfahren Sie, wie Sie eine maßgeschneiderte Preisgestaltung auf einen B2B-Kunden anwenden
-* Machen Sie sich mit den Unterschieden zwischen Adobe vertraut [!DNL Commerce] Produktempfehlungen für native Adobe Sensei
+* Machen Sie sich mit den Unterschieden zwischen nativen Adobe [!DNL Commerce]-Produktempfehlungen und Adobe Sensei-Produktempfehlungen vertraut.
 
 **Abschnitt 5: Systemarchitektur (10%)**
 
 * Anforderungen bewerten, um zu bestimmen, welche Websites, Stores und Store-Ansichten erforderlich sind
 * Leistungsmetriken identifizieren und analysieren, um Verbesserungen zu erzielen
-* Grundlegendes zu den verfügbaren Methoden zur Integration des externen Systems mit Adobe [!DNL Commerce]
+* die verfügbaren Methoden zur Integration des externen Systems mit Adobe [!DNL Commerce]
 * Unterscheidung zwischen Headless-Ansätzen und traditionellen
 
-**Abschnitt 6: Einhaltung/Sicherheit (12%)**
+**Abschnitt 6: Compliance/Security (12%)**
 
-* Sichern der Adobe [!DNL Commerce] Datenzugriff mit Rollen und Berechtigungen
+* Sichern des Datenzugriffs auf Adobe [!DNL Commerce] mit Rollen und Berechtigungen
 * Grundlegende Informationen zur Einhaltung von Datenschutzgesetzen und zur Zahlungssicherheit
-* Allgemeine Sicherheitsaspekte eines Adobe erläutern [!DNL Commerce] Projekt
+* Allgemeine Sicherheitsaspekte eines Adobe [!DNL Commerce]-Projekts erläutern
 * Machen Sie sich mit den Grundlagen des Steuerrechts und der Konfiguration vertraut
 
 <br>
@@ -159,15 +159,15 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/140)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/140)
 
 +++
 
@@ -222,6 +222,6 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

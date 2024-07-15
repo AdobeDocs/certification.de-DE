@@ -20,4 +20,4 @@ ht-degree: 0%
 
 * [Entwickler](/help/certifications/rtcdp/rtcdp-e-developer.md) <!--AD0-E605-->
 
-Besuchen Sie die [Zertifizierung verlängern](/help/certifications/renew.md) angezeigt, um zu sehen, ob für dieses Produkt eine Verlängerungsoption verfügbar ist.
+Rufen Sie die Seite [Zertifikat erneuern](/help/certifications/renew.md) auf, um zu sehen, ob eine Verlängerungsoption für dieses Produkt verfügbar ist.

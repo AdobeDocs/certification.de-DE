@@ -1,6 +1,6 @@
 ---
 title: Front-End-Entwicklerexperte - neue Zertifizierung
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte im Adobe werden. [!DNL Commerce].
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte für Adobe [!DNL Commerce] werden.
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Journey für die Zertifizierung [!DNL Adobe Commerce] Frontend-Entwicklerexperte
+# Zertifizierungs-Journey für [!DNL Adobe Commerce] Frontend-Entwickler-Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/139) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/139) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -56,7 +56,7 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 
 * [!DNL Adobe Commerce] - Version 2.4.6
 * Grundlegendes zur Frontend-Struktur und zum Layout
-* Erlebnis und Verständnis von HTML, CSS (und Präprozessoren), LESS, JavaScript- und UI-Komponenten, jQuery, Underscore, Require.JS, Knockout, auch PHP-Vorlagen, DB-Kenntnissen und Content Management
+* Erfahrung und Verständnis von HTML, CSS (und Präprozessoren), LESS, JavaScript- und UI-Komponenten, jQuery, Underscore, Require.JS, Knockout, auch PHP-Vorlagen, DB-Kenntnissen und Content Management
 * Kenntnis der Plattform, der CMS-Blöcke, Widgets, CMS-Seiten, Kategorieseiten, Produktseiten, Warenkorb und Checkout sowie des Bereichs Konto-Dashboard
 * Grundlegendes zu Admin-Konfigurationen oder -Kenntnisse
 * Kenntnisse über das Erweitern und Überschreiben von Stilen, Layouts und JS-Dateien
@@ -77,7 +77,7 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 
 {{exam-objectives}}
 
-**Abschnitt 1: Designverwaltung (Themenhierarchie, Bildkonfiguration, Übersetzungen) (16 %)**
+**Abschnitt 1: Designverwaltung (Themenhierarchie, Bildkonfiguration, Übersetzungen) (16%)**
 
 * Beschreiben Sie die Ordnerstruktur des Adobe Commerce-Designs und wie sie mit ordnerbasierten Designs verknüpft ist.
 * Demonstration der Möglichkeit, ein neues Design zu erstellen (Vererbung/Fallbacks, Designausnahmen, Designeigenschaften)
@@ -125,7 +125,7 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 * Transaktions-E-Mails anpassen
 * Verwendung von Admin-Entwicklungstools demonstrieren
 
-**Abschnitt 6: Tools (CLI und Grunt) (10%)**
+**Abschnitt 6: Werkzeuge (CLI und Grunt) (10%)**
 
 * Verwendung grundlegender bin/Magento-Befehle demonstrieren
 * Beschreiben Sie die Verwendung von Composer-Befehlen (installieren, aktualisieren, benötigen, entfernen)
@@ -161,15 +161,15 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/139)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/139)
 
 +++
 
@@ -224,6 +224,6 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

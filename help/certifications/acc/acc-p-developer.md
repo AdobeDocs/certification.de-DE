@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung für Entwickler
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer Professional werden können in [!DNL Campaign Classic].
+description: Erfahren Sie, wie Sie in [!DNL Campaign Classic] zertifizierter Adobe Developer Professional werden.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Entwickler Professional
+# Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Developer Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/250) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/250) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für Ihre Zertifizierungsprüfung, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -53,8 +53,8 @@ ht-degree: 0%
 
 Sie sollten über Folgendes verfügen:
 
-* Mindestens ein Jahr Adobe [!DNL Campaign Classic] Software-Erfahrung
-* Mindestens einjährige Erfahrung in JavaScript-Programmierung, SQL-Entwicklung einschließlich ETL und Web-Technologien (XML, HTML und Web-Services)
+* Mindestens ein Jahr Erfahrung mit Adobe [!DNL Campaign Classic]-Software
+* Mindestens einjährige Erfahrung in der Programmierung von JavaScript, SQL-Entwicklung einschließlich ETL und Web-Technologien (XML, HTML und Webdienste)
 * Grundlegendes zur Marketing-Automatisierung
 * Grundlegendes zu relationalen Datenbankkonzepten
 
@@ -75,7 +75,7 @@ Sie sollten über Folgendes verfügen:
 * Identifizieren der Konfigurationseinstellungen für geöffnete und geschlossene Auflistungen
 * Typologieregel-Typen unterscheiden
 * Ermitteln der Anforderungen für die Verwendung einer benutzerdefinierten Target Map und ihrer Auswirkungen auf die OOTB-Funktionalität
-* Beschreiben Sie, wie extern generierte Zielgruppen aus anderen Adobe Experience Cloud-Lösungen in Adobe aufgerufen werden. [!DNL Campaign Classic]
+* Beschreiben Sie, wie extern generierte Zielgruppen aus anderen Adobe Experience Cloud-Lösungen in Adobe [!DNL Campaign Classic] aufgerufen werden.
 * Beschreiben Sie den geschäftlichen Anwendungsfall für Interaktionen und Angebote.
 * Geschäftsanwendungsfall für Message Center beschreiben
 * V8-API-Datenimportfunktion identifizieren
@@ -156,15 +156,15 @@ Sie sollten über Folgendes verfügen:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/250)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/250)
 
 +++
 
@@ -219,6 +219,6 @@ Sie sollten über Folgendes verfügen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

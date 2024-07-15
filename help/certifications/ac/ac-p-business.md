@@ -1,6 +1,6 @@
 ---
 title: Berufliche Zertifizierung durch Business Practice
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner Professional im Adobe werden. [!DNL Commerce].
+description: Erfahren Sie, wie Sie in Adobe [!DNL Commerce] ein zertifizierter Adobe Business Practitioner Professional werden.
 solution: Commerce
 product: Magento
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Commerce] Geschäftspraktiker/innen
+# Zertifizierungs-Journey für Adobe [!DNL Commerce] Business Practitioner Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
 >
->* **Kurse**: Nehmen Sie die [Adobe Commerce Business Practices Professional-Kurs](https://app.rockinfo.com/courses/219) für Erläuterungen zu Schlüsselkonzepten, praktische Demonstrationen und Wissenstests. Wenn du gerade erst anfliegst, wird die [Adobe Commerce Foundation-Kurs](https://app.rockinfo.com/courses/148) bietet eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
+>* **Kurse**: Im [Adobe Commerce Business Practitioner Professional Kurs](https://app.rockinfo.com/courses/219) finden Sie Erläuterungen zu Schlüsselkonzepten, praktischen Demonstrationen und Wissensteuerungen. Wenn Sie gerade anfangen, bietet der [Adobe Commerce Foundation Kurs](https://app.rockinfo.com/courses/148) eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/137) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
+>* **Prüfungsvorbereitungsanleitung:** Das [Prüfungsvorbereitungshandbuch](https://app.rockinfo.com/courses/137) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für Ihre Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
 >
->_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
+>_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -62,11 +62,11 @@ ht-degree: 0%
 
 ### Minimales Erlebnis {#minimum-experience}
 
-Sie sollten über eine praktische Erfahrung von mindestens 0-12 Monaten mit [!DNL Magento Open Source] Version 2.4.3 unter Verwendung des LUMA- oder BLANK-Themas und grundlegender Kenntnisse des Adobe [!DNL Commerce] Version 2.4.3.
+Sie sollten über eine praktische Erfahrung von mindestens 0-12 Monaten mit [!DNL Magento Open Source] Version 2.4.3 verfügen, die das LUMA- oder BLANK-Design verwendet und grundlegende Kenntnisse der Adobe [!DNL Commerce] Version 2.4.3 besitzt.
 
 Darüber hinaus sollten Sie über grundlegende Kenntnisse des eCommerce-Erlebnisses sowie über die folgenden Konzepte verfügen:
 
-* Digital Marketing (SEO, CMS, E-Mail-Marketing, Verkaufsmethoden) [Crosssell, Upsell], Analysen, Reporting und Überwachung)
+* Digital Marketing (SEO, CMS, E-Mail-Marketing, Verkaufstechniken [Crosssell, Upsell], Analyse, Reporting und Überwachung)
 * E-Commerce-Terminologie (Verkaufs-/Marketingstrategien wie Omnichannel und Multichannel)
 * Preise und Verkaufsförderung
 * Journey zum Kundenkauf
@@ -81,22 +81,22 @@ Darüber hinaus sollten Sie über grundlegende Kenntnisse des eCommerce-Erlebnis
 
 {{exam-objectives}}
 
-**Abschnitt 1: [!DNL Magento Open Source] Kernfunktionen (49 %)**
+**Abschnitt 1: [!DNL Magento Open Source] Kernfunktionen (49%)**
 
 * Identifizieren der Funktionen von [!DNL Magento Open Source]
 * den korrekten Umfang und den Verwendungszeitpunkt unterscheiden
 * Kenntnisse des Katalogmanagements demonstrieren
-* Anpassen der Preisgestaltung mithilfe von [!DNL Magento Open Source] Funktionen
+* Preisgestaltung mithilfe von [!DNL Magento Open Source]-Funktionen anpassen
 * Beschreiben Sie die standardmäßige Journey des Kunden.
 * Beschreibung des Lebenszyklus der Standardbestellungen
 * Beschreiben Sie die täglichen Aufgaben, die mit der Wartung des Stores verbunden sind
 * Die verschiedenen Typen von Inhaltselementen und deren Verwendung erklären
 
-**Abschnitt 2: Adobe [!DNL Commerce] Grundlagen (14 %)**
+**Abschnitt 2: Adobe [!DNL Commerce] Basics (14%)**
 
-* Wichtige Funktionen des Adobe identifizieren [!DNL Commerce]
-* Dienst-Add-ons im Adobe identifizieren [!DNL Commerce]
-* Ermitteln von Hosting-Optionen für Adobe [!DNL Commerce]
+* Die wichtigsten in Adobe [!DNL Commerce] verfügbaren Funktionen identifizieren
+* Dienst-Add-ons in Adobe [!DNL Commerce] identifizieren
+* Hosting-Optionen für Adobe [!DNL Commerce] identifizieren
 
 **Abschnitt 3: Grundlagen zu digitalem Marketing und eCommerce (24 %)**
 
@@ -106,10 +106,10 @@ Darüber hinaus sollten Sie über grundlegende Kenntnisse des eCommerce-Erlebnis
 * Identifizieren der wichtigsten Funktionen einer eCommerce-Website
 * die grundlegenden eCommerce-Konzepte identifizieren (einschließlich Storefront-Optionen)
 
-**Abschnitt 4: Grundlagen zur Einhaltung/Sicherheit (13%)**
+**Abschnitt 4: Grundlagen zu Compliance/Sicherheit (13%)**
 
 * Grundlegende Informationen zur Einhaltung von Datenschutzgesetzen und zur Zahlungssicherheit
-* Identifizieren gemeinsamer Sicherheitsaspekte eines Adobe [!DNL Commerce] Projekt
+* Ermitteln gemeinsamer Sicherheitsaspekte eines Adobe [!DNL Commerce]-Projekts
 * Best Practices und rechtliche Anforderungen an die Barrierefreiheit zu identifizieren
 
 <br>
@@ -140,23 +140,23 @@ Darüber hinaus sollten Sie über grundlegende Kenntnisse des eCommerce-Erlebnis
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Kurs machen**
+**Nehmen Sie einen Kurs vor**
 
 {{take-course}}
 
-[Kurs &quot;Adobe Commerce Foundation&quot;](https://app.rockinfo.com/courses/148)
+[Nehmen Sie den Adobe Commerce-Gründungskurs](https://app.rockinfo.com/courses/148)
 
-[Nehmen Sie den Adobe Commerce Business Practices Professional Kurs](https://app.rockinfo.com/courses/219)
+[Nehmen Sie den Adobe Commerce Business Practitioner Professional Kurs auf.](https://app.rockinfo.com/courses/219)
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/137)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/137)
 
 +++
 
@@ -211,6 +211,6 @@ Darüber hinaus sollten Sie über grundlegende Kenntnisse des eCommerce-Erlebnis
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung für Entwickler
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner-Experte in [!DNL Experience Manager Sites].
+description: Erfahren Sie, wie Sie in [!DNL Experience Manager Sites] ein zertifizierter Adobe Business Practitioner-Experte werden.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Experience Manager Sites] Entwickler Professional
+# Zertifizierungs-Journey für Adobe [!DNL Experience Manager Sites] Developer Professional
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
 >
->* **Kurs:** Nehmen Sie die [Adobe Experience Manager Sites for Developers - Professional Kurs](https://app.rockinfo.com/courses/105), das Erläuterungen zu Schlüsselkonzepten, praxisnahen Demonstrationen und Wissensteuerungen enthält. Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie die [Adobe Experience Manager Foundation-Kurs](https://app.rockinfo.com/courses/240), die Ihnen eine Wissensgrundlage bietet, auf der Sie in Ihrer Journey aufbauen können.
+>* **Kurs:** Nehmen Sie den [Adobe Experience Manager Sites for Developers - Professional Kurs](https://app.rockinfo.com/courses/105), der Erläuterungen zu Schlüsselkonzepten, praxisnahen Demonstrationen und Wissensprüfungen enthält. Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie den [Adobe Experience Manager Foundation Kurs](https://app.rockinfo.com/courses/240), der Ihnen eine Wissensgrundlage bietet, auf der Sie auf Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/121) bietet einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der Materialien, die Sie benötigen, um erfolgreich in Ihrer Prüfung sein zu können.
+>* **Prüfungsvorbereitungsanleitung:** Der [Prüfungsvorbereitungshandbuch](https://app.rockinfo.com/courses/121) bietet einen maßgeschneiderten Pfad durch Ihren Prüfungsvorbereitungsprozess, einschließlich der Materialien, die für eine erfolgreiche Prüfung benötigt werden.
 >
 >Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID.
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 Sie sollten Anwendungsentwickler sein und über Folgendes verfügen:
 
-* 0-12 Monate Erfahrung bei der Arbeit mit dem AEM [!DNL Platform]
+* 0-12 Monate Erfahrung bei der Arbeit mit der AEM [!DNL Platform]
 * Möglichkeit zur Komponentenentwicklung
 * Grundlegendes zum MVC-Framework, zu Lebenszyklusrahmen und Bibliotheken in AEM
 
@@ -88,12 +88,12 @@ Sie sollten Anwendungsentwickler sein und über Folgendes verfügen:
 * Definieren der Maven-Projektstruktur
 * Projekte aus Archetypen konfigurieren
 
-**Abschnitt 4: Instandhaltung der Umgebung (22%)**
+**Abschnitt 4: Umgebungswartung (22%)**
 
 * Legen Sie bei einem Szenario die Schritte fest, die zum Debuggen von Problemen in AEM Umgebungen erforderlich sind
 * AEM Maintenance Releases erläutern
 * Ermitteln, wie AEM Topologien konfiguriert werden
-* Bestimmen Sie die erforderlichen Schritte für die Planung und Migration auf AEM as a Cloud Service
+* Ermitteln Sie die erforderlichen Schritte für die Planung und Migration zu AEM as a Cloud Service.
 
 <br>
 
@@ -115,19 +115,19 @@ Sie sollten Anwendungsentwickler sein und über Folgendes verfügen:
 
 {{study-materials-intro}}
 
-**Kurs machen**
+**Nehmen Sie einen Kurs vor**
 
 {{take-course}}
 
-[Nehmen Sie den Adobe Experience Manager Foundation-Kurs vor](https://app.rockinfo.com/courses/240)
+[Nehmen Sie den Adobe Experience Manager-Gründungskurs](https://app.rockinfo.com/courses/240)
 
-[Adobe Experience Manager Sites für Entwickler - Professional-Kurs](https://app.rockinfo.com/courses/105)
+[Nehmen Sie die Adobe Experience Manager Sites für Entwickler - Professional Kurs](https://app.rockinfo.com/courses/105)
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/121)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/121)
 
 **Beispielfragen**
 
@@ -188,7 +188,7 @@ Sie sollten Anwendungsentwickler sein und über Folgendes verfügen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
 

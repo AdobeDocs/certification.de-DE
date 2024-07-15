@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Experten
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Journey Optimizer] Entwicklerexperte.
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe [!DNL Journey Optimizer] Entwickler-Experte werden.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 5%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Journey Optimizer] Entwicklerexperte
+# Zertifizierungs-Journey für Adobe [!DNL Journey Optimizer] Entwickler-Experte
 
 {{intro}}
 
 >[!NOTE]
 >
->Diese Prüfung, Adobe [!DNL Journey Optimizer] Entwicklerexperte (AD0-E603), wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 22. Dezember 2023 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir Ihnen, die [neueste Version dieser Prüfung](ajo-e-developer-23-10.md).
+>Diese Prüfung, Adobe [!DNL Journey Optimizer] Entwicklerexperte (AD0-E603), wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 22. Dezember 2023 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir die [neueste Version dieser Prüfung](ajo-e-developer-23-10.md).
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -90,15 +90,15 @@ Sie sollten über mindestens ein Jahr Erfahrung mit verschiedenen CDP- und Marke
 * Verstehen des Experience-Datenmodells (XDM)
 * Erläuterung der Einrichtung von Datenquellen und der Datenerfassung
 * Grundlagen des Segmentierungsdienstes demonstrieren
-* Erläuterung der Konfiguration von Schemas für AJO
-* Verhalten des Echtzeit-Kundenprofils auf AJO ermitteln
+* Erläuterung der Konfiguration von Schemata für AJO
+* Verhalten des Echtzeit-Kundenprofils in AJO ermitteln
 
 **Abschnitt 3: Offer decisioning (11%)**
 
 * Erstellung und Verwaltung von Angeboten und Komponenten
 * Verwendung von Testprofilen zur Durchführung der Angebotssimulation
 
-**Abschnitt 4: Inhaltserstellung (20%)**
+**Abschnitt 4: Inhaltsbearbeitung (20%)**
 
 * Grundlagen zum Erstellen von E-Mails, SMS, In-App-Nachrichten und Push-Benachrichtigungen
 * Verstehen der Inhaltsbearbeitung und -personalisierung mithilfe von Hilfsfunktionen
@@ -159,14 +159,14 @@ Sie sollten über mindestens ein Jahr Erfahrung mit verschiedenen CDP- und Marke
    * Handbuch zum Echtzeit-Kundenprofil
    * Handbuch zum Platform Identity Service
    * einen Datenfluss konfigurieren
-   * Anleitung zu Quell-Connectoren
+   * Handbuch zu Source Connectors
    * Datenerfassungshandbuch
    * Handbuch zum Segmentierungsdienst
    * Schemata
 
-* [Einführung in Adobe [!DNL Experience Platform] Kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=de){target="_blank"}
-* [Erste Schritte mit Adobe [!DNL Experience Platform] Kurs für Dateningenieure](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=de){target="_blank"}
-* [Data Ingestion-Kurs für Dateningenieure](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=de){target="_blank"}
+* [Einführung in Adobe [!DNL Experience Platform] kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=de){target="_blank"}
+* [Erste Schritte mit Adobe [!DNL Experience Platform] für den Kurs &quot;Dateningenieure&quot;](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=de){target="_blank"}
+* [Datenerfassung für Dateningenieure - Kurs](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=de){target="_blank"}
 * [Blueprints für digitale Erlebnisse](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Offer decisioning**
@@ -179,7 +179,7 @@ Sie sollten über mindestens ein Jahr Erfahrung mit verschiedenen CDP- und Marke
 
    * Erstellen von Journeys
 
-**Abschnitt 4: Inhaltserstellung**
+**Abschnitt 4: Inhaltsbearbeitung**
 
 * [Adobe [!DNL Journey Optimizer] Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 
@@ -200,7 +200,7 @@ Sie sollten über mindestens ein Jahr Erfahrung mit verschiedenen CDP- und Marke
 
 <br>
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
@@ -232,7 +232,7 @@ Sie sollten über mindestens ein Jahr Erfahrung mit verschiedenen CDP- und Marke
 
 >[!NOTE]
 >
->Diese Prüfung, Adobe [!DNL Journey Optimizer] Entwicklerexperte (AD0-E603), wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 22. Dezember 2023 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir Ihnen, die [neueste Version dieser Prüfung](ajo-e-developer-23-10.md).
+>Diese Prüfung, Adobe [!DNL Journey Optimizer] Entwicklerexperte (AD0-E603), wurde aktualisiert. Wenn Sie bereits mit dem Studium begonnen haben oder planen, diese Version zu übernehmen, stellen Sie bitte sicher, dass Sie sie vor dem 22. Dezember 2023 abschließen. Wenn Sie gerade erst anfangen, empfehlen wir die [neueste Version dieser Prüfung](ajo-e-developer-23-10.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -261,6 +261,6 @@ Sie sollten über mindestens ein Jahr Erfahrung mit verschiedenen CDP- und Marke
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

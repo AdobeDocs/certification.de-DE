@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie ein zertifizierter Geschäftspraktiker werden können in [!DNL Experience Manager Sites].
+description: Erfahren Sie, wie Sie in [!DNL Experience Manager Sites] als Business Practitioner-Experte zertifiziert werden.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Experience Manager Sites] Geschäftspraktiker-Experte
+# Zertifizierungs-Journey für Adobe [!DNL Experience Manager Sites] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/127) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/127) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -60,7 +60,7 @@ Sie sollten über Folgendes verfügen:
 * Erfahren Sie mehr über AEM Funktionen, die erforderlich sind, um Entwickler für die Suche nach Geschäftslösungen zu begeistern
 * Die Möglichkeit, AEM Produkte zur Verwaltung von Inhalten zu verwenden, um digitale Erlebnisse zu fördern
 * Ein Verständnis der vorhandenen Module
-* Einen tieferen Einblick in Module wie [!DNL Sites], [!DNL Assets], und [!DNL Forms]
+* Einen tieferen Einblick in Module wie [!DNL Sites], [!DNL Assets] und [!DNL Forms]
 
 Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sein:
 
@@ -77,7 +77,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Multi-Site-Management
 * Monitoring-Tools
 * Versionierung
-* Personalisierungs- und Kontexthub
+* Personalization und ContextHub
 * SPA Editor
 * Tagging
 * Browserverwendung
@@ -145,15 +145,15 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/127)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/127)
 
 +++
 
@@ -219,6 +219,6 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

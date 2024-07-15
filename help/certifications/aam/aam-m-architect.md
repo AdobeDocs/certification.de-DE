@@ -1,6 +1,6 @@
 ---
 title: ArchitekturMaster-Zertifizierung
-description: Erfahren Sie, wie Sie als Adobe zertifiziert werden [!DNL Audience Manager] Architekturmeister.
+description: Erfahren Sie, wie Sie als Adobe [!DNL Audience Manager] Architekturmeister zertifiziert werden.
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
@@ -11,11 +11,11 @@ exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
 source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '562'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
-# Journey für die Zertifizierung [!DNL Adobe Audience Manager] Architekturmeister
+# Zertifizierungs-Journey für [!DNL Adobe Audience Manager] Architekt Master
 
 {{intro}}
 
@@ -60,10 +60,10 @@ Außerdem sollten Sie in der Lage sein, die folgenden Aufgaben auszuführen:
 
 * Analysieren Sie die Geschäftsanforderungen, um vorhandene Daten und die erforderlichen zusätzlichen Daten zu verstehen.
 * Konzipieren und Entwickeln spezifischer Implementierungen, um die Kundenanforderungen zu erfüllen
-* Adobe implementieren [!DNL Audience Manager] Verwendung verschiedener Methoden
+* Implementieren von Adobe [!DNL Audience Manager] mit verschiedenen Methoden
 * Erstellen von Segmenten
 * Aktivieren von Zielgruppensegmenten über verschiedene Adobe- und Nicht-Adobe-Cloud-Lösungen hinweg
-* Erstellen und analysieren Sie verschiedene Berichte in [!DNL Audience Manager]
+* Generieren und Analysieren verschiedener Berichte in [!DNL Audience Manager]
 * Strategien zur Datenerfassung
 
 <br>
@@ -72,9 +72,9 @@ Außerdem sollten Sie in der Lage sein, die folgenden Aufgaben auszuführen:
 
 {{exam-objectives}}
 
-**Prüfungsziele und -umfang**
+**Prüfungsziele und -bereich**
 
-**Abschnitt 1: Analyse der Umsetzung (26%)**
+**Abschnitt 1: Implementierungsanalyse (26%)**
 
 * Ermitteln Sie, wie Sie die Implementierung von AAM als eigenständiges Produkt oder als Teil einer Cloud-Lösung steuern und unterstützen
 * Analysieren Sie ausgehende Zieloptionen und empfehlen Sie einen AAM Implementierungsansatz.
@@ -98,12 +98,12 @@ Außerdem sollten Sie in der Lage sein, die folgenden Aufgaben auszuführen:
 * Anwenden von Verfahrenskonzepten zum Erstellen eines algorithmischen oder prädiktiven Modells
 * Bestimmen der Segmentierungslogik basierend auf Anwendungsfällen
 
-**Abschnitt 4: Datenschutz und Data Governance (8 %)**
+**Abschnitt 4: Datenschutz und Data Governance (8%)**
 
-* Empfohlen [!DNL Audience Manager] Funktionen im Zusammenhang mit Governance, Datenschutz und Sicherheit
+* Empfohlene [!DNL Audience Manager]-Funktionen im Zusammenhang mit Governance, Datenschutz und Sicherheit
 * Identifizieren von Kundendatenrichtlinien, die den behördlichen Vorschriften entsprechen
 
-**Abschnitt 5: Leistung und Berichterstattung (18%)**
+**Abschnitt 5: Leistung und Berichterstellung (18 %)**
 
 * Bestimmen, wie Sie Berichte in AAM konfigurieren, um Signal-, Eigenschaften- und Segmentleistung nach Geschäftsanforderungen zu erfassen
 
@@ -137,26 +137,26 @@ Außerdem sollten Sie in der Lage sein, die folgenden Aufgaben auszuführen:
 
 **Abschnitt 1: Implementierungsanalyse**
 
-* [[!DNL Audience Manager] Handbuch](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de){target="_blank"}
-* [Analytics-Integration](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=de){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de){target="_blank"}
+* [Analytics-Integration](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
 * [Adobe Experience Cloud Identity-Dienst](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Lösungsdesign und Recommendations**
 
-* [[!DNL Audience Manager] Handbuch](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de){target="_blank"}
-* [[!DNL Audience Manager] Tutorials](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de){target="_blank"}
+* [[!DNL Audience Manager] tutorials](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Abschnitt 3: Segmentierung und Aktivierung**
 
-* [[!DNL Audience Manager] Handbuch](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community?profile.language=de){target="_blank"}
-* [[!DNL Audience Manager] Tutorials](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [[!DNL Audience Manager] tutorials](https://docs.adobe.com/content/help/de-DE/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Abschnitt 4: Datenschutz und Data Governance**
 
-* [[!DNL Audience Manager] Handbuch](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de){target="_blank"}
-* [[!DNL Audience Manager] REST-API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [Administratorhandbuch für Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=de){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=de){target="_blank"}
+* [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
+* [Administratorhandbuch für Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
 **Abschnitt 5: Leistung und Berichterstellung**
 
@@ -215,6 +215,6 @@ Außerdem sollten Sie in der Lage sein, die folgenden Aufgaben auszuführen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

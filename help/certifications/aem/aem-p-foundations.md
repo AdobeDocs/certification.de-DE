@@ -1,6 +1,6 @@
 ---
 title: Technische Stiftungen - Professional-Zertifizierung
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Experience Manager] Professional.
+description: Erfahren Sie, wie Sie eine zertifizierte Adobe [!DNL Experience Manager] Professional werden.
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
 >
->* **Kurs:** Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie die [Adobe Experience Manager Foundation-Kurs](https://app.rockinfo.com/courses/240) , um Erläuterungen zu Schlüsselkonzepten, Produkt-Durchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet Ihnen eine Wissensgrundlage, auf der Sie auf Ihrer Zertifizierungs-Journey aufbauen können.
+>* **Kurs:** Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie den [Adobe Experience Manager Foundation Kurs](https://app.rockinfo.com/courses/240), um Erklärungen zu Schlüsselkonzepten, Produktdurchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet Ihnen eine Wissensgrundlage, auf der Sie auf Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:**  Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/124) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
+>* **Prüfungsvorbereitungsanleitung:** Das [Prüfungsvorbereitungshandbuch](https://app.rockinfo.com/courses/124) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für Ihre Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
 >
->_Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>_Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -80,7 +80,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 {{exam-objectives}}
 
-**Abschnitt 1: Inhaltserstellung (33 %)**
+**Abschnitt 1: Inhaltserstellung (33%)**
 
 * Inhaltsseiten verwalten
 * Inhalt replizieren
@@ -91,7 +91,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Anwenden von Verfahrenskonzepten zur Übersetzung von Inhalten
 * Verwenden von mehreren Sites und Live Copies
 
-**Abschnitt 2: Umsetzung (42%)**
+**Abschnitt 2: Implementierung (42%)**
 
 * Anwenden von Verfahrenskonzepten zum Erstellen von Komponenten
 * Bearbeitbare Vorlagen erstellen
@@ -112,7 +112,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 * Verwalten des Benutzerzugriffs
 * Ändern von OSGi-Konfigurationen
-* Abfragen erstellen
+* Erstellen von Abfragen
 
 <br>
 
@@ -134,17 +134,17 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 {{study-materials-intro}}
 
-**Kurs machen**
+**Nehmen Sie einen Kurs vor**
 
 {{take-course}}
 
-[Nehmen Sie den Adobe Experience Manager Foundation-Kurs vor](https://app.rockinfo.com/courses/240)
+[Nehmen Sie den Adobe Experience Manager-Gründungskurs](https://app.rockinfo.com/courses/240)
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/124)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/124)
 
 
 +++
@@ -200,8 +200,8 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
 
 

@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung – Startseite
-description: Informationen zu [!DNL Experience Cloud] Zertifizierung bei Adobe. Finden Sie heraus, was eine Zertifizierung für Sie bedeuten kann.
+description: Erfahren Sie mehr über die Zertifizierung unter Adobe.  [!DNL Experience Cloud]  Finden Sie heraus, was eine Zertifizierung für Sie bedeuten kann.
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
@@ -17,9 +17,9 @@ Erfahren Sie mehr über die Experience Cloud-Zertifizierung bei Adobe und was di
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
-Das Adobe Digital Experience Certification Program wurde entwickelt, um Ihnen beim Nachweis Ihrer Kenntnisse im Adobe zu helfen [!DNL Experience Cloud] Produkte. Mit der Zertifizierung als Adobe können Sie Ihr Fachwissen präsentieren und Kunden und Arbeitgeber gleichermaßen beeindrucken.
+Das Adobe Digital Experience Certification Program wurde entwickelt, um Ihnen beim Nachweis Ihrer Kenntnisse in Adobe [!DNL Experience Cloud]-Produkten zu helfen. Mit der Zertifizierung als Adobe können Sie Ihr Fachwissen präsentieren und Kunden und Arbeitgeber gleichermaßen beeindrucken.
 
-Adobe [!DNL Experience Cloud] ist eine Suite digitaler Marketinglösungen, mit denen Unternehmen personalisierte Kundenerlebnisse über verschiedene Kanäle hinweg bereitstellen können, einschließlich Web, Mobile, E-Mail und Social Media. Adobe [!DNL Experience Cloud] umfasst eine Reihe von Produkten, wie Adobe [!DNL Real-Time CDP], ADOBE [!DNL Experience Manager], ADOBE [!DNL Commerce], ADOBE [!DNL Journey Optimizer], ADOBE [!DNL Customer Analytics]und mehr.
+Adobe [!DNL Experience Cloud] ist eine Suite mit Digital Marketing-Lösungen, mit denen Unternehmen personalisierte Kundenerlebnisse über verschiedene Kanäle hinweg bereitstellen können, einschließlich Web, Mobile, E-Mail und Social Media. Adobe [!DNL Experience Cloud] umfasst eine Reihe von Produkten, wie Adobe [!DNL Real-Time CDP], Adobe [!DNL Experience Manager], Adobe [!DNL Commerce], Adobe [!DNL Journey Optimizer], Adobe [!DNL Customer Analytics] und mehr.
 
 Zeigen Sie Ihre Kompetenz und bringen Sie Ihre Karriere auf die nächste Stufe, indem Sie Adobe-zertifiziert werden.
 
@@ -27,14 +27,14 @@ Zeigen Sie Ihre Kompetenz und bringen Sie Ihre Karriere auf die nächste Stufe, 
 
 ## Warum bekommt man eine Zertifizierung?
 
-Adobe abrufen [!DNL Experience Cloud] -Zertifizierung bietet viele Vorteile:
+Das Abrufen einer Adobe [!DNL Experience Cloud] -Zertifizierung bietet viele Vorteile:
 
-* **Validierung Ihrer Fähigkeiten:** Die Adobe-Zertifizierung zeigt potenziellen Kunden und Arbeitgebern, dass Sie über die erforderlichen Fertigkeiten und Kenntnisse verfügen [!DNL Experience Cloud] Lösungen effektiv.
-* **Laufbahnentwicklung:** Mit der Adobe-Zertifizierung können Sie sich in einem überfüllten Arbeitsmarkt auszeichnen und Ihre Chancen auf Anstellung oder Förderung steigern.
-* **Erhöhen Sie das Ertragspotenzial:** Zertifizierte Personen verdienen oft mehr als ihre nicht zertifizierten Kollegen, da Adobe-Referenzen ihre Fachkompetenz beweisen.
-* **Zugriff auf exklusive Ressourcen:** Wenn Sie Adobe-zertifiziert sind, erhalten Sie Zugang zu exklusiven Ressourcen wie Schulungsmaterialien, Beta-Softwareversionen und Support-Foren, die Ihnen helfen, sich über die neuesten Entwicklungen und Trends der Branche auf dem Laufenden zu halten.
-* **Freie Praxistests:** Adobe bietet kostenlose Praxisprüfungen, um sicherzustellen, dass Sie vollständig auf Ihre Zertifizierungsprüfung vorbereitet sind.
-* **Freie Zertifizierung:** Adobe-Zertifizierungen sind zwei Jahre gültig, und die meisten Zertifizierungen können kostenlos erneuert werden, indem entweder eine On-Demand-Prüfung ohne Verarbeitung durchgeführt oder eine Reihe kontinuierlicher Lernmaßnahmen durchgeführt wird.
+* **Validierung Ihrer Fähigkeiten:** Die Adobe-Zertifizierung zeigt potenziellen Kunden oder Arbeitgebern, dass Sie über die erforderlichen Fertigkeiten und Kenntnisse verfügen, um [!DNL Experience Cloud]-Lösungen effektiv zu nutzen.
+* **beruflichen Aufstieg:** Mit der Adobe-Zertifizierung können Sie sich auf einem überfüllten Arbeitsmarkt auszeichnen und Ihre Chancen auf Anstellung oder Förderung erhöhen.
+* **Erhöhen Sie das Ertragspotenzial:** Zertifizierte Personen verdienen häufig mehr als ihre nicht zertifizierten Kollegen, da Adobe-Anmeldeinformationen ihr Fachwissen belegen.
+* **Zugriff auf exklusive Ressourcen:** Wenn Sie Adobe-zertifiziert sind, erhalten Sie Zugriff auf exklusive Ressourcen wie Schulungsmaterialien, Beta-Softwareversionen und Support-Foren, die Ihnen helfen, sich über die neuesten Softwareentwicklungen und Trends in der Branche auf dem Laufenden zu halten.
+* **Kostenlose Praxistests:** Adobe bietet kostenlose Praxisprüfungen, um sicherzustellen, dass Sie vollständig auf Ihre Zertifizierungsprüfung vorbereitet sind.
+* **Kostenlose Zertifikatsverlängerungen:** Adobe-Zertifizierungen sind zwei Jahre gültig, und die meisten Zertifizierungen können kostenlos erneuert werden, indem sie entweder eine On-Demand-Prüfung ohne Verarbeitung durchführen oder eine Reihe kontinuierlicher Lernaktivitäten abschließen.
 
 Das Adobe Digital Certification Program ist für Fachleute in verschiedenen Bereichen konzipiert, darunter Entwickler, Geschäftsleute und Architekten. Ob Sie ein erfahrener Experte sind oder einfach nur anfangen, die Zertifizierung hilft Ihnen, Ihre Karriere voranzutreiben und dem Wettbewerb voraus zu bleiben.
 
@@ -63,10 +63,10 @@ Alle Details zu den einzelnen verfügbaren Produktzertifizierungen sind im Inhal
 * [Adobe [!DNL Target]](/help/certifications/at/at-overview.md){target="_blank"}
 * [Adobe [!DNL Workfront]](/help/certifications/aw/aw-overview.md){target="_blank"}
 
-Suchst du Adobe? [!DNL Creative Cloud] Zertifikate? Besuchen Sie die [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} Website, um zu erfahren, wie man in Creative Cloud-Programmen zertifiziert wird.
+Suchen Sie nach Adobe [!DNL Creative Cloud] Zertifikaten? Besuchen Sie die Website [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} , um zu erfahren, wie Sie in Creative Cloud-Programmen zertifiziert werden.
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

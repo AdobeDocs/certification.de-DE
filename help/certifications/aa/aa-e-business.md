@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Geschäftspraktiker
-description: Erfahren Sie, wie Sie als [!DNL Adobe Analytics] Geschäftspraktiker-Experte
+description: Erfahren Sie, wie Sie als [!DNL Adobe Analytics] Geschäftspraktiker-Experte zertifiziert werden.
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Journey für die Zertifizierung [!DNL Adobe Analytics] Geschäftspraktiker-Experte
+# Zertifizierungs-Journey für [!DNL Adobe Analytics] Business Practitioner Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/220) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/220) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -67,15 +67,15 @@ Sie sollten über Folgendes verfügen:
 * Möglichkeit der Übermittlung von Ergebnissen und der Vorschlagen einer auf der Auswertung von Berichten basierenden Vorgehensweise
 * Hilft Kunden, die gewünschten Informationen zu extrahieren/abzurufen (z. B. bei der Definition ihrer Geschäftsfragen)
 * Ein Verständnis, wie die Technologie funktioniert und wie sie die Implementierung eines Kunden versteht (z. B. wo sich die Daten befinden, wie sie erfasst werden können, wie sie verfolgt werden), und zwar aus funktionaler Sicht
-* Mindestens ein Jahr [!DNL Adobe Analytics] Praktisches Erlebnis
+* Mindestens ein Jahr des [!DNL Adobe Analytics] praktischen Erlebnisses
 * Grundlegendes dazu, wie Digital Analytics Daten filtert/strukturiert
 * Ein Bewusstsein für die Integration von [!DNL Adobe Analytics] mit anderen Adobe-Lösungen
 
 Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sein:
 
 * FTP-Client
-* Aktuell [!DNL Adobe Analytics] Workspace-Funktionen und andere Berichtsoptionen außerhalb von Workspace (z. B. Projekte planen und Berichte planen)
-* Debugging-Tools für [!DNL Adobe Analytics] (Paketmonitor, z. B. ein Adobe Debugger, Browser-Entwicklertools, Charles)
+* Aktuelle [!DNL Adobe Analytics] Workspace-Funktionen und andere Berichtsoptionen außerhalb von Workspace (z. B. Projekte planen und Berichte planen)
+* Debugging-Tools, die für [!DNL Adobe Analytics] relevant sind (Paketmonitor, z. B. ein Adobe Debugger, Browser-Entwicklertools, Charles)
 * Admin Console (Admin Console und Experience Cloud-Admin Console der Analytics Report Suite)
 * Adobe Launch-Grundlagen/Grundlagen
 * Grundlegendes zu Apps, SPA und Websites
@@ -95,7 +95,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Adobe Launch-Kenntnisse demonstrieren
 * Verstehen geblicher Integrationen im gesamten Adobe Experience Cloud-Ökosystem
 
-**Abschnitt 2: Berichterstattung und Dashboards für Projekte (30%)**
+**Abschnitt 2: Berichterstellung und Dashboards für Projekte (30%)**
 
 * Erwägen Sie die Vorteile der Verwendung eines Reporting-Tools, das auf einem bestimmten Szenario basiert
 * Fallout- und Flussvisualisierung vergleichen und geeignete Variablentypen für die Berichterstellung
@@ -115,19 +115,19 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 * Segmente auf Projekte und Komponenten anwenden
 * Anwenden des Prozesses zum Generieren berechneter und/oder segmentierter Metriken
 
-**Abschnitt 4: Allgemeine Kenntnisse über Tools und Fehlerbehebung (12 %)**
+**Abschnitt 4: Allgemeine Kenntnisse über Tools und Fehlerbehebung (12%)**
 
 * Berichte analysieren und Probleme mit der Datenqualität identifizieren
-* Definieren verschiedener Typen von Dimensionen und Parametern, die in vorhanden sind [!DNL Adobe Analytics] (eVars, Props und Ereignisse)
-* Ermitteln, wie Daten in und aus [!DNL Adobe Analytics]
+* Definieren verschiedener Typen von Dimensionen und Parametern, die in [!DNL Adobe Analytics] vorhanden sind (eVars, Props und Ereignisse)
+* Bestimmen, wie Daten aus [!DNL Adobe Analytics] in- und abgerufen werden
 * Identifizieren von Informationen aus Marketing-URLs
 
 **Abschnitt 5: Verwaltung (10%)**
 
-* Wenden Sie den Prozess an, um die [!UICONTROL Marketingkanal] Berichte mit [!UICONTROL Marketingkanal] Verarbeitungsregeln
+* Wenden Sie den Prozess an, um die [!UICONTROL Marketingkanal] -Berichte mit den Verarbeitungsregeln [!UICONTROL Marketingkanal] zu konfigurieren
 * Anwenden des Prozesses zum Konfigurieren von Classification Importer und Rule Builder
 * Anwenden des Prozesses zum Konfigurieren einer Virtual Report Suite auf der Basis eines vorhandenen Segments
-* Verwenden Sie die [!UICONTROL Daten-Feed] Administrator-Benutzeroberfläche
+* Verwenden der Administrator-Benutzeroberfläche des [!UICONTROL Daten-Feeds]
 * Grundlagen zur Data Governance
 
 <br>
@@ -158,15 +158,15 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/220)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/220)
 
 +++
 
@@ -232,7 +232,7 @@ Außerdem sollten Sie mit den folgenden Technologien und Umgebungen vertraut sei
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
 

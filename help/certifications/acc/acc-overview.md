@@ -7,7 +7,7 @@ exl-id: c80ad5d1-6245-4c99-b4ac-97b8dc48e80f
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 21%
+ht-degree: 0%
 
 ---
 
@@ -15,16 +15,16 @@ ht-degree: 21%
 
 **Professional**
 
-* [Business Practitioner](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
+* [Geschäftspraktiker](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
 * [Entwickler](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
 
-**Experte**
+**Expert**
 
-* [Business Practitioner](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
+* [Geschäftspraktiker](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
 * [Entwickler](/help/certifications/acc/acc-e-developer.md) <!--AD0-E330-->
 
-**Vorlage**
+**Master**
 
 * [Architekt](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
-Besuchen Sie die [Zertifizierung verlängern](/help/certifications/renew.md) angezeigt, um zu sehen, ob für dieses Produkt eine Verlängerungsoption verfügbar ist.
+Rufen Sie die Seite [Zertifikat erneuern](/help/certifications/renew.md) auf, um zu sehen, ob eine Verlängerungsoption für dieses Produkt verfügbar ist.

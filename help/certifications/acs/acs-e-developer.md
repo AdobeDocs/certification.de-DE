@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Entwickler
-description: Erfahren Sie, wie Sie ein zertifiziertes Adobe Developer Expert Adobe werden. [!DNL Campaign Standard].
+description: Erfahren Sie, wie Sie ein zertifiziertes Adobe Developer Expert Adobe [!DNL Campaign Standard] werden.
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Campaign Standard] Entwicklerexperte
+# Zertifizierungs-Journey für Adobe [!DNL Campaign Standard] Entwickler-Experte
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/256) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/256) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für Ihre Zertifizierungsprüfung, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 Sie sollten über Folgendes verfügen:
 
-* Mindestens zwei Jahre Adobe [!DNL Campaign Standard] Software-Erfahrung
+* Mindestens zweijährige Erfahrung mit Adobe [!DNL Campaign Standard]-Software
 * Mindestens zwei Jahre Erfahrung mit relevanten kanalübergreifenden digitalen Marketingkampagnen und Webentwicklung (z. B. REST-API)
 * Die Fähigkeit, Aufgaben in Adobe Campaign auszuführen, einschließlich Vorlagenentwicklung, technische Workflows, Schemaentwicklung und Integrationen, und die Instanz mithilfe des Control Panels zu überwachen
 * Erlebnis, das in einer Kanalbereitstellungsumgebung (E-Mail, Briefpost, Mobile und Social) arbeitet
@@ -138,15 +138,15 @@ Sie sollten über Folgendes verfügen:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/256)
+[Prüfungsvorbereitungsanleitung](https://app.rockinfo.com/courses/256)
 
 +++
 
@@ -201,6 +201,6 @@ Sie sollten über Folgendes verfügen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

@@ -26,9 +26,9 @@ Weitere Informationen zum Adobe Digital Experience Certification Program finden 
 
 Individuelle Vorteile: Die Zertifizierung ist eine Berechtigung, die die Fähigkeiten und Kompetenzen einer Person in einer Adobe App anerkennt. Ein Bewerber, der die Zertifizierungsprüfung besteht, wird Adobe Certified Professional, Expert oder Master.
 
-Zertifizierungen erfordern eine Verpflichtung, sind rechtlich vertretbar und können durch die Adobe Ihres Fachwissens validiert werden. Sie können Ihre Zertifizierung auch in Ihren sozialen Profilen anzeigen, indem Sie Ihr Abzeichen von [!DNL Credly].
+Zertifizierungen erfordern eine Verpflichtung, sind rechtlich vertretbar und können durch die Adobe Ihres Fachwissens validiert werden. Sie können Ihre Zertifizierung auch in Ihren sozialen Profilen anzeigen, indem Sie Ihr Abzeichen von [!DNL Credly] herunterladen.
 
-Weitere Informationen zur Verwaltung Ihrer Abzeichen finden Sie unter [!DNL Credly], gehen [HIER](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
+Weitere Informationen zum Verwalten Ihrer Badges in [!DNL Credly] finden Sie unter [HIER](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -43,25 +43,25 @@ Zertifizierungen sind rollenbasiert, d. h. es sind mehrere Prüfungen verfügbar
 Manchmal gibt es mehrere Versionen einer Prüfung. Es ist am besten, die neueste Version zu verwenden.
 
 * Wenn eine Prüfung in den Ruhestand tritt, wird auf der Journey-Seite der Zertifizierung ein Hinweis angezeigt. Dies bedeutet, dass diese Prüfversion bald entfernt wird, da eine neue Version der Prüfung verfügbar ist. Wir empfehlen Kandidaten, die neueste Version zu verwenden, aber Sie können die Version, die in den Ruhestand geht, nehmen, wenn Sie sich besser darauf vorbereitet fühlen. In beiden Fällen wird Ihr Zertifikat zwei Jahre lang gültig sein.
-* Wenn Ihr aktuelles Zertifikat bald abläuft, sollten Sie es verlängern. Erneuerungsoptionen haben weniger Fragen und sind KOSTENLOS. Diese Optionen decken die neuesten Anwendungsfunktionen ab. Wenn Ihr Zertifikat abläuft, müssen Sie die neueste Version der Zertifizierungsprüfung absolvieren, für die Sie zahlen würden. [Weitere Informationen zu den Verlängerungsoptionen](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
+* Wenn Ihr aktuelles Zertifikat bald abläuft, sollten Sie es verlängern. Erneuerungsoptionen haben weniger Fragen und sind KOSTENLOS. Diese Optionen decken die neuesten Anwendungsfunktionen ab. Wenn Ihr Zertifikat abläuft, müssen Sie die neueste Version der Zertifizierungsprüfung absolvieren, für die Sie zahlen würden. [Erfahren Sie mehr über die Verlängerungsoptionen](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
 +++Was ist, wenn ich während meiner bestellten Prüfung technische Probleme habe?
 
-[!DNL Examity] bietet Unterstützung per Chat, E-Mail und Telefon. Die Adobe-Unterstützung kann bei technischen Problemen, die während der Prüfung auftreten, nicht helfen.
+[!DNL Examity] kann per Chat, E-Mail und Telefon unterstützt werden. Die Adobe-Unterstützung kann bei technischen Problemen, die während der Prüfung auftreten, nicht helfen.
 
 [!DNL Examity] Unterstützung: `adobepartnersupport@examity.com`
 
 Die schnellste Hilferessource ist ihr Chat. Alle Testkandidaten sollten vor der Prüfung sicherstellen, dass ihr Computer über die entsprechenden Systemanforderungen verfügt.
 
-Weitere Informationen finden Sie unter [!DNL Examity] Seite zur Verwaltung von Prüfungen und technischen Einstellungen.
+Weitere Informationen finden Sie auf der Seite [!DNL Examity] für die Verwaltung von Prüfungen und technischen Einstellungen.
 
 +++
 
 +++An wen kann ich mich bei Fragen oder Problemen bezüglich der Zertifizierung wenden?
 
-Wenden Sie sich bei Fragen zur Registrierung von Prüfungen, zu Prüfungszahlungen, zum Testversand, zu Testzentren, zu Prüfungsfragen, zu Prüfungsfragen, zu Testerfahrungen, zu Testunterkünften oder Fragen zum Zertifizierungsportal an . `certif@adobe.com`.
+Für Fragen zur Registrierung von Prüfungen, zu Prüfungszahlungen, zum Testversand, zu Testzentren, Kommentaren zu Prüfungen, Prüfungsfragen, zu Testerfahrungen, zu Testunterkünften oder Fragen zum Zertifizierungsportal wenden Sie sich an `certif@adobe.com`.
 
 +++
 
@@ -77,9 +77,9 @@ Wenn Sie Ihre Prüfung nicht neu planen können, obwohl sie mehr als 48 Stunden 
 
 +++ Können Adobe Kandidaten mit besonderen Anforderungen aufnehmen?
 
-Adobe kann bestimmten besonderen Anforderungen gerecht werden. Wenn Sie zusätzliche Zeit benötigen, um Ihre Prüfung abzuschließen, oder eine andere Unterkunft benötigen, wenden Sie sich bitte an `certif@adobe.com` mit Ihrer Anfrage.
+Adobe kann bestimmten besonderen Anforderungen gerecht werden. Wenn Sie zusätzliche Zeit benötigen, um Ihre Prüfung oder eine andere Unterkunft abzuschließen, kontaktieren Sie bitte `certif@adobe.com` mit Ihrer Anfrage.
 
-**Ihre Anfrage muss 2 Wochen vor der Prüfung gesendet werden.**
+**Ihre Anfrage muss 2 Wochen vor dem Prüfungszeitplan gesendet werden.**
 
 +++
 
@@ -93,7 +93,7 @@ Bewerber, die bei ihrem ersten Versuch die Adobe-Zertifizierungsprüfung nicht b
 
 +++ Wie erhalte ich eine Kopie meines Punktberichts?
 
-* Schritt 1: Anmelden bei der [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Melden Sie sich mit Ihrer ID oder E-Mail-Adresse und Ihrem Kennwort an.
+* Schritt 1: Anmelden beim [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Melden Sie sich mit Ihrer ID oder E-Mail-Adresse und Ihrem Kennwort an.
 * Schritt 2: Klicken Sie auf Verlauf .
 * Schritt 3: Scrollen Sie durch Ihren Transkriptverlauf und wählen Sie den Bericht aus, den Sie anzeigen möchten. Sie können den Bericht per E-Mail versenden oder auf dem Bildschirm anzeigen lassen.
 
@@ -101,7 +101,7 @@ Bewerber, die bei ihrem ersten Versuch die Adobe-Zertifizierungsprüfung nicht b
 
 +++ Wie kann ich meinen Zertifizierungsstatus nachverfolgen?
 
-Sie können Ihren Zertifizierungsstatus verfolgen, indem Sie [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} im Tab Zertifizierungen .
+Sie können Ihren Zertifizierungsstatus verfolgen, indem Sie auf der Registerkarte &quot;Zertifizierungen&quot;zu [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} navigieren.
 
 +++
 
@@ -113,13 +113,13 @@ Nach Abschluss der Prüfung werden Ihre Ergebnisse sofort auf dem Bildschirm ang
 
 +++ Wie melde ich mich bei einem Adobe Credential Management/Certmetrics-Konto an oder erstelle es?
 
-Sie können [Hier anmelden oder ein Konto erstellen](https://www.certmetrics.com/adobe/){target="_blank"}. Dort finden Sie die verfügbaren Prüfungen, den Prüfungsverlauf, die Ablaufdaten der Zertifizierung und alle Vorteile, wie z. B. Rabatte, die Ihnen zur Verfügung stehen.
+Sie können sich hier [ anmelden oder ein Konto erstellen](https://www.certmetrics.com/adobe/){target="_blank"}. Dort finden Sie die verfügbaren Prüfungen, den Prüfungsverlauf, die Ablaufdaten der Zertifizierung und alle Vorteile, wie z. B. Rabatte, die Ihnen zur Verfügung stehen.
 
 +++
 
 +++ Wie lange dauern Zertifizierungen?
 
-Da wir sicherstellen müssen, dass unsere Adobe-zertifizierten Personen über neue Anwendungsfunktionen und -funktionen auf dem Laufenden sind, werden Adobe-Zertifizierungen **für zwei Jahre**.
+Da wir sicherstellen müssen, dass unsere Adobe-zertifizierten Personen über neue Anwendungsfunktionen und -funktionen auf dem Laufenden sind, sind Adobe-Zertifizierungen **für zwei Jahre gültig**.
 
 +++
 
@@ -147,7 +147,7 @@ Nicht direkt, nein. Da die Zertifizierung nun alle 2 Jahre erneuert werden muss,
 
 Adobe-Zertifizierungen laufen nach zwei Jahren ab. Sie können Ihre Zertifizierung verlängern, indem Sie die neueste Version der entsprechenden Adobe-Zertifizierungsprüfung ablegen und durchlaufen.
 
-Es gibt zwei Optionen:
+Sie haben zwei Optionen:
 
 * Führen Sie eine regelmäßige Zertifizierungsprüfung durch.
 * Nehmen Sie die Erneuerungsprüfung - eine kürzere Prüfung, die sich auf die neuesten Lösungsfunktionen sowie auf die Dinge konzentriert, die Sie bereits kennen.
@@ -160,9 +160,9 @@ Gelegentlich ziehen wir uns einer Prüfung um eine Rolle zu. In diesem Fall wird
 
 +++ Was passiert, wenn ich meine Zertifizierung nicht verlängern möchte, bevor sie abläuft?
 
-Ihr Zertifikat läuft ab und wird als abgelaufen in [!DNL Credly] und eines Ihrer sozialen Profile. Wenn Ihr Zertifikat abläuft, können Sie auch nicht die kürzere Erneuerungsprüfung absolvieren oder durch kontinuierliches Lernen erneuern.
+Ihre Zertifizierung läuft ab und wird in [!DNL Credly] und Ihren sozialen Profilen als abgelaufen angezeigt. Wenn Ihr Zertifikat abläuft, können Sie auch nicht die kürzere Erneuerungsprüfung absolvieren oder durch kontinuierliches Lernen erneuern.
 
-Weitere Informationen zur Verwaltung Ihrer Abzeichen finden Sie unter [!DNL Credly], gehen [HIER](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
+Weitere Informationen zum Verwalten Ihrer Badges in [!DNL Credly] finden Sie unter [HIER](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -170,13 +170,13 @@ Weitere Informationen zur Verwaltung Ihrer Abzeichen finden Sie unter [!DNL Cred
 
 Sie können Ihr Zertifikat kostenlos erneuern. Dadurch erhalten Sie eine kostengünstige Möglichkeit, Ihre Zertifizierung zu pflegen und Ihre Lösungskenntnisse auf dem neuesten Stand zu halten.
 
-Weitere Informationen zum Verlängern der Zertifizierung finden Sie unter [here](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
+Weitere Informationen zum Verlängern der Zertifizierung finden Sie [hier](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
 +++ Wo kann ich mein Ablaufdatum für die Zertifizierung sehen? Werde ich eine Mitteilung bekommen?
 
-Anmelden bei [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}. Dort können Sie sehen, wann Sie Ihre Berechtigung erhalten haben und wann sie abläuft. Sie sollten auch Ihr Profil überprüfen und bestätigen, dass Ihre Kontakt-, sekundäre E-Mail- und Auftragsinformationen korrekt sind.
+Melden Sie sich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} an. Dort können Sie sehen, wann Sie Ihre Berechtigung erhalten haben und wann sie abläuft. Sie sollten auch Ihr Profil überprüfen und bestätigen, dass Ihre Kontakt-, sekundäre E-Mail- und Auftragsinformationen korrekt sind.
 
 Einen Monat vor Ablauf der Zertifizierung erhalten Sie eine E-Mail-Benachrichtigung. Wenn Sie jedoch Aufträge geändert haben und Ihre E-Mail nicht aktualisiert haben, werden Sie möglicherweise nicht benachrichtigt. Fügen Sie eine sekundäre E-Mail (z. B. Gmail, Hotmail, Yahoo usw.) in Ihr CertMetrics-Konto ein, damit Sie eine Erinnerungsmail erhalten, an die Sie erinnert werden, wenn Sie ein Unternehmen wechseln.
 
@@ -184,7 +184,7 @@ Einen Monat vor Ablauf der Zertifizierung erhalten Sie eine E-Mail-Benachrichtig
 
 +++ Welche Prüfung muss ich für meine Verlängerung durchführen?
 
-Um herauszufinden, welche Prüfung Sie benötigen, melden Sie sich bei der [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} Klicken Sie in Ihrer Adobe ID auf &quot;Zertifizierungen&quot;und wählen Sie den Zertifizierungsnamen aus. Die Verlängerungsprüfung ist unter **Anforderung, auf dem neuesten Stand zu bleiben**.
+Um herauszufinden, welche Prüfung Sie durchführen müssen, melden Sie sich mit Ihrer Adobe ID beim [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} an, klicken Sie auf &quot;Zertifizierungen&quot;und wählen Sie den Zertifizierungsnamen aus. Die Erneuerungsprüfung ist unter **Anforderung, auf dem neuesten Stand zu bleiben** aufgeführt.
 
 +++
 
@@ -240,13 +240,13 @@ Nein. Alle Aktivitäten können kostenlos über Adobe Credential Manager aufgeru
 
 +++ Muss ich Bewertungen übergeben und auch ein Referenzformular für Kunden einreichen?
 
-Nein, die Übermittlung eines Referenzformulars für Kunden ist optional und eine der Aktivitäten, die die Bewerber abschließen können, um ihre Zertifizierung zu verlängern. Beispiel: [!DNL Adobe Analytics] Für die Erneuerung der Zertifizierung müssen mindestens drei Aktivitäten aus einer bestimmten Liste abgeschlossen sein. Die Liste umfasst die Weitergabe von sechs Bewertungen und die Übermittlung eines Referenzformulars für Kunden. Der Bewerber kann zwei Bewertungen vornehmen und ein Referenzformular für Kunden einreichen, um so die Mindestanforderungen für die Verlängerung der Zulassung zu erfüllen.
+Nein, die Übermittlung eines Referenzformulars für Kunden ist optional und eine der Aktivitäten, die die Bewerber abschließen können, um ihre Zertifizierung zu verlängern. Beispielsweise erfordert die Verlängerung der [!DNL Adobe Analytics] -Zertifizierung das Abschließen von mindestens 3 Aktivitäten aus einer bestimmten Liste. Die Liste umfasst die Weitergabe von sechs Bewertungen und die Übermittlung eines Referenzformulars für Kunden. Der Bewerber kann zwei Bewertungen vornehmen und ein Referenzformular für Kunden einreichen, um so die Mindestanforderungen für die Verlängerung der Zulassung zu erfüllen.
 
 +++
 
 +++I verfügt über drei Zertifizierungen in einer Lösung. Muss ich die Anforderungen für jedes Zertifikat erfüllen?
 
-Nein, Sie müssen nur die für die Lösung aufgelisteten Anforderungen erfüllen. Ihre Zertifikate werden erneuert, nachdem Sie die erforderlichen Aktivitäten abgeschlossen und die Ergebnisse an den Adobe Credential Manager übermittelt haben. Wenn Sie beispielsweise über mehrere Zertifizierungen verfügen in [!DNL Adobe Analytics] Als Business Practitioner, Entwickler und Architekt müssen Sie nur drei Aktivitäten durchführen, um die Erneuerungsanforderungen für alle Zertifikate zu erfüllen, die erneuert werden sollen.
+Nein, Sie müssen nur die für die Lösung aufgelisteten Anforderungen erfüllen. Ihre Zertifikate werden erneuert, nachdem Sie die erforderlichen Aktivitäten abgeschlossen und die Ergebnisse an den Adobe Credential Manager übermittelt haben. Wenn Sie beispielsweise über mehrere Zertifizierungen in [!DNL Adobe Analytics] als Geschäftspraktiker, Entwickler und Architekt verfügen, müssen Sie nur drei Aktivitäten ausführen, um die Erneuerungsanforderungen für alle Zertifikate zu erfüllen, die erneuert werden sollen.
 
 +++
 
@@ -303,7 +303,7 @@ Die Gutscheine sind sofort nach dem Kauf verfügbar, wenn sie per Kreditkarte od
 
 +++Wie greife ich auf mein Xvoucher-Konto zu?
 
-Melden Sie sich einfach bei Ihrem Konto an [here](https://www.xvoucher.com/Login.aspx){target="_blank"}.
+Melden Sie sich einfach bei Ihrem Konto [hier](https://www.xvoucher.com/Login.aspx){target="_blank"} an.
 
 +++
 

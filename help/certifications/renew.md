@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Um Ihre Adobe-Zertifizierung zu erhalten, müssen Sie sie alle 2 Jahre erneuern. Wenn Sie Ihre Zertifizierung nicht vor Ablauf der Gültigkeit erneuern, müssen Sie die vollständige Zertifizierungsprüfung erneut ablegen, um erneut zertifiziert zu werden.
 
-Zeigen Sie Ihre aktuellen und abgelaufenen Zertifikate unter dem **Zertifizierung** in der [Adobe Credential Management-System](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+Zeigen Sie Ihre aktuellen und abgelaufenen Zertifikate auf der Registerkarte **Zertifizierungen** im [Adobe Credential Management System](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} an.
 
 ## Wie erneuere ich mein Zertifikat?
 
@@ -34,7 +34,7 @@ Adobe bietet verschiedene Ressourcen und Tools, mit denen Sie Ihre Zertifizierun
 
 ## Wie viel kostet es?
 
-Die meisten Zertifizierungen können erneuert werden **kostenlos**. Einige Zertifizierungen haben noch keine kostenlose Verlängerungsoption. Um diese Zertifizierungen zu verlängern, müssen Sie die vollständige Zertifizierungsprüfung wiederholen.
+Die meisten Zertifizierungen können **kostenlos** erneuert werden. Einige Zertifizierungen haben noch keine kostenlose Verlängerungsoption. Um diese Zertifizierungen zu verlängern, müssen Sie die vollständige Zertifizierungsprüfung wiederholen.
 
 ## Kostenlose Verlängerungsoptionen
 
@@ -57,6 +57,6 @@ Die unter den unten stehenden Links enthaltenen Zertifizierungen können kostenl
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

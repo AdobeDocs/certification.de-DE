@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Experten
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Real-Time Customer Data Platform] Entwicklerexperte
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe-Entwickler-Experte werden. [!DNL Real-Time Customer Data Platform]
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Real-Time Customer Data Platform] Entwicklerexperte
+# Zertifizierungs-Journey für Adobe [!DNL Real-Time Customer Data Platform] Entwickler-Experte
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/246) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/246) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -89,9 +89,9 @@ Sie sollten sich in diesen Umgebungen wohl fühlen:
 
 {{exam-objectives}}
 
-**Datenarchitektur (19 %)**
+**Datenarchitektur (19%)**
 
-* Übersetzen Sie anhand eines Szenarios RDBMS in Adobe [!DNL RT-CDP]NoSQL-Datenmodell von
+* Übersetzen Sie anhand eines Szenarios RDBMS in das NoSQL-Datenmodell von Adobe [!DNL RT-CDP]
 * Best Practices für die Modellierung des Echtzeit-Kundenprofils demonstrieren
 * Erstellen der Identitätsstrategie und der Beziehungen für die Modellierung
 
@@ -120,17 +120,17 @@ Sie sollten sich in diesen Umgebungen wohl fühlen:
 * Erläuterung der Limits bei der Aktivierung
 * Beschreibung der Site-Personalisierung
 
-**Governance (9 %)**
+**Governance (9%)**
 
-* Best Practices für Governance auf der Adobe anwenden [!DNL RT-CDP] Implementierung
+* Best Practices für die Governance in der Adobe [!DNL RT-CDP]-Implementierung anwenden
 * Beschreiben Sie, wie Sie Daten über die verschiedenen Dienste hinweg verwalten.
 
-**Verwaltung (15%)**
+**Administration (15%)**
 
 * Monitoring-Funktionen
 * Warnungen beschreiben
 * Beschreiben der unterschiedlichen Lizenznutzung
-* Beschreiben Sie Anwendungsfälle für die Aktivierung von ABAC innerhalb von Adobe. [!DNL RT-CDP]
+* Beschreiben Sie Anwendungsfälle für die Aktivierung von ABAC innerhalb von Adobe [!DNL RT-CDP]
 
 <br>
 
@@ -152,15 +152,15 @@ Sie sollten sich in diesen Umgebungen wohl fühlen:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/246)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/246)
 
 +++
 
@@ -215,6 +215,6 @@ Sie sollten sich in diesen Umgebungen wohl fühlen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

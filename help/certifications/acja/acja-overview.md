@@ -3,11 +3,11 @@ title: Übersicht über die Customer Journey Analytics-Zertifizierung
 description: Überblick über die Zertifizierungsoptionen für Adobe Customer Journey Analytics
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-exl-id: 44c88dad-f8f0-4b2c-ab5a-ef0d2a498284
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: 8ffdae02-e1b5-4a32-b877-1fbe55c4852e
+source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
 workflow-type: tm+mt
 source-wordcount: '39'
-ht-degree: 10%
+ht-degree: 0%
 
 ---
 
@@ -15,10 +15,10 @@ ht-degree: 10%
 
 **Professional**
 
-* [Business Practitioner](/help/certifications/acja/acja-p-business.md)
+* [Geschäftspraktiker](/help/certifications/acja/acja-p-business.md)
 
-**Experte**
+**Expert**
 
 * [Entwickler](/help/certifications/acja/acja-e-developer.md) <!--AD0-E604-->
 
-Besuchen Sie die [Zertifizierung verlängern](/help/certifications/renew.md) angezeigt, um zu sehen, ob für dieses Produkt eine Verlängerungsoption verfügbar ist.
+Rufen Sie die Seite [Zertifikat erneuern](/help/certifications/renew.md) auf, um zu sehen, ob eine Verlängerungsoption für dieses Produkt verfügbar ist.

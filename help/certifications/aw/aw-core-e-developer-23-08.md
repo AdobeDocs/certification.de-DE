@@ -1,6 +1,6 @@
 ---
 title: Core-Entwicklerexpertenzertifizierung
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte im Adobe werden. [!DNL Workfront].
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Developer-Experte für Adobe [!DNL Workfront] werden.
 solution: Workfront
 role: Developer
 badge: label="Prüfung AD0-E907" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Workfront] Entwicklerexperte
+# Zertifizierungs-Journey für Adobe [!DNL Workfront] Core-Entwickler-Experte
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/241) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/241) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -51,9 +51,9 @@ ht-degree: 0%
 
 ### Minimales Erlebnis {#minimum-experience}
 
-Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]und sollte in der Lage sein,
+Sie sollten mindestens 18 bis 24 Monate Erfahrung mit Adobe [!DNL Workfront] haben und in der Lage sein,
 
-* Navigieren Sie zum [!DNL Workfront] System, wo sich seine Funktionalität befindet
+* Navigieren im System [!DNL Workfront] , um zu verstehen, wo sich seine Funktionalität befindet
 * Alle Systemaspekte konfigurieren
 * Diskutieren Sie mit Kunden über Anforderungen und übersetzen Sie diese in eine praktikable Lösung.
 * Vorhandenen Prozess zur Verbesserung auf kollaborative Weise ausbauen und ändern
@@ -72,11 +72,11 @@ Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]un
 * Identifizieren Sie in einem Szenario, wann ein Gruppenstatus oder ein Systemstatus verwendet werden soll.
 * Zeigen Sie bei einem Datensatz die Funktionen von Kickstarts.
 * Identifizieren Sie in einem Szenario Best Practices für Benutzer, die die automatische Bereitstellung verwenden.
-* In einem Szenario zeigen Sie, wie Gruppen und Teams innerhalb eines Benutzerprofils beeinflussen können, was in [!DNL Workfront].
+* Bei einem Szenario zeigen Sie, wie Gruppen und Teams innerhalb des Benutzerprofils beeinflussen können, was innerhalb von [!DNL Workfront] angezeigt oder getan werden kann.
 * In einem Szenario empfehlen Sie eine Forenkonfiguration, um eine benutzerdefinierte Anforderung zu erfüllen.
 * Identifizieren Sie in einem Szenario Best Practices für die Gruppenverwaltung.
 
-**Abschnitt 2: Aufnahme, benutzerdefinierte Formulare und Projektstart (13 %)**
+**Abschnitt 2: Aufnahme, benutzerdefinierte Formulare und Projektstart (13%)**
 
 * Geben Sie bei einem Szenario die Konfigurationsbereiche an, die zur Unterstützung der Arbeitszuweisungen erforderlich sind.
 * Identifizieren Sie bei einem Szenario, wie ein Wert an ein benutzerdefiniertes Projekt übergeben wird.
@@ -85,7 +85,7 @@ Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]un
 * Bei einem Szenario mit mehreren Formularen bestimmen Sie die Aktionen zur Steuerung von Zugriff, Sichtbarkeit und Abhängigkeit.
 * Geben Sie bei einem Szenario mit berechneten Feldern in Formularen mit mehreren Objekten die richtige Formel an.
 
-**Abschnitt 3: Strategische Funktionalität: Portfolio- und Programmmanagement, Ressourcenmanagement (13%)**
+**Abschnitt 3: Strategische Funktionalität: Portfolio- und Programmverwaltung, Ressourcenverwaltung (13%)**
 
 * Definieren Sie in einem Szenario Tools, um Änderungen am Projektumfang zu erfassen.
 * Erstellen Sie in einem Szenario eine Ansicht, die innerhalb eines Portfolios anzeigt, ob ein Projekt die durchschnittliche Stufe der auszuführenden erforderlichen Kriterien erfüllt.
@@ -94,7 +94,7 @@ Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]un
 * Stellen Sie in einem Szenario einen Mechanismus bereit, um sicherzustellen, dass Projekte mit Tools für die Ressourcenverwaltung voll besetzt sind.
 * Verwenden Sie in einem Szenario Ressourcen-Management-Tools, um zu ermitteln, warum ein Benutzer übergeordnet ist.
 
-**Abschnitt 4: Dokumentenverwaltung und -nachweis (13%)**
+**Abschnitt 4: Dokumentenverwaltung und -prüfung (13%)**
 
 * Zeigen Sie in einem Szenario an, wann Sie das Dokumentenmanagement im Vergleich zum Testversand verwenden.
 * Identifizieren Sie in einem Szenario die Best Practices für die Verwendung der Funktion zum Testen von Viewer, Einstellungen und Markup
@@ -102,32 +102,32 @@ Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]un
 * In einem Szenario zeigen Sie, wie Sie die externe Dokumentenspeicherung mit Sicherheitsbeschränkungen einrichten
 * Richten Sie in einem Szenario eine Verbindung zu AEM as a Cloud Service oder AEM Assets Essentials ein.
 
-**Abschnitt 5: Berichterstattung (11%)**
+**Abschnitt 5: Berichterstellung (11%)**
 
 * Beschreiben Sie in einem Szenario, wie Sie mehrere Datenspalten in einer einzigen Spalte kombinieren können.
 * Zeigen Sie für einen Bericht oder Filter die Vorteile der Verwendung von Platzhalterwerten an.
 * Ermitteln Sie, wie Sie mithilfe nativer Berichte über Beziehungen zwischen über- und untergeordneten Elementen Berichte erstellen.
 * Beschreiben Sie in einem Szenario, wie die Berichterstellung die effiziente Ausführung der Arbeit erleichtert.
-* Beispiel [!DNL Workfront] Berichterstattung zur Überwachung und Verbesserung der Benutzerakzeptanz.
+* In einem Szenario veranschaulichen Sie die [!DNL Workfront] Berichterstellung zur Überwachung und Verbesserung der Benutzerakzeptanz.
 * Legen Sie bei einem Szenario fest, wie ein Feldtyp in einem Bericht dargestellt wird. (Feldtypen umfassen: Rich-Text, Bilder, Mehrfachauswahl)
 
 **Abschnitt 6: Methode/Best Practices/Anwendungsfälle (22%)**
 
-* Bei einem Szenario in [!DNL Workfront], demonstrieren Sie die Funktionalität zum Einrichten des Trackings von Sendungen, die Teil einer Kampagne sind.
-* Bei einem Szenario in [!DNL Workfront], demonstrieren Funktionen rund um die strategische Priorisierung und Rechtfertigung der Arbeit.
-* Bei einem Szenario in [!DNL Workfront], demonstrieren Sie die Funktionalität rund um Finanzen, Nutzung, Prognosen, Abrechnungsraten/Datensätze
-* Bei einem Szenario in [!DNL Workfront], demonstrieren Sie die Funktionen zum Einrichten von Workflows und Genehmigungen.
+* In einem Szenario innerhalb von [!DNL Workfront] zeigen Sie die Funktionalität zum Einrichten des Trackings von Sendungen, die Teil einer einzelnen Kampagne sind.
+* Bei einem Szenario innerhalb von [!DNL Workfront] zeigen Sie die Funktionalität rund um die strategische Priorisierung und Rechtfertigung der Arbeit.
+* Zeigen Sie bei einem Szenario mit [!DNL Workfront] Funktionalität in Bezug auf Finanzen, Nutzung, Prognosen, Abrechnungsraten/Datensätze an.
+* Bei einem Szenario mit [!DNL Workfront] zeigen Sie die Funktionalität zum Einrichten von Workflows und Genehmigungen.
 * In einem Szenario empfehlen Sie ein Framework für Governance rund um die Systemverwaltung, wenn Sie die Instanz eines Kunden erweitern.
 * Identifizieren Sie in einem Szenario Bereiche, die beim Erweitern der Kundeninstanz berücksichtigt werden müssen, damit zusätzliche Teams zusammenarbeiten können.
-* Bei einem Szenario mit [!DNL Workfront] Pinnwände, um den Fortschritt anzuzeigen, native Funktionen zu identifizieren.
+* Identifizieren Sie in einem Szenario mit [!DNL Workfront] Pinnwänden native Funktionen, um den Fortschritt anzuzeigen.
 * In einem Szenario empfehlen Sie ein Framework für Governance rund um die System- und Gruppenverwaltung.
 
 **Abschnitt 7: Unternehmensberatung (11%)**
 
-* Beschreiben Sie in einem Szenario den Prozess, der erforderlich ist, um die Implementierung vollständig zu unterstützen [!DNL Workfront] in einer funktionsübergreifenden Abteilung.
+* Beschreiben Sie in einem Szenario den Prozess, der erforderlich ist, um die Implementierung von [!DNL Workfront] in einer funktionsübergreifenden Abteilung vollständig zu unterstützen.
 * Erläutern Sie in einem Szenario, wie Sie einen vorhandenen Workflow anpassen können, um eine kürzlich erfolgte Änderung in einem kritischen, innovativen Geschäftsprozess zu bewältigen.
 * Identifizieren Sie bei einem Szenario Konfigurationseinstellungen, die am schwierigsten in eine bestimmte Instanz geändert werden können.
-* Ermitteln Sie bei einem Szenario die wichtigsten Aspekte des Änderungsverwaltens für ein [!DNL Workfront] Implementierung
+* Identifizieren Sie bei einem Szenario die wichtigsten Aspekte der Änderungsverwaltung für eine [!DNL Workfront] -Implementierung.
 * In einem Szenario, in dem ein Client mehrere Teams hat, empfehlen Sie, die Effizienz zu erhöhen.
 
 <br>
@@ -158,11 +158,11 @@ Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]un
 
 {{study-materials-intro}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/241)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/241)
 
 <br>
 
@@ -219,6 +219,6 @@ Sie sollten mindestens 18-24 Monate Erfahrung mit Adobe haben [!DNL Workfront]un
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: ArchitekturMaster-Zertifizierung
-description: Erfahren Sie, wie Sie als [!DNL Adobe Analytics] Architekturmeister.
+description: Erfahren Sie, wie Sie als [!DNL Adobe Analytics] Architekturmeister zertifiziert werden.
 solution: Analytics
 product: Analytics
 level: Experienced
@@ -15,13 +15,13 @@ ht-degree: 1%
 
 ---
 
-# Journey für die Zertifizierung [!DNL Adobe Analytics] Architekturmeister
+# Zertifizierungs-Journey für [!DNL Adobe Analytics] Architekt Master
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/223) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/223) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -54,9 +54,9 @@ ht-degree: 1%
 
 ### Minimales Erlebnis {#minimum-experience}
 
-Sie sollten über eine mindestens 3-4-jährige Erfahrung im Entwurf verfügen [!DNL Adobe Analytics] Architektur, Datenschichtspezifikationen und Tag-Management sowie ein grundlegendes Verständnis von JavaScript-Code.
+Sie sollten über eine mindestens 3-4-jährige Erfahrung mit der Entwicklung von [!DNL Adobe Analytics]-Architektur, Datenschichtspezifikationen und Tag-Management sowie grundlegende Kenntnisse des JavaScript-Codes verfügen.
 
-Darüber hinaus sind Sie für die Übersetzung von Geschäftsanforderungen in Tracking-Spezifikationen und [!DNL Adobe Analytics] Variablen und Sie sind mit den folgenden Technologien und Umgebungen vertraut:
+Darüber hinaus sind Sie für die Übersetzung von Geschäftsanforderungen in Tracking-Spezifikationen und [!DNL Adobe Analytics] -Variablen verantwortlich und Sie sind mit den folgenden Technologien und Umgebungen vertraut:
 
 * Web Analytics-Anwendungen
 * Adobe Experience Cloud
@@ -72,7 +72,7 @@ Darüber hinaus sind Sie für die Übersetzung von Geschäftsanforderungen in Tr
 
 {{exam-objectives}}
 
-**Abschnitt 1: Entdeckung (18%)**
+**Abschnitt 1: Erkennung (18%)**
 
 * Nachweis der Fähigkeit zur Prüfung von Sites
 * Untersuchung der Kundenanforderungen zum Erstellen von Geschäftsanforderungen
@@ -87,7 +87,7 @@ Darüber hinaus sind Sie für die Übersetzung von Geschäftsanforderungen in Tr
 * Technische Spezifikationen für Site-Entwickler schreiben
 * Erstellen von Experience Cloud-Benutzern/Gruppen
 
-**Abschnitt 3: Nach der Implementierung (28%)**
+**Abschnitt 3: Post-Implementierung (28 %)**
 
 * Validieren Sie bei einer Reihe von Anforderungen das Tracking über Browser-Entwickler-Tools und Adobe-Berichte
 * Anwenden von Verfahrenskonzepten zur Verwaltung von Datenextraktion und -beziehungen
@@ -115,15 +115,15 @@ Darüber hinaus sind Sie für die Übersetzung von Geschäftsanforderungen in Tr
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/223)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/223)
 
 +++
 
@@ -178,7 +178,7 @@ Darüber hinaus sind Sie für die Übersetzung von Geschäftsanforderungen in Tr
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
 

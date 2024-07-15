@@ -1,6 +1,6 @@
 ---
 title: Architekturleiter - Neues Zertifikat
-description: Erfahren Sie, wie Sie zertifiziert werden [!DNL Adobe Target] Architekturmeister.
+description: Erfahren Sie, wie Sie ein zertifizierter Architekturmeister werden. [!DNL Adobe Target]
 solution: Target
 product: Target
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Journey für die Zertifizierung [!DNL Adobe Target] Architekturmeister
+# Zertifizierungs-Journey für [!DNL Adobe Target] Architekt Master
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/237) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/237) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 Die für diese Zertifizierung vorgesehenen Bewerber umfassen Mitglieder der folgenden Teams/Organisationen:
 
 * Entwickler/Architekt zur Optimierung der Konversionsrate
-* Personalisierungsingenieur/Architekt
+* Personalization-Ingenieur/Architekt
 * Architekten digitaler Lösungen
 * Berater für digitale Transformation
 * Lead zur Erlebnisoptimierung
@@ -61,7 +61,7 @@ Sie sollten über Folgendes verfügen:
 * Mindestens drei Jahre Erfahrung mit der Optimierung des digitalen Marketings
 * Mindestens zweijährige Erfahrung (oder fünf Interaktionen) bei der Implementierung, Bereitstellung und Fehlerbehebung für Adobe Target
 * Integration von Target in Adobe Experience Cloud
-* Grundlegendes zur JavaScript-, HTML-, CSS- und Frontend-Webentwicklung
+* Grundlegendes zu JavaScript, HTML, CSS und Frontend-Webentwicklung
 * Kenntnis/Sensibilisierung für Adobe Target-APIs/SDKs, serverseitige Integration, Reporting und Administration
 * Kenntnisse zur Implementierung von Adobe Target mit Einzelseiten-App-Frameworks (SPA), Mobile und E-Mail sowie Empfehlungen.
 
@@ -95,45 +95,46 @@ Umgebungen:
 
 **Abschnitt 1: [!DNL Adobe Target] Grundlagen (13%)**
 
-* Identifizieren Sie die geeignete [!DNL Adobe Target] Verwendung für ein bestimmtes Szenario
-* Die grundlegenden Technologien eines [!DNL Adobe Target] Implementierung
+* Identifizieren der entsprechenden [!DNL Adobe Target] Verwendung für ein bestimmtes Szenario
+* Die grundlegenden Technologien einer [!DNL Adobe Target] -Implementierung erläutern
 
-**Abschnitt 2: Integration in [!DNL Adobe Target] (18%)**
+**Abschnitt 2: Integrieren mit [!DNL Adobe Target] (18%)**
 
-* Anwenden der Integration [!DNL Adobe Target] mit Adobe Analytics (A4T)
-* Anwenden der Integration [!DNL Adobe Target] zu Adobe Experience Manager
+* Anwenden des Prozesses zur Integration von [!DNL Adobe Target] in Adobe Analytics (A4T)
+* Anwenden des Prozesses zur Integration von [!DNL Adobe Target] in Adobe Experience Manager
 * Integration mit Adobe Experience Cloud-Lösungen und Adobe Experience Platform-Lösungen beschreiben
 * Integration mit Adobe Experience Cloud-Zielgruppen beschreiben
 
-**Abschnitt 3: [!DNL Adobe Target] Verwaltung und Politikgestaltung (6 %)**
+**Abschnitt 3: [!DNL Adobe Target] Verwaltung und Verwaltung (6%)**
 
-* Definieren eines fortlaufenden [!DNL Adobe Target] Implementierungsstrategie und Systemsteuerung
+* Definieren Sie eine fortlaufende [!DNL Adobe Target] Implementierungsstrategie und Systemsteuerung.
 * Anwendung des Prozesses und der Best Practices zur Verwaltung von Benutzern
 * Beschreiben Sie die Verwaltungsaspekte des Implementierungs-Setups
 
-**Abschnitt 4: [!DNL Adobe Target] und unterstützte Touchpoints (6 %)**
+**Abschnitt 4: [!DNL Adobe Target] und unterstützte Touchpoints (6%)**
 
 * Clientseitige Implementierung der Bereitstellung beschreiben
 * Implementierung der serverseitigen Bereitstellung beschreiben
 * Implementierungsanforderungen für Mobilgeräte, E-Mail-Targeting und APIs beschreiben
 
-**Abschnitt 5: Nutzung [!DNL Adobe Target] Empfehlungen (11%)**
+**Abschnitt 5: Nutzen Sie [!DNL Adobe Target] Empfehlungen (11%)**
 
 * Darstellung von Empfehlungen, Katalogen und Kriterien
 * Anwenden des Prozesses zur Konfiguration von Target-Empfehlungen
 
 **Abschnitt 6: Architektur, Design und Implementierung [!DNL Adobe Target] (18%)**
 
-* Wählen Sie die richtige Target-Anforderungsimplementierung (Global, Auftragsbestätigung, Hybrid) aus, bewerten und entwerfen Sie eine [!DNL Adobe Target] Implementierung
-* Beschreiben Sie die Implementierung von [!DNL Adobe Target] in nativen mobilen Apps
+* Wählen Sie die richtige Target-Anforderungsimplementierung aus (Global, Auftragsbestätigung, Hybrid).
+Bewerten und Gestalten einer [!DNL Adobe Target] -Implementierung
+* Beschreibung der Implementierung von [!DNL Adobe Target] in nativen mobilen Apps
 
-**Abschnitt 7: Fehlerbehebung (28 %)**
+**Abschnitt 7: Fehlerbehebung (28%)**
 
 * Fehlerbehebung bei Mbox-Fehlern
 * Fehlerbehebung bei Target-Anforderungs- und -Antwortfehlern
 * Fehlerbehebung bei der Aktivitätseinrichtung
 * Integrationsfehler verstehen
-* Fehlerbehebung [!DNL Adobe Target] Recommendations-Fehler
+* Fehlerbehebung bei [!DNL Adobe Target] Recommendations-Fehlern
 
 <br>
 
@@ -155,15 +156,15 @@ Umgebungen:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/237)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/237)
 
 +++
 
@@ -218,6 +219,6 @@ Umgebungen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

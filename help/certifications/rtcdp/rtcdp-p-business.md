@@ -1,6 +1,6 @@
 ---
 title: Berufliche Zertifizierung
-description: Erfahren Sie, wie Sie zertifiziert werden [!DNL Experience Platform] Professional in [!DNL Real-Time Customer Data Platform]
+description: Erfahren Sie, wie Sie in  [!DNL Real-Time Customer Data Platform] zertifiziert werden. [!DNL Experience Platform]
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Real-Time CDP] Geschäftspraktiker/innen
+# Zertifizierungs-Journey für Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 
 {{intro}}
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 >
 >Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
 >
->* **Kurs:** Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie unsere [Adobe Experience Platform Foundation-Kurs](https://app.rockinfo.com/courses/216) , um Erläuterungen zu Schlüsselkonzepten, Produkt-Durchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
+>* **Kurs:** Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie unseren [Adobe Experience Platform-Gründungskurs](https://app.rockinfo.com/courses/216), um Erklärungen zu Schlüsselkonzepten, Produktdurchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet eine Wissensgrundlage, auf der Sie in Ihrer Zertifizierungs-Journey aufbauen können.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/133) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
+>* **Prüfungsvorbereitungsanleitung:** Das [Prüfungsvorbereitungshandbuch](https://app.rockinfo.com/courses/133) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für Ihre Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
 >
->_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
+>_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -99,15 +99,15 @@ Erlebnis mit Aufgaben, die Folgendes umfassen:
 * DULE-Richtlinien und ihre Auswirkungen auf die Datenverfügbarkeit in Zielen nachvollziehen
 * Gewährleistung der Einhaltung von Datenschutzbestimmungen
 
-**Abschnitt 3: Unternehmensanalyse (30%)**
+**Abschnitt 3: Geschäftsanalyse (30%)**
 
 * Identifizieren von Anwendungsfällen, die mit geschäftlichen KPIs verknüpft sind
 * Datenanalyse zu Kundensegmenten in der Plattform durchführen
 * Grundlagen zu Datenflusskonzepten demonstrieren
 
-**Abschnitt 4: Schemata und Profile (18%)**
+**Abschnitt 4: Schemas und Profile (18%)**
 
-* Adobe [!DNL Experience Platform] Konzepte
+* Adobe [!DNL Experience Platform]-Konzepte
 * Verwenden von Profilfunktionen
 
 <br>
@@ -130,7 +130,7 @@ Erlebnis mit Aufgaben, die Folgendes umfassen:
 
 {{study-materials-intro}}
 
-**Kurs machen**
+**Nehmen Sie einen Kurs vor**
 
 {{take-course}}
 
@@ -141,15 +141,15 @@ Erlebnis mit Aufgaben, die Folgendes umfassen:
 </span>
 </a>
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/133)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/133)
 
 
 +++
@@ -205,6 +205,6 @@ Erlebnis mit Aufgaben, die Folgendes umfassen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

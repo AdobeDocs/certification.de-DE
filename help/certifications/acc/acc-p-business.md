@@ -1,6 +1,6 @@
 ---
 title: Berufliche Zertifizierung durch Business Practice
-description: Erfahren Sie, wie Sie Adobe Business Practitioner in [!DNL Campaign Classic].
+description: Erfahren Sie, wie Sie in [!DNL Campaign Classic] zertifizierter Adobe Business Practitioner werden.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Geschäftspraktiker/innen
+# Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Business Practitioner Professional
 
 {{intro}}
 
@@ -72,7 +72,7 @@ Sie sollten über Folgendes verfügen:
 
 {{exam-objectives}}
 
-**Prüfungsziele und -umfang**
+**Prüfungsziele und -bereich**
 
 **Abschnitt 1: Erstellen einer Kampagne (29%)**
 
@@ -113,7 +113,7 @@ Sie sollten über Folgendes verfügen:
 * Festlegen, wo/wie Versandinhalt und Personalisierung getestet werden sollen
 * Unterscheiden Sie zwischen den verschiedenen Versandstatus, die während der Verarbeitung auftreten, und wenden Sie Aktionen an.
 
-**Abschnitt 5: Verwaltung und Berichterstattung (7%)**
+**Abschnitt 5: Verwaltung und Berichterstellung (7%)**
 
 * Ermitteln allgemeiner OOTB-Berichte und deren Zugriffsmöglichkeiten
 * Bestimmen, welcher OOTB-Bericht basierend auf Berichtsanforderungen benötigt wird
@@ -154,7 +154,7 @@ Sie sollten über Folgendes verfügen:
 * [Kommunikationskanäle](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
 * [Erste Schritte mit Marketing-Kampagnen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=de){target="_blank"}
 * [Erste Schritte mit der Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de){target="_blank"}
-* [Marketingkampagnen erstellen und ausführen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
+* [Entwerfen und Ausführen von Marketing-Kampagnen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 * [Über Vorlagen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=de){target="_blank"}
 
 **Abschnitt 2: Workflow-Management und Plattformfunktionen**
@@ -167,7 +167,7 @@ Sie sollten über Folgendes verfügen:
 
 **Abschnitt 3: Datenvorgänge**
 
-* [Adobe Campaign Workspace](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=de){target="_blank"}
+* [Adobe Campaign-Arbeitsbereich](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=de){target="_blank"}
 * [Erste Schritte mit Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=de){target="_blank"}
 * [Zielgruppenbestimmungsaktivitäten in Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=de){target="_blank"}
 * [Erste Schritte mit Profilen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html?lang=de){target="_blank"}
@@ -181,19 +181,19 @@ Sie sollten über Folgendes verfügen:
 * [Über Testadressen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html?lang=de){target="_blank"}
 * [Erste Schritte mit dem Nachrichten-Tracking](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=de){target="_blank"}
 * [Erste Schritte mit der Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de){target="_blank"}
-* [Marketingkampagnen erstellen und ausführen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
+* [Entwerfen und Ausführen von Marketing-Kampagnen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 
-**Abschnitt 5: Verwaltung und Berichterstattung**
+**Abschnitt 5: Verwaltung und Berichterstellung**
 
 * [Über Versandberichte](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
-* [Erste Schritte mit Reporting](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=de#reporting){target="_blank"}
-* [Erste Schritte mit dem Versand-Monitoring](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=de){target="_blank"}
-* [Erste Schritte mit der deskriptiven Analyse](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=de){target="_blank"}
+* [Erste Schritte mit der Berichterstellung](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=de#reporting){target="_blank"}
+* [Erste Schritte mit der Versandüberwachung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=de){target="_blank"}
+* [Erste Schritte mit der beschreibenden Analyse](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=de){target="_blank"}
 * [Erste Schritte mit Berechtigungen](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=de#getting-started){target="_blank"}
 
 <br>
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
@@ -250,6 +250,6 @@ Sie sollten über Folgendes verfügen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

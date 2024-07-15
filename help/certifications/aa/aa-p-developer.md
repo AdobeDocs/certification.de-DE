@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung für Entwickler
-description: Erfahren Sie, wie Sie als [!DNL Adobe Analytics] Entwickler Professional.
+description: Erfahren Sie, wie Sie als [!DNL Adobe Analytics] Entwickler-Professional zertifiziert werden.
 solution: Analytics
 product: Analytics
 role: Developer
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Journey für die Zertifizierung [!DNL Adobe Analytics] Entwickler Professional
+# Zertifizierungs-Journey für [!DNL Adobe Analytics] Developer Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/217) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/217) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -53,22 +53,22 @@ ht-degree: 0%
 
 Sie sollten über Folgendes verfügen:
 
-* 6-12 Monate Erfahrung in [!DNL Adobe Analytics] Implementierung (Web und mobile App)
+* 6-12 Monate Erfahrung bei der Implementierung von [!DNL Adobe Analytics] (Web und mobile App)
 * Erfahrung, die die Analytics-Implementierungsteams bei der Verbindung zwischen IT und Unternehmen unterstützt, um zu verstehen, wie die Geschäftsanforderungen in eine technische Lösung (SDR) überführt werden und auf den Anforderungen des Analytikers basieren.
 * Grundlegendes zu dem erforderlichen Variablentyp, wo und wie die Daten erfasst, das Datenmodell (Datenschicht) entworfen, konfiguriert und gepflegt werden.
 
 Außerdem sollten Sie Erfahrung mit den folgenden Aufgaben haben:
 
-* Interpretieren eines Lösungsdesigndokuments (SDR) und Verstehen des Zwecks aller [!DNL Adobe Analytics] erfasste Variablen
+* Interpretieren eines Lösungsdesign-Dokuments (SDR) und Verstehen des Zwecks aller erfassten [!DNL Adobe Analytics]-Variablen
 * Verstehen und Arbeiten mit Adobe (Experience Platform) Launch
-* Grundlegende Konfiguration [!DNL Adobe Analytics] Dimensionen und Ereignisse Seitenname, Linkname, Activity Map usw., aber mit erfahrenen Entwicklern für mehr Kundenimplementierungen zusammenarbeiten - Variablenzuordnung ist weiterhin Eigentum von Entwicklern auf Expertenebene
+* Grundlegendes zur Konfiguration der grundlegenden [!DNL Adobe Analytics]-Dimensionen und -Ereignisse Seitenname, Linkname, Activity Map usw., arbeitet jedoch mit erfahrenen Entwicklern zusammen, um mehr Kundenimplementierungen zu erhalten - Variablenzuordnung ist weiterhin Eigentum von Entwicklern auf Expertenebene
 * Erstellen und Konfigurieren von Regeln in Launch entsprechend dem von einem AA-Experten bereitgestellten Entwurf
 * Testen und Validieren der in Variablen erfassten Daten und Ereignisse, die durch die Nutzung von Web Console-Debuggern oder mobilen App-Systemen wie Charles-Protokollen ausgelöst werden
 * Grundlegendes zu Datenschichten und Lesen von JavaScript-Objekten
 * Freigeben von Berichten, Segmenten und dem Prozess zum Anfordern von Zugriff, jedoch nicht zum Verwalten von Benutzergruppen, Governance-Protokollen und Verwalten der SDR.
 * Anleitung und Konfiguration der mobilen/SDK-Lösung
 * Grundlegendes zum allgemeinen Framework für die (ereignisbasierte) Videoverfolgung anhand der Dokumentation zur Wissensdatenbank
-* Grundlegende Berichterstellung aus Analysis Workspace und Verständnis der in der Variablen [!DNL Adobe Analytics] Data Warehouse
+* Grundlegende Berichterstellung über Analysis Workspace und Verständnis der in der Data Warehouse [!DNL Adobe Analytics] verfügbaren Datenausgaben
 * Grundlegendes Erlebnis mit Adobe Experience Platform Launch (Adobe Launch)
 
 <br>
@@ -77,11 +77,11 @@ Außerdem sollten Sie Erfahrung mit den folgenden Aufgaben haben:
 
 {{exam-objectives}}
 
-**Abschnitt 1: Analytics im Ökosystem der Adobe Experience Cloud (14 %)**
+**Abschnitt 1: Analytics im Adobe Experience Cloud-Ökosystem (14 %)**
 
 * Identifizieren Sie Funktionen und Funktionen der Adobe Experience Cloud ID.
 * Identifizieren Sie die Verwendung von für Adobe Launch.
-* Ermitteln, wie Sie diese Funktion aktivieren/unterstützen [!DNL Adobe Analytics] Tags im Adobe Experience Cloud-Ökosystem.
+* Ermitteln Sie, wie Sie [!DNL Adobe Analytics] -Tags im Adobe Experience Cloud-Ökosystem aktivieren/unterstützen.
 
 **Abschnitt 2: Analytics-Strategie und -Design basierend auf einer SDR (12 %)**
 
@@ -90,10 +90,10 @@ Außerdem sollten Sie Erfahrung mit den folgenden Aufgaben haben:
 
 **Abschnitt 3: Analytics-Implementierung und -Konfiguration (30 %)**
 
-* Identifizieren der Schritte für die Bereitstellung [!DNL Adobe Analytics] Code.
+* Identifizieren Sie die Schritte zur Bereitstellung von [!DNL Adobe Analytics] Code.
 * Identifizieren Sie Funktionen mit minimalem Bereitstellungscode für das Analytics-Tracking.
-* Identifizieren Sie die Schritte zum Konfigurieren verschiedener Komponenten in [!DNL Adobe Analytics] Benutzeroberfläche.
-* Identifizieren von Funktionen von [!DNL Adobe Analytics] Report Suite- und Variableneinstellungen.
+* Identifizieren Sie die Schritte zum Konfigurieren verschiedener Komponenten in der Benutzeroberfläche von [!DNL Adobe Analytics].
+* Ermitteln Sie die Funktionen der Report Suite- und Variableneinstellungen von [!DNL Adobe Analytics] .
 * Identifizieren Sie die Eigenschaften einer Datenschicht und Datenschichtwerte.
 * Identifizieren Sie App Measurement-Funktionen für Tracking-Funktionen wie Linktracking und E-Commerce-Tracking.
 
@@ -104,17 +104,17 @@ Außerdem sollten Sie Erfahrung mit den folgenden Aufgaben haben:
 * Identifizieren Sie in einem Szenario, wie Sie Erweiterungen in Adobe Launch aktivieren, ändern und beheben können.
 * Ermitteln Sie, wie Sie Regeln und Datenelemente erstellen.
 
-**Abschnitt 5: Bestandteile von [!DNL Adobe Analytics] (8%)**
+**Abschnitt 5: Komponenten von [!DNL Adobe Analytics] (8%)**
 
-* Identifizieren der Funktionen von [!DNL Adobe Analytics] API (Data Feed, Warehouse, Datenquellen, Berichte).
+* Identifizieren Sie die Funktionen der [!DNL Adobe Analytics]-API (Data Feed, Warehouse, Datenquellen, Berichte).
 * Identifizieren Sie die Merkmale der Verarbeitungsregeln.
 
-**Abschnitt 6: Tests, Validierung und Fehlerbehebung (18 %)**
+**Abschnitt 6: Tests, Validierung und Fehlerbehebung (18%)**
 
 * Ermitteln Sie die Bedeutung häufiger JavaScript-Fehler.
-* Die Bedeutung des gemeinsamen [!DNL Adobe Analytics] Variablenfehler.
+* Ermitteln Sie die Bedeutung der allgemeinen [!DNL Adobe Analytics]-Variablenfehler.
 * Identifizieren Sie in einem Szenario Best Practices für Tests und Debugging-Validierung, die befolgt werden sollten.
-* Identifizieren, wie Sie eine [!DNL Adobe Analytics] Server-Aufruf (d. h. Von der Beacon-Anforderung bis zur Anzeige im Bericht.)
+* Ermitteln Sie, wie Sie einen [!DNL Adobe Analytics] -Server-Aufruf (d. h. Von der Beacon-Anforderung bis zur Anzeige im Bericht.)
 
 <br>
 
@@ -144,11 +144,11 @@ Außerdem sollten Sie Erfahrung mit den folgenden Aufgaben haben:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
@@ -207,7 +207,7 @@ Außerdem sollten Sie Erfahrung mit den folgenden Aufgaben haben:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
 

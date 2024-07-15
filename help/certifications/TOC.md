@@ -1,11 +1,11 @@
 ---
 user-guide-title: Zertifizierung bei Adobe
 breadcrumb-title: Zertifizierung bei Adobe
-user-guide-description: Informationen zu [!DNL Experience Cloud] Zertifizierung bei Adobe. Finden Sie heraus, was eine Zertifizierung für Sie bedeuten kann.
+user-guide-description: Erfahren Sie mehr über die Zertifizierung unter Adobe.  [!DNL Experience Cloud]  Finden Sie heraus, was eine Zertifizierung für Sie bedeuten kann.
 source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 33%
+ht-degree: 28%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 33%
 + [Zertifizierung verlängern](renew.md)
 + Technische Zertifizierungen nach Lösung {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
-      + [Advertising-Übersicht](/help/certifications/aac/aac-overview.md)
+      + [Übersicht über Advertising](/help/certifications/aac/aac-overview.md)
       + Professional {#aac-professional}
          + [Geschäftspraktiker (Suche)](/help/certifications/aac/aac-search-p-business.md)
          + [Business Practice (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
@@ -145,7 +145,7 @@ ht-degree: 33%
       + [Verlängerung](/help/certifications/aw/aw-renew.md)
    + [Von ADLS bereitgestellte qualifizierte Prüfungen](https://learning.adobe.com/certification/credentials)
 + [Häufig gestellte Fragen](faq.md)
-+ Ausgeblendet {#hidden}
++ Ausgeblendete {#hidden}
    + [Zertifizierungsprüfung zur erneuten Berechtigungsprüfung](exam-eligibility-check.md)
    + [Überblick über Experience Platform](/help/certifications/aep/aep-overview.md)
    + [Entwickler)](/help/certifications/aep/aep-e-foundations.md)

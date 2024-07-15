@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Experten
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Journey Optimizer] Entwicklerexperte.
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe [!DNL Journey Optimizer] Entwickler-Experte werden.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Journey Optimizer] Entwicklerexperte
+# Zertifizierungs-Journey für Adobe [!DNL Journey Optimizer] Entwickler-Experte
 
 {{intro}}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
 >
->* **Kurs:** Die kostenlose On-Demand [Adobe Journey Optimizer-Expertenkurs](https://app.rockinfo.com/courses/147) enthält Erläuterungen zu Schlüsselkonzepten, praxisorientierten Demonstrationen und Wissenstests.
+>* **Kurs:** Der kostenlose On-Demand-Kurs [Adobe Journey Optimizer Developer Expert Course](https://app.rockinfo.com/courses/147) enthält Erläuterungen zu Schlüsselkonzepten, praktischen Demonstrationen und Wissensprüfungen.
 >
->* **Leitfaden zur Prüfungsvorbereitung:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/143) bietet Ihnen einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der ausführlichen Studienmaterialien, die Sie für eine erfolgreiche Prüfung benötigen.
+>* **Prüfungsvorbereitungsanleitung:** Der [Prüfungsvorbereitungshandbuch](https://app.rockinfo.com/courses/143) bietet einen maßgeschneiderten Pfad durch Ihren Prüfungsvorbereitungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie für eine erfolgreiche Prüfung benötigen.
 >
->_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
+>_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -82,7 +82,7 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 * Beschreiben Sie das Konzept der Sandbox und wie die Daten in Geschäftseinheiten verwendet werden können
 * Verstehen der Kanalverwaltung
 * Bestimmen Sie die geeignete Anwendung von Ereignissen/Aktionen/Datenquellen.
-* Identifizieren Sie, wann AJO-spezifische APIs verwendet werden sollen - Einschränkungen, Unterdrücken, Objektkopie, Ausführung interaktiver Nachrichten
+* Ermitteln Sie, wann AJO-spezifische APIs verwendet werden sollen - Einschränken, Begrenzen, Unterdrücken, Objektkopie, Ausführung interaktiver Nachrichten
 
 **Abschnitt 2: Journey Orchestration (22%)**
 
@@ -99,7 +99,7 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 * Anwenden des Prozesses zum Erstellen von Entscheidungen
 * Anwenden des Prozesses zum Hinzufügen von Angeboten auf verschiedenen Kanälen
 
-**Abschnitt 4: Inhaltserstellung (22%)**
+**Abschnitt 4: Inhaltsbearbeitung (22%)**
 
 * Erstellen von E-Mails, SMS, In-App-Nachrichten und Push-Benachrichtigungen
 * Helper-Funktionen und Personalisierungssyntax interpretieren, um anzuzeigen, was angezeigt wird
@@ -133,21 +133,21 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 
 {{study-materials-intro}}
 
-**Kurs machen**
+**Nehmen Sie einen Kurs vor**
 
 {{take-course}}
 
-[Adobe Journey Optimizer-Expertenkurs besuchen](https://app.rockinfo.com/courses/147)
+[Nehmen Sie den Adobe Journey Optimizer-Entwickler-Expertenkurs](https://app.rockinfo.com/courses/147)
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/143)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/143)
 
 +++
 
@@ -202,6 +202,6 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

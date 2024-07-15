@@ -1,6 +1,6 @@
 ---
 title: Berufliche Zertifizierung durch Business Practice
-description: Erfahren Sie, wie Sie als [!DNL Adobe Analytics] Geschäftspraktiker.
+description: Erfahren Sie, wie Sie als [!DNL Adobe Analytics] Business Practitioner-Profi zertifiziert werden.
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Analytics] Geschäftspraktiker/innen
+# Zertifizierungs-Journey für Adobe [!DNL Analytics] Business Practitioner Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/145) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/145) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ### Minimales Erlebnis {#minimum-experience}
 
-Sie sollten über mindestens 3 Monate Erfahrung in [!DNL Adobe Analytics] und das folgende Erlebnis:
+Sie sollten über ein mindestens dreimonatiges Erlebnis in [!DNL Adobe Analytics] und das folgende Erlebnis verfügen:
 
 * Ein Marketing-Hintergrund oder stammt aus einer Marketing-Rolle, kann aber aus einer Vielzahl von Jobrollen stammen.
 * Grundlegende Kenntnis der Metriken und Dimensionen der digitalen Analyse.
@@ -70,7 +70,7 @@ Sie sollten über mindestens 3 Monate Erfahrung in [!DNL Adobe Analytics] und da
 
 {{exam-objectives}}
 
-**Abschnitt 1: Unternehmensanalyse (34%)**
+**Abschnitt 1: Geschäftsanalyse (34%)**
 
 * Geben Sie bei geschäftlichen Anforderungen/Fragen eine geeignete Berichtsstrategie für eine Analyse an
 * Daten zur Beantwortung von Geschäftsfragen analysieren
@@ -79,7 +79,7 @@ Sie sollten über mindestens 3 Monate Erfahrung in [!DNL Adobe Analytics] und da
 * Zusammenfassende Analyse der Berichtsdaten und Erarbeitung von Schlussfolgerungen
 * Erkennung von Ausreißern und Anomalien in Berichten
 
-**Abschnitt 2: Berichterstattung und Dashboards für Projekte (38%)**
+**Abschnitt 2: Berichterstellung und Dashboards für Projekte (38%)**
 
 * Beachten Sie die Vorteile der Verwendung spezifischer Visualisierungen auf der Basis eines bestimmten Szenarios.
 * Fallout- und Flussvisualisierung vergleichen
@@ -98,8 +98,8 @@ Sie sollten über mindestens 3 Monate Erfahrung in [!DNL Adobe Analytics] und da
 
 **Abschnitt 4: Allgemeine Kenntnisse über Tools und Fehlerbehebung (9%)**
 
-* Verstehen verschiedener Typen von Dimensionen und Parametern, die in vorhanden sind [!DNL Adobe Analytics] (eVars, Eigenschaften und Ereignisse)
-* Festlegen, wie Daten exportiert werden sollen [!DNL Adobe Analytics]
+* Verstehen verschiedener Typen von Dimensionen und Parametern, die in [!DNL Adobe Analytics] vorhanden sind (eVars, Props und Ereignisse)
+* Ermitteln, wie Daten aus [!DNL Adobe Analytics] exportiert werden
 
 <br>
 
@@ -129,11 +129,11 @@ Sie sollten über mindestens 3 Monate Erfahrung in [!DNL Adobe Analytics] und da
 
 {{study-materials-intro}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/145)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/145)
 
 **Beispielfragen**
 
@@ -199,6 +199,6 @@ Sie sollten über mindestens 3 Monate Erfahrung in [!DNL Adobe Analytics] und da
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

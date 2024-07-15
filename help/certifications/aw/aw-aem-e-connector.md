@@ -1,6 +1,6 @@
 ---
 title: Verbesserte Connector-Expertenzertifizierung
-description: Erfahren Sie, wie Sie in Adobe eine zertifizierte Adobe Certified Expert werden. [!DNL Workfront] für [!DNL Experience Manager]
+description: Erfahren Sie, wie Sie in Adobe [!DNL Workfront] für [!DNL Experience Manager] eine zertifizierte Adobe Certified Expert werden.
 solution: Workfront
 role: Developer
 badge: label="Prüfung AD0-E906" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Workfront] für [!DNL Experience Manager] Verbesserter Connector-Experte
+# Certification Journey für Adobe [!DNL Workfront] für [!DNL Experience Manager] Enhanced Connector Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/244) bietet einen maßgeschneiderten Pfad durch Ihren Zertifizierungsprüfungsprozess, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/244) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -54,7 +54,7 @@ Sie sollten eines oder mehrere der folgenden Zertifikate erworben haben:
 
 * AEM Assets Developer Certified Expert
 * AEM Sites Developer Certified Expert
-* [!DNL Workfront] Grundlegender zertifizierter Entwickler
+* [!DNL Workfront] zertifizierter Kernentwickler-Experte
 
 Und Sie sollten:
 
@@ -75,10 +75,10 @@ Und Sie sollten:
 
 **Abschnitt 1: Technische Anforderungen (25%)**
 
-* Verwendung [!DNL Workfront] Benutzerdefinierte Forms
+* Verwenden Sie [!DNL Workfront] Custom Forms
 * In einem Szenario wird die Dokumentenverwaltung demonstriert
 * Demonstration der Kenntnisse zur Förderung von Code in allen Umgebungen
-* Identifizieren Sie bei einem Szenario, wie Werte an übergeben werden. [!DNL Workfront] benutzerdefinierte Formulare
+* Identifizieren Sie bei einem Szenario, wie Werte an benutzerdefinierte Formulare von [!DNL Workfront] übergeben werden.
 * Fehlerbehebung für serverseitigen Code
 
 **Abschnitt 2: Konfiguration (26%)**
@@ -91,10 +91,10 @@ Und Sie sollten:
 **Abschnitt 3: Geschäftspraktiken (21%)**
 
 * Interpretieren der Kundenanforderungen, um die entsprechenden Workflow-Strategien zu empfehlen
-* Veranschaulichen der Einrichtung [!DNL Workfront] Genehmigungs- und Testversandarbeitsabläufe
+* Demonstration der Einrichtung von Workflows zur Genehmigung und zum Testen von [!DNL Workfront]
 * Identifizieren Sie in einem Szenario die Best Practices für die Verwendung der Funktion zum Testen von Viewer, Einstellungen und Markup
 * Nachweis eines Verständnisses für das Tracking von Sendungen im Rahmen der Kampagnenverwaltung
-* Ermitteln Sie bei einem Szenario die wichtigsten Aspekte des Änderungsverwaltens für ein [!DNL Workfront] Implementierung
+* Identifizieren Sie bei einem Szenario die wichtigsten Aspekte der Änderungsverwaltung für eine [!DNL Workfront] -Implementierung.
 
 **Abschnitt 4: Installation und Konfiguration des Connectors (28%)**
 
@@ -121,11 +121,11 @@ Und Sie sollten:
 
 {{study-materials-intro}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/244)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/244)
 
 **Beispielfragen**
 
@@ -186,6 +186,6 @@ Und Sie sollten:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

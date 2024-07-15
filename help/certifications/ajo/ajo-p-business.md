@@ -1,6 +1,6 @@
 ---
 title: Berufliche Zertifizierung
-description: Erfahren Sie, wie Sie eine zertifizierte Adobe werden [!DNL Journey Optimizer] Business Practitioner Professional.
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe [!DNL Journey Optimizer] Business Practitioner Professional werden.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Journey Optimizer] Geschäftspraktiker/innen
+# Zertifizierungs-Journey für Adobe [!DNL Journey Optimizer] Business Practitioner Professional
 
 {{intro}}
 
@@ -21,12 +21,12 @@ ht-degree: 0%
 >
 >Kostenlose On-Demand-Kurse sind jetzt verfügbar, um Sie bei der Vorbereitung auf Ihre Prüfung zu unterstützen. Beginnen Sie noch heute mit dem Journey, indem Sie den Kurs auswählen, der am besten zu Ihrem Erlebnislevel passt!
 >
->* Die [Adobe Experience Platform Foundation-Kurs](https://app.rockinfo.com/courses/216) führt Adobe Experience Cloud ein, eine End-to-End-Suite mit Digital Marketing-Tools, die auf der einzigen Plattform für skalierte Personalisierung basieren.
->* Die [Adobe Journey Optimizer Foundation-Kurs](https://app.rockinfo.com/courses/113) bietet eine Wissensgrundlage über diese spezifische Anwendung.
->* Die [Adobe Journey Optimizer Business Practices Professional-Kurs](https://app.rockinfo.com/courses/107) baut auf dem Gründungskurs auf und hilft Ihnen bei der Vorbereitung auf die Zertifizierungsprüfung auf professioneller Ebene.
->* Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/232) bietet einen maßgeschneiderten Weg durch den Vorbereitungsprozess Ihrer Prüfung, einschließlich der Materialien, die Sie benötigen, um erfolgreich in Ihrer Prüfung sein zu können.
+>* Im [Adobe Experience Platform Foundation Kurs](https://app.rockinfo.com/courses/216) wird Adobe Experience Cloud vorgestellt, eine durchgängige Suite mit digitalen Marketingwerkzeugen, die auf der einzigen Plattform für skalierte Personalisierung basieren.
+>* Der [Adobe Journey Optimizer-Gründungskurs](https://app.rockinfo.com/courses/113) bietet eine Wissensgrundlage zu dieser speziellen Anwendung.
+>* Der [Adobe Journey Optimizer Business Practitioner Professional Kurs](https://app.rockinfo.com/courses/107) baut auf dem Foundation-Kurs auf und hilft Ihnen bei der Vorbereitung auf die Zertifizierungsprüfung auf professioneller Ebene.
+>* Der [Prüfungsvorbereitung-Leitfaden](https://app.rockinfo.com/courses/232) bietet einen maßgeschneiderten Pfad durch Ihren Prüfungsvorbereitungsprozess, einschließlich der Materialien, die Sie für eine erfolgreiche Prüfung benötigen.
 >
->_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihre Adobe ID._
+>_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ### Vorgesehene Zielgruppe {#intended-audience}
 
-* Adobe [!DNL Journey Optimizer] Unternehmensberater
+* Adobe [!DNL Journey Optimizer] Geschäftsberater
 * Marketing-Experte
 * Geschäftsbereich Marketing-Automatisierung
 * Campaign Manager
@@ -75,7 +75,7 @@ Die Bewerber sollten in der Lage sein,
 * Abonnementlisten verwenden
 * Profilattribute und -ereignisse überprüfen (Profil in die Benutzeroberfläche laden)
 * Landingpages verstehen und verwenden
-* Verstehen Sie, wann Sie verschiedene Journey-Kampagnentypen verwenden und die Funktion &quot;Kampagnen&quot;in Adobe nutzen können. [!DNL Journey Optimizer] zum Erstellen eines einmaligen E-Mail-Schnellstarts
+* Erfahren Sie, wann Sie verschiedene Kampagnentypen verwenden und die Funktion &quot;Kampagnen&quot;in Adobe [!DNL Journey Optimizer] nutzen können, um einen einmaligen E-Mail-Versand zu erstellen.
 * Die Funktionen von Datenquelle, Ereignissen und Aktionen
 * Überwachen und überprüfen Sie Journey-Berichte, um Probleme mit E-Mail-Interaktionen/Absprünge/Fehlerrate/Spam-Raten/Domänen zu verfolgen.
 * Erstellen und Überprüfen grundlegender Segmentkriterien
@@ -96,7 +96,7 @@ Die Bewerber sollten auch in der Lage sein,
 
 * Erstellen einer Zielgruppe (mit dem neuen Audience Composer)
 * Importieren einer Zielgruppe (Hochladen einer CSV-Zielgruppe)
-* HTML für E-Mail hochladen und automatisch konvertieren (neuer HTML-Konverter)
+* HTML für E-Mail hochladen und automatisch konvertieren  (neuer HTML-Konverter)
 * Erstellen eines Inhaltsexperiments
 * Messen der Ergebnisse eines Inhaltsexperiments
 * Journey, Kampagnen und mehr taggen/filtern/suchen
@@ -173,23 +173,23 @@ Die Bewerber sollten auch in der Lage sein,
 
 {{study-materials-intro}}
 
-**Kurs machen**
+**Nehmen Sie einen Kurs vor**
 
 {{take-course}}
 
-[Kurs &quot;Adobe Experience Platform Foundation&quot;](https://app.rockinfo.com/courses/216){target="_blank"}
-[Kurs &quot;Adobe Journey Optimizer Foundation&quot;](https://app.rockinfo.com/courses/113){target="_blank"}
-[Nehmen Sie den Adobe Journey Optimizer Business Practices Professional Kurs](https://app.rockinfo.com/courses/107){target="_blank"}
+[Nehmen Sie den Adobe Experience Platform-Gründungskurs](https://app.rockinfo.com/courses/216){target="_blank"}
+[Nehmen Sie den Adobe Journey Optimizer-Gründungskurs](https://app.rockinfo.com/courses/113){target="_blank"}
+[Nehmen Sie den Adobe Journey Optimizer Business Practitioner Professional Kurs auf ](https://app.rockinfo.com/courses/107){target="_blank"}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/232)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/232)
 
 +++
 
@@ -244,7 +244,7 @@ Die Bewerber sollten auch in der Lage sein,
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
 

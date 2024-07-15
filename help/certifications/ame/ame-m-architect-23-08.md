@@ -1,6 +1,6 @@
 ---
 title: ArchitekturMaster-Zertifizierung
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Architect Master in Adobe werden. [!DNL Marketo Engage].
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Architect Master in Adobe [!DNL Marketo Engage] werden.
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Marketo Engage] Architekturmeister
+# Zertifizierungs-Journey für Adobe [!DNL Marketo Engage] Architekt Master
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/248) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/248) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für Ihre Zertifizierungsprüfung, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Diese Zertifizierung ist Voraussetzung. Sie MÜSSEN über eine aktive (nicht abgelaufene) Adobe verfügen [!DNL Marketo Engage] Geschäftspraktiker **Expert** Zertifizierung für die Adobe [!DNL Marketo Engage] Architekten-Master-Prüfung.
+>Diese Zertifizierung ist Voraussetzung. Sie benötigen eine aktive (nicht abgelaufene) Adobe [!DNL Marketo Engage] Business Practitioner **Expert**-Zertifizierung, um die Adobe [!DNL Marketo Engage] Architect Master-Prüfung ablegen zu können.
 
-* Voraussetzung: Aktive (nicht abgelaufene) Adobe [!DNL Marketo Engage] Zertifizierung durch Geschäftspraktiker
+* Voraussetzung: Aktive (nicht abgelaufene) Adobe [!DNL Marketo Engage] Business Practitioner Expert Certification
 * Stufe: Master (3-5 Jahre Erfahrung)
 * Praktische Zertifizierung
 * Übergeben der Punktzahl: 32/50
@@ -96,7 +96,7 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 * Legen Sie bei einem geänderten Prozess fest, wer die Aktivierung und einen effizienten Rollout-Plan für die Aktivierung benötigt
 * Bewerten einer Prüfung und Empfehlungen für Prioritäten und Zeitpläne
 
-**Abschnitt 2: Marketo Engage-Architekturdesign (48%)**
+**Abschnitt 2: Marketo Engage Architecture Design (48%)**
 
 * Anforderungen/Anforderungen sammeln und Lead-Management und Lebenszyklusdesign empfehlen
 * Überprüfen Sie die vorhandene Implementierung und geben Sie Ergebnisse an.
@@ -108,7 +108,7 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 * In einem Szenario skizzieren Sie verschiedene Phasen des Personenlebenszyklus, die von vorgeschlagenen Änderungen/Anforderungen betroffen sind
 * Anforderungssätze bewerten und Kampagnenlogik empfehlen
 
-**Abschnitt 3: Berichterstellung und Attribution (20 %)**
+**Abschnitt 3: Berichterstellung und Zuordnung (20%)**
 
 * Wenn Sie ein zu überprüfendes Modell erhalten, erläutern Sie das Konzept der Umwege im Lebenszyklusmodell
 * Wenn Sie eine Online-Werbung oder organische Social- oder Content-Inhalte haben, empfehlen Sie einen Reporting-Ansatz
@@ -118,7 +118,7 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 * Identifizieren und Beschreiben der Vor- und Nachteile verschiedener Attributionsmodelle
 * Beschreiben Sie die Auswirkungen des für die Berichterstellung eingerichteten Kanals im Hinblick auf eine geschäftliche Anforderung.
 
-**Abschnitt 4: Fortgeschrittene Vorgänge (16%)**
+**Abschnitt 4: Erweiterte Vorgänge (16%)**
 
 * Geben Sie in einem Szenario geeignete Schritte an, um die Verwaltung oder Governance zu verbessern.
 * Bei einer Reihe von Anforderungen empfehlen Sie ein effizientes Datenschema.
@@ -155,15 +155,15 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 
 {{study-materials-intro}}
 
-**Einen Praxistest durchführen**
+**Durchführen eines Praxistests**
 
 {{practice-test}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/248)
+[Prüfungsvorbereitungsanleitung](https://app.rockinfo.com/courses/248)
 
 +++
 
@@ -193,7 +193,7 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 
 >[!IMPORTANT]
 >
->Diese Zertifizierung ist Voraussetzung. Sie MÜSSEN über eine aktive (nicht abgelaufene) Adobe verfügen [!DNL Marketo Engage] Geschäftspraktiker **Expert** Zertifizierung für die Adobe [!DNL Marketo Engage] Architekten-Master-Prüfung.
+>Diese Zertifizierung ist Voraussetzung. Sie müssen über eine aktive (nicht abgelaufene) Adobe [!DNL Marketo Engage] Business Practitioner **Expert**-Zertifizierung verfügen, um die Meisterprüfung für Adobe [!DNL Marketo Engage] Architect ablegen zu können.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -222,6 +222,6 @@ Außerdem sollten Sie mit den folgenden Tools und Technologien vertraut sein:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.

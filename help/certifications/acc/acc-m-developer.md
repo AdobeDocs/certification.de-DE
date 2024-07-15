@@ -1,6 +1,6 @@
 ---
 title: ArchitekturMaster-Zertifizierung
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Architect Master in [!DNL Campaign Classic].
+description: Erfahren Sie, wie Sie in [!DNL Campaign Classic] ein zertifizierter Adobe Architect Master werden.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Architekturmeister
+# Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Architekt Master
 
 {{intro}}
 
 >[!NOTE]
 >
->**Neue verfügbare Studienressourcen:** Die [Handbuch zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/254) bietet einen maßgeschneiderten Weg durch Ihren Zertifizierungsprüfungsprozess, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung-Handbuch anzumelden, verwenden Sie Ihre Adobe ID._
+>**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/254) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für Ihre Zertifizierungsprüfung, einschließlich der ausführlichen Studienmaterialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
 
 ## Prüfbeschreibung {#exam-description}
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
 ### Vorgesehene Zielgruppe {#intended-audience}
 
-* Technischer Lead mit Adobe [!DNL Campaign Classic] background
-* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Entwickler
-* Adobe [!DNL Campaign Classic] Entwickler oder ähnliche Rollen
+* Technischer Lead mit Adobe [!DNL Campaign Classic] Hintergrund
+* Adobe Certified Expert - [!DNL Campaign Classic] Entwickler
+* Adobe [!DNL Campaign Classic] Entwickler oder ähnliche Rolle
 * Martech Solution Architect
 
 <br>
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 Sie sollten über Folgendes verfügen:
 
-* Erlebnis mit mehreren Adobe [!DNL Campaign Classic] Implementierungen
+* Erlebnis mit mehreren Adobe [!DNL Campaign Classic] -Implementierungen
 * Grundlegendes dazu, wie Adobe Campaign als Digital-Marketing-Lösung funktioniert und diese anhand von Projektanforderungen implementiert
 * Die Möglichkeit, ein funktionales Designdokument zu erstellen
 * Möglichkeit, einen funktionalen Arbeitsbereich für eine Adobe Campaign-Installation zu erstellen
@@ -79,7 +79,7 @@ Sie sollten über Folgendes verfügen:
 
 * Legen Sie bei bestimmten Geschäftsanforderungen die für den Lösungsentwurf relevanten Informationen fest.
 * Stellen Sie in einem Szenario Empfehlungen zu Leistung, Infrastruktur und Konfiguration bereit.
-* Analyse [!DNL Campaign Classic] -Setups zur Beratung hinsichtlich Verbesserungen
+* Analysieren Sie [!DNL Campaign Classic] -Setups, um Empfehlungen zu Verbesserungen zu erhalten.
 * Bestimmen von Geschäftsanforderungen für die Entwicklung einer Digital Marketing-Lösung
 * Geben Sie für ein Szenario die richtige Methode zur Produkbereitstellung an.
 
@@ -92,7 +92,7 @@ Sie sollten über Folgendes verfügen:
 **Abschnitt 3: Installation und Verwaltung (16%)**
 
 * Überprüfen Sie bei einer Reihe von Schlüsselmodulen die Konfiguration der Moduleinrichtung.
-* Für ein bestimmtes Szenario empfehlen Sie Integrationslösungen, um native und Drittanbieterintegrationen mit Adobe zu ermöglichen. [!DNL Campaign Classic]
+* In einem solchen Fall empfehlen Sie Integrationslösungen, um native und Drittanbieterintegrationen mit Adobe [!DNL Campaign Classic] zu ermöglichen.
 * Bei einem Szenario müssen die Diagnosemethoden bestimmt werden
 * Integrationsparameter und -ansatz für Adobe- und Nicht-Adobe-Anwendungsintegrationen angeben
 * Bei einem Szenario empfehlen wir die geeignete Hardware-Infrastruktur, die während des Lösungsdesigns benötigt wird
@@ -139,11 +139,11 @@ Sie sollten über Folgendes verfügen:
 
 {{study-materials-intro}}
 
-**Handbuch zur Prüfungsvorbereitung**
+**Prüfungsvorbereitungsanleitung**
 
 {{exam-prep-guide}}
 
-[Anleitung zur Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/254)
+[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/254)
 
 +++
 
@@ -198,8 +198,8 @@ Sie sollten über Folgendes verfügen:
 
 ## Fragen
 
-Zertifizierung anzeigen [FAQs](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontakt](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
 
 
