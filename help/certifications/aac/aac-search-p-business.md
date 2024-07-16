@@ -8,7 +8,7 @@ role: User
 badge: label="Prüfung AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: b553b0d2e70535480d1c0826b6f24a0925830dc3
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -227,6 +227,4 @@ Sie sollten auch Erfahrung mit den folgenden Funktionen haben:
 Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
-
-
 
