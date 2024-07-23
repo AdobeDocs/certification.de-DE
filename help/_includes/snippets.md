@@ -1,7 +1,7 @@
 ---
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1842'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 <!--divider-->
 
 ## Einführung {#intro}
+
+>[!WARNING]
+>
+>Einige Benutzer haben gemeldet, dass sie einen Fehler erhalten haben, wenn sie versuchen, sich beim Adobe Credential Management System anzumelden, was sie daran hindert, ihre Prüfung durchzuführen. Wir arbeiten daran, dieses Problem zu lösen. Betroffene Benutzer werden mit weiteren Informationen kontaktiert.
 
 Auf dieser Seite finden Sie Informationen zum Erhalt dieser Zertifizierung. Es enthält eine Beschreibung der Prüfung, des Studienmaterials, eine schrittweise Anleitung zum Zertifizierungsprozess und eine Anleitung zur Verlängerung Ihrer Zertifizierung.
 
