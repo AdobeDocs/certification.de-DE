@@ -4,10 +4,10 @@ description: Erfahren Sie mehr über die Zertifizierung unter Adobe.  [!DNL Expe
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
+source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 5%
+source-wordcount: '437'
+ht-degree: 6%
 
 ---
 
@@ -16,11 +16,6 @@ ht-degree: 5%
 Erfahren Sie mehr über die Experience Cloud-Zertifizierung bei Adobe und was die Zertifizierung für Sie tun kann.
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
-
->[!WARNING]
->
->Einige Benutzer haben gemeldet, dass sie einen Fehler erhalten haben, wenn sie versuchen, sich beim Adobe Credential Management System anzumelden, was sie daran hindert, ihre Prüfung durchzuführen. Wir arbeiten daran, dieses Problem zu lösen. Betroffene Benutzer werden mit weiteren Informationen kontaktiert.
-
 
 Das Adobe Digital Experience Certification Program wurde entwickelt, um Ihnen beim Nachweis Ihrer Kenntnisse in Adobe [!DNL Experience Cloud]-Produkten zu helfen. Mit der Zertifizierung als Adobe können Sie Ihr Fachwissen präsentieren und Kunden und Arbeitgeber gleichermaßen beeindrucken.
 
