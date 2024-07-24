@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Prüfung AD0-E409" type="neutral"
 mini-toc-levels: 1
 exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: 150bbde0e2f440fffa3d9f53fbba0a58a3652688
 workflow-type: tm+mt
 source-wordcount: '588'
 ht-degree: 0%
@@ -125,7 +125,7 @@ Umgebungen:
 **Abschnitt 6: Architektur, Design und Implementierung [!DNL Adobe Target] (18%)**
 
 * Wählen Sie die richtige Target-Anforderungsimplementierung aus (Global, Auftragsbestätigung, Hybrid).
-Bewerten und Gestalten einer [!DNL Adobe Target] -Implementierung
+* Bewerten und Gestalten einer [!DNL Adobe Target] -Implementierung
 * Beschreibung der Implementierung von [!DNL Adobe Target] in nativen mobilen Apps
 
 **Abschnitt 7: Fehlerbehebung (28%)**
