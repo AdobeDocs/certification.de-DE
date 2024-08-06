@@ -7,7 +7,7 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: f443d1012717ae90dea490d67595bfa5c879484b
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1195'
 ht-degree: 1%
@@ -238,6 +238,6 @@ Vergewissern Sie sich, dass Sie Schritt 1 oben befolgt haben und sich zuerst erf
 
 ## Fragen
 
-Haben Sie Fragen zur Adobe-Zertifizierung? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
+Haben Sie Fragen zur Adobe-Zertifizierung? [Kontaktieren Sie uns](mailto:certif@adobe.com).
 
 Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.

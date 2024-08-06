@@ -6,7 +6,7 @@ product: Experience Platform
 role: User,Developer,Data Architect
 badge: label="Adobe Journey Optimizer-Verlängerung" type="neutral"
 hidefromtoc: true
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -34,4 +34,4 @@ Wir freuen uns, Ihnen mitteilen zu können, dass Sie jetzt Ihr Zertifikat in ein
 
 Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com).

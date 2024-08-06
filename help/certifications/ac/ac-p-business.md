@@ -7,7 +7,7 @@ role: User
 badge: label="Prüfung AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -66,7 +66,7 @@ Sie sollten über eine praktische Erfahrung von mindestens 0-12 Monaten mit [!DN
 
 Darüber hinaus sollten Sie über grundlegende Kenntnisse des eCommerce-Erlebnisses sowie über die folgenden Konzepte verfügen:
 
-* Digital Marketing (SEO, CMS, E-Mail-Marketing, Verkaufstechniken [Crosssell, Upsell], Analyse, Reporting und Überwachung)
+* Digital Marketing (SEO, CMS, E-Mail-Marketing, Verkaufsmethoden [Crosssell, Upsell], Analyse, Reporting und Überwachung)
 * E-Commerce-Terminologie (Verkaufs-/Marketingstrategien wie Omnichannel und Multichannel)
 * Preise und Verkaufsförderung
 * Journey zum Kundenkauf
@@ -213,4 +213,4 @@ Darüber hinaus sollten Sie über grundlegende Kenntnisse des eCommerce-Erlebnis
 
 Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com).

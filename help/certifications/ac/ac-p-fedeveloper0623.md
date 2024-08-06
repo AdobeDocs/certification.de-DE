@@ -7,7 +7,7 @@ role: Developer
 badge: label="Prüfung AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
@@ -120,7 +120,7 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 
 **Abschnitt 5: Admin-Konfiguration und Seitenaufbau (6%)**
 
-* Veranschaulichen der Möglichkeit, den Seitenaufbau und den CMS-Inhalt anzupassen&quot;
+* Möglichkeiten zur Anpassung von Seitenaufbau- und CMS-Inhalten demonstrieren&quot;
 * Anwenden/Planen eines Designs auf einen bestimmten Bereich (Website, Store, Store-Ansicht)
 * Anwenden von Designänderungen auf Kategorien, Produkte und CMS-Seiten mithilfe der Admin-Konfiguration
 * Beschreibung der Schritte zum Anpassen von Transaktions-E-Mails
@@ -228,4 +228,4 @@ Außerdem sollten Sie Kenntnisse der folgenden Technologien besitzen:
 
 Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com).

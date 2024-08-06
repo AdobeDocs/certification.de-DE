@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Prüfung AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '751'
 ht-degree: 0%
@@ -90,7 +90,7 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 * Adobe [!DNL Commerce]-Entitäten importieren/exportieren
 * Informationen zur nativen Konfiguration von Warenkorb und Checkout
 * Bewerten Sie die nativen verfügbaren Versandmethoden unter Adobe [!DNL Commerce] und wie sie auf häufige Anwendungsfälle angewendet werden.
-* Verstehen der Möglichkeiten zum Erstellen und Veröffentlichen von stilisierten Inhalten mit den Adobe [!DNL Commerce] CMS-Funktionen, einschließlich Page Builder
+* Verstehen der Möglichkeiten zum Erstellen und Veröffentlichen von stilisierten Inhalten mit den CMS-Funktionen Adobe [!DNL Commerce], einschließlich Page Builder
 * Verwenden nativer Tools zur Verwaltung des Auftragslebenszyklus
 * Demonstration der Möglichkeit, die verschiedenen Giftoptionen zu konfigurieren (Geschenkkarten, Geschenkverpackung, Nachrichten senden)
 * Transaktionsnachrichten konfigurieren und ändern
@@ -224,4 +224,4 @@ Außerdem sollten Sie die folgenden Technologien verwenden:
 
 Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com).

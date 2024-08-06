@@ -9,7 +9,7 @@ badge: label="Prüfung AD0-E600 &amp; AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 hidefromtoc: true
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1474'
 ht-degree: 1%
@@ -74,7 +74,7 @@ Sie sollten über Folgendes verfügen:
 >
 ><br>
 >
->**Wenn Sie die Prüfung AD0-E600** bereits geplant haben, empfehlen wir dringend, Ihren Termin im Portal &quot;Examity&quot;abzubrechen (siehe Schritt 3 unten) und den Zeitplan für die Veröffentlichung der neuen Prüfung umzuplanen. Wenden Sie sich bei Fragen an den [Zertifizierungssupport](mailto:certif@adobe.com){target="_blank"}.
+>**Wenn Sie die Prüfung AD0-E600** bereits geplant haben, empfehlen wir dringend, Ihren Termin im Portal &quot;Examity&quot;abzubrechen (siehe Schritt 3 unten) und den Zeitplan für die Veröffentlichung der neuen Prüfung umzuplanen. Wenden Sie sich bei Fragen an den [Zertifizierungssupport](mailto:certif@adobe.com).
 
 Die Prüfung AD0-E600 validiert Fähigkeiten und Kenntnisse über die Grundfunktionen und häufig durchgeführten Adobe [!DNL Experience Platform]-Aufgaben auf Expertenebene.
 
@@ -183,7 +183,7 @@ Die Prüfung AD0-E600 validiert Fähigkeiten und Kenntnisse über die Grundfunkt
 >
 ><br>
 >
->**Wenn Sie die Prüfung AD0-E600** bereits geplant haben, empfehlen wir dringend, Ihren Termin im Portal zu beenden und den Zeitplan bei der Veröffentlichung der neuen Prüfung umzuplanen. Wenden Sie sich bei Fragen an den [Zertifizierungssupport](mailto:certif@adobe.com){target="_blank"}.
+>**Wenn Sie die Prüfung AD0-E600** bereits geplant haben, empfehlen wir dringend, Ihren Termin im Portal zu beenden und den Zeitplan bei der Veröffentlichung der neuen Prüfung umzuplanen. Wenden Sie sich bei Fragen an den [Zertifizierungssupport](mailto:certif@adobe.com).
 
 {{schedule-and-pay}}
 
@@ -211,7 +211,7 @@ Die Prüfung AD0-E600 validiert Fähigkeiten und Kenntnisse über die Grundfunkt
 >
 ><br>
 >
->**Wenn Sie die Prüfung AD0-E600** bereits geplant haben, empfehlen wir dringend, Ihren Termin im Portal zu beenden und den Zeitplan bei der Veröffentlichung der neuen Prüfung umzuplanen. Wenden Sie sich bei Fragen an den [Zertifizierungssupport](mailto:certif@adobe.com){target="_blank"}.
+>**Wenn Sie die Prüfung AD0-E600** bereits geplant haben, empfehlen wir dringend, Ihren Termin im Portal zu beenden und den Zeitplan bei der Veröffentlichung der neuen Prüfung umzuplanen. Wenden Sie sich bei Fragen an den [Zertifizierungssupport](mailto:certif@adobe.com).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -244,7 +244,7 @@ Die Prüfung AD0-E600 validiert Fähigkeiten und Kenntnisse über die Grundfunkt
 >
 ><br>
 >
->**Wenn Sie die AD0-E600 Adobe [!DNL Experience Platform] Technical Foundations-Prüfung bereits bestanden haben und sich auf die AD7-E601-Prüfung** vorbereitet haben, empfehlen wir Ihnen, Ihren Termin einzuhalten, da Ihnen die AD7-E601-Prüfung die Adobe [!DNL Real-Time Customer Data Platform] Expertenzertifizierung verleiht. Wenden Sie sich bei Fragen an den [Zertifizierungssupport](mailto:certif@adobe.com){target="_blank"}.
+>**Wenn Sie die AD0-E600 Adobe [!DNL Experience Platform] Technical Foundations-Prüfung bereits bestanden haben und sich auf die AD7-E601-Prüfung** vorbereitet haben, empfehlen wir Ihnen, Ihren Termin einzuhalten, da Ihnen die AD7-E601-Prüfung die Adobe [!DNL Real-Time Customer Data Platform] Expertenzertifizierung verleiht. Wenden Sie sich bei Fragen an den [Zertifizierungssupport](mailto:certif@adobe.com).
 
 Die Prüfung AD7-E601 umfasst die Erstellung, Verwaltung und das Verständnis von Kundenprofil, Segmentierung, Zielen über Quellen hinweg und andere Themen. Die Prüfung validiert die grundlegenden Fertigkeiten und Kenntnisse, die erforderlich sind, um die Echtzeit-Kundendatenplattform für Zielgruppensegmentierung, Zielexporte und Aktivierung in Echtzeit für einheitliche Profile zu verwenden, die den Daten- und Datenschutzbestimmungen entsprechen. Bewerber sollten Erfahrung mit Kundendatenplattformen (CDP) und Adobe [!DNL Experience Platform] haben.
 
@@ -431,4 +431,4 @@ Abschnitt 3: Ziele (27%)
 
 Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com).

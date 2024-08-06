@@ -8,7 +8,7 @@ role: Data Architect,Developer
 badge: label="Prüfung AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 1%
@@ -87,7 +87,7 @@ Darüber hinaus sind Sie für die Übersetzung von Geschäftsanforderungen in Tr
 * Technische Spezifikationen für Site-Entwickler schreiben
 * Erstellen von Experience Cloud-Benutzern/Gruppen
 
-**Abschnitt 3: Post-Implementierung (28 %)**
+**Abschnitt 3: Post-Implementierung (28%)**
 
 * Validieren Sie bei einer Reihe von Anforderungen das Tracking über Browser-Entwickler-Tools und Adobe-Berichte
 * Anwenden von Verfahrenskonzepten zur Verwaltung von Datenextraktion und -beziehungen
@@ -180,5 +180,5 @@ Darüber hinaus sind Sie für die Übersetzung von Geschäftsanforderungen in Tr
 
 Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com){target="_blank"}.
+Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com).
 
