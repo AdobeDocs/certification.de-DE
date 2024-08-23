@@ -1,7 +1,7 @@
 ---
-source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
+source-git-commit: 77e59533d17d4bcf02805f69b89e9bfbf44110d2
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1835'
 ht-degree: 0%
 
 ---
@@ -190,6 +190,10 @@ Adobe verwendet Examity, um verarbeitete Prüfungen online zu verwalten. Im Port
 >[!NOTE]
 >
 >Sie müssen sich beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} anmelden, bevor Sie auf die Schaltfläche &quot;Prüfung&quot;unten klicken.
+
+>[!WARNING]
+>
+>Das Adobe Digital Experience Certification Program bereitet derzeit Upgrades vor. Aus diesem Grund können Bewerber derzeit keine Prüfungsaufträge planen, die nach dem 26. September 2024 stattfinden sollen. Sobald die Aktualisierungen abgeschlossen sind, wird die Planung wieder auf den Normalzustand zurückgesetzt.
 
 <!--divider-->
 
