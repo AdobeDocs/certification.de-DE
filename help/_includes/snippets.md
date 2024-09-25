@@ -1,7 +1,7 @@
 ---
-source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
+source-git-commit: b343d44734e84224e6e266235573a3c29a273721
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1836'
 ht-degree: 0%
 
 ---
@@ -123,13 +123,13 @@ Bezahlen mit Gutschein: Um einen Prüfgutschein zu erwerben, gehen Sie zu: Adobe
 
 **Kauf eines Gutscheins**
 
-Sie können eine Prüfung mit einem Gutschein bezahlen. Um einen Prüfgutschein zu erwerben, gehen Sie zum [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Sie können eine Prüfung mit einem Gutschein bezahlen. Um einen Prüfgutschein zu erwerben, gehen Sie zum [Adobe Certification Voucher Center](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Weitere Informationen zu Gutscheinrabatten finden Sie unten.
 
 Alle Bewerber erhalten beim Kauf über das Adobe Certification Voucher Center einen Rabatt auf den Massenkauf von 10 oder mehr Prüfungen.
 
-Weitere Informationen zu Gutscheinen finden Sie in den [FAQ](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
+Weitere Informationen zu Gutscheinen finden Sie in den [FAQ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}.
 
 **Rabatte**
 
@@ -143,7 +143,7 @@ Massenrabatte sind verfügbar:
 
 Partnerrabatte: Partner auf Bronze-Ebene und höher erhalten Rabatte auf alle Adobe-Zertifizierungsprüfungen und -Klassen. Weitere Informationen zu diesen Rabatten und wie Sie auf Partnervorteile im Solution Partner Portal zugreifen können.
 
-Gutscheinrabatte: Alle Bewerber können beim Kauf über das Adobe Certification Voucher Center einen Rabatt auf Masseneinkäufe von 10 oder mehr Prüfungen erhalten.
+Gutscheinrabatte: Alle Bewerber können beim Kauf über das [Adobe Certification Voucher Center](https://certification.adobe.com/certifications/vouchers){target="_blank"} einen Rabatt auf Masseneinkäufe von 10 oder mehr Prüfungen erhalten.
 
 Hinweis: Massenrabatte können nicht mit anderen Angeboten oder Rabatten kombiniert werden.
 
@@ -183,7 +183,7 @@ Adobe verwendet Examity, um verarbeitete Prüfungen online zu verwalten. Im Port
 
 * **Planen Sie Ihre Prüfung, planen Sie sie neu oder brechen Sie sie ab.** Bitte beachten Sie, dass die Absage und Umschulung vor 48 Stunden vor dem geplanten Prüfungstermin begonnen werden muss. Die Kandidaten müssen diese Ernennung selbst ändern.
 
-* **Bezahlen Sie Ihre Prüfung.** Bezahlen Sie Ihre Zertifizierungsprüfung entweder per Gutschein oder Kreditkarte im Portal von Examity. Um einen Prüfgutschein zu erwerben, gehen Sie zu: [Adobe Certification Voucher System](https://market.xvoucher.com/adobe/global){target="_blank"}. Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie einen Rabatt haben, wird er beim Checkout angewendet.
+* **Bezahlen Sie Ihre Prüfung.** Bezahlen Sie Ihre Zertifizierungsprüfung entweder per Gutschein oder Kreditkarte im Portal von Examity. Um einen Prüfgutschein zu erwerben, gehen Sie zu: [Adobe Certification Voucher Center](https://certification.adobe.com/certifications/vouchers){target="_blank"}. Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie einen Rabatt haben, wird er beim Checkout angewendet.
 
 * **Nimm deine Prüfung.**
 
