@@ -4,9 +4,9 @@ description: Erfahren Sie, wie Sie bei Adobe zertifiziert werden. Finden Sie all
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8439a5bd025d0bd30b85bc32b1017c00829fe609
+source-git-commit: 818318d0eaee1dec2beb545fd8433f359fec5c33
 workflow-type: tm+mt
-source-wordcount: '1496'
+source-wordcount: '1406'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Die meisten Zertifizierungsverlängerungen sind **kostenlos**. Für Zertifizieru
 
 **Bezahlen für Ihre Prüfung**
 
-Sie können Ihre Zertifizierungsprüfung mit Gutschein oder Kreditkarte bezahlen. Um einen Prüfgutschein zu erwerben, gehen Sie zu: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Sie können Ihre Zertifizierungsprüfung mit Gutschein oder Kreditkarte bezahlen. Um einen Prüfgutschein zu erwerben, gehen Sie zu: [Adobe Certification Voucher Center](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Sie können den Gutscheincode anwenden, wenn Sie Ihre Prüfung planen. Wenn Sie einen Rabatt haben, wird er beim Checkout angewendet.
 
@@ -82,7 +82,7 @@ Bronze- und oben genannte Partner erhalten Rabatte auf alle Adobe-Zertifizierung
 
 **Sonstige Rabatte**
 
-Darüber hinaus können alle Bewerber beim Kauf über das [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"} einen Rabatt auf den Massenkauf von 10 oder mehr Prüfungen erhalten.
+Darüber hinaus können alle Bewerber einen Rabatt auf Masseneinkäufe von 10 oder mehr Prüfungen erhalten, wenn sie über das [Adobe Certification Voucher Center](https://certification.adobe.com/certifications/vouchers) kaufen.
 
 **Massen-Rabattstufen**
 
@@ -94,6 +94,68 @@ Hinweis: Massenrabatte können nicht mit anderen Angeboten oder Rabatten kombini
 | 25-49 | 25 % |
 | 50+ | 33 % |
 
+>[!TAB Gutscheine]
+
+Das Adobe Digital Experience Certification Program wird im Herbst auf eine neue Plattform umgestellt! Das neue Adobe Certification Portal wird technische Schulungen sowie eine verbesserte Benutzererfahrung für Zertifizierungsbewerber anbieten.
+
+Als Teil des Portals haben wir ein neues [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} entwickelt, das am 23. September 2024 startet. Dieses neue System für den Kauf und die Verwaltung von Gutscheinen ist robuster, einfacher zu navigieren und bietet erweiterte Berichtsoptionen für Administratoren.
+
+Alle Gutscheine, die Sie bereits über Xvoucher erworben haben, stehen innerhalb von 72 Stunden nach dieser Umstellung im Adobe Certification Portal zur Verfügung. Nachdem Sie sich angemeldet haben, gehen Sie zum [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}, um den Verlauf Ihrer aktiven Gutscheine und Gutscheine anzuzeigen und neue Gutscheine zu kaufen.
+
+**Wichtige zu berücksichtigende Daten:**
+
+**23. September 2024, 12:01 AM ET**
+* Gutscheine können nicht mehr auf Xvoucher erworben werden.
+* Der Gutscheinkauf ist im [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} verfügbar.
+* Prüfungen können weiterhin über das [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} geplant werden.
+
+**25. September 2024 um 8:00 Uhr ET**
+* Gutscheine aus Ihrem Xvoucher-Konto werden im [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} angezeigt.
+
+**Häufig gestellte Fragen auf einen Blick**
+
++++ Was passiert mit vorhandenen Gutscheinen?
+
+Alle Gutscheine, die Sie bereits über Xvoucher erworben haben, sind am 25. September 2024 um 8:00 Uhr ET im Adobe Certification Portal verfügbar. Sie können diese Gutscheine weiterhin für die Planung von Prüfungen verwenden. Die Zahlen ändern sich auch nach der Umstellung von Xvoucher nicht.
+
++++
+
++++ Wie kaufe ich Gutscheine auf dem Adobe Certification Portal?
+
+Gehen Sie zum [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} und fügen Sie die gewünschte Anzahl von Gutscheinen zum Warenkorb hinzu. Solange Sie mit Ihrer Partner-E-Mail angemeldet sind, wird Ihr Partnerrabatt angewendet.
+
+Sehen Sie sich dieses [Video](https://video.tv.adobe.com/v/3434122){target="_blank"} an, um eine Demo zum Kauf von Gutscheinen zu erhalten.
+
++++
+
++++ Wie kann ich Gutscheine für mein Team zuweisen und verwalten?
+
+Dieses [Video](https://video.tv.adobe.com/v/3434581){target="_blank"} bietet einen detaillierten Überblick über die Admin-Funktionen des Adobe Voucher Center.
+
++++
+
++++ Wo kann ich die Gutscheine meines Teams anzeigen?
+
+Die Gutscheine Ihres Teams werden im [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} angezeigt.
+
++++
+
++++ Wo können meine Teammitglieder ihre zugewiesenen Gutscheine anzeigen?
+
+Einzelpersonen können ihre zugewiesenen Gutscheine in ihrem [Konto](https://certification.adobe.com/user/purchases){target="_blank"} im Adobe-Zertifizierungsportal anzeigen.
+
++++
+
++++ Wie starte ich meine Bestellung beim Onboarding im neuen System?
+
+Bitte sehen Sie sich die letzte Frage in unserer [FAQ zum Gutschein](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"} an: &quot;Wie funktioniert das Verfahren zur Bezahlung mit einer Bestellung?&quot;
+
++++
+
+**Fragen?**
+
+Besuchen Sie die detaillierten [FAQ zum Gutschein](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"} auf unserer Website.
+
 >[!TAB Zertifizierungsanbieter]
 
 Das Adobe Digital Experience Certification Program arbeitet mit Anbietern zusammen, um die Initiativen und Ziele des Programms zu unterstützen. Hier finden Sie die Anbieter und ihre Kontaktdaten:
@@ -102,7 +164,6 @@ Das Adobe Digital Experience Certification Program arbeitet mit Anbietern zusamm
 | ------- | ------- | ------- |
 | Kreativ | Badge Management System | [support](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | Prüfung | Testversandanbieter (nur Online-Verarbeitung) | [E-Mail](mailto:support@examity.com){target="_blank"} oder 855-Prüfung (855-392-6489) |
-| Xvoucher - Adobe Certification Voucher Center | Gutscheinzentrum zum Erwerb von individuellen oder Massengutscheinen | [E-Mail](mailto:support@xvoucher.com){target="_blank"} oder [Online-Hilfe](https://help.xvoucher.com/hc/en-us) |
 
 Andere Ressourcen des Anbieters:
 
@@ -123,69 +184,6 @@ Hilfreiche Videos:
 * [Wie Sie Ihren Testtermin neu planen](https://vimeo.com/394507149){target="_blank"}
 * [Wie Sie Ihren Testtermin stornieren](https://vimeo.com/394507135){target="_blank"}
 * [Wie Sie Ihren Online-Test durchführen](https://vimeo.com/394506686){target="_blank"}
-
-Häufig gestellte Fragen zum Adobe Certification Voucher Center (Xvoucher)
-
-+++Wann laufen Prüfungsgutscheine aus? Wie lange sind sie gut?
-
-Adobe-Prüfgutscheine laufen 12 Monate nach dem Kauf ab. Gutscheine können nicht über ihr Ablaufdatum hinaus verlängert werden. Prüfungen müssen vor dem Ablaufdatum des Prüfscheins geplant, bezahlt und durchgeführt werden.
-
-+++
-
-+++Können Gutscheine für Gutschriften oder Rückerstattung zurückgegeben werden?
-
-_Alle Verkäufe sind endgültig._ Rückgaben und Rückerstattungen werden nicht akzeptiert. Adobe-Prüfgutscheine werden auf Prüfungsebene erworben, nicht für spezifische Prüfungen, und das bietet Flexibilität.
-
-* Beispiel: Wenn Sie 10 Prüfungsgutscheine auf Adobe Certified Expert-Ebene kaufen und verteilen, müssen Sie nicht vorher wissen, wer welche Prüfung auf Expertenniveau durchführen wird.
-* Administratoren können den Gutschein einem Benutzer zuweisen und prüfen, ob der Gutschein angezeigt, eingelöst oder die Prüfung geplant oder stattgefunden hat.
-
-+++
-
-+++ Welche Art von Zahlungen sind zulässig?
-
-Die Zahlung kann mit (allen größeren) Kreditkarten erfolgen. Zahlungen per Kreditkarte erfordern die Annahme eines Online-Click-Wrap-Vertrags. Die verschiedenen Zahlungsoptionen sind:
-
-* Wire, purchase order, or ACH: Erstellen Sie eine Bestellung im Xvoucher-System, die gedruckt und an Ihre zahlungspflichtige Kontoabteilung gesendet werden kann. Diese Bestellung wird nach Erhalt der Überweisung oder Kontrolle genehmigt.
-* Kreditkarte: Alle wichtigen Kreditkarten akzeptiert.
-* Xwallet: Dadurch wird der Bestellbetrag von Ihrem Xwallet-Pool abgezogen.
-
-+++
-
-+++ Gibt es eine Mindest- oder Höchstzahl an Gutscheinen, die ich kaufen kann?
-
-Nein, es gibt kein Minimum oder Maximum. Kundenkäufe sind nur auf der Grundlage der verfügbaren Mittel beschränkt, wie Kreditkartenlimit oder Kontostand für Überweisungen.
-
-+++
-
-+++ Wie lange dauert es, nach der Bestellung auf die Gutscheine zuzugreifen?
-
-Die Gutscheine sind sofort nach dem Kauf verfügbar, wenn sie per Kreditkarte oder Xwallet bezahlen.
-
-* Wenn Sie selbst kaufen, werden Gutscheincodes auf dem Bildschirm und in der E-Mail bereitgestellt.
-* Wenn Sie für andere Benutzer kaufen, melden Sie sich bei Ihrem Xvoucher-Konto an und verteilen Sie die Gutscheine von dort an Ihre Endbenutzer.
-* Bei Zahlung per Draht oder Bestellung werden die Gutscheinbestellungen freigegeben, sobald Xvoucher die Mittel erhalten hat.
-
-[Online-Hilfe](https://help.xvoucher.com/){target="_blank"}
-
-+++
-
-+++Wie greife ich auf mein Xvoucher-Konto zu?
-
-Melden Sie sich einfach bei Ihrem Konto [hier](https://www.xvoucher.com/Login.aspx){target="_blank"} an.
-
-+++
-
-+++Wie greife ich auf meinen Adobe-Gutschein zu?
-
-Nachdem Ihnen ein Gutschein zugewiesen wurde, erhalten Sie eine E-Mail von support@xvoucher.com mit einem Gutscheincode und Anweisungen zum Einlösen des Gutscheins. Wenn Sie keine E-Mail erhalten haben, überprüfen Sie Ihren Spam-Ordner. Wenn Sie die E-Mail immer noch nicht finden können, können Sie sich bei Ihrem Xvoucher-Konto anmelden.
-
-+++
-
-+++Können Gutscheine für Gutschriften oder Rückerstattung zurückgegeben werden?
-
-Alle Verkäufe sind endgültig. Rückgaben und Rückerstattungen werden nicht akzeptiert. Adobe-Prüfungsgutscheine werden auf Prüfungsebene erworben, nicht für spezifische Prüfungen, was eine große Flexibilität bietet.
-
-+++
 
 >[!TAB Verwalten Ihres Zertifizierungsprofils]
 
