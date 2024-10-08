@@ -1,7 +1,7 @@
 ---
-source-git-commit: b8d1594007a079fb2f18deb1484634a8fb385177
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
-source-wordcount: '1838'
+source-wordcount: '1989'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,16 @@ ht-degree: 0%
 ## Einführung {#intro}
 
 Auf dieser Seite finden Sie Informationen zum Erhalt dieser Zertifizierung. Es enthält eine Beschreibung der Prüfung, des Studienmaterials, eine schrittweise Anleitung zum Zertifizierungsprozess und eine Anleitung zur Verlängerung Ihrer Zertifizierung.
+
+>[!NOTE]
+>Aktualisierung des Adobe Digital Experience Certification Program
+>
+>**Das Adobe Digital Experience Certification Program ist in Bewegung!** Das neue Adobe-Zertifizierungsportal wird am 22. Oktober 2024 gestartet. Beachten Sie diese **wichtigen Daten:**
+>
+>* **14. Oktober 2024:** Die Prüfplanung, die Praxistests und der Zugriff auf das Adobe Credential Management System sind nicht verfügbar, während wir Daten in das neue Portal migrieren
+>* **22. Oktober 2024:** Das Adobe Certification Portal wird gestartet! Ihr Zertifizierungsverlauf sowie alle Prüfungsinformationen, Studienressourcen und Planungsfunktionen stehen im neuen Portal zur Verfügung. Ihre Übungstest-Bewertungen und Coaching-Berichte ab dem 1. Januar 2021 sind ebenfalls in Ihrem Konto verfügbar.
+>
+>Weitere Informationen zum Anmelden beim neuen Adobe Certification Portal finden Sie hier am 22. Oktober!
 
 <!--divider-->
 
@@ -240,3 +250,9 @@ Unsere kostenlosen On-Demand-Kurse helfen Ihnen bei der Vorbereitung auf Ihre Pr
 ## Handbuch zur Prüfungsvorbereitung {#exam-prep-guide}
 
 Der kostenlose Test-Vorbereitungshandbuch bietet einen maßgeschneiderten Weg durch Ihren Test-Vorbereitungsprozess, einschließlich der Materialien, die Sie für eine erfolgreiche Prüfung benötigen.
+
+## Verlängerung auf Eis {#renewals-hold}
+
+>[!WARNING]
+>
+>Das Adobe Digital Experience Certification Program wird in Kürze geändert. Wenn Sie gerade Ihre Zertifizierung erneuern, beachten Sie bitte, dass der 13. Oktober 2024 der 1. Oktober 2024 der letzte Termin ist, an dem Ihre Verlängerung abgeschlossen wurde.****

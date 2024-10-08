@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '2421'
 ht-degree: 0%
@@ -15,6 +15,8 @@ ht-degree: 0%
 ---
 
 # Adobe [!DNL Marketo Engage]-Zertifizierung erneuern
+
+{{renewals-hold}}
 
 Ihr Adobe-Zertifikat ist zwei Jahre gültig. Wenn Sie sich dieser zweijährigen Marke nähern, ist es an der Zeit, Ihre Zertifizierung zu erneuern, damit sie aktiv bleibt.
 
@@ -271,7 +273,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 **Abschnitt 1: Verwaltung und Wartung**
 
 * [Experience League - [!DNL Marketo Engage] Produktdokumentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=de){target="_blank"} (Feldverwaltung, CRM-Synchronisierung, Audit-Protokoll, Benutzerverwaltung, Arbeitsbereiche und Partitionen, intelligente Listen, benutzerdefinierte Felder)
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Synchronisation mit Salesforce, CRM-Integrationen)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Synchronisierung mit Salesforce, CRM-Integrationen)
 
 **Abschnitt 2: Marketingaktivitäten/Kampagnenverwaltung**
 

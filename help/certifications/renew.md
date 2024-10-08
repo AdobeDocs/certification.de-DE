@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,6 +13,8 @@ ht-degree: 0%
 ---
 
 # Zertifizierung verlängern {#renew}
+
+{{renewals-hold}}
 
 Um Ihre Adobe-Zertifizierung zu erhalten, müssen Sie sie alle 2 Jahre erneuern. Wenn Sie Ihre Zertifizierung nicht vor Ablauf der Gültigkeit erneuern, müssen Sie die vollständige Zertifizierungsprüfung erneut ablegen, um erneut zertifiziert zu werden.
 
