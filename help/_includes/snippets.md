@@ -1,7 +1,7 @@
 ---
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: a6939c76c6440e9de928688b256fd3410046b174
 workflow-type: tm+mt
-source-wordcount: '1989'
+source-wordcount: '1983'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,6 @@ ht-degree: 0%
 Auf dieser Seite finden Sie Informationen zum Erhalt dieser Zertifizierung. Es enthält eine Beschreibung der Prüfung, des Studienmaterials, eine schrittweise Anleitung zum Zertifizierungsprozess und eine Anleitung zur Verlängerung Ihrer Zertifizierung.
 
 >[!NOTE]
->Aktualisierung des Adobe Digital Experience Certification Program
 >
 >**Das Adobe Digital Experience Certification Program ist in Bewegung!** Das neue Adobe-Zertifizierungsportal wird am 22. Oktober 2024 gestartet. Beachten Sie diese **wichtigen Daten:**
 >
