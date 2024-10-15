@@ -1,7 +1,7 @@
 ---
-source-git-commit: a6939c76c6440e9de928688b256fd3410046b174
+source-git-commit: db72e72c2b642102d1ecb991df04138e6bd7f630
 workflow-type: tm+mt
-source-wordcount: '1983'
+source-wordcount: '1970'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Einführung {#intro}
 
-Auf dieser Seite finden Sie Informationen zum Erhalt dieser Zertifizierung. Es enthält eine Beschreibung der Prüfung, des Studienmaterials, eine schrittweise Anleitung zum Zertifizierungsprozess und eine Anleitung zur Verlängerung Ihrer Zertifizierung.
+Auf dieser Seite wurden zuvor Informationen zum Erhalt dieser Zertifizierung bereitgestellt. Aktuelle Informationen finden Sie im Hinweis .
 
 >[!NOTE]
 >
