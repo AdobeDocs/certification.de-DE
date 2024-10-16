@@ -7,10 +7,10 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '692'
-ht-degree: 2%
+source-wordcount: '13'
+ht-degree: 0%
 
 ---
 
@@ -18,142 +18,148 @@ ht-degree: 2%
 
 {{renewals-hold}}
 
-Ihr Adobe-Zertifikat ist zwei Jahre gültig. Wenn Sie sich dieser zweijährigen Marke nähern, ist es an der Zeit, Ihre Zertifizierung zu erneuern, damit sie aktiv bleibt.
+<!--
 
-Wählen Sie zunächst auf der Registerkarte unten die entsprechende Ebene aus (Professional, Expert oder Master). Überprüfen Sie dann sorgfältig, was Sie tun müssen, um Ihre Zertifizierung zu erneuern.
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-Stellen Sie sicher, dass Sie ausreichend Zeit haben, um alle Anforderungen abzuschließen, bevor Ihr Zertifikat abläuft.
-
-Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifizierungsprüfung wiederholen müssen, die NICHT kostenlos ist.
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**Melden Sie sich zuerst an:** Die folgenden Links funktionieren **nur**, nachdem Sie sich **erfolgreich angemeldet haben**, und zwar im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**So geben Sie einen Link frei:** Wenn Sie den Link zu einer Erneuerungsprüfung oder -bewertung für einen Kollegen freigeben möchten, verknüpfen Sie bitte mit der Gesamt-Prüfungsverlängerungsseite, nicht mit der URL der Prüfung selbst, um Anmeldungsprobleme zu vermeiden.
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
 >[!TAB Professional]
 
-++ + Adobe [!DNL Real-Time CDP] Business Practitioner Professional
++++Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 
-## Sie sollten über die folgende **active** -Zertifizierung verfügen:
+## You should have the following **active** certification:
 
 * Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 
-## Anweisungen zur Verlängerung Ihrer Zertifizierung:
+## Instructions for renewing your certification:
 
-* **Schritt 1**: Melden Sie sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} an und kehren Sie dann zu dieser Seite zurück.
-* **Schritt 2**: Prüfungsziele und -ressourcen überprüfen
-* **Schritt 3**: Führen Sie die Prüfung durch und bestehen Sie sie.
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## Bereit
+## Get ready
 
-**Prüfungsdetails:**
+**Exam details:**
 
-* Niveau: Professional (0-12 Monate Erfahrung)
-* Übergeben der Punktzahl: 29/38
-* Zeit: 76 Minuten
-* Versand: On-Demand/nicht verarbeitet
-* Verfügbare Sprachen: Englisch
-* Kosten: KOSTENLOS
-* Prüfungs-ID: AD5-E845 Adobe [!DNL Real-Time CDP] Business Practitioner Professional
+* Level: Professional (0-12 months' experience)
+* Passing Score: 29/38
+* Time: 76 minutes
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E845 Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 
-**Umfang und Ziele:**
+**Scope and objectives:**
 
-Abschnitt 1: Segmente und Aktivierung 11 %
+Section 1: Segments and Activation 11%
 
-* Segment erstellen und für Ziel aktivieren
-* Neue Ziele konfigurieren
-* Anwenden von erforderlichen Konzepten auf Zielidentitäten in Zielen
-* Identifizieren von Attributzuordnungen und Planen von Segmenten für das Ziel
+* Create segment and activate to destination
+* Configure new destinations
+* Apply concepts required to target identities in destinations
+* Identify attribute mappings and scheduling of segments to destination
 
-Abschnitt 2: Datenschutz und Data Governance 8 %
+Section 2: Privacy and Data Governance 8%
 
-* DULE-Richtlinien und ihre Auswirkungen auf die Datenverfügbarkeit in Zielen nachvollziehen
-* Gewährleistung der Einhaltung von Datenschutzbestimmungen
+* Demonstrate an understanding of DULE policies and their impacts on data availability at destinations
+* Ensure privacy and data compliance measures are followed
 
-Abschnitt 3: Geschäftsanalyse 12 %
+Section 3: Business Analysis 12%
 
-* Identifizieren von Anwendungsfällen, die mit geschäftlichen KPIs verknüpft sind
-* Datenanalyse zu Kundensegmenten in der Plattform durchführen
-* Grundlagen zu Datenflusskonzepten demonstrieren
+* Identify use cases which tie back to business KPIs
+* Perform data analysis on customer segments in platform
+* Demonstrate an understanding of data flow concepts
 
-Abschnitt 4: Schemata und Profile 7%
+Section 4: Schemas and Profiles 7%
 
-* Adobe Experience Platform-Konzepte
-* Verwenden von Profilfunktionen
+* Demonstrate an understanding of Adobe Experience Platform concepts
+* Use profile features
 
-## Vorbereiten
+## Get prepped
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+Here are some suggested resources to help you prepare:
 
-**Abschnitt 1**
+**Section 1**
 
-* [UI-Handbuch für Segment Builder](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=de){target="_blank"}
-* [Aktivieren von Zielgruppen für Streaming-Ziele](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html){target="_blank"}
-* [Zieltypen und Kategorien](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=de){target="_blank"}
-* [Streaming-Segmentierung](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=de){target="_blank"}
-* [Schutzmechanismen für Aktivierungsdaten](https://experienceleague.adobe.com/docs/experience-platform/destinations/guardrails.html){target="_blank"}
-* [Aktivieren von Zielgruppen für Batch-Profilexportziele ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
-* [Ziele - Übersicht](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=de){target="_blank"}
-* [Identitätsbehandlung im Zielaktivierungs-Workflow](https://experienceleague.adobe.com/docs/experience-platform/destinations/how-destinations-work/identity-handling.html){target="_blank"}
-* [Unterstützte Identitäten](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/social/facebook.html#supported-identities){target="_blank"}
-* [Aktivieren von Zielgruppen für Batch-Profilexportziele ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+* [Segment Builder UI guide](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html){target="_blank"}
+* [Activate audiences to streaming destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html){target="_blank"}
+* [Destination types and categories](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
+* [Streaming segmentation](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
+* [Guardrails for activation data](https://experienceleague.adobe.com/docs/experience-platform/destinations/guardrails.html){target="_blank"}
+* [Activate audiences to batch profile export destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+* [Destinations overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html){target="_blank"}
+* [Identity handling in the destinations activation workflow](https://experienceleague.adobe.com/docs/experience-platform/destinations/how-destinations-work/identity-handling.html){target="_blank"}
+* [Supported identities](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/social/facebook.html#supported-identities){target="_blank"}
+* [Activate audiences to batch profile export destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+  
+**Section 2**
 
-**Abschnitt 2**
-
-* [Übersicht über Data Governance](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=de){target="_blank"}
+* [Data Governance overview](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html){target="_blank"}
 * [Data Governance in Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
-* [Datennutzungsrichtlinien - Überblick](https://experienceleague.adobe.com/docs/experience-platform/data-governance/policies/overview.html?lang=de){target="_blank"}
-* [Verwalten von Datennutzungsbezeichnungen in der Benutzeroberfläche](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html?lang=de){target="_blank"}
-* [Automatische Richtliniendurchsetzung](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html?lang=de){target="_blank"}
-* [Verwenden des Anforderungs-Builders](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=de#request-builder){target="_blank"}
+* [Data usage policies overview](https://experienceleague.adobe.com/docs/experience-platform/data-governance/policies/overview.html){target="_blank"}
+* [Manage data usage labels in the UI](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html){target="_blank"}
+* [Automatic policy enforcement](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html){target="_blank"}
+* [Use the Request Builder](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=en#request-builder){target="_blank"}
+ 
+**Section 3**
 
-**Abschnitt 3**
+* [Segmentation Service overview](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html){target="_blank"}
+* [Intelligently re-engage your customers to return](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/intelligent-re-engagement.html){target="_blank"}
+* [Customer AI overview](https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/customer-ai/overview.html){target="_blank"}
+* [Create sequential audiences](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-sequential-audiences.html){target="_blank"}
+* [Build a multi-entity segment](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en#build-a-multi-entity-segment){target="_blank"}
+* [Streaming segmentation](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
+* [Create audiences](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-audiences.html){target="_blank"}
+* [Monitor dataflows for identities in the UI](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-identities.html){target="_blank"}
+* [Activate audiences to batch profile export destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+* [Partial batch ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/batch/partial.html){target="_blank"}
+ 
+**Section 4**
+ 
+* [Export datasets to cloud storage destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/export-datasets.html){target="_blank"}
+* [Event forwarding overview](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/overview.html){target="_blank"}
+* [Identity Service overview](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html){target="_blank"}
+* [Merge policies overview](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/overview.html){target="_blank"}
+* [Real-Time Customer Profile UI guide](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html){target="_blank"}
+* [Profiles dashboard](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
+* [Browse profiles in Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-browse.html){target="_blank"}
 
-* [Segmentation Service - Übersicht](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=de){target="_blank"}
-* [Kontaktieren Sie Ihre Kunden intelligent erneut, um ](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/intelligent-re-engagement.html){target="_blank"} zurückzukehren.
-* [Überblick über Customer AI](https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/customer-ai/overview.html?lang=de){target="_blank"}
-* [Sequenzielle Zielgruppen erstellen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-sequential-audiences.html){target="_blank"}
-* [Erstellen eines Segments mit mehreren Entitäten](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en#build-a-multi-entity-segment){target="_blank"}
-* [Streaming-Segmentierung](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=de){target="_blank"}
-* [Erstellen von Zielgruppen](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-audiences.html){target="_blank"}
-* [Überwachen von Datenflüssen auf Identitäten in der Benutzeroberfläche](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-identities.html){target="_blank"}
-* [Aktivieren von Zielgruppen für Batch-Profilexportziele ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
-* [Partielle Batch-Erfassung](https://experienceleague.adobe.com/docs/experience-platform/ingestion/batch/partial.html){target="_blank"}
+## Renew your certification
 
-**Abschnitt 4**
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the button below.
 
-* [Exportieren von Datensätzen in Cloud-Speicher-Ziele](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/export-datasets.html?lang=de){target="_blank"}
-* [Übersicht über die Ereignisweiterleitung](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/overview.html){target="_blank"}
-* [Identity Service - Übersicht](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=de){target="_blank"}
-* [Überblick über Zusammenführungsrichtlinien](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/overview.html){target="_blank"}
-* [Handbuch zur Benutzeroberfläche des Echtzeit-Kundenprofils](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html?lang=de){target="_blank"}
-* [Profil-Dashboard](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
-* [Profile in Real-time Customer Data Platform durchsuchen](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-browse.html){target="_blank"}
-
-## Zertifizierung verlängern
-
-Vergewissern Sie sich, dass Sie Schritt 1 oben befolgt haben und sich zuerst erfolgreich beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} angemeldet haben. Klicken Sie dann auf die Schaltfläche unten, um die Zertifizierung zu verlängern.
-
-[!BADGE Nehmen Sie die Adobe [!DNL Real-Time CDP] Business Practitioner Professional Renewal-Prüfung AD5-E845]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E845 newtab=true"}
+[!BADGE Take the Adobe [!DNL Real-Time CDP] Business Practitioner Professional Renewal Exam AD5-E845]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E845 newtab=true"} 
 
 >[!NOTE]
 >
->Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie **30 Tage** warten, bis Sie es erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
 >[!ENDTABS]
 
-## Fragen
+## Questions
 
-Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com).
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

@@ -3,9 +3,9 @@ title: Überblick über die Workfront-Zertifizierung
 description: Überblick über die Zertifizierungsoptionen für Adobe Workfront
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,5 @@ ht-degree: 0%
 * [Entwickler (Core)](/help/certifications/aw/aw-core-e-developer-23-08.md) <!--AD0-E907-->
 * [AEM Enhanced Connector](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
-Rufen Sie die Seite [Zertifikat erneuern](/help/certifications/renew.md) auf, um zu sehen, ob eine Verlängerungsoption für dieses Produkt verfügbar ist.
+{{questions}}
+

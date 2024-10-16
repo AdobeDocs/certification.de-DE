@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 hidefromtoc: true
 exl-id: 393255d0-dff1-4a49-93cd-e767b9b14fc5
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '16'
 ht-degree: 0%
 
 ---
@@ -17,23 +17,29 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Wenn Sie eine Zertifizierungsprüfung bestehen, gilt Ihr Zertifikat für zwei Jahre.
+<!--
 
-Wir freuen uns, Ihnen mitteilen zu können, dass Sie jetzt Ihr Zertifikat in einem neuen, kostenlosen Format erneuern können. Es umfasst die Verwendung von On-Demand-Experience League-Kursen und -Tutorials - einfach drei Aktivitäten abschließen, um Ihre Zertifizierung kostenlos zu erneuern. Vor Ablauf der Zertifizierung müssen Sie eine Verlängerung beantragen. Andernfalls müssen Sie die vollständige Prüfung ablegen, um wieder zertifiziert zu werden.
+When you pass a certification exam, your certification is valid for two years.
+
+We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Experience League courses and tutorials—simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
 
 >[!IMPORTANT]
 >
->**Melden Sie sich zuerst an:** Die folgenden Links funktionieren **nur**, nachdem Sie sich **erfolgreich angemeldet haben**, und zwar im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**So geben Sie einen Link frei:** Wenn Sie den Link zu einer Erneuerungsprüfung oder -bewertung für einen Kollegen freigeben möchten, verknüpfen Sie bitte mit der Gesamt-Prüfungsverlängerungsseite, nicht mit der URL der Prüfung selbst, um Anmeldungsprobleme zu vermeiden.
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!NOTE]
->In Kürze kommt die Erneuerung der Experten.
+>Expert renewal coming soon.
 
-## Fragen
+## Questions
 
-Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com).
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

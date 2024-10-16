@@ -7,9 +7,9 @@ role: User
 badge: label="Prüfung AD0-E608" type="neutral"
 mini-toc-levels: 1
 exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -18,23 +18,7 @@ ht-degree: 0%
 
 {{intro}}
 
->[!NOTE]
->
->Es stehen jetzt kostenlose On-Demand-Ressourcen zur Verfügung, die Sie bei der Vorbereitung auf Ihre Prüfung unterstützen:
->
->* **Kurs:** Wenn Sie gerade anfangen oder einen Auffrischungskurs benötigen, nehmen Sie den [Adobe Experience Platform Foundation Kurs](https://app.rockinfo.com/courses/216), um Erklärungen zu Schlüsselkonzepten, Produktdurchläufen und Wissensüberprüfungen zu erhalten. Dieser Kurs bietet Ihnen eine Wissensgrundlage, auf der Sie auf Ihrer Zertifizierungs-Journey aufbauen können.
->
->* **Prüfungsvorbereitungsanleitung:** Das [Prüfungsvorbereitungshandbuch](https://app.rockinfo.com/courses/131) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für Ihre Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten.
->
->_Wenn Sie aufgefordert werden, sich anzumelden, verwenden Sie Ihren Adobe ID._
-
-## Prüfbeschreibung {#exam-description}
-
-{{exam-description}}
-
-<br>
-
-### Prüfungsdetails {#exam-details}
+## Prüfungsdetails {#exam-details}
 
 * Niveau: Professional (0-12 Monate Erfahrung)
 * Übergeben der Punktzahl: 36/50
@@ -44,149 +28,4 @@ ht-degree: 0%
 * Kosten: 125 USD (global) / 95 USD (Indien)
 * Prüfungs-ID: AD0-E608
 
-<br>
-
-### Vorgesehene Zielgruppe {#intended-audience}
-
-* Geschäftsanalysten
-* Unternehmensberater
-* Datenanalysten
-* Webanalysten
-* Digitale Analysten
-* Medien-/Marketinganalysten
-* Produkteigentümer und -manager
-* Konversions-/Optimierungsspezialisten
-
-<br>
-
-### Minimales Erlebnis {#minimum-experience}
-
-Der ideale, minimalqualifizierte Kandidat ist ein Analysten mit mindestens 6 Monaten Erfahrung im Adobe [!DNL Customer Journey Analytics] und einem grundlegenden Verständnis dessen, wie es in Verbindung mit [!DNL Adobe Experience Platform] funktioniert. Der Kandidat kann die entsprechenden Berichts- und Visualisierungsoptionen verwenden, um grundlegende und erweiterte Analysen für eine bestimmte Geschäftsanforderung durchzuführen.
-
-<br>
-
-### Prüfungsziele und -umfang {#exam-objectives}
-
-{{exam-objectives}}
-
-**Abschnitt 1: Komponenten (30%)**
-
-* Übersetzen von Geschäftsfragen in relevante Komponenten
-* Erstellen einer Teilmenge von Daten mit entsprechenden Komponenten und Filtern
-* Erstellen von Nicht-Admin-Komponenten zur Beantwortung von Geschäftsfragen
-
-**Abschnitt 2: Berichterstellung (32%)**
-
-* Bestimmen Sie geeignete Visualisierungen oder Tabellen, um Geschäftsfragen zu beantworten.
-* Bestimmen Sie anhand von Datenquellen, Identitäten und Datumsbereichen, welche Datenansicht verwendet werden soll.
-* Festlegen der Verwendung und Anwendung von Datumsbereichen
-
-**Abschnitt 3: Verteilung (12%)**
-
-* Berichte planen und an wichtige Interessengruppen weitergeben
-* Kuratieren von Feldern, die in einem bestimmten Bericht oder Dashboard verfügbar sind
-* Logische Organisation der Projekte
-
-**Abschnitt 4: Datenanalyse (26%)**
-
-* Führen Sie eine Sondierungsanalyse durch und interpretieren Sie die Ergebnisse, um Einblicke zu erhalten.
-* Bewerten von Zielgruppen für die Freigabe mit anderen AEP-Tools
-* Auswählen der richtigen Komponenten für die Analyse
-
-<br>
-
-## Zertifizierungen {#how-to-get-certified}
-
-{{how-to-get-certified-intro}}
-
-+++ Schritt 1: Konto erstellen
-
-{{create-your-account}}
-
-+++
-
-<br>
-
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
-
-**Studienmaterial**
-
-{{study-materials-intro}}
-
-**Durchführen eines Praxistests**
-
-{{practice-test}}
-
-**Nehmen Sie einen Kurs vor**
-
-{{take-course}}
-
-<a href="https://app.rockinfo.com/courses/216" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Kurs "Adobe Experience Platform Foundation"
-</span>
-</a>
-
-**Prüfungsvorbereitungsanleitung**
-
-{{exam-prep-guide}}
-
-[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/131)
-
-+++
-
-<br>
-
-++ Schritt 3: Test &amp; Test für Prüfungen planen
-
-{{schedule-and-pay}}
-
-+++
-
-<br>
-
-+++Schritt 4: Vor und nach der Prüfung
-
-{{before-and-after}}
-
-+++
-
-<br>
-
-+++Schritt 5: Führen Sie die Prüfung durch.
-
-{{about-certification-exam}}
-
-## Prüfung AD0-E608 planen oder durchführen
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E608" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Gehen Sie zum Portal "Examity"
-</span>
-</a>
-
-+++
-
-<br>
-
-++ Schritt 6: Verwalten von Abzeichen
-
-{{manage-your-badges}}
-
-+++
-
-<br>
-
-## Verlängern der Zertifizierung
-
-{{renewing-intro}}
-
-<br>
-
-## Fragen
-
-Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
-
-Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com).
+{{questions}}

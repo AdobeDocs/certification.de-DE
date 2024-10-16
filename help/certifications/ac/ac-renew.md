@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '2295'
+source-wordcount: '16'
 ht-degree: 0%
 
 ---
@@ -18,466 +18,472 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Ihr Adobe-Zertifikat ist zwei Jahre gültig. Wenn Sie sich dieser zweijährigen Marke nähern, ist es an der Zeit, Ihre Zertifizierung zu erneuern, damit sie aktiv bleibt.
+<!--
 
-Wählen Sie zunächst auf der Registerkarte unten die entsprechende Ebene aus (Professional, Expert oder Master). Überprüfen Sie dann sorgfältig, was Sie tun müssen, um Ihre Zertifizierung zu erneuern.
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-Stellen Sie sicher, dass Sie ausreichend Zeit haben, um alle Anforderungen abzuschließen, bevor Ihr Zertifikat abläuft.
-
-Es ist wichtig zu beachten, dass Sie bei Ablauf Ihrer Zertifizierung die Zertifizierungsprüfung wiederholen müssen, die NICHT kostenlos ist.
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**Melden Sie sich zuerst an:** Die folgenden Links funktionieren **nur**, nachdem Sie sich **erfolgreich angemeldet haben**, und zwar im [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**So geben Sie einen Link frei:** Wenn Sie den Link zu einer Erneuerungsprüfung oder -bewertung für einen Kollegen freigeben möchten, verknüpfen Sie bitte mit der Gesamt-Prüfungsverlängerungsseite, nicht mit der URL der Prüfung selbst, um Anmeldungsprobleme zu vermeiden.
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
 >[!TAB Professional]
 
-++ + Adobe [!DNL Commerce] Business Practitioner Professional
++++Adobe [!DNL Commerce] Business Practitioner Professional
 
-## Sie müssen über die folgende **aktive** -Zertifizierung verfügen, um mit dieser Methode zu erneuern:
+## You must have the following **active** certification to renew using this method:
 
 * Adobe [!DNL Commerce] Business Practitioner Professional
 
-## Anweisungen zur Verlängerung Ihrer Zertifizierung:
+## Instructions for renewing your certification:
 
-* **Schritt 1**: Melden Sie sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} an und kehren Sie dann zu dieser Seite zurück.
-* **Schritt 2**: Prüfungsziele und -ressourcen überprüfen
-* **Schritt 3**: Führen Sie die Prüfung durch und bestehen Sie sie.
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## Bereit
+## Get ready
 
-**Prüfungsdetails:**
+**Exam details:**
 
-* Niveau: Professional (0-12 Monate Erfahrung)
-* Übergeben der Bewertung: 27/35
-* Zeit: 70 Minuten
-* Versand: On-Demand/nicht verarbeitet
-* Verfügbare Sprachen: Englisch
-* Kosten: KOSTENLOS
-* Prüfungs-ID: AD5-E840 Adobe [!DNL Commerce] Business Practitioner Professional Renewal-Prüfung
+* Level: Professional (0-12 months' experience)
+* Passing Score: 27/35
+* Time: 70 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E840 Adobe [!DNL Commerce] Business Practitioner Professional Renewal Exam
 
-**Umfang und Ziele:**
+**Scope and objectives:**
 
-Abschnitt 1: Kernfunktionen der Magento Open Source (54 %)
+Section 1: Magento Open Source Core Features (54%)
 
-* Funktionen der Magento Open Source identifizieren
-* den korrekten Umfang und den Verwendungszeitpunkt unterscheiden
-* Kenntnisse des Katalogmanagements demonstrieren
-* Anpassen der Preisgestaltung mithilfe von Magento Open Source-Funktionen
-* Beschreiben Sie die standardmäßige Journey des Kunden.
-* Beschreiben Sie den Standard-Lebenszyklus der Bestellung.
-* Beschreiben Sie die täglichen Aufgaben, die mit der Wartung des Stores verbunden sind
-* Die verschiedenen Typen von Inhaltselementen und deren Verwendung erklären
+* Identify the features of Magento Open Source
+* Distinguish the correct scope and when to use each
+* Demonstrate knowledge of Catalog Management
+* Manipulate pricing by using Magento Open Source features
+* Describe the standard customer journey
+* Describe the standard order life cycle
+* Describe the day-to-day tasks involved in Store maintenance
+* Explain the different types of content elements and when to use
 
-Abschnitt 2: Adobe Commerce-Grundlagen (14%)
+Section 2: Adobe Commerce Basics (14%)
 
-* Die wichtigsten in Adobe Commerce verfügbaren Funktionen identifizieren
-* Dienst-Add-ons in Adobe Commerce identifizieren
-* Ermitteln von Hosting-Optionen für Adobe Commerce
+* Identify the key features available in Adobe Commerce
+* Identify service Add-ons in Adobe Commerce
+* Identify hosting options for Adobe Commerce
 
-Abschnitt 3: Grundlagen für digitales Marketing und eCommerce (22 %)
+Section 3: Digital Marketing and eCommerce Fundamentals (22%)
 
-* Die wichtigsten in Adobe Commerce verfügbaren Funktionen identifizieren
-* Dienst-Add-ons in Adobe Commerce identifizieren
-* Ermitteln von Hosting-Optionen für Adobe Commerce
-* Identifizieren der wichtigsten Funktionen einer eCommerce-Website
-* Identifizieren der grundlegenden eCommerce-Konzepte
+* Identify the key features available in Adobe Commerce
+* Identify service Add-ons in Adobe Commerce
+* Identify hosting options for Adobe Commerce
+* Identify the key features of an eCommerce website
+* Identify the basic eCommerce concepts
 
-Abschnitt 4: Grundlagen zur Einhaltung/Sicherheit (10%)
+Section 4: Compliance/Security Basics (10%)
 
-* Grundlegende Informationen zur Einhaltung von Datenschutzgesetzen und zur Zahlungssicherheit
-* Identifizieren gemeinsamer Sicherheitsaspekte eines Adobe Commerce-Projekts
-* Best Practices und rechtliche Anforderungen an die Barrierefreiheit zu identifizieren
+* Understand basics of compliance for privacy laws and payment security
+* Identify common security aspects of an Adobe Commerce project
+* Identify best practices and legal requirements of accessibility compliance
 
-### Vorbereiten
+### Get prepped
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+Here are some suggested resources to help you prepare:
 
-**Abschnitt 1**
+**Section 1**
 
-* [Adobe [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=de){target="_blank"}
+* [Adobe [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html){target="_blank"}
 * [Widgets](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
-* [Adobe [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html?lang=de){target="_blank"}
-* [Adobe [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
-* [Branding in der Storefront](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/storefront-branding.html){target="_blank"}
-* [Kundenvariablen hinzufügen](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html){target="_blank"}
-* [Preisregeln für Warenkorb](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart.html){target="_blank"}
-* [Neue Kundenkontooptionen](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/configure/account-options-new.html){target="_blank"}
-* [Bestellstatus](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html){target="_blank"}
+* [Adobe [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html){target="_blank"} 
+* [Adobe [!DNL Commerce] Stores and Purchase Experience Guide](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"} 
+* [Storefront Branding](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/storefront-branding.html){target="_blank"}
+* [Add Customer Variables](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html){target="_blank"}
+* [Cart price rules](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart.html){target="_blank"}
+* [New customer account options](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/configure/account-options-new.html){target="_blank"}
+* [Order status](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html){target="_blank"}
 * [Business Intelligence tools](https://experienceleague.adobe.com/docs/commerce-admin/start/reporting/business-intelligence.html){target="_blank"}
 
-**Abschnitt 2**
+**Section 2**
 
-* [Übersicht zu Page Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/content/page-builder-overview.html)
-* [E-Mail-Vorlagen](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
-* [Käuferunterstützung bereitstellen](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html){target="_blank"}
-* [Inhaltstaging](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-* [Installieren und Konfigurieren](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/getting-started/install-configure.html){target="_blank"}
-* [Pro-Architektur](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
-* [Sicherheit](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/cloud/security.html){target="_blank"}
+* [Page Builder overview](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/content/page-builder-overview.html) 
+* [Email templates](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
+* [Provide shopper assistance](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html){target="_blank"}
+* [Content staging](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
+* [Install and Configure](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/getting-started/install-configure.html){target="_blank"}
+* [Pro architecture](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
+* [Security](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/cloud/security.html){target="_blank"}
 
-**Abschnitt3**
+**Section3**
 
 * [Google Analytics](https://experienceleague.adobe.com/docs/commerce-admin/marketing/google-tools/google-analytics.html){target="_blank"}
-* [SEO-Übersicht](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
-* [ Erweiterte Storefront-Erlebnisse](https://experienceleague.adobe.com/docs/commerce-admin/start/storefront/enhanced-experiences.html){target="_blank"}
+* [SEO Overview](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
+* [Enhanced storefront experiences](https://experienceleague.adobe.com/docs/commerce-admin/start/storefront/enhanced-experiences.html){target="_blank"}
 * [PCI compliance](https://business.adobe.com/products/magento/pci-compliance.html){target="_blank"}
-* [Lernen Sie den Unterschied zwischen Omnichannel- und Multichannel-Marketing](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
+* [Learn the difference between omnichannel and multichannel marketing](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
 
-**Abschnitt 4**
+**Section 4**
 
-* [DSGVO](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/privacy/gdpr.html){target="_blank"}
-* [Adobe [!DNL Commerce] Best Practices für die Sicherheit](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
-* [So machen Sie Ihre E-Commerce-Website ADA konform](https://business.adobe.com/blog/perspectives/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
+* [GDPR](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/privacy/gdpr.html){target="_blank"}
+* [Adobe [!DNL Commerce] Security Best Practices](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
+* [How to Make Your Ecommerce Website ADA Compliant](https://business.adobe.com/blog/perspectives/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 
-## Zertifizierung verlängern
+## Renew your certification
 
-Verlängerung des Adobe [!DNL Commerce] Business Practitioner Professional-Zertifikats:
+To renew your Adobe [!DNL Commerce] Business Practitioner Professional certification:
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben befolgt haben und sich zuerst erfolgreich beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} angemeldet haben. Um Ihr Zertifikat zu verlängern, klicken Sie auf den unten stehenden Link Adobe [!DNL Commerce] Business Practitioner Professional Renewal Exam (AD5-E840).
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe [!DNL Commerce] Business Practitioner Professional Renewal Exam (AD5-E840) link below.
 
-[!BADGE Nehmen Sie die Adobe [!DNL Commerce] Business Practitioner Professional Renewal-Prüfung (AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840 newtab=true"}
+[!BADGE Take the Adobe [!DNL Commerce] Business Practitioner Professional Renewal Exam (AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E840 newtab=true"} 
 
 >[!NOTE]
 >
->Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie **30 Tage** warten, bis Sie es erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
-++ + Adobe [!DNL Commerce] Entwickler-Professional
++++Adobe [!DNL Commerce] Developer Professional 
 
-## Sie müssen über die folgende **aktive** -Zertifizierung verfügen, um mit dieser Methode zu erneuern:
+## You must have the following **active** certification to renew using this method:
 
-Adobe [!DNL Commerce] Developer Professional
+Adobe [!DNL Commerce] Developer Professional 
 
-## Anweisungen zur Verlängerung Ihrer Zertifizierung:
+## Instructions for renewing your certification:
 
-* **Schritt 1**: Melden Sie sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} an und kehren Sie dann zu dieser Seite zurück.
-* **Schritt 2**: Prüfungsziele und -ressourcen überprüfen
-* **Schritt 3**: Führen Sie die Prüfung durch und bestehen Sie sie.
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## Bereit
+## Get ready
 
-**Prüfungsdetails:**
+**Exam details:**
 
-* Niveau: Professional (0-12 Monate Erfahrung)
-* Übergeben der Punktzahl: 28/37
-* Zeit: 74 Minuten
-* Versand: On-Demand/nicht verarbeitet
-* Verfügbare Sprachen: Englisch
-* Kosten: KOSTENLOS
-* Prüfungs-ID: AD5-E839 Adobe [!DNL Commerce] Developer Professional
+* Level: Professional (0-12 months' experience)
+* Passing Score: 28/37
+* Time: 74 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E839 Adobe [!DNL Commerce] Developer Professional
 
-**Umfang und Ziele:**
+**Scope and objectives:**
 
-**Abschnitt 1: Arbeiten mit Admin (7%)**
+**Section 1: Working with Admin (7%)**
 
-* Beschreiben Sie, wie die ACL mit Rollen und Ressourcen funktioniert.
-* Identifizieren Sie die Komponenten, die beim Erstellen oder Ändern des Admin-Rasters/Formulars verwendet werden sollen
-* Identifizieren Sie die Dateien, die beim Erstellen einer Store/Admin-Konfiguration und von Menüelementen verwendet werden sollen.
+* Describe how the ACL works with roles and resources
+* Identify the components to use when creating or modifying the admin grid/form
+* Identify the files to use when creating a store/admin config and menu items
 
-**Abschnitt 2: Architektur (36%)**
+**Section 2: Architecture (36%)**
 
-* Magento-Dateistruktur beschreiben
-* Beschreiben von Magento-CLI-Befehlen
-* Beschreibung der Cron-Funktion
-* Beschreiben Sie für ein Szenario die Verwendung der Datei &quot;di.xml&quot;.
-* Erstellen Sie in einem Szenario Controller
-* Beschreiben der Modulstruktur
-* Beschreiben der Indexfunktionalität
-* Lokalisierung beschreiben
-* Beschreiben von Plug-ins, Einstellungen, Ereignisbeobachtern und Abfängern
-* Beschreiben benutzerdefinierter Modulrouten
-* Beschreiben von URL-Neuschreibungen
-* Beschreiben Sie das Magento-Caching-System
-* Beschreiben Sie Stores, Websites und Store-Ansichten (Grundverständnis).
+* Describe Magento file structure
+* Describe Magento CLI commands
+* Describe cron functionality
+* Given a scenario, describe usage of the di.xml
+* Given a scenario, create controllers
+* Describe module structure
+* Describe index functionality
+* Describe localization
+* Describe plugin, preference, event observers, and interceptors
+* Describe custom module routes
+* Describe URL rewrites
+* Describe the Magento caching system
+* Describe stores, websites, and store views (basic understanding)
 
-**Abschnitt 3: EAV/Datenbank (17%)**
+**Section 3: EAV/Database (17%)**
 
-* Ändern/Hinzufügen/Entfernen von Attributsätzen und/oder -attributen
-* Beschreiben verschiedener Attributtypen
-* Verwenden Sie in einem Szenario ein DB-Schema, um eine Datenbanktabelle zu ändern
-* Beschreiben von Modellen, Ressourcenmodellen und Sammlungen
-* Grundlagen des Entitätsattributwerts (EAV) beschreiben
+* Given a scenario, change/add/remove attribute sets and/or attributes
+* Describe different types of attributes
+* Given a scenario, use a DB schema to alter a database table
+* Describe models, resource models, and collections
+* Describe basics of Entity Attribute Value (EAV)
 
-**Abschnitt 4: Layout/Benutzeroberfläche (18%)**
+**Section 4: Layout/UI (18%)**
 
-* Beschreiben der Verwendung von CMS-Seiten und -Blöcken
-* In einem Szenario das Layout ändern
-* In einem Szenario ändern Sie den Seitenstil
-* Designstruktur beschreiben
-* Arbeiten mit JavaScript-Dateien in einem bestimmten Szenario (Standard)
-* Beschreiben der Front-End-Nutzung von Kundendaten
+* Describe usage of CMS pages and blocks
+* Given a scenario, modify layout
+* Given a scenario, modify page style
+* Describe theme structure
+* Given a scenario, work with JavaScript files (basic)
+* Describe front-end usage of customer data
 
-**Abschnitt 5: Checkout und Vertrieb (12%)**
+**Section 5: Checkout and Sales (12%)**
 
-* Warenkorbkomponenten beschreiben
-* Eine Regel für Warenkorbangebote beschreiben
-* Beschreiben Sie in einem Szenario grundlegende Änderungen am Checkout.
-* Beschreiben Sie die grundlegende Verwendung von Anführungsdaten in einem Szenario.
-* Konfigurieren Sie bei einem Szenario die Zahlungs- und Versandmethoden
-* Konfigurieren Sie bei einem Szenario Steuerregeln, Währungen, Warenkorb und/oder Checkout.
+* Describe cart components
+* Describe a cart promo rule
+* Given a scenario, describe basic checkout modifications
+* Given a scenario, describe basic usage of quote data
+* Given a scenario, configure the payment and shipping methods
+* Given a scenario, configure tax rules, currencies, cart, and/or checkout
 
-**Abschnitt 6: Katalog (10%)**
+**Section 6: Catalog (10%)**
 
-* Identifizieren Sie die Grundlagen der Kategorieverwaltung und des Produktmanagers.
-* Beschreiben Sie Produktarten.
-* Preisregeln beschreiben
-* Beschreiben von Preistypen
+* Identify the basics of category management and products managent
+* Describe product types
+* Describe price rules
+* Describe price types
 
-## Vorbereiten
+## Get prepped
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+Here are some suggested resources to help you prepare:
 
-**Abschnitt 1**
+**Section 1**
 
-* [Erstellen einer Zugriffssteuerungslisten-Regel (ACL)](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
-* [Admin-Raster hinzufügen](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
+* [Create an access control list (ACL) rule](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
+* [Add an Admin grid](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
 * [system.xml reference](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
 
-**Abschnitt 2**
+**Section 2**
 
 * [Routing](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
-* [URL-Neuschreibungen](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
-* [Konfiguration des Cache-Typs](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
-* [ Bereich &quot;Site, store und view&quot;](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
-* [Befehlszeilenwerkzeug](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-* [Konfiguration der Abhängigkeitsinjektion](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
-* [Erstellen eines Moduls](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=de){target="_blank"}
-* [Indizierung](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
-* [Übersetzungen](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
+* [URL rewrites](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
+* [Cache type configuration](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
+* [Site, store, and view scope](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
+* [Command-line tool](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [Dependency injection configuration](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
+* [Create a module](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"}
+* [Indexing](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
+* [Translations](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
 * [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
 
-**Abschnitt 3**
+**Section 3**
 
-* [Attributsätze](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
-* [EAV und Erweiterungsattribute](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
-* [Deklaratives Schema konfigurieren](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
-* [Erstellen der Komponentendateistruktur](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
+* [Attribute sets](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
+* [EAV and extension attributes](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
+* [Configure declarative schema](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
+* [Create your component file structure](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
 
-**Abschnitt 4**
+**Section 4**
 
-* [Inhaltsbausteine](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
-* [Modelle anzeigen](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
-* [Layoutanweisungen](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
-* [Designstruktur](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
-* [JavaScript aufrufen und initialisieren](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
-* [Privater Inhalt](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
+* [Content blocks](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
+* [View models](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
+* [Layout instructions](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
+* [Theme structure](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
+* [Call and initialize JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
+* [Private content](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
 
-**Abschnitt 5**
+**Section 5**
 
-* [Warenkorbkonfiguration](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
-* [Erstellen Sie eine Warenkorbpreisregel](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
-* [Fügen Sie benutzerdefinierte Felder hinzu, die andere Checkout-Felder beeinflussen](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
-* [Anführungszeichentabelle](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
-* [Anpassen der Liste der Versandmethoden](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
-* [Steuerkonfigurationseinstellungen](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
+* [Cart configuration](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
+* [Create a cart price rule](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [Add custom fields that influence other checkout fields](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
+* [Quote table](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
+* [Customize the list of shipping methods](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
+* [Tax configuration settings](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
 
-**Abschnitt 6**
+**Section 6**
 
-* [Ändern eines Katalogs](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
-* [Produkt erstellen](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
-* [Katalogpreisregeln](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
-* [Gruppenpreise](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
+* [Modify a catalog](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
+* [Create a product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
+* [Catalog price rules](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
+* [Group pricing](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
 
-## Zertifizierung verlängern
+## Renew your certification
 
-So verlängern Sie Ihr Adobe [!DNL Commerce] Developer Professional-Zertifikat:
+To renew your Adobe [!DNL Commerce] Developer Professional certification:
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben befolgt haben und sich zuerst erfolgreich beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} angemeldet haben. Um Ihr Zertifikat zu verlängern, klicken Sie auf den unten stehenden Link Adobe [!DNL Commerce] Developer Professional Renewal Exam (AD5-E839).
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe [!DNL Commerce] Developer Professional Renewal Exam (AD5-E839) link below.
 
-[!BADGE Nehmen Sie die Adobe [!DNL Commerce] Prüfung zur beruflichen Erneuerung für Entwickler (AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839 newtab=true"}
+[!BADGE Take the Adobe [!DNL Commerce] Developer Professional Renewal Exam (AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E839 newtab=true"}
 
 >[!NOTE]
 >
->Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie **30 Tage** warten, bis Sie es erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
-++ Adobe [!DNL Commerce] Frontend-Entwickler-Professional
++++Adobe [!DNL Commerce] Front-End Developer Professional
 
-## Sie müssen über die folgende **aktive** -Zertifizierung verfügen, um mit dieser Methode zu erneuern:
+## You must have the following **active** certification to renew using this method:
 
-Adobe [!DNL Commerce] Front-End-Entwickler-Professional
+Adobe [!DNL Commerce] Front-End Developer Professional
 
-## Anweisungen zur Verlängerung Ihrer Zertifizierung:
+## Instructions for renewing your certification:
 
-* **Schritt 1**: Melden Sie sich erfolgreich bei [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} an und kehren Sie dann zu dieser Seite zurück.
-* **Schritt 2**: Prüfungsziele und -ressourcen überprüfen
-* **Schritt 3**: Führen Sie die Prüfung durch und bestehen Sie sie.
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## Bereit
+## Get ready
 
-**Prüfungsdetails:**
+**Exam details:**
 
-* Niveau: Professional (0-12 Monate Erfahrung)
-* Übergeben der Punktzahl: 26/34
-* Zeit: 68 Minuten
-* Versand: On-Demand/nicht verarbeitet
-* Verfügbare Sprachen: Englisch
-* Kosten: KOSTENLOS
-* Prüfungs-ID: AD5-E844 Adobe [!DNL Commerce] Front-End-Entwickler Professional-Verlängerung
+* Level: Professional (0-12 months' experience)
+* Passing Score: 26/34
+* Time: 68 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E844 Adobe [!DNL Commerce] Front-End Developer Professional Renewal
 
-**Umfang und Ziele:**
+**Scope and objectives:**
 
-**Abschnitt 1: Designverwaltung (Themenhierarchie, Bildkonfiguration, Übersetzungen) (14%)**
+**Section 1: Theme management (Theme hierarchy, image configuration, translations) (14%)**
 
-* Beschreiben der Ordnerstruktur des Designs Adobe [!DNL Commerce]
-* Möglichkeiten zur Erstellung neuer oder Erweiterung vorhandener Designs demonstrieren
-* Verwendung benutzerdefinierter Übersetzungssätze demonstrieren
+* Describe Adobe [!DNL Commerce] theme folder structure
+* Demonstrate ability to create new or extend existing themes
+* Demonstrate ability to add custom translation phrases
 
-**Abschnitt 2: Layout-XML und Vorlagen (30%)**
+**Section 2: Layout XML & Templates (30%)**
 
-* Verwenden grundlegender XML-Anweisungen für Layouts
-* Verwenden vorhandener Seitenlayouts
-* Beschreiben der Schritte zum Erweitern und Überschreiben von XML
-* Erstellen und Anpassen von Vorlagen demonstrieren
-* Beschreiben Sie die Vorlagensicherheit (Escaping-Ausgabe).
+* Demonstrate the ability to work with basic layout XML instructions
+* Demonstrate the ability to use existing page layouts
+* Describe the steps for extending and overriding XML
+* Demonstrate ability to create and customize templates
+* Describe template security (escaping output)
 
-**Abschnitt 3: Stile (22%)**
+**Section 3: Styles (22%)**
 
-* Beschreiben Sie den Zweck von styles-m.less, styles-l.less, print.less
-* Beschreiben Sie den Unterschied zwischen bestimmten partiellen Dateien (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,).
-* Zeigen Sie bei einem Szenario die Möglichkeit, Magento LESS zu überschreiben oder zu erweitern.
-* Grundlegende Konzepte von LESS beschreiben
-* Hierarchie der Stile erklären (lib, module, themes)
-* Client- und Server-seitige Kompilierung erläutern
+* Describe the purpose of styles-m.less, styles-l.less, print.less
+* Describe the difference between specific partial files (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,)
+* Given a scenario, demonstrate the ability to override or extend Magento LESS
+* Describe the basic concepts of LESS
+* Explain the hierarchy of styles (lib, modules, themes)
+* Explain client-side and server-side compilation
 
-**Abschnitt 4: JavaScript (18%)**
+**Section 4: JavaScript (18%)**
 
-* JavaScript-Komponenten initialisieren und aufrufen
-* Verwendung von RequireJS demonstrieren
-* Beschreiben der Verwendung von Mixins
-* Beschreiben, wie eine Übersetzung in JS hinzugefügt wird
-* Beschreiben der Verwendung von Knockout JS
-* Verwendung von jQuery-Widgets beschreiben
+* Demonstrate the ability to initialize and call JavaScript components
+* Demonstrate the usage of RequireJS
+* Describe the usage of mixins
+* Describe how to add a translation in JS
+* Describe the usage of Knockout JS
+* Describe the usage of jQuery widgets
 
-**Abschnitt 5: Admin-Konfiguration und PageBuilder (8%)**
+**Section 5: Admin Configuration and PageBuilder (8%)**
 
-* Möglichkeiten zur Anpassung von Seitenaufbau- und CMS-Inhalten demonstrieren
-* Beschreibung der Schritte zum Anpassen von Transaktions-E-Mails
+* Demonstrate the ability to customize Page Builder and CMS content
+* Describe steps to customize transactional emails
 
-**Abschnitt 6: Werkzeuge (CLI und Grunt) (8%)**
+**Section 6: Tools (CLI and Grunt) (8%)**
 
-* Beschreiben Sie die Verwendung von einfachen bin/Magento-Befehlen
-* Beschreiben Sie die Verwendung von Composer-Befehlen (installieren, aktualisieren, benötigen, entfernen)
-* Den geeigneten Anwendungsfall für Bereitstellungsmodi unterscheiden
-* Beschreiben Sie zusätzliche Tools, die von Cloud bereitgestellt werden (schnelles Herunterladen der Datenbank, Bereitstellung von Inhalten)
+* Describe the usage of basic bin/Magento commands
+* Describe the usage of Composer commands (install, update, require, remove)
+* Differentiate the appropriate use case for deploy modes
+* Describe additional tools that cloud provides (Fastly, downloading database, content deployment)
 
-## Vorbereiten
+## Get prepped
 
-Sie müssen die Schulung nicht vor der Prüfung abschließen, und die Schulung allein bietet Ihnen nicht die erforderlichen Kenntnisse und Fähigkeiten, um die Prüfung zu bestehen. Eine Kombination aus Schulung und erfolgreichem On-the-Job-Erlebnis ist entscheidend, um Ihnen das Repository zur Verfügung zu stellen, das zum Bestehen der Prüfung benötigt wird.
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitung unterstützen:
+Here are some suggested resources to help you prepare:
 
-**Abschnitt 1**
+**Section 1**
 
-* [Beispiel für ein Wörterbuch für die Übersetzung von Designs](https://developer.adobe.com/commerce/frontend-core/guide/translations/practice/)
-* [Design-Struktur](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/)
-* [Konfigurieren der Designeigenschaften](https://developer.adobe.com/commerce/frontend-core/guide/themes/configure/)
-* [Verwenden Sie ein Wörterbuch zum Anpassen von Zeichenfolgen](https://developer.adobe.com/commerce/frontend-core/guide/translations/dictionary/)
+* [Theme translation dictionary example](https://developer.adobe.com/commerce/frontend-core/guide/translations/practice/)
+* [Theme structure](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/)
+* [Configure theme properties](https://developer.adobe.com/commerce/frontend-core/guide/themes/configure/)
+* [Use a dictionary to customize strings](https://developer.adobe.com/commerce/frontend-core/guide/translations/dictionary/)
+ 
+**Section 2**
 
-**Abschnitt 2**
-
-* [referenceBlock und referenceContainer](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#referenceblock-and-referencecontainer)
-* [Layoutanweisungen](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/)
-* [Layout überschreiben](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/)
-* [Argument](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#argument)
-* [Neues Layout erstellen](https://developer.adobe.com/commerce/frontend-core/guide/layouts/create/)
-* [Außerkraftsetzen eines Layouts](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/#how-to-override-a-layout)
-* [Anleitung zur Vorlagenanpassung](https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough/)
+* [referenceBlock and referenceContainer](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#referenceblock-and-referencecontainer)
+* [Layout instructions](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/)
+* [Override a layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/)
+* [argument](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#argument)
+* [Create a new layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/create/)
+* [How to override a layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/#how-to-override-a-layout)
+* [Template customization walkthrough](https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough/)
 * [magento2/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer/](https://github.com/magento/magento2/tree/2.4.6/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer)
-* [Themenvererbung](https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance/)
-* [Site-übergreifendes Skripting (XSS)](https://developer.adobe.com/commerce/php/development/security/cross-site-scripting/)
+* [Theme inheritance](https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance/)
+* [Cross-site scripting (XSS)](https://developer.adobe.com/commerce/php/development/security/cross-site-scripting/)
+ 
+**Section 3**
 
-**Abschnitt 3**
-
-* [CSS im responsiven Design](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/css/)
-* [Anpassen von Designstilen](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/)
-* [Erweitern von übergeordneten Stilen](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#extend-parent-styles)
-* [Überschreiben übergeordneter Stile](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#override-parent-styles)
-* [Kompilierungsmodus](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/)
-
-**Abschnitt 4**
-
-* [JavaScript aufrufen und initialisieren](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+* [CSS in responsive design](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/css/)
+* [Customize theme styles](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/)
+* [Extend parent styles](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#extend-parent-styles)
+* [Override parent styles](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#override-parent-styles)
+* [Compilation mode](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/)
+ 
+**Section 4**
+ 
+* [Call and initialize JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
 * [mixins](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/#shim)
-* [Mixin-Umfang](https://developer.adobe.com/commerce/frontend-core/javascript/mixins/#mixin-scope)
-* [Designstrings](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/)
+* [Mixin scope](https://developer.adobe.com/commerce/frontend-core/javascript/mixins/#mixin-scope) 
+* [Theme strings](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/)
 * [Binding map](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/#binding-map)
-* [Initialisieren des Akkordeon-Widgets](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion/#initialize-the-accordion-widget)
+* [Initialize the accordion widget](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion/#initialize-the-accordion-widget)
 
-## Zertifizierung verlängern
+## Renew your certification
 
-So verlängern Sie Ihr Adobe [!DNL Commerce] Frontend-Entwickler-Professional-Zertifikat:
+To renew your Adobe [!DNL Commerce] Front-End Developer Professional certification:
 
-Vergewissern Sie sich, dass Sie Schritt 1 oben befolgt haben und sich zuerst erfolgreich beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} angemeldet haben. Um Ihr Zertifikat zu verlängern, klicken Sie auf den Link Adobe [!DNL Commerce] Front-End Developer Professional Renewal Exam (AD5-E844) unten.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe [!DNL Commerce] Front-End Developer Professional Renewal Exam (AD5-E844) link below.
 
-[!BADGE Nehmen Sie die Adobe [!DNL Commerce] Frontend-Entwickler-Professional-Erneuerungsprüfung (AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844 newtab=true"}
+[!BADGE Take the Adobe [!DNL Commerce] Front-End Developer Professional Renewal Exam (AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E844 newtab=true"}
 
 >[!NOTE]
 >
->Diese Prüfung ist kostenlos, offen und unverarbeitet. Du kannst die Prüfung bis zu dreimal ablegen. Wenn Sie nach dem dritten Versuch keinen Erfolg haben, müssen Sie **30 Tage** warten, bis Sie es erneut versuchen. Wenn Sie der Aufforderung nicht nachkommen, wird Ihre Zertifizierung möglicherweise widerrufen.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
->[!TAB Expert und Master]
+>[!TAB Expert and Master]
 
-## Sie müssen über mindestens eines der folgenden **aktiven** Zertifizierungen verfügen, um verlängert zu werden:
+## You must have at least one of the following **active** certifications to renew:
 
-* [!DNL Adobe Commerce] Geschäftspraktiker-Experte
-* [!DNL Adobe Commerce] Entwicklerexperte
-* [!DNL Adobe Commerce] Architekturmeister
-* [!DNL Adobe Commerce] Frontend-Entwickler-Experte
+* [!DNL Adobe Commerce] Business Practitioner Expert
+* [!DNL Adobe Commerce] Developer Expert
+* [!DNL Adobe Commerce] Architect Master
+* [!DNL Adobe Commerce] Front End Developer Expert
 
-## Anweisungen zur Verlängerung der [!DNL Adobe Commerce]-Zertifizierung
+## Instructions for renewing your [!DNL Adobe Commerce] certification
 
-Wählen Sie **drei Aktivitäten** aus, um die jeweiligen Kursbewertungen abzuschließen und weiterzugeben.
+Select **three activities** to complete and pass the course assessments associated with each.
 
-* **Schritt 1:** Anmeldung erfolgreich beim [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} und anschließendes erneutes Rückkehr zu dieser Seite
-* **Schritt 2:** Untersuchen Sie die Kurse in Experience League
-* **Schritt 3:** Wählen Sie aus den unten stehenden Optionen aus, um Ihre Verlängerung abzuschließen.
+* **Step 1:** Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2:** Study the courses in Experience League
+* **Step 3:** Choose from the options below to complete your renewal.
 
-  **Option A:**
-Wählen Sie **drei Kurse** aus, um die Kursbewertungen abzuschließen und mit einer Punktzahl von mindestens 80 % zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
+   **Option A:**
+   Select **three courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  **Option B:**
-Wählen Sie zunächst **zwei Kurse** aus, um die Kursbewertungen abzuschließen und mit einer Punktzahl von mindestens 80 % zu bestehen. Kursbewertungen sind kostenlos, On-Demand, nicht bestellt und offen. Sie können die Kurse wiederholen, bis Sie die Bewertungen zu 80 % erfolgreich bestanden haben.
+   **Option B:**
+   First, select **two courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  Zweitens senden Sie **ein Kundenreferenzformular**, mit dem Sie Ihre weitere Arbeit als Adobe-zertifizierter Einzelanwender validieren können, der an einem Adobe Experience Cloud-Implementierungsprojekt beteiligt ist. In diesem Antragsformular wird bestätigt, dass Sie während Ihrer zweijährigen Zertifizierungsverlängerung mindestens 100 Stunden nachweislicher Projektinteraktion teilgenommen haben.
+   Second, **submit a customer reference form** validating your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project. This form affirms that you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval. 
 
-  [Kundenreferenzformular für  [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}
+   [Customer Reference Form for [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA700){target="_blank"}
 
-  Sie werden vom Adobe Digital Experience Certification Program benachrichtigt, wenn Ihre Kundenreferenz überprüft wurde. Wenn Ihre Referenz nicht akzeptiert wird, können Sie sie erneut einreichen, bis Sie erfolgreich sind, sofern dies noch vor Ablauf der Zertifizierung der Fall ist.
+   You will be notified by the Adobe Digital Experience Certification Program when your customer reference has been reviewed. If your reference is not accepted, you may submit again until you are successful, as long as it is before your certification expires.
 
 >[!NOTE]
 >
->Wenn Sie über mehrere [!DNL Adobe Commerce] Experten- und Master-Zertifikate verfügen, müssen Sie die Verlängerungsanforderungen für nur ein Zertifikat erfüllen. Der Rest wird automatisch erneuert.
+>If you hold multiple [!DNL Adobe Commerce] Expert and Master certifications, complete the renewal requirements for just one certification, and the rest will be renewed automatically.
 
-### Kurse und Kursbewertungen für Experten und Master:
+### Courses and Course Assessments for Expert and Master:
 
-| Kurse für Experten und Master | Kursbewertungen |
+| Courses for Expert and Master | Course Assessment |
 | ------- | ------- |
-| [Adobe [!DNL Commerce] E-Commerce-Trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA703){target="_blank"} |
-| [Adobe [!DNL Commerce] Personalization](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA704){target="_blank"} |
-| [Adobe [!DNL Commerce] KI-Automatisierung](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA705){target="_blank"} |
-| [[!DNL Commerce]: Datenintegrationen zum Experience Platform und darüber hinaus](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA709){target="_blank"} |
-| [[!DNL Commerce]: Composable Commerce on Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA710){target="_blank"} |
+| [Adobe [!DNL Commerce] E-Commerce Trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA703){target="_blank"} |
+| [Adobe [!DNL Commerce] Personalization](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA704){target="_blank"} |
+| [Adobe [!DNL Commerce] AI Automation](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA705){target="_blank"} |
+| [[!DNL Commerce]: Data Integrations to Experience Platform & Beyond](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA709){target="_blank"} |
+| [[!DNL Commerce]: Composable Commerce on Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA710){target="_blank"} |
 
 >[!ENDTABS]
 
-## Fragen
+## Questions
 
-Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com).
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

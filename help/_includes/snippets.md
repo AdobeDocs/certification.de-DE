@@ -1,7 +1,7 @@
 ---
-source-git-commit: db72e72c2b642102d1ecb991df04138e6bd7f630
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '1970'
+source-wordcount: '2012'
 ht-degree: 0%
 
 ---
@@ -252,6 +252,16 @@ Der kostenlose Test-Vorbereitungshandbuch bietet einen maßgeschneiderten Weg du
 
 ## Verlängerung auf Eis {#renewals-hold}
 
->[!WARNING]
+>[!NOTE]
 >
->Das Adobe Digital Experience Certification Program wird in Kürze geändert. Wenn Sie gerade Ihre Zertifizierung erneuern, beachten Sie bitte, dass der 13. Oktober 2024 der 1. Oktober 2024 der letzte Termin ist, an dem Ihre Verlängerung abgeschlossen wurde.****
+>Das Adobe Digital Experience Certification Program vereinfacht die Verlängerung der Zertifizierung, um Ihr Erlebnis zu vereinfachen. Während dieser neue Prozess implementiert wird, sind **Verlängerungen vorübergehend ausgesetzt.**
+>
+>* Für diejenigen, deren Zertifikate zwischen dem 14. Oktober 2024 und dem 30. September 2025 ablaufen, wird Ihre Zertifizierung bis zum 1. Oktober 2025 verlängert.
+>
+>* Einzelheiten zum aktualisierten Verlängerungsverfahren werden Anfang März bekannt gegeben, um sicherzustellen, dass alle Inhaber der Zertifizierung ausreichend Zeit haben, ihre Zertifizierungen zu erneuern.
+
+<!--divider-->
+
+## Fragen {#questions}
+
+**Fragen?** [Kontaktieren Sie uns](mailto:certif@adobe.com)

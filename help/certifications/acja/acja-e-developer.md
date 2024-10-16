@@ -7,9 +7,9 @@ product: Customer Journey Analytics
 badge: label="Prüfung AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,7 @@ ht-degree: 0%
 
 {{intro}}
 
->[!NOTE]
->
->**Neue verfügbare Studienressourcen:** Der [Leitfaden zur Prüfungsvorbereitung](https://app.rockinfo.com/courses/132) bietet einen maßgeschneiderten Pfad durch den Vorbereitungsprozess für die Zertifizierungsprüfung, einschließlich der Materialien, die Sie benötigen, um diese Zertifizierung erfolgreich zu erhalten. _Wenn Sie aufgefordert werden, sich beim Prüfungsvorbereitung anzumelden, verwenden Sie Ihren Adobe ID._
-
-## Prüfbeschreibung {#exam-description}
-
-{{exam-description}}
-
-<br>
-
-### Prüfungsdetails {#exam-details}
+## Prüfungsdetails {#exam-details}
 
 * Ebene: Expert (1-3 Jahre Erfahrung)
 * Übergeben der Punktzahl: 33/50
@@ -38,154 +28,4 @@ ht-degree: 0%
 * Kosten: 225 USD (global) / 150 USD (Indien)
 * Prüfungs-ID: AD0-E604
 
-<br>
-
-### Vorgesehene Zielgruppe {#intended-audience}
-
-* Technischer Architekt
-* Technischer Manager
-* Data Analyst
-* Datenarchitekt/Ingenieur
-* Lösungsarchitektur
-* Unternehmensarchitektur
-* Implementierungsexperte
-* Marketingtechnologieführer
-
-<br>
-
-### Minimales Erlebnis {#minimum-experience}
-
-Sie sollten über eine Erfahrung von 12 bis 24 Monaten im Adobe [!DNL Customer Journey Analytics] verfügen und die folgenden Aufgaben ausführen können:
-
-* XDM-Schema (Klassen) lesen und verstehen
-* Vertrautheit mit der Benutzeroberfläche der Plattform demonstrieren
-* Daten validieren (Abfragedienst), Anzeige Ihrer Daten in einem Datensatz
-* Grundlegendes zu den erforderlichen Administratorberechtigungen für verschiedene Zugriffsebenen
-* QA-Skript lesen und verstehen
-* Definieren eines QC-Skripts, das an den AEP-Techniker übergeben wird
-* Verbindungen mit primären Identitäten konfigurieren (Personen-ID)
-* Verbindungen mit mehreren Datensätzen konfigurieren
-* Datenansicht konfigurieren (Konfiguration von Metrik/Dimension)
-* Adobe [!DNL Customer Journey Analytics] konfigurieren
-* Transformieren von Daten innerhalb der Dimensionen und Metriken
-* Workspace-Grundlagen analysieren (Visualisierungen, Attributionseinstellungen, Filter, berechnete Metriken)
-* Data Governance in CJA (DULE)
-* Kanalmetriken oder benutzerspezifische Filter erstellen
-* Sandboxes in AEP unterscheiden/verstehen
-* Verstehen der Zielgruppenveröffentlichung (Freigabe)
-
-<br>
-
-### Prüfungsziele und -umfang {#exam-objectives}
-
-{{exam-objectives}}
-
-**Abschnitt 1: Verbindungen (22%)**
-
-* Entwerfen von CJA-Verbindungen mit entsprechenden Einstellungen
-* Erstellen von CJA-Verbindungen aus XDM-Datensätzen, die in AEP von Sandbox verfügbar sind
-
-**Abschnitt 2: Datenansichten (30%)**
-
-* Datenansichten für die Berichterstellung und Analyse konfigurieren
-* Komponenten in Datenansichten ändern
-
-**Abschnitt 3: Datenvalidierung und Fehlerbehebung (34%)**
-
-* Überprüfen, ob die Daten korrekt und vollständig ausgefüllt sind
-* Fehlerbehebung bei Verbindungen und Datenansichten
-* Erstellen von Komponenten oder Fehlerbehebung
-* Überwachen der Verwendung von Lizenzen
-
-**Abschnitt 4: Berichterstellung und Aktivierung (14 %)**
-
-* Verwenden Sie Analysis Workspace, um kanalübergreifende Journey mit entsprechenden Visualisierungen zu demonstrieren.
-* Senden der Mitglieder eines CJA-Filters an eine RTCDP-Zielgruppe
-* Erstellen und Erstellen von Filtern für Datensätze
-
-<br>
-
-## Zertifizierungen {#how-to-get-certified}
-
-{{how-to-get-certified-intro}}
-
-+++ Schritt 1: Konto erstellen
-
-{{create-your-account}}
-
-+++
-
-<br>
-
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
-
-**Studienmaterial**
-
-{{study-materials-intro}}
-
-**Durchführen eines Praxistests**
-
-{{practice-test}}
-
-**Prüfungsvorbereitungsanleitung**
-
-{{exam-prep-guide}}
-
-[Prüfungsvorbereitung anzeigen](https://app.rockinfo.com/courses/132)
-
-+++
-
-<br>
-
-++ Schritt 3: Test &amp; Test für Prüfungen planen
-
-{{schedule-and-pay}}
-
-+++
-
-<br>
-
-+++Schritt 4: Vor und nach der Prüfung
-
-{{before-and-after}}
-
-+++
-
-<br>
-
-+++Schritt 5: Führen Sie die Prüfung durch.
-
-{{about-certification-exam}}
-
-## Prüfung AD0-E604 planen oder durchführen
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Gehen Sie zum Portal "Examity"
-</span>
-</a>
-
-+++
-
-<br>
-
-++ Schritt 6: Verwalten von Abzeichen
-
-{{manage-your-badges}}
-
-+++
-
-<br>
-
-## Verlängern der Zertifizierung
-
-{{renewing-intro}}
-
-<br>
-
-## Fragen
-
-Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
-
-Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com).
+{{questions}}
