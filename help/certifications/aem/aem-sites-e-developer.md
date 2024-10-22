@@ -6,26 +6,89 @@ product: Experience Manager
 role: Developer
 badge: label="Prüfung AD0-E134" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: true
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
 
 # Zertifizierungs-Journey für Adobe [!DNL Experience Manager] Sites-Entwicklerexperte
 
-{{intro}}
+>[!NOTE]
+>
+>**Das Adobe Digital Experience Certification Program wurde in das neue [Adobe Certification Portal](https://certification.adobe.com/){target="_blank"} verschoben!** Erfahren Sie unten mehr über die neuen Funktionen und die ersten Schritte.
 
-## Prüfungsdetails {#exam-details}
+## Was befindet sich auf dem neuen Adobe-Zertifizierungsportal?
 
-* Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 26/50
-* Zeit: 100 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich)
-* Verfügbare Sprachen: Englisch, Japanisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
-* Prüfungs-ID: AD0-E134 (Englisch), AD0-E134-J (Japanisch)
+Alles, was Sie auf dieser Seite gefunden haben, und mehr!
+
+* Testplanung
+* Prüfungsdetails
+* Studienressourcen
+* Praktische Tests
+* Validierung und Freigabe von Abzeichen
+* Neue technische Ausbildungskurse
+* Die neue Adobe Digital Experience Community
+* Ein neues interaktives Dashboard zur Verfolgung und Freigabe Ihrer Kurs- und Zertifizierungsaktivität
+
+## Häufig gestellte Fragen
+
+### Wo fange ich an?
+
+[Melden Sie sich heute an](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
+
+Sehen Sie sich dann unsere [Kurse](https://certification.adobe.com/courses/?/courses){target="_blank"}, [Zertifizierungen](https://certification.adobe.com/certifications){target="_blank"}, [Community](https://certification.adobe.com/community/){target="_blank"} und [anpassbaren Dashboards](https://certification.adobe.com/user/dashboard){target="_blank"} an.
+
+### Wie fahre ich mit einer Prüfung um?
+
+Sie können jetzt eine Prüfung im Adobe Certification Portal planen.
+
+1. Wechseln Sie zum [Zertifizierungskatalog](https://certification.adobe.com/certifications){target="_blank"}.
+2. Prüfung suchen
+3. Gehen Sie in den Tab **Planen oder Prüfungen durchführen** .
+4. Im Abschnitt **Planen und Bezahlen Ihrer Prüfung** finden Sie den Examentseiten-Link.
+5. Klicken Sie auf die Schaltfläche **Prüfung planen** .
+
+### Wo finde ich meinen Zertifizierungsverlauf?
+
+Ihre aktiven Zertifikate wurden bereits in [Ihr Konto](https://certification.adobe.com/user/certifications){target="_blank"} im Adobe-Zertifizierungsportal migriert. Einige Aspekte Ihres Kontos sind möglicherweise noch nicht vollständig ausgefüllt, während wir Ihre verbleibenden Benutzerdaten migrieren. Danke für Ihre Geduld!
+
+### Wo finde ich meine Gutscheine?
+
+Ihre Gutscheine (einschließlich der von Xvoucher übertragenen Gutscheine) werden in [Ihrem Konto](https://certification.adobe.com/user/purchases){target="_blank"} im Adobe-Zertifizierungsportal angezeigt.
+
+### Wo ist mein Zertifizierungszeichen?
+
+Ihr Badge ist jetzt im Adobe-Zertifizierungsportal verfügbar.
+
+1. Wechseln Sie zu **Mein Konto** > [Errungenschaften](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
+2. Suchen Sie das Widget **Aktive Zertifikate** .
+
+* Um Ihre Badge-Verifizierungsseite anzuzeigen, klicken Sie auf die Schaltfläche **Freigeben** . Von dieser Seite aus können Sie für soziale Medien freigeben.
+
+* Um Ihr Badge herunterzuladen, klicken Sie auf die Miniaturansicht des **Badge**.
+
+### Fragen?
+
+Sehen Sie sich die [Anleitungsvideos](https://certification.adobe.com/#){target="_blank"} unten auf unserer Homepage an, besuchen Sie unsere [FAQ](https://certification.adobe.com/support/faq){target="_blank"} oder [kontaktieren Sie uns](https://certification.adobe.com/support/contactus){target="_blank"}.
+
+Wir freuen uns auf Ihre Erkundung des neuen Zuhause des Adobe Digital Experience Certification Program und Erkunden Sie unsere neuen Funktionen!
+
+<!-- 
+
+## Exam details {#exam-details}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 26/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English, Japanese
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E134 (English), AD0-E134-J (Japanese)
 
 {{questions}}
+
+-->
