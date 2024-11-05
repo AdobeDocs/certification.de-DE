@@ -4,18 +4,20 @@ description: Erfahren Sie mehr über die Zertifizierung unter Adobe.  [!DNL Expe
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 1c4e5dd4c7955fee989e99c1683734beea7bb6d1
+source-git-commit: 8e6929bf11e7e122e54035c05310e6fa730f1760
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 3%
 
 ---
 
-![Banner](/help/certifications/assets/home_banner_smallwide.png)
+
 
 # Das Adobe Digital Experience Zertifizierungsprogramm wurde verschoben!
 
 Sie finden uns im neuen [Adobe-Zertifizierungsportal](https://certification.adobe.com/){target="_blank"}. Informieren Sie sich über die Funktionen des Portals und lernen Sie die ersten Schritte unten kennen.
+
+![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
 ## Was befindet sich auf dem neuen Adobe-Zertifizierungsportal?
 
