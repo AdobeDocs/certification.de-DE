@@ -3,9 +3,9 @@ title: Überblick über die Experience Manager-Zertifizierung
 description: Überblick über die Zertifizierungsoptionen für Adobe Experience Manager
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 19e2a9d5c40fa94ab5be60fddb6fae488205233a
+source-git-commit: bcf93b87d923a5902a7a93afe0e2eb52c060a1a1
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,8 @@ Wählen Sie Ihr Niveau und Ihre berufliche Rolle aus, um weitere Informationen z
 **Professional**
 
 * [Geschäftspraktiker](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional){target="_blank"} <!--AD0-E126-->
-* [Entwickler (Sites)](https://certification.adobe.com/certification/sites-developer-professional){target="_blank"} <!--AD0-E123-->
+* [Entwickler (Sites) - NEU](https://certification.adobe.com/certification/sites-developer-professional-v2){target="_blank"} <!--AD0-E128-->
+* [Entwickler (Sites) - läuft am 10. Februar 2025 ab](https://certification.adobe.com/certification/sites-developer-professional){target="_blank"} <!--AD0-E123-->
 * [Entwickler (Assets)](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} <!--AD0-E129-->
 * [Back-End-Entwickler (Forms)](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [Technische Stiftungen](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
