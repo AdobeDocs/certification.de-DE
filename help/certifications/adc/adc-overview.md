@@ -1,5 +1,5 @@
 ---
-title: Übersicht über die Document Cloud-Zertifizierung
+title: Document Cloud-Zertifizierung - Übersicht
 description: Überblick über die Zertifizierungsoptionen für Adobe Document Cloud
 solution: Document Cloud
 hide: true

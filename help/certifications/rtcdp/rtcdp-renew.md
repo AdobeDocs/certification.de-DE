@@ -1,6 +1,6 @@
 ---
-title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre [!DNL Experience Platform] Zertifizierung in [!DNL Real-Time Customer Data Platform] verlängern.
+title: Erneuerung der Zertifizierung
+description: Erfahren Sie, wie Sie Ihre  [!DNL Experience Platform]  in  [!DNL Real-Time Customer Data Platform].
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Real-Time CDP]-Zertifizierung erneuern
+# Verlängern der Adobe [!DNL Real-Time CDP]-Zertifizierung
 
 {{renewals-hold}}
 

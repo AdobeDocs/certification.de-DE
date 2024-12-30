@@ -1,5 +1,5 @@
 ---
-title: Übersicht über die Customer Journey Analytics-Zertifizierung
+title: Customer Journey Analytics-Zertifizierung - Übersicht
 description: Überblick über die Zertifizierungsoptionen für Adobe Customer Journey Analytics
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Customer Journey Analytics] Zertifizierungsübersicht
+# Adobe [!DNL Customer Journey Analytics] - Zertifizierungsübersicht
 
 **Professional**
 
 * [Geschäftspraktiker](https://certification.adobe.com/certification/customer-journey-analytics-business-practitioner-professional){target="_blank"} <!--AD0-E608-->
 
-**Expert**
+**Experte**
 
 * [Entwickler](https://certification.adobe.com/certification/customer-journey-analytics-developer-expert){target="_blank"} <!--AD0-E604-->
 

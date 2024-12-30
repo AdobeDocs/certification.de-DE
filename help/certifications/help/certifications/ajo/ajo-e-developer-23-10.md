@@ -1,5 +1,5 @@
 ---
-title: Zertifizierung durch Experten
+title: Zertifizierung durch Fachleute
 description: Erfahren Sie, wie Sie ein zertifizierter Adobe [!DNL Journey Optimizer] Entwickler-Experte werden.
 solution: Journey Optimizer
 product: Journey Optimizer
@@ -14,16 +14,16 @@ ht-degree: 1%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Journey Optimizer] Entwickler-Experte
+# Zertifizierungs-Journey für Adobe [!DNL Journey Optimizer] Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->Dies ist die neueste Adobe [!DNL Journey Optimizer] Developer Expert-Prüfung (AD0-E606). Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](ajo-e-developer.md) geplant haben, müssen Sie sie bis zum 22. Dezember 2023 abschließen.
+>Dies ist die neueste Adobe [!DNL Journey Optimizer] Developer Expert Prüfung (AD0-E606). Wenn Sie bereits mit dem Studium begonnen oder die [ältere Version](ajo-e-developer.md) eingeplant haben, müssen Sie sie bis zum 22. Dezember 2023 abschließen.
 
 
-## Prüfbeschreibung {#exam-description}
+## Prüfungsbeschreibung {#exam-description}
 
 {{exam-description}}
 
@@ -31,12 +31,12 @@ ht-degree: 1%
 
 ### Prüfungsdetails {#exam-details}
 
-* Ebene: Expert (1-3 Jahre Erfahrung)
-* Übergeben der Punktzahl: 33/50
+* Stufe: Experte (1-3 Jahre Erfahrung)
+* Bestanden: 33/50
 * Zeit: 100 Minuten
-* Versand: Online verarbeitet (Kamerazugriff erforderlich)
+* Versand: Online beaufsichtigt (Kamerazugriff erforderlich)
 * Verfügbare Sprachen: Englisch
-* Kosten: 225 USD (global) / 150 USD (Indien)
+* Kosten: $ 225 (global) / $ 150 (Indien)
 * Prüfungs-ID: AD0-E606
 
 <br>
@@ -45,26 +45,26 @@ ht-degree: 1%
 
 * Datenarchitekt
 * Datentechniker
-* Lösungsarchitektur
-* Unternehmensarchitektur
-* Marketing Automation Developer
+* Lösungsarchitekt
+* Unternehmensarchitekt
+* Entwickler für Marketing-Automatisierung
 * CDP-Entwickler
 * CDP-Architekt
-* Entscheidungsmanager
+* Entscheidungs-Manager
 * Campaign-Entwickler
-* Zustellbarkeitsberater
+* Berater für Zustellbarkeit
 * RTCDP-Segmentierungsspezialist
 * Campaign-Architekt
-* Journey-Spezialist für Kunden
-* Mobilentwickler/Webentwickler
+* Kunden-Journey-Spezialist
+* Mobile-Entwickler/Web-Entwickler
 
 <br>
 
-### Minimales Erlebnis {#minimum-experience}
+### Mindestmaß an Erfahrung {#minimum-experience}
 
-Bewerber, die bereit sind, Adobe Journey Optimizer-Entwicklerexperten zu werden, sollten mindestens über eine einjährige Erfahrung mit verschiedenen CDP- und Marketing-Automatisierungssystemen verfügen. Sie sollten auch in der Lage sein, die Entwicklung/Implementierung von Grund auf zu lenken, Fehler in Journey zu beheben, die Einschränkungen und Schutzmechanismen des Produkts zu kennen, erweiterten Code zu verwenden, Vorlagen festzulegen, benutzerdefinierte Aktionen zu erstellen und Best Practices zu kennen.
+Bewerber, die bereit sind, Adobe Journey Optimizer-Entwicklerexperten zu werden, sollten mindestens ein Jahr Erfahrung in der Arbeit mit verschiedenen CDP- und Marketing-Automatisierungssystemen haben. Außerdem sollten sie in der Lage sein, die Entwicklung/Implementierung von Grund auf neu zu entwickeln; Journey zu beheben, die Einschränkungen und Leitplanken des Produkts zu kennen, erweiterten Code zu verwenden, Vorlagen festzulegen, benutzerdefinierte Aktionen zu erstellen und Best Practices zu kennen.
 
-Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die zertifizierte Experten werden möchten, sollten zusätzlich zum Adobe Journey Optimizer-Training auch eine Schulung oder frühere Erfahrung im Adobe Experience Platform- oder Echtzeit-Kundendatenprofil absolvieren.
+Adobe Journey Optimizer wird von Experience Platform unterstützt. Kandidaten, die zertifizierte Experten werden möchten, wird empfohlen, zusätzlich zu Adobe Journey Optimizer-Schulungen eine Schulung oder Vorerfahrung im Adobe Experience Platform- oder Echtzeit-Kundendatenprofil abzuschließen.
 
 <br>
 
@@ -72,50 +72,50 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 
 {{exam-objectives}}
 
-**Abschnitt 1: Administration und Konfiguration (20%)**
+**Abschnitt 1: Administration und Konfiguration (20 %)**
 
-* Ermitteln Sie, welche Berechtigungen zur Durchführung verschiedener Aufgaben erforderlich sind.
-* Beschreiben Sie das Konzept der Sandbox und wie die Daten in Geschäftseinheiten verwendet werden können
-* Verstehen der Kanalverwaltung
-* Bestimmen Sie die geeignete Anwendung von Ereignissen/Aktionen/Datenquellen.
-* Ermitteln Sie, wann AJO-spezifische APIs verwendet werden sollen - Einschränken, Begrenzen, Unterdrücken, Objektkopie, Ausführung interaktiver Nachrichten
+* Identifizieren Sie, welche Berechtigungen zum Ausführen verschiedener Aufgaben erforderlich sind
+* Beschreiben Sie das Konzept der Sandbox und wie die Daten in allen Geschäftseinheiten verwendet werden können.
+* Erläuterung der Kanalverwaltung
+* Bestimmen der entsprechenden Anwendung von Ereignissen/Aktionen/Datenquellen
+* Ermitteln Sie, wann AJO-spezifische APIs verwendet werden sollen - Drosselung, Begrenzung, Unterdrückung, Objektkopie, interaktive Nachrichtenausführung.
 
-**Abschnitt 2: Journey Orchestration (22%)**
+**Abschnitt 2: Journey Orchestration (22 %)**
 
-* Bei einem Szenario sollten Sie Kunden auf einer mehrkanaligen/mehrstufigen Journey ansprechen
-* Interpretieren von Berichten und Debugging-Leistungsmetriken
-* Legen Sie bei einem Szenario die geeigneten Anwendungsfälle für einen Journey-Typ fest.
+* Targeting von Kunden auf einer Multi-Channel-/Multi-Step-Journey
+* Interpretieren von Berichten und Debuggen von Leistungsmetriken
+* Bestimmen Sie bei einem gegebenen Szenario die entsprechenden Anwendungsfälle für einen Journey-Typ
 * Vorbereiten von Testfällen (z. B. Experimentieren oder Multi-Channel-Journey)
 
-**Abschnitt 3: Offer decisioning (16%)**
+**Abschnitt 3: Offer decisioning (16 %)**
 
-* Erstellung und Verwaltung von Angeboten und Komponenten
-* Verwendung von Testprofilen zur Durchführung der Angebotssimulation
-* Unterschiede zwischen Offer Hub und Edge API erläutern
+* Verständnis für das Erstellen und Verwalten von Angeboten und Komponenten demonstrieren
+* Demonstrieren der Verwendung von Testprofilen zur Durchführung der Angebotssimulation
+* Den Unterschied zwischen Offer Hub und Edge-API erklären
 * Anwenden des Prozesses zum Erstellen von Entscheidungen
-* Anwenden des Prozesses zum Hinzufügen von Angeboten auf verschiedenen Kanälen
+* Den Prozess anwenden, um Angebote auf verschiedenen Kanälen hinzuzufügen
 
-**Abschnitt 4: Inhaltsbearbeitung (22%)**
+**Abschnitt 4: Inhaltserstellung (22 %)**
 
-* Erstellen von E-Mails, SMS, In-App-Nachrichten und Push-Benachrichtigungen
-* Helper-Funktionen und Personalisierungssyntax interpretieren, um anzuzeigen, was angezeigt wird
-* Nachweis eines Verständnisses für das Validieren, Testen, Debuggen und Veröffentlichen eines Journey
+* Demonstrieren, wie E-Mail, SMS, In-App-Nachrichten und Push-Benachrichtigungen erstellt werden
+* Interpretieren Sie Helper-Funktionen und Personalisierungssyntax, um anzuzeigen, was angezeigt würde
+* Nachweis von Kenntnissen in Validieren, Testen, Debuggen und Veröffentlichen einer Journey
 
-**Abschnitt 5: Datenmodellierung (18%)**
+**Abschnitt 5: Datenmodellierung (18 %)**
 
-* Unterscheiden zwischen Profil- und Ereignistyp-Schemata
-* Erläuterung der Einrichtung von Datenquellen und der Datenerfassung
-* den Unterschied zwischen Schema, Datensätzen und Vereinigungsschema erklären
+* Zwischen Profil- und Ereignistyp-Schemata unterscheiden
+* Erläuterung des Einrichtens von Datenquellen und der Datenaufnahme
+* Den Unterschied zwischen Schema, Datensätzen und Vereinigungsschema erklären
 * Profil und Identitäten erläutern
-* Legen Sie bei einem Szenario den entsprechenden Segmentierungsdienst fest.
+* Bestimmen Sie bei einem Szenario den entsprechenden Segmentierungs-Service
 
 <br>
 
-## Zertifizierungen {#how-to-get-certified}
+## So werden Sie zertifiziert {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++ Schritt 1: Konto erstellen
++++Schritt 1: Konto erstellen
 
 {{create-your-account}}
 
@@ -123,41 +123,41 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 
 <br>
 
-+++ Schritt 2: Vorbereitung auf Ihre Prüfung mit diesen kostenlosen Studienmaterialien
++++Schritt 2: Bereiten Sie sich mit diesen kostenlosen Lernmaterialien auf Ihre Prüfung vor
 
-**Studienmaterial**
+**Studienmaterialien**
 
 {{study-materials-intro}}
 
 **Abschnitt 1: Administration und Konfiguration**
 
-* [Experience Platform, Zugriffssteuerung, Sandbox-Anleitung](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=de){target="_blank"}
+* [Experience Platform, Zugriffssteuerung, Sandbox-Handbuch](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=de){target="_blank"}
 * [AJO-Handbuch, Konfiguration, SMS-Kanal, Journey](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 * [AJO-APIs](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **Abschnitt 2: Journey Orchestration**
 
-* [AJO-Handbuch, Journey, Ausdrücke, verfolgen und überwachen](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [AJO-Handbuch, Journey, Ausdrücke, Verfolgen und Überwachen](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Offer decisioning**
 
-* [AJO-Handbuch, Entscheidungsverwaltung, API-Referenz](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [Handbuch zu AJO, Entscheidungs-Management, API-Referenz](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 
-**Abschnitt 4: Inhaltsbearbeitung**
+**Abschnitt 4: Inhaltserstellung**
 
-* [AJO-Handbuch, SMS-Kanal, Datenschutz, Konfiguration, Journey, Ausdrücke, Inhaltsverwaltung, Tracking und Überwachung, Push-Benachrichtigungskanal](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [AJO-Handbuch, SMS-Kanal, Datenschutz, Konfiguration, Journeys, Ausdrücke, Inhaltsverwaltung, Verfolgen und Überwachen, Push-Benachrichtigungskanal](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 * [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de){target="_blank"}
 
 **Abschnitt 5: Datenmodellierung**
 
-* [AJO-Handbuch, Konfiguration, Zielgruppen, Profile und Identität, Datenverwaltung](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
-* [Experience Platform, Datensätze, Source Connectors-Anleitung, API-Tutorials, Platform Identity Service-Anleitung, Segmentation-Benutzeroberfläche, UI-Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de){target="_blank"}
+* [AJO-Handbuch, Konfiguration, Zielgruppen, Profile und Identität, Daten-Management](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [Experience Platform, Datensätze, Handbuch zu Source-Connectoren, API-Tutorials, Handbuch für den Platform Identity Service, Segmentierungsbenutzeroberfläche, Tutorials-Benutzeroberfläche](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de){target="_blank"}
 
 +++
 
 <br>
 
-++ Schritt 3: Test &amp; Test für Prüfungen planen
++++Schritt 3: Für die Prüfung planen und bezahlen
 
 {{schedule-and-pay}}
 
@@ -173,20 +173,20 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 
 <br>
 
-+++Schritt 5: Führen Sie die Prüfung durch.
++++Schritt 5: Ablegen der Prüfung
 
 {{about-certification-exam}}
 
-## Prüfung AD0-E606 planen oder durchführen
+## Prüfung AD0-E606 planen oder ablegen
 
 >[!NOTE]
 >
->Dies ist die neueste Adobe [!DNL Journey Optimizer] Developer Expert-Prüfung (AD0-E606). Wenn Sie bereits mit dem Studium begonnen haben oder die [ältere Version](ajo-e-developer.md) geplant haben, müssen Sie sie bis zum 22. Dezember 2023 abschließen.
+>Dies ist die neueste Adobe [!DNL Journey Optimizer] Developer Expert Prüfung (AD0-E606). Wenn Sie bereits mit dem Studium begonnen oder die [ältere Version](ajo-e-developer.md) eingeplant haben, müssen Sie sie bis zum 22. Dezember 2023 abschließen.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Gehen Sie zum Portal "Examity"
+   Zum Prüfungsportal
 </span>
 </a>
 
@@ -194,7 +194,7 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 
 <br>
 
-++ Schritt 6: Verwalten von Abzeichen
++++Schritt 6: Abzeichen verwalten
 
 {{manage-your-badges}}
 
@@ -202,14 +202,14 @@ Adobe Journey Optimizer wird mit Experience Platform betrieben. Bewerber, die ze
 
 <br>
 
-## Verlängern der Zertifizierung
+## Erneuerung der Zertifizierung
 
 {{renewing-intro}}
 
 <br>
 
-## Fragen
+## Questions
 
-Überprüfen Sie die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Sehen Sie sich die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} an.
 
-Weitere Fragen? [Kontaktieren Sie uns](mailto:certif@adobe.com).
+Weitere Fragen? [Kontakt](mailto:certif@adobe.com).

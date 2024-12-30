@@ -1,6 +1,6 @@
 ---
-title: Adobe Certification Restart Program
-description: Gehen Sie von abgelaufen zu zertifiziert mit Adobe-Zertifizierungen. Finden Sie heraus, ob Sie für dieses zeitlich begrenzte Programm infrage kommen.
+title: Adobe-Zertifizierungs-Neustartprogramm
+description: Wechseln Sie von Abgelaufen zu Zertifiziert mit Adobe-Zertifizierungen. Finden Sie heraus, ob Sie für dieses zeitlich begrenzte Programm infrage kommen.
 role: Developer
 solution: Experience Cloud
 recommendations: disable, exclude
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ---
 
-# Starten Sie die Journey neu, indem Sie von abgelaufen zu zertifiziert wechseln.
+# Starten Sie Ihre Zertifizierungs-Journey neu, indem Sie von abgelaufen zu zertifiziert wechseln.
 
 >[!IMPORTANT]
 >
->**Dieses Programm mit begrenzter Laufzeit wird nicht mehr angeboten.**
+>**Dieses zeitlich begrenzte Programm wird nicht mehr angeboten.**
 
 <!--
 

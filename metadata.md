@@ -10,8 +10,8 @@ git-repo: https://github.com/AdobeDocs/certification.de-DE
 index: true
 source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 93%
+source-wordcount: '53'
+ht-degree: 98%
 
 ---
 

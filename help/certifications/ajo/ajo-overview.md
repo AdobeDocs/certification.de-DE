@@ -1,5 +1,5 @@
 ---
-title: Überblick über die Journey Optimizer-Zertifizierung
+title: Übersicht über die Journey Optimizer-Zertifizierung
 description: Überblick über die Zertifizierungsoptionen für Adobe Journey Optimizer
 solution: Journey Optimizer
 exl-id: 8676c9b0-fa19-4821-a008-4f7028f95852
@@ -10,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Journey Optimizer] Zertifizierungsübersicht
+# Adobe [!DNL Journey Optimizer] - Zertifizierungsübersicht
 
 **Professional**
 
 * [Geschäftspraktiker](https://certification.adobe.com/certification/journey-optimizer-business-practitioner-professional){target="_blank"}<!--AD0-E607-->
 
-**Expert**
+**Experte**
 
 * [Entwickler](https://certification.adobe.com/certification/journey-optimizer-developer-expert){target="_blank"} <!--AD0-E606-->
 

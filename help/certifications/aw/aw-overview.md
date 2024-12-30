@@ -1,5 +1,5 @@
 ---
-title: Überblick über die Workfront-Zertifizierung
+title: Übersicht über die Workfront-Zertifizierung
 description: Überblick über die Zertifizierungsoptionen für Adobe Workfront
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
@@ -10,20 +10,20 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Workfront] Zertifizierungsübersicht
+# Adobe [!DNL Workfront] - Zertifizierungsübersicht
 
 ## Alle verfügbaren Prüfungen für Adobe [!DNL Workfront]
 
 **Professional**
 
-* [Entwickler (Fusion)](https://certification.adobe.com/certification/fusion-developer-professional){target="_blank"} <!--AD0-E902-->
-* [Projektmanager](https://certification.adobe.com/certification/project-manager-professional){target="_blank"} <!--AD0-E903-->
-* [Entwickler (Core)](https://certification.adobe.com/certification/core-developer-professional){target="_blank"} <!--AD0-E908-->
+* [Developer (Fusion)](https://certification.adobe.com/certification/fusion-developer-professional){target="_blank"} <!--AD0-E902-->
+* [Projekt-Manager](https://certification.adobe.com/certification/project-manager-professional){target="_blank"} <!--AD0-E903-->
+* [Entwickler (Kern)](https://certification.adobe.com/certification/core-developer-professional){target="_blank"} <!--AD0-E908-->
 
-**Expert**
+**Experte**
 
-* [Entwickler (Core)](https://certification.adobe.com/certification/core-developer-expert){target="_blank"} <!--AD0-E907-->
-* [AEM Enhanced Connector](https://certification.adobe.com/certification/experience-manager-enhanced-connector-expert){target="_blank"} <!--AD0-E906-->
+* [Entwickler (Kern)](https://certification.adobe.com/certification/core-developer-expert){target="_blank"} <!--AD0-E907-->
+* [Erweiterter AEM-Connector](https://certification.adobe.com/certification/experience-manager-enhanced-connector-expert){target="_blank"} <!--AD0-E906-->
 
 {{questions}}
 

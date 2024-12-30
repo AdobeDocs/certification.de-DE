@@ -1,6 +1,6 @@
 ---
-title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre Adobe [!DNL Marketo Engage] Zertifizierung verlängern können, bevor sie abläuft.
+title: Erneuerung der Zertifizierung
+description: Erfahren Sie, wie Sie Ihre Adobe- [!DNL Marketo Engage]  vor Ablauf verlängern können.
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Marketo Engage]-Zertifizierung erneuern
+# Verlängern der Adobe [!DNL Marketo Engage]-Zertifizierung
 
 {{renewals-hold}}
 

@@ -1,5 +1,5 @@
 ---
-title: Überblick über die Campaign Standard-Zertifizierung
+title: Übersicht über die Campaign Standard-Zertifizierung
 description: Überblick über die Zertifizierungsoptionen für Adobe Campaign Standard
 solution: Campaign, Campaign Standard
 version: Standard
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Campaign Standard] Zertifizierungsübersicht
+# Adobe [!DNL Campaign Standard] - Zertifizierungsübersicht
 
-**Expert**
+**Experte**
 
 * [Geschäftspraktiker](https://certification.adobe.com/certification/business-practitioner-expert?%2Fcertification%2Fbusiness-practitioner-expert){target="_blank"} <!--AD0-E307-->
 * [Entwickler](https://certification.adobe.com/certification/campaign-standard-developer-expert){target="_blank"} <!--AD0-E306-->

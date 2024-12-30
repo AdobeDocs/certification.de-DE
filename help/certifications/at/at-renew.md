@@ -1,6 +1,6 @@
 ---
-title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre [!DNL Adobe Target] Zertifizierung verlängern können, bevor sie abläuft.
+title: Erneuerung der Zertifizierung
+description: Erfahren Sie, wie Sie Ihre  [!DNL Adobe Target]  vor Ablauf verlängern können.
 solution: Target
 product: Target
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Verlängern Sie Ihre [!DNL Adobe Target]-Zertifizierung
+# Verlängern der [!DNL Adobe Target] Zertifizierung
 
 {{renewals-hold}}
 

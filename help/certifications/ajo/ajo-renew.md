@@ -1,6 +1,6 @@
 ---
-title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre Adobe [!DNL Journey Optimizer] Zertifizierung verlängern können, bevor sie abläuft.
+title: Erneuerung der Zertifizierung
+description: Erfahren Sie, wie Sie Ihre Adobe- [!DNL Journey Optimizer]  vor Ablauf verlängern können.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Journey Optimizer]-Zertifizierung erneuern
+# Verlängern der Adobe [!DNL Journey Optimizer]-Zertifizierung
 
 {{renewals-hold}}
 

@@ -1,6 +1,6 @@
 ---
-title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre [!DNL Campaign Classic] Zertifizierung verlängern können, bevor sie abläuft.
+title: Erneuerung der Zertifizierung
+description: Erfahren Sie, wie Sie Ihre  [!DNL Campaign Classic]  vor Ablauf verlängern können.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User,Developer,Data Architect
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Campaign Classic]-Zertifizierung erneuern
+# Verlängern der Adobe [!DNL Campaign Classic]-Zertifizierung
 
 {{renewals-hold}}
 

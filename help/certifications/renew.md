@@ -1,5 +1,5 @@
 ---
-title: Adobe Certification Renewal Program
+title: Adobe CERTIFICATION Renewal Program
 description: Erfahren Sie, wie Sie Ihre Zertifizierung verlängern können, bevor sie abläuft.
 role: User
 recommendations: disable, exclude
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierung verlängern {#renew}
+# Verlängern der Zertifizierung {#renew}
 
 {{renewals-hold}}
 

@@ -1,5 +1,5 @@
 ---
-title: Plattformzertifizierung
+title: Platform-Zertifizierung
 description: Erfahren Sie, wie Sie ein zertifizierter Adobe [!DNL Experience Platform] Experte werden.
 solution: Experience Platform
 product: Experience Platform
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Experience Platform] Zertifizierungsübersicht
+# Adobe [!DNL Experience Platform] - Zertifizierungsübersicht
 
-**Expert**
+**Experte**
 
 * [Entwickler](/help/certifications/aep/aep-e-foundations.md){target="_blank"} <!--AD0-E601-->
 

@@ -1,6 +1,6 @@
 ---
-title: Professionelle technische Zertifikate
-description: Überblick über die Zertifizierungsoptionen für professionelle Benutzer
+title: Professionelle technische Zertifizierungen
+description: Überblick über Zertifizierungsoptionen für professionelle Benutzer
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '75'
@@ -8,7 +8,7 @@ ht-degree: 16%
 
 ---
 
-# Professionelle technische Zertifikate
+# Professionelle technische Zertifizierungen
 
 **Werbung**
 
@@ -41,12 +41,12 @@ ht-degree: 16%
 * [Geschäftspraktiker](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
 * [Entwickler (Sites)](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
 * [Entwickler (Assets)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
-* [Back-End-Entwickler (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
-* [Technische Stiftungen](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
+* [Backend-Entwickler (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
+* [Technische Grundlagen](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
 **Marketo Engage**
 
-* [Zertifizierter Professional](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
+* [Certified Professional](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
 
 **Real-Time CDP**
 
@@ -54,15 +54,15 @@ ht-degree: 16%
 
 **Zielgruppe**
 
-* [Zertifizierter Professional](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
+* [Certified Professional](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
 
 **Workfront**
 
-* [Entwickler (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
+* [Developer (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
 * [Projekt-Manager](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
-* [Entwickler (Core)](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
+* [Entwickler (Kern)](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
 
 >[!MORELIKETHIS]
 >
->* [Technische Zertifizierungen von Experten](expert.md)
->* [Technische Master-Zertifikate](master.md)
+>* [Fachliche technische Zertifizierungen](expert.md)
+>* [Master technische Zertifizierungen](master.md)

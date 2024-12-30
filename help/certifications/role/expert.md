@@ -1,6 +1,6 @@
 ---
-title: Technische Expertenbescheinigungen
-description: Überblick über die Zertifizierungsoptionen für erfahrene Benutzer
+title: Technische Expertenzertifizierungen
+description: Überblick über Zertifizierungsoptionen für erfahrene Benutzer
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '76'
@@ -8,7 +8,7 @@ ht-degree: 21%
 
 ---
 
-# Technische Expertenbescheinigungen
+# Technische Expertenzertifizierungen
 
 **Analytics**
 
@@ -61,10 +61,10 @@ ht-degree: 21%
 
 **Workfront**
 
-* [Entwickler (Core)](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
-* [AEM Enhanced Connector](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
+* [Entwickler (Kern)](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
+* [Erweiterter AEM-Connector](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
 >[!MORELIKETHIS]
 >
 >* [Professionelle technische Zertifizierungen](professional.md)
->* [Technische Master-Zertifikate](master.md)
+>* [Master technische Zertifizierungen](master.md)

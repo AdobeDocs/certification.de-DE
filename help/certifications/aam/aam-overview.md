@@ -1,5 +1,5 @@
 ---
-title: Überblick über die Audience Manager-Zertifizierung
+title: Übersicht über die Audience Manager-Zertifizierung
 description: Überblick über die Zertifizierungsoptionen für Adobe Audience Manager
 solution: Audience Manager
 product: Audience Manager
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# Überblick über die Adobe Audience Manager-Zertifizierung
+# Übersicht über die Adobe Audience Manager-Zertifizierung
 
 **Professional**
 
 * [Geschäftspraktiker](https://certification.adobe.com/certification/adobe-audience-business-practitioner-professional){target="_blank"} <!--AD0-E458-->
 
-**Expert**
+**Experte**
 
 * [Geschäftspraktiker](https://certification.adobe.com/certification/adobe-audience-manager-business-practitioner-expert){target="_blank"} <!--AD0-E457-->
 

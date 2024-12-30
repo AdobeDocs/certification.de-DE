@@ -1,6 +1,6 @@
 ---
-title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre Adobe [!DNL Document Cloud] Zertifizierung verlängern können, bevor sie abläuft.
+title: Erneuerung der Zertifizierung
+description: Erfahren Sie, wie Sie Ihre Adobe- [!DNL Document Cloud]  vor Ablauf verlängern können.
 solution: Document Cloud
 product: Document Cloud
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Document Cloud]-Zertifizierung erneuern
+# Verlängern der Adobe [!DNL Document Cloud]-Zertifizierung
 
 {{renewals-hold}}
 

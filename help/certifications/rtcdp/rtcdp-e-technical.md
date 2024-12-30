@@ -1,6 +1,6 @@
 ---
-title: Zertifizierung durch Experten
-description: Erfahren Sie, wie Sie ein zertifizierter [!DNL Experience Platform] Experte in [!DNL Real-Time Customer Data Platform] werden.
+title: Zertifizierung durch Fachleute
+description: Erfahren Sie, wie Sie ein zertifizierter  [!DNL Experience Platform]  werden [!DNL Real-Time Customer Data Platform]
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
@@ -16,5 +16,5 @@ ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Real-Time Customer Data Platform] Experte
+# Zertifizierungs-Journey für Adobe [!DNL Real-Time Customer Data Platform] Expert
 

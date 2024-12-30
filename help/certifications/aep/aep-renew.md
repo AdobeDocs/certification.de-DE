@@ -1,10 +1,10 @@
 ---
-title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre Adobe [!DNL Experience Platform] Zertifizierung verlängern können, bevor sie abläuft.
+title: Erneuerung der Zertifizierung
+description: Erfahren Sie, wie Sie Ihre Adobe- [!DNL Experience Platform]  vor Ablauf verlängern können.
 solution: Experience Platform
 product: Experience Platform
 role: User,Developer,Data Architect
-badge: label="Adobe Journey Optimizer-Verlängerung" type="neutral"
+badge: label="Adobe Journey Optimizer Renewal" type="neutral"
 hidefromtoc: true
 source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Experience Platform]-Zertifizierung erneuern
+# Verlängern der Adobe [!DNL Experience Platform]-Zertifizierung
 
 {{renewals-hold}}
 

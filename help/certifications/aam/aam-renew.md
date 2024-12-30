@@ -1,6 +1,6 @@
 ---
-title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre [!DNL Audience Manager] Zertifizierung verlängern können, bevor sie abläuft.
+title: Erneuerung der Zertifizierung
+description: Erfahren Sie, wie Sie Ihre  [!DNL Audience Manager]  vor Ablauf verlängern können.
 solution: Audience Manager
 product: Audience Manager
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Audience Manager]-Zertifizierung erneuern
+# Verlängern der Adobe [!DNL Audience Manager]-Zertifizierung
 
 {{renewals-hold}}
 

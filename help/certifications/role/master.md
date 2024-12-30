@@ -1,5 +1,5 @@
 ---
-title: Technische Master-Zertifikate
+title: Technische Master-Zertifizierungen
 description: Überblick über die Zertifizierungsoptionen für Master-Benutzer
 source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
 workflow-type: tm+mt
@@ -8,7 +8,7 @@ ht-degree: 21%
 
 ---
 
-# Technische Master-Zertifikate
+# Technische Master-Zertifizierungen
 
 
 **Analytics**
@@ -41,5 +41,5 @@ ht-degree: 21%
 
 >[!MORELIKETHIS]
 >
->* [Technische Zertifizierungen von Experten](expert.md)
+>* [Fachliche technische Zertifizierungen](expert.md)
 >* [Professionelle technische Zertifizierungen](professional.md)

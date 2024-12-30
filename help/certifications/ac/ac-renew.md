@@ -1,6 +1,6 @@
 ---
-title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre Adobe [!DNL Commerce] Zertifizierung verlängern können, bevor sie abläuft.
+title: Erneuerung der Zertifizierung
+description: Erfahren Sie, wie Sie Ihre Adobe- [!DNL Commerce]  vor Ablauf verlängern können.
 solution: Commerce
 product: Magento
 role: Developer,User,Data Architect
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Commerce]-Zertifizierung erneuern
+# Verlängern der Adobe [!DNL Commerce]-Zertifizierung
 
 {{renewals-hold}}
 

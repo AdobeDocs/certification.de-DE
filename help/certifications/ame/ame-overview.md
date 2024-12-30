@@ -1,5 +1,5 @@
 ---
-title: Übersicht über die Marketo Engage-Zertifizierung
+title: Marketo Engage-Zertifizierung - Übersicht
 description: Überblick über die Zertifizierungsoptionen für Adobe Marketo Engage
 solution: Marketo Engage
 product: Marketo
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Marketo Engage] Zertifizierungsübersicht
+# Adobe [!DNL Marketo Engage] - Zertifizierungsübersicht
 
 **Professional**
 
-* [zertifizierter Professional](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
+* [Certified Professional](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
 
-**Expert**
+**Experte**
 
 * [Geschäftspraktiker](https://certification.adobe.com/certification/marketo-engage-business-practitioner-expert){target="_blank"} <!--AD0-E559-->
 

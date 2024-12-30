@@ -1,6 +1,6 @@
 ---
-title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre Adobe [!DNL Workfront] Zertifizierung verlängern können, bevor sie abläuft.
+title: Erneuerung der Zertifizierung
+description: Erfahren Sie, wie Sie Ihre Adobe- [!DNL Workfront]  vor Ablauf verlängern können.
 solution: Workfront
 role: Developer
 mini-toc-levels: 1
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Workfront]-Zertifizierung erneuern
+# Verlängern der Adobe [!DNL Workfront]-Zertifizierung
 
 {{renewals-hold}}
 
