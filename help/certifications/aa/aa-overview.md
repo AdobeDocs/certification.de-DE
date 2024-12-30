@@ -1,5 +1,5 @@
 ---
-title: Überblick über die Analytics-Zertifizierung
+title: Analytics-Zertifizierung - Übersicht
 description: Überblick über die Zertifizierungsoptionen für Adobe Analytics
 solution: Analytics
 product: Analytics
@@ -11,14 +11,14 @@ ht-degree: 0%
 
 ---
 
-# Überblick über die Adobe Analytics-Zertifizierung
+# Übersicht über die Adobe Analytics-Zertifizierung
 
 **Professional**
 
 * [Geschäftspraktiker](https://certification.adobe.com/certification/analytics-business-practitioner-professional) <!--AD0-E212-->
 * [Entwickler](https://certification.adobe.com/certification/adobe-analytics-developer-professional) <!--AD0-E213-->
 
-**Expert**
+**Experte**
 
 * [Geschäftspraktiker](https://certification.adobe.com/certification/analytics-business-practitioner-expert) <!--AD0-E208-->
 * [Entwickler](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-->

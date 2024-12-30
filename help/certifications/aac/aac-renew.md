@@ -1,6 +1,6 @@
 ---
-title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre Adobe [!DNL Advertising] Zertifizierung verlängern können, bevor sie abläuft.
+title: Erneuerung der Zertifizierung
+description: Erfahren Sie, wie Sie Ihre Adobe- [!DNL Advertising]  vor Ablauf verlängern können.
 solution: Advertising
 product: Advertising Cloud
 role: User,Developer, Data Architect
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Verlängern Sie Ihre [!DNL Adobe Advertising]-Zertifizierung
+# Verlängern der [!DNL Adobe Advertising] Zertifizierung
 
 {{renewals-hold}}
 

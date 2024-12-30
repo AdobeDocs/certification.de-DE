@@ -1,6 +1,6 @@
 ---
-title: Verlängerung der Zertifizierung
-description: Erfahren Sie, wie Sie Ihre [!DNL Adobe Analytics] Zertifizierung verlängern können, bevor sie abläuft.
+title: Erneuerung der Zertifizierung
+description: Erfahren Sie, wie Sie Ihre  [!DNL Adobe Analytics]  vor Ablauf verlängern können.
 solution: Analytics
 product: Analytics
 role: User,Developer, Data Architect
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Analytics]-Zertifizierung erneuern
+# Verlängern der Adobe [!DNL Analytics]-Zertifizierung
 
 {{renewals-hold}}
 
