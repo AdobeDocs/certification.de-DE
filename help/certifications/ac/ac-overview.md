@@ -4,9 +4,9 @@ description: Überblick über die Zertifizierungsoptionen für Adobe Commerce
 solution: Commerce
 product: Magento
 exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
-source-git-commit: a6a84a35f252fd7149643a5364cb2162a7f7e476
+source-git-commit: 2d2cdd441d5ef1c799bfe53bf0213c9e34d389ea
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,8 @@ ht-degree: 0%
 * [Geschäftspraktiker](https://certification.adobe.com/certification/adobe-commerce-business-practitioner-expert){target="_blank"} <!--AD0-E708-->
 * [Entwickler - NEU](https://certification.adobe.com/certification/adobe-commerce-developer-expert-v2){target="_blank"} <!--AD0-E716-->
 * [Entwickler - Läuft am 17. Februar 2025 ](https://certification.adobe.com/certification/adobe-commerce-developer-expert){target="_blank"} <!--AD0-E716-->
-* [Frontend-Entwickler](https://certification.adobe.com/certification/front-end-developer-expert){target="_blank"} <!--AD0-E720-->
+* [Frontend-Entwickler - NEU](https://certification.adobe.com/certification/front-end-developer-expert-v2){target="_blank"} <!--AD0-E727-->
+* [Frontend-Entwickler - Läuft am 15. März 2025 ](https://certification.adobe.com/certification/front-end-developer-expert){target="_blank"} <!--AD0-E720-->
 
 **Master**
 
