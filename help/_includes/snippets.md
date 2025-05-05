@@ -110,7 +110,7 @@ Diese Schritte führen Sie von Anfang bis Ende durch den Zertifizierungsprozess.
 >
 > **Amtlicher Lichtbildausweis erforderlich:** Sie MÜSSEN einen amtlichen Lichtbildausweis als gültige Ausweisform verwenden. Soft Copies oder digitale IDs sind nicht zulässig. <br><br> **Adobe ID-Kontoname:** Ihr Adobe ID-Kontoname MUSS mit Ihrem Namen auf Ihrer Regierungskennung übereinstimmen. Um Ihren Adobe ID-Kontonamen zu aktualisieren, <certif@adobe.com> Sie die E-Mail-Adresse. Bitte fordern Sie diese Korrektur **72 Stunden im Voraus** an. Wenn die Namen zum Zeitpunkt der Prüfung nicht übereinstimmen, müssen Sie sich gegen einen Aufpreis für eine neue Prüfung anmelden.
 
-Sie müssen über eine Adobe ID verfügen, um Ihre Prüfung zu planen und abzulegen. Wenn Sie keine Adobe ID haben, können Sie eine erstellen [hier](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+Sie müssen über eine Adobe ID verfügen, um Ihre Prüfung zu planen und abzulegen. Wenn Sie keine Adobe ID haben, können Sie eine erstellen [hier](https://helpx.adobe.com/de/manage-account/using/create-update-adobe-id.html).
 
 Eine Adobe ID ist aus drei Gründen erforderlich:
 
@@ -278,7 +278,7 @@ Ihr Abzeichen dient als greifbarer Beweis für Ihre Kompetenz mit Adobe Experien
 
 ## Erneuerung der Zertifizierung {#renewing-intro}
 
-Die Zertifizierungen laufen nach zwei Jahren ab. Um Ihre Zertifizierung beizubehalten, müssen Sie sie verlängern, bevor sie abläuft. Besuchen Sie die Seite [Zertifizierung erneuern](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} für weitere Informationen.
+Die Zertifizierungen laufen nach zwei Jahren ab. Um Ihre Zertifizierung beizubehalten, müssen Sie sie verlängern, bevor sie abläuft. Besuchen Sie die Seite [Zertifizierung erneuern](https://experienceleague.adobe.com/docs/certification/program/renew.html?lang=de){target="_blank"} für weitere Informationen.
 
 <!--divider-->
 
