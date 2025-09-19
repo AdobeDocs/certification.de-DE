@@ -3,7 +3,7 @@ title: Target-Zertifizierung - Übersicht
 description: Überblick über die Zertifizierungsoptionen für Adobe Target
 solution: Target
 exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
-source-git-commit: d0e1c6a499d5f3016d1147135e2e85d2b930372b
+source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -17,8 +17,7 @@ Wählen Sie Ihre Stufe und Ihr Aufgabengebiet aus, um Details zur Zertifizierung
 **Professional**
 
 * [Certified Professional](https://certification.adobe.com/certification/target-business-practitioner-professional){target="_blank"} <!--AD0-E408-->
-* [Optimierungsspezialist](https://certification.adobe.com/certification/optimization-specialist-professional) (Beachten Sie, dass diese Zertifizierung nicht für die Partneranforderungen zählt.)
-  {target="_blank"} <!--AD0-E410-->
+* [Optimierungsspezialist](https://certification.adobe.com/certification/optimization-specialist-professional){target="_blank"} (Beachten Sie, dass diese Zertifizierung nicht für die Anforderungen der Partner zählt.) <!--AD0-E410-->
 
 **Experte**
 

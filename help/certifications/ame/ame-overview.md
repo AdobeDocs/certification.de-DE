@@ -4,7 +4,7 @@ description: Überblick über die Zertifizierungsoptionen für Adobe Marketo Eng
 solution: Marketo Engage
 product: Marketo
 exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
-source-git-commit: 59e40e4144cca7250af2e903106e422a29b37f3c
+source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Wählen Sie Ihre Stufe und Ihr Aufgabengebiet aus, um Details zur Zertifizierung
 
 * [Certified Professional](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
 * [Certified Professional - Japanisch](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-J-->
-* [Digital Marketer](https://certification.adobe.com/certification/digital-marketer-professional) (Bitte beachten Sie, dass diese Zertifizierung nicht für die Anforderungen der Partner zählt.){target="_blank"} <!--AD0-E564-->
+* [Digital Marketer](https://certification.adobe.com/certification/digital-marketer-professional){target="_blank"} (Beachten Sie, dass diese Zertifizierung nicht für die Anforderungen der Partner zählt.) <!--AD0-E564-->
 
 **Experte**
 
@@ -29,7 +29,7 @@ Wählen Sie Ihre Stufe und Ihr Aufgabengebiet aus, um Details zur Zertifizierung
 **Master**
 
 * [Architekt - NEU](https://certification.adobe.com/certification/engage-architect-master/1310){target="_blank"} <!--AD0-E563-->
-* [Architekt - Läuft am 25. November 2025 ](https://certification.adobe.com/certification/marketo-engage-architect-master){target="_blank"} <!--AD0-E560-->
+* [Architekt - Läuft am 15. November 2025 ](https://certification.adobe.com/certification/marketo-engage-architect-master){target="_blank"} <!--AD0-E560-->
 
 {{questions}}
 
