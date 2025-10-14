@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Das Adobe Digital Experience-Zertifizierungsprogramm wurde in das neue [Adobe-Zertifizierungsportal ](https://certification.adobe.com/){target="_blank"}!** Im Folgenden finden Sie Informationen zu den neuen Funktionen und Anleitungen für die ersten Schritte.
+>**Das Adobe Digital Experience-Zertifizierungsprogramm wurde in das neue [Adobe-Zertifizierungsportal &#x200B;](https://certification.adobe.com/){target="_blank"}!** Im Folgenden finden Sie Informationen zu den neuen Funktionen und Anleitungen für die ersten Schritte.
 
 ## Was steht auf dem neuen Adobe-Zertifizierungsportal?
 
@@ -38,7 +38,7 @@ Alles, was Sie auf dieser Seite gefunden haben und vieles mehr!
 
 ### Wo fange ich an?
 
-[Melden Sie sich noch heute ](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
+[Melden Sie sich noch heute &#x200B;](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
 
 Dann erkunden Sie unsere [Kurse](https://certification.adobe.com/courses/?/courses){target="_blank"}, [Zertifizierungen](https://certification.adobe.com/certifications){target="_blank"}, [Community](https://certification.adobe.com/community/){target="_blank"} und [anpassbares Dashboard](https://certification.adobe.com/user/dashboard){target="_blank"}.
 
@@ -114,7 +114,7 @@ Sie müssen über eine Adobe ID verfügen, um Ihre Prüfung zu planen und abzule
 
 Eine Adobe ID ist aus drei Gründen erforderlich:
 
-* Sie benötigen eine Adobe ID, um Ihr [Adobe Credential Management System-Konto zu erstellen und ](https://www.certmetrics.com/adobe){target="_blank"}. Hier können Sie Ihre Zertifizierungen, den Prüfungsverlauf, Prüfungsergebnisse und zusätzliche Informationen anzeigen.
+* Sie benötigen eine Adobe ID, um Ihr [Adobe Credential Management System-Konto zu erstellen und &#x200B;](https://www.certmetrics.com/adobe){target="_blank"}. Hier können Sie Ihre Zertifizierungen, den Prüfungsverlauf, Prüfungsergebnisse und zusätzliche Informationen anzeigen.
 * Sie müssen beim Adobe Credential Management System angemeldet sein, um Ihr Examity-Konto erstellen und sich dort anmelden zu können. Dort werden Sie Ihre Tests planen, bezahlen und ablegen.
 * Sie müssen beim Adobe-Berechtigungs-Management-System angemeldet sein, um Übungstests für das Adobe-Zertifizierungsprüfungs-Vorbereitungsportal durchführen zu können.
 
@@ -128,7 +128,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 >[!NOTE]
 >
->Einige Links in diesem Abschnitt funktionieren erst, nachdem Sie sich beim [Adobe-Berechtigungsverwaltungssystem angemeldet ](https://www.certmetrics.com/adobe){target="_blank"}. Bitte nehmen Sie sich einen Moment Zeit, um sich anzumelden.
+>Einige Links in diesem Abschnitt funktionieren erst, nachdem Sie sich beim [Adobe-Berechtigungsverwaltungssystem angemeldet &#x200B;](https://www.certmetrics.com/adobe){target="_blank"}. Bitte nehmen Sie sich einen Moment Zeit, um sich anzumelden.
 
 <!--divider-->
 
@@ -150,7 +150,7 @@ So absolvieren Sie den Praxistest:
 
 1. Melden Sie sich zunächst mit Ihrer Adobe ID beim [Adobe](https://www.certmetrics.com/adobe){target="_blank"}Berechtigungsverwaltungssystem an.
 
-2. Rufen Sie dann das Portal zur Vorbereitung auf die [Adobe-Zertifizierungsprüfung ](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"}, um Ihren Praxistest zu finden.
+2. Rufen Sie dann das Portal zur Vorbereitung auf die [Adobe-Zertifizierungsprüfung &#x200B;](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"}, um Ihren Praxistest zu finden.
 
 <!--divider-->
 
@@ -158,7 +158,7 @@ So absolvieren Sie den Praxistest:
 
 >[!NOTE]
 >
->Einige Elemente in diesem Abschnitt funktionieren erst, nachdem Sie sich beim [Adobe-Berechtigungsverwaltungssystem angemeldet ](https://www.certmetrics.com/adobe){target="_blank"}. Bitte nehmen Sie sich einen Moment Zeit, um sich anzumelden.
+>Einige Elemente in diesem Abschnitt funktionieren erst, nachdem Sie sich beim [Adobe-Berechtigungsverwaltungssystem angemeldet &#x200B;](https://www.certmetrics.com/adobe){target="_blank"}. Bitte nehmen Sie sich einen Moment Zeit, um sich anzumelden.
 
 **Versand der Prüfung**
 
@@ -202,7 +202,7 @@ Massenrabatte sind verfügbar:
 
 Partnerrabatte: Partner auf Bronzestufe und darüber erhalten Rabatte auf alle Adobe-Zertifizierungsprüfungen und -klassen. Weitere Informationen zu diesen Rabatten und zum Zugriff auf die Partnervorteile finden Sie im Lösungspartner-Portal.
 
-Gutscheinrabatte: Alle Bewerber können beim Kauf über das [Adobe-Zertifizierungs-Gutscheinzentrum einen Rabatt auf Sammelkäufe von 10 oder mehr Prüfungen ](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
+Gutscheinrabatte: Alle Bewerber können beim Kauf über das [Adobe-Zertifizierungs-Gutscheinzentrum einen Rabatt auf Sammelkäufe von 10 oder mehr Prüfungen &#x200B;](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Hinweis: Massenrabatte können nicht mit anderen Angeboten oder Rabatten kombiniert werden.
 
@@ -246,7 +246,7 @@ Adobe verwendet Examity, um überwachte Prüfungen online durchzuführen. Im Pr�
 
 * **Machen Sie Ihre Prüfung.**
 
-**Hinweis:** Sie müssen sich beim [Adobe-Berechtigungsverwaltungssystem anmelden, ](https://www.certmetrics.com/adobe){target="_blank"} Sie unten auf die Schaltfläche „Prüfung“ klicken.
+**Hinweis:** Sie müssen sich beim [Adobe-Berechtigungsverwaltungssystem anmelden, &#x200B;](https://www.certmetrics.com/adobe){target="_blank"} Sie unten auf die Schaltfläche „Prüfung“ klicken.
 
 >[!WARNING]
 >

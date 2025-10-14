@@ -36,7 +36,7 @@ Alles, was Sie auf dieser Seite gefunden haben und vieles mehr!
 
 ### Wo fange ich an?
 
-[Melden Sie sich noch heute ](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
+[Melden Sie sich noch heute &#x200B;](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
 
 Dann erkunden Sie unsere [Kurse](https://certification.adobe.com/courses/?/courses){target="_blank"}, [Zertifizierungen](https://certification.adobe.com/certifications){target="_blank"}, [Community](https://certification.adobe.com/community/){target="_blank"} und [anpassbares Dashboard](https://certification.adobe.com/user/dashboard){target="_blank"}.
 
