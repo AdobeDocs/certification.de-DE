@@ -210,6 +210,6 @@ Adobe Journey Optimizer wird von Experience Platform unterstützt. Kandidaten, d
 
 ## Questions
 
-Sehen Sie sich die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} an.
+Sehen Sie sich die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=de){target="_blank"} an.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com).
