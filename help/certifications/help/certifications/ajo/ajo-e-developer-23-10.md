@@ -7,9 +7,9 @@ role: Developer
 badge: label="Prüfung AD0-E606" type="neutral"
 hidefromtoc: true
 exl-id: null
-source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
+source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '614'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Dies ist die neueste Adobe [!DNL Journey Optimizer] Developer Expert Prüfung (AD0-E606). Wenn Sie bereits mit dem Studium begonnen oder die [ältere Version](ajo-e-developer.md) eingeplant haben, müssen Sie sie bis zum 22. Dezember 2023 abschließen.
+>Dies ist die neueste Adobe [!DNL Journey Optimizer] Developer Expert Prüfung (AD0-E606).
 
 
 ## Prüfungsbeschreibung {#exam-description}
@@ -87,7 +87,7 @@ Adobe Journey Optimizer wird von Experience Platform unterstützt. Kandidaten, d
 * Bestimmen Sie bei einem gegebenen Szenario die entsprechenden Anwendungsfälle für einen Journey-Typ
 * Vorbereiten von Testfällen (z. B. Experimentieren oder Multi-Channel-Journey)
 
-**Abschnitt 3: Offer decisioning (16 %)**
+**Abschnitt 3: Offer Decisioning (16 %)**
 
 * Verständnis für das Erstellen und Verwalten von Angeboten und Komponenten demonstrieren
 * Demonstrieren der Verwendung von Testprofilen zur Durchführung der Angebotssimulation
@@ -139,25 +139,25 @@ Adobe Journey Optimizer wird von Experience Platform unterstützt. Kandidaten, d
 
 * [AJO-Handbuch, Journey, Ausdrücke, Verfolgen und Überwachen](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 
-**Abschnitt 3: Offer decisioning**
+**Abschnitt 3: Offer Decisioning**
 
 * [Handbuch zu AJO, Entscheidungs-Management, API-Referenz](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 
 **Abschnitt 4: Inhaltserstellung**
 
 * [AJO-Handbuch, SMS-Kanal, Datenschutz, Konfiguration, Journeys, Ausdrücke, Inhaltsverwaltung, Verfolgen und Überwachen, Push-Benachrichtigungskanal](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
-* [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de){target="_blank"}
+* [Journey Optimizer-Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de){target="_blank"}
 
 **Abschnitt 5: Datenmodellierung**
 
 * [AJO-Handbuch, Konfiguration, Zielgruppen, Profile und Identität, Daten-Management](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
-* [Experience Platform, Datensätze, Handbuch zu Source-Connectoren, API-Tutorials, Handbuch für den Platform Identity Service, Segmentierungsbenutzeroberfläche, Tutorials-Benutzeroberfläche](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de){target="_blank"}
+* [Experience Platform, Datensätze, Handbuch zu Source-Connectoren, API-Tutorials, Handbuch für den Platform Identity Service, Segmentierungs-Benutzeroberfläche, Tutorials zur Benutzeroberfläche](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de){target="_blank"}
 
-+++
++++ 
 
 <br>
 
-+++Schritt 3: Für die Prüfung planen und bezahlen
++++&#x200B;3. Schritt: Prüfung planen und bezahlen
 
 {{schedule-and-pay}}
 
@@ -173,7 +173,7 @@ Adobe Journey Optimizer wird von Experience Platform unterstützt. Kandidaten, d
 
 <br>
 
-+++Schritt 5: Ablegen der Prüfung
++++Schritt 5: Prüfungen ablegen
 
 {{about-certification-exam}}
 
@@ -181,7 +181,7 @@ Adobe Journey Optimizer wird von Experience Platform unterstützt. Kandidaten, d
 
 >[!NOTE]
 >
->Dies ist die neueste Adobe [!DNL Journey Optimizer] Developer Expert Prüfung (AD0-E606). Wenn Sie bereits mit dem Studium begonnen oder die [ältere Version](ajo-e-developer.md) eingeplant haben, müssen Sie sie bis zum 22. Dezember 2023 abschließen.
+>Dies ist die neueste Adobe [!DNL Journey Optimizer] Developer Expert Prüfung (AD0-E606).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -210,6 +210,6 @@ Adobe Journey Optimizer wird von Experience Platform unterstützt. Kandidaten, d
 
 ## Questions
 
-Sehen Sie sich die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=de){target="_blank"} an.
+Sehen Sie sich die Zertifizierung [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} an.
 
 Weitere Fragen? [Kontakt](mailto:certif@adobe.com).
