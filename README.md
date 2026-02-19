@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Dieses Repository wurde in GitHub Enterprise Cloud migriert
 
-<https://github.com/Adobe-Enterprise-Docs/certification.en>
+<https://github.com/Adobe-Enterprise-Docs/certification.de-DE>
