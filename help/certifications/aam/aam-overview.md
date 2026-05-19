@@ -4,16 +4,16 @@ description: Überblick über die Zertifizierungsoptionen für Adobe Audience Ma
 solution: Audience Manager
 product: Audience Manager
 exl-id: aeeef127-446c-4d22-8791-b93ea755545a
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: 9bbe611b8961bb7ef008310ae3532df9b992eeb6
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
 # Übersicht über die Adobe Audience Manager-Zertifizierung
 
-Wählen Sie Ihre Stufe und Ihr Aufgabengebiet aus, um Details zur Zertifizierungsprüfung zu finden, auf Studienressourcen zuzugreifen und Ihre Prüfung zu planen. Sie können auch den [vollständigen Zertifizierungskatalog](https://certification.adobe.com/certifications){target="_blank"} sowie [technische Schulungen) &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}.
+Wählen Sie Ihre Stufe und Ihr Aufgabengebiet aus, um Details zur Zertifizierungsprüfung zu finden, auf Studienressourcen zuzugreifen und Ihre Prüfung zu planen. Sie können auch den [vollständigen Zertifizierungskatalog](https://certification.adobe.com/certifications){target="_blank"} sowie [technische Schulungen) ](https://certification.adobe.com/courses/?/courses){target="_blank"}.
 
 **Professional**
 
@@ -28,4 +28,3 @@ Wählen Sie Ihre Stufe und Ihr Aufgabengebiet aus, um Details zur Zertifizierung
 * [Architekt](https://certification.adobe.com/certification/audience-manager-architect-master){target="_blank"} <!--AD0-E454-->
 
 {{questions}}
-
