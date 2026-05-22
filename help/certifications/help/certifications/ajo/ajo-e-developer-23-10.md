@@ -9,8 +9,8 @@ hidefromtoc: true
 exl-id: null
 source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
 workflow-type: tm+mt
-source-wordcount: '614'
-ht-degree: 1%
+source-wordcount: '695'
+ht-degree: 9%
 
 ---
 
@@ -131,13 +131,13 @@ Adobe Journey Optimizer wird von Experience Platform unterstützt. Kandidaten, d
 
 **Abschnitt 1: Administration und Konfiguration**
 
-* [Experience Platform, Zugriffssteuerung, Sandbox-Handbuch](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=de){target="_blank"}
+* [Handbuch zu Experience Platform, Zugriffssteuerung, Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=de){target="_blank"}
 * [AJO-Handbuch, Konfiguration, SMS-Kanal, Journey](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 * [AJO-APIs](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **Abschnitt 2: Journey Orchestration**
 
-* [AJO-Handbuch, Journey, Ausdrücke, Verfolgen und Überwachen](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [AJO-Handbuch, Journey, Ausdrücke, Nachverfolgen und Überwachen](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 
 **Abschnitt 3: Offer Decisioning**
 
@@ -145,13 +145,13 @@ Adobe Journey Optimizer wird von Experience Platform unterstützt. Kandidaten, d
 
 **Abschnitt 4: Inhaltserstellung**
 
-* [AJO-Handbuch, SMS-Kanal, Datenschutz, Konfiguration, Journeys, Ausdrücke, Inhaltsverwaltung, Verfolgen und Überwachen, Push-Benachrichtigungskanal](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [AJO-Handbuch, SMS-Kanal, Datenschutz, Konfiguration, Journey, Ausdrücke, Content-Management, Tracking und Überwachung, Push-Benachrichtigungskanal](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
 * [Journey Optimizer-Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de){target="_blank"}
 
 **Abschnitt 5: Datenmodellierung**
 
 * [AJO-Handbuch, Konfiguration, Zielgruppen, Profile und Identität, Daten-Management](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
-* [Experience Platform, Datensätze, Handbuch zu Source-Connectoren, API-Tutorials, Handbuch für den Platform Identity Service, Segmentierungs-Benutzeroberfläche, Tutorials zur Benutzeroberfläche](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de){target="_blank"}
+* [Experience Platform, Datensätze, Handbuch zu Source-Connectoren, API-Tutorials, Handbuch für den Platform Identity Service, Segmentierungsbenutzeroberfläche, Tutorials zur Benutzeroberfläche](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de){target="_blank"}
 
 +++ 
 
