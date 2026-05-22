@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung für Developer Professional
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner Experte in [!DNL Experience Manager Sites] werden.
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Business Practitioner Experte in  [!DNL Experience Manager Sites] werden.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -10,18 +10,18 @@ hidefromtoc: true
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
 source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
 
-# Zertifizierungs-Journey für Adobe [!DNL Experience Manager Sites] Developer Professional
+# Journey für Adobe [!DNL Experience Manager Sites] Developer Professional
 
 >[!NOTE]
 >
->**Das Adobe Digital Experience-Zertifizierungsprogramm wurde in das neue [Adobe-Zertifizierungsportal &#x200B;](https://certification.adobe.com/){target="_blank"}!** Im Folgenden finden Sie Informationen zu den neuen Funktionen und Anleitungen für die ersten Schritte.
+>**Das Zertifizierungsprogramm für Adobe Digital Experience wurde in das neue [Adobe-Zertifizierungsportal verschoben](https://certification.adobe.com/){target="_blank"}!** Im Folgenden finden Sie Informationen zu den neuen Funktionen und Anleitungen für die ersten Schritte.
 
-## Was steht auf dem neuen Adobe-Zertifizierungsportal?
+## Was gibt es im neuen Adobe-Zertifizierungsportal?
 
 Alles, was Sie auf dieser Seite gefunden haben und vieles mehr!
 
@@ -38,13 +38,13 @@ Alles, was Sie auf dieser Seite gefunden haben und vieles mehr!
 
 ### Wo fange ich an?
 
-[Melden Sie sich noch heute &#x200B;](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
+[Melden Sie sich noch heute ](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
 
 Dann erkunden Sie unsere [Kurse](https://certification.adobe.com/courses/?/courses){target="_blank"}, [Zertifizierungen](https://certification.adobe.com/certifications){target="_blank"}, [Community](https://certification.adobe.com/community/){target="_blank"} und [anpassbares Dashboard](https://certification.adobe.com/user/dashboard){target="_blank"}.
 
 ### Wie plane ich eine Prüfung?
 
-Sie können jetzt eine Prüfung im Adobe-Zertifizierungsportal planen.
+Sie können jetzt eine Prüfung im Zertifizierungsportal von Adobe planen.
 
 1. Navigieren Sie zum [Zertifizierungskatalog](https://certification.adobe.com/certifications){target="_blank"}.
 2. Finde deine Prüfung
@@ -54,15 +54,15 @@ Sie können jetzt eine Prüfung im Adobe-Zertifizierungsportal planen.
 
 ### Wo finde ich meinen Zertifizierungsverlauf?
 
-Ihre aktiven Zertifizierungen wurden bereits auf [Ihr Konto](https://certification.adobe.com/user/certifications){target="_blank"} im Adobe-Zertifizierungsportal migriert. Einige Aspekte Ihres Kontos sind möglicherweise noch nicht vollständig ausgefüllt, während wir Ihre verbleibenden Benutzerdaten migrieren. Vielen Dank für Ihre Geduld!
+Ihre aktiven Zertifizierungen wurden bereits [Ihr Konto](https://certification.adobe.com/user/certifications){target="_blank"} im Zertifizierungsportal von Adobe migriert. Einige Aspekte Ihres Kontos sind möglicherweise noch nicht vollständig ausgefüllt, während wir Ihre verbleibenden Benutzerdaten migrieren. Vielen Dank für Ihre Geduld!
 
 ### Wo finde ich meine Gutscheine?
 
-Ihre Gutscheine (einschließlich der von Xvoucher übertragenen Gutscheine) werden in [Ihrem Konto](https://certification.adobe.com/user/purchases){target="_blank"} auf dem Adobe-Zertifizierungsportal angezeigt.
+Ihre Gutscheine (einschließlich der von Xvoucher übertragenen Gutscheine) werden in [Ihrem Konto](https://certification.adobe.com/user/purchases){target="_blank"} im Adobe-Zertifizierungsportal angezeigt.
 
 ### Wo ist mein Zertifizierungsabzeichen?
 
-Ihr Abzeichen ist jetzt auf dem Adobe-Zertifizierungsportal verfügbar.
+Ihr Abzeichen ist jetzt im Zertifizierungsportal von Adobe verfügbar.
 
 1. Navigieren Sie **Mein Konto** > [Leistungen](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
 2. Suchen Sie das Widget **Aktive**&quot;.
