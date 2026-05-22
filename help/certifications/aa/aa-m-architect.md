@@ -11,7 +11,7 @@ hidefromtoc: true
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
 source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Das Zertifizierungsprogramm für Adobe Digital Experience wurde in das neue [Adobe-Zertifizierungsportal &#x200B;](https://certification.adobe.com/){target="_blank"}!** Im Folgenden finden Sie Informationen zu den neuen Funktionen und Anleitungen für die ersten Schritte.
+>**Das Zertifizierungsprogramm für Adobe Digital Experience wurde in das neue [Adobe-Zertifizierungsportal verschoben](https://certification.adobe.com/){target="_blank"}!** Im Folgenden finden Sie Informationen zu den neuen Funktionen und Anleitungen für die ersten Schritte.
 
 ## Was gibt es im neuen Adobe-Zertifizierungsportal?
 

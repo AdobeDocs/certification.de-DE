@@ -4,8 +4,8 @@ breadcrumb-title: Zertifizierung bei Adobe
 user-guide-description: Erfahren Sie mehr  [!DNL Experience Cloud]  Zertifizierung bei Adobe. Finden Sie heraus, was eine Zertifizierung für Sie bedeuten kann.
 source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 37%
+source-wordcount: '260'
+ht-degree: 41%
 
 ---
 

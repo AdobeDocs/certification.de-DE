@@ -1,6 +1,6 @@
 ---
 title: Zertifizierung durch Fachleute für Unternehmen
-description: Erfahren Sie, wie Sie sich als Adobe Business Practitioner Expert für Adobe [!DNL Commerce] zertifizieren lassen.
+description: Erfahren Sie, wie Sie sich als Adobe Business Practitioner Expert in Adobe [!DNL Commerce] zertifizieren lassen.
 solution: Commerce
 product: Magento
 role: User
@@ -11,7 +11,7 @@ hidefromtoc: true
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
 source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Das Adobe Digital Experience-Zertifizierungsprogramm wurde in das neue [Adobe-Zertifizierungsportal &#x200B;](https://certification.adobe.com/){target="_blank"}!** Im Folgenden finden Sie Informationen zu den neuen Funktionen und Anleitungen für die ersten Schritte.
+>**Das Zertifizierungsprogramm für Adobe Digital Experience wurde in das neue [Adobe-Zertifizierungsportal verschoben](https://certification.adobe.com/){target="_blank"}!** Im Folgenden finden Sie Informationen zu den neuen Funktionen und Anleitungen für die ersten Schritte.
 
-## Was steht auf dem neuen Adobe-Zertifizierungsportal?
+## Was gibt es im neuen Adobe-Zertifizierungsportal?
 
 Alles, was Sie auf dieser Seite gefunden haben und vieles mehr!
 
@@ -45,7 +45,7 @@ Dann erkunden Sie unsere [Kurse](https://certification.adobe.com/courses/?/cours
 
 ### Wie plane ich eine Prüfung?
 
-Sie können jetzt eine Prüfung im Adobe-Zertifizierungsportal planen.
+Sie können jetzt eine Prüfung im Zertifizierungsportal von Adobe planen.
 
 1. Navigieren Sie zum [Zertifizierungskatalog](https://certification.adobe.com/certifications){target="_blank"}.
 2. Finde deine Prüfung
@@ -55,15 +55,15 @@ Sie können jetzt eine Prüfung im Adobe-Zertifizierungsportal planen.
 
 ### Wo finde ich meinen Zertifizierungsverlauf?
 
-Ihre aktiven Zertifizierungen wurden bereits auf [Ihr Konto](https://certification.adobe.com/user/certifications){target="_blank"} im Adobe-Zertifizierungsportal migriert. Einige Aspekte Ihres Kontos sind möglicherweise noch nicht vollständig ausgefüllt, während wir Ihre verbleibenden Benutzerdaten migrieren. Vielen Dank für Ihre Geduld!
+Ihre aktiven Zertifizierungen wurden bereits [Ihr Konto](https://certification.adobe.com/user/certifications){target="_blank"} im Zertifizierungsportal von Adobe migriert. Einige Aspekte Ihres Kontos sind möglicherweise noch nicht vollständig ausgefüllt, während wir Ihre verbleibenden Benutzerdaten migrieren. Vielen Dank für Ihre Geduld!
 
 ### Wo finde ich meine Gutscheine?
 
-Ihre Gutscheine (einschließlich der von Xvoucher übertragenen Gutscheine) werden in [Ihrem Konto](https://certification.adobe.com/user/purchases){target="_blank"} auf dem Adobe-Zertifizierungsportal angezeigt.
+Ihre Gutscheine (einschließlich der von Xvoucher übertragenen Gutscheine) werden in [Ihrem Konto](https://certification.adobe.com/user/purchases){target="_blank"} im Adobe-Zertifizierungsportal angezeigt.
 
 ### Wo ist mein Zertifizierungsabzeichen?
 
-Ihr Abzeichen ist jetzt auf dem Adobe-Zertifizierungsportal verfügbar.
+Ihr Abzeichen ist jetzt im Zertifizierungsportal von Adobe verfügbar.
 
 1. Navigieren Sie **Mein Konto** > [Leistungen](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
 2. Suchen Sie das Widget **Aktive**&quot;.
