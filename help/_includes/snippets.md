@@ -38,7 +38,7 @@ Alles, was Sie auf dieser Seite gefunden haben und vieles mehr!
 
 ### Wo fange ich an?
 
-[Melden Sie sich noch heute ](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
+[Melden Sie sich noch heute &#x200B;](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
 
 Dann erkunden Sie unsere [Kurse](https://certification.adobe.com/courses/?/courses){target="_blank"}, [Zertifizierungen](https://certification.adobe.com/certifications){target="_blank"}, [Community](https://certification.adobe.com/community/){target="_blank"} und [anpassbares Dashboard](https://certification.adobe.com/user/dashboard){target="_blank"}.
 
@@ -114,7 +114,7 @@ Sie müssen über eine Adobe ID verfügen, um Ihre Prüfung zu planen und abzule
 
 Eine Adobe ID ist aus drei Gründen erforderlich:
 
-* Sie benötigen eine Adobe ID, um Ihr [Adobe Credential Management System-Konto zu erstellen und ](https://www.certmetrics.com/adobe){target="_blank"}. Hier können Sie Ihre Zertifizierungen, den Prüfungsverlauf, Prüfungsergebnisse und zusätzliche Informationen anzeigen.
+* Sie benötigen eine Adobe ID, um Ihr [Adobe Credential Management System-Konto zu erstellen und &#x200B;](https://www.certmetrics.com/adobe){target="_blank"}. Hier können Sie Ihre Zertifizierungen, den Prüfungsverlauf, Prüfungsergebnisse und zusätzliche Informationen anzeigen.
 * Sie müssen beim Adobe Credential Management System angemeldet sein, um Ihr Examity-Konto erstellen und sich dort anmelden zu können. Dort werden Sie Ihre Tests planen, bezahlen und ablegen.
 * Sie müssen beim Adobe Credential Management System angemeldet sein, um Übungstests für das Adobe-Portal zur Vorbereitung auf die Zertifizierungsprüfung durchführen zu können.
 
@@ -128,7 +128,7 @@ Im Folgenden finden Sie einige empfohlene Ressourcen, die Sie bei der Vorbereitu
 
 >[!NOTE]
 >
->Einige Links in diesem Abschnitt funktionieren erst, nachdem Sie sich beim [Adobe-Berechtigungsverwaltungssystem angemeldet ](https://www.certmetrics.com/adobe){target="_blank"}. Bitte nehmen Sie sich einen Moment Zeit, um sich anzumelden.
+>Einige Links in diesem Abschnitt funktionieren erst, nachdem Sie sich beim [Adobe-Berechtigungsverwaltungssystem angemeldet &#x200B;](https://www.certmetrics.com/adobe){target="_blank"}. Bitte nehmen Sie sich einen Moment Zeit, um sich anzumelden.
 
 <!--divider-->
 
@@ -158,7 +158,7 @@ So absolvieren Sie den Praxistest:
 
 >[!NOTE]
 >
->Einige Elemente in diesem Abschnitt funktionieren erst, nachdem Sie sich beim [Adobe-Berechtigungsverwaltungssystem angemeldet ](https://www.certmetrics.com/adobe){target="_blank"}. Bitte nehmen Sie sich einen Moment Zeit, um sich anzumelden.
+>Einige Elemente in diesem Abschnitt funktionieren erst, nachdem Sie sich beim [Adobe-Berechtigungsverwaltungssystem angemeldet &#x200B;](https://www.certmetrics.com/adobe){target="_blank"}. Bitte nehmen Sie sich einen Moment Zeit, um sich anzumelden.
 
 **Versand der Prüfung**
 
@@ -202,7 +202,7 @@ Massenrabatte sind verfügbar:
 
 Partnerrabatte: Partner auf Bronzestufe und darüber erhalten Rabatte auf alle Adobe-Zertifizierungsprüfungen und -kurse. Weitere Informationen zu diesen Rabatten und zum Zugriff auf die Partnervorteile finden Sie im Lösungspartner-Portal.
 
-Gutscheinrabatte: Alle Bewerber können beim Kauf über das [Adobe-Zertifizierungs-Gutscheinzentrum einen Rabatt auf Sammelkäufe von 10 oder mehr Prüfungen ](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
+Gutscheinrabatte: Alle Bewerber können beim Kauf über das [Adobe-Zertifizierungs-Gutscheinzentrum einen Rabatt auf Sammelkäufe von 10 oder mehr Prüfungen &#x200B;](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Hinweis: Massenrabatte können nicht mit anderen Angeboten oder Rabatten kombiniert werden.
 
@@ -310,7 +310,7 @@ Der kostenlose Leitfaden für die Prüfungsvorbereitung bietet einen maßgeschne
 >
 >* Einzelheiten zum aktualisierten Erneuerungsprozess werden Anfang März bekannt gegeben, sodass alle Zertifizierungsinhaber ausreichend Zeit für die Erneuerung ihrer Zertifizierungen haben.
 >
->**Die aktuellsten Informationen finden Sie im neuen [](https://certification.adobe.com/certifications/learn-more?tab=learnmore8){target="_blank"} Zertifizierungsportal für Adobe**
+>**Die aktuellsten Informationen finden Sie im neuen [&#128279;](https://certification.adobe.com/certifications/learn-more?tab=learnmore8){target="_blank"} Zertifizierungsportal für Adobe**
 
 <!--divider-->
 
