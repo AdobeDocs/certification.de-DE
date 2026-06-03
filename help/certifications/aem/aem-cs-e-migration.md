@@ -1,14 +1,14 @@
 ---
 title: Zertifizierung durch Fachleute
 description: Erfahren Sie, wie Sie ein zertifizierter Adobe [!DNL Experience Manager] Experte werden.
-solution: Experience Manager, Experience Manager as a Cloud Service
+solution: Experience Manager as a Cloud Service, Experience Manager
 product: Experience Manager
 role: Developer
 badge: label="Prüfung AD0-E136" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+source-git-commit: a277b79cc26e5c8ae43c2f4388a8cdb21ea0996d
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Alles, was Sie auf dieser Seite gefunden haben und vieles mehr!
 
 ### Wo fange ich an?
 
-[Melden Sie sich noch heute &#x200B;](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
+[Melden Sie sich noch heute ](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
 
 Dann erkunden Sie unsere [Kurse](https://certification.adobe.com/courses/?/courses){target="_blank"}, [Zertifizierungen](https://certification.adobe.com/certifications){target="_blank"}, [Community](https://certification.adobe.com/community/){target="_blank"} und [anpassbares Dashboard](https://certification.adobe.com/user/dashboard){target="_blank"}.
 
