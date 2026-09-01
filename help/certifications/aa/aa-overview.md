@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Übersicht über die Adobe Analytics-Zertifizierung
 
-Wählen Sie Ihre Stufe und Ihr Aufgabengebiet aus, um Details zur Zertifizierungsprüfung zu finden, auf Studienressourcen zuzugreifen und Ihre Prüfung zu planen. Sie können auch den [vollständigen Zertifizierungskatalog](https://certification.adobe.com/certifications){target="_blank"} sowie [technische Schulungen) ](https://certification.adobe.com/courses/?/courses){target="_blank"}.
+Wählen Sie Ihre Stufe und Ihr Aufgabengebiet aus, um Details zur Zertifizierungsprüfung zu finden, auf Studienressourcen zuzugreifen und Ihre Prüfung zu planen. Sie können auch den [vollständigen Zertifizierungskatalog](https://certification.adobe.com/certifications){target="_blank"} sowie [technische Schulungen) &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}.
 
 **Professional**
 * [Geschäftspraktiker - NEU](https://certification.adobe.com/certification/analytics-business-practitioner-professional2/550) <!--AD0-214-->
@@ -24,7 +24,7 @@ Wählen Sie Ihre Stufe und Ihr Aufgabengebiet aus, um Details zur Zertifizierung
 **Experte**
 
 * [Geschäftspraktiker - NEU](https://certification.adobe.com/certification/analytics-business-practitioner-expert2/1370) <!--AD0-E216-->
-* [Business Practitioner - läuft am 27. September 2026 ](https://certification.adobe.com/certification/analytics-business-practitioner-expert) <!--AD0-E208-->
+* [Business Practitioner - läuft am 27. September 2026 &#x200B;](https://certification.adobe.com/certification/analytics-business-practitioner-expert) <!--AD0-E208-->
 * [Geschäftspraktiker - Japanisch](https://certification.adobe.com/certification/analytics-business-practitioner-expert)<!--AD0-E208-J-->
 * [Entwickler](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-->
 * [Entwickler - Japanisch](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-J-->
