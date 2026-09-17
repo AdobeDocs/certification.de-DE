@@ -21,19 +21,19 @@ ht-degree: 0%
 ---
 # Übersicht über die Adobe [!DNL Marketo Engage]-Zertifizierung
 
-Wählen Sie Ihre Stufe und Ihr Aufgabengebiet aus, um Details zur Zertifizierungsprüfung zu finden, auf Studienressourcen zuzugreifen und Ihre Prüfung zu planen. Sie können auch den [vollständigen Zertifizierungskatalog](https://certification.adobe.com/certifications){target="_blank"} sowie [technische Schulungen) ](https://certification.adobe.com/courses/?/courses){target="_blank"}.
+Wählen Sie Ihre Stufe und Ihr Aufgabengebiet aus, um Details zur Zertifizierungsprüfung zu finden, auf Studienressourcen zuzugreifen und Ihre Prüfung zu planen. Sie können auch den [vollständigen Zertifizierungskatalog](https://certification.adobe.com/certifications){target="_blank"} sowie [technische Schulungen) &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}.
 
 **Professional**
 
 * [Certified Professional - NEU](https://certification.adobe.com/certification/business-practitioner-professional3/595){target="_blank"} <!--AD0-E561-->
-* [Certified Professional - geht am 23. Oktober 2026 ](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
+* [Certified Professional - geht am 23. Oktober 2026 &#x200B;](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
 * [Certified Professional - Japanisch](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-J-->
 * [Digital Marketer](https://certification.adobe.com/certification/digital-marketer-professional){target="_blank"} (Beachten Sie, dass diese Zertifizierung nicht für die Anforderungen der Partner zählt.) <!--AD0-E564-->
 
 **Experte**
 
 * [Geschäftspraktiker - NEU](https://certification.adobe.com/certification/marketo-engage-business-practitioner-expert2/1383){target="_blank"}<!--AD0-E562-->
-* [Geschäftspraktiker - geht am 23. Oktober 2026 in den ](https://certification.adobe.com/certification/marketo-engage-business-practitioner-expert){target="_blank"}<!--AD0-E559-->
+* [Geschäftspraktiker - geht am 23. Oktober 2026 in den &#x200B;](https://certification.adobe.com/certification/marketo-engage-business-practitioner-expert){target="_blank"}<!--AD0-E559-->
 * [Geschäftspraktiker - Japanisch](https://certification.adobe.com/certification/marketo-engage-business-practitioner-expert){target="_blank"} <!--AD0-E559-J-->
 
 **Master**
