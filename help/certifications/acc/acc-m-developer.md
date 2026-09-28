@@ -1,20 +1,29 @@
 ---
 title: Architekten-Master-Zertifizierung
-description: Erfahren Sie, wie Sie in Adobe Architect Master werden [!DNL Campaign Classic].
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe Architect Master in [!DNL Campaign Classic] werden.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
 badge: label="Prüfung AD0-E328" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
-
 ---
-
 # Zertifizierungs-Journey für Adobe [!DNL Campaign Classic] Architect Master
 
 >[!NOTE]
@@ -38,7 +47,7 @@ Alles, was Sie auf dieser Seite gefunden haben und vieles mehr!
 
 ### Wo fange ich an?
 
-[Melden Sie sich noch heute &#x200B;](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
+[Melden Sie sich noch heute ](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
 
 Dann erkunden Sie unsere [Kurse](https://certification.adobe.com/courses/?/courses){target="_blank"}, [Zertifizierungen](https://certification.adobe.com/certifications){target="_blank"}, [Community](https://certification.adobe.com/community/){target="_blank"} und [anpassbares Dashboard](https://certification.adobe.com/user/dashboard){target="_blank"}.
 

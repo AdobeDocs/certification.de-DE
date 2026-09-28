@@ -5,21 +5,25 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-hidefromtoc: true
-source-git-commit: a033bd6a57abf06eb6712cf1aca076b39e8a4739
+hidefromtoc: 'yes'
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 7%
-
+source-wordcount: '392'
+ht-degree: 6%
 ---
-
 # Häufig gestellte Fragen zur Adobe-Zertifizierung
 
 >[!NOTE]
 >
->**Das Adobe Digital Experience-Zertifizierungsprogramm wurde in das neue [Adobe-Zertifizierungsportal &#x200B;](https://certification.adobe.com/){target="_blank"}!** Im Folgenden finden Sie Informationen zu den neuen Funktionen und Anleitungen für die ersten Schritte.
+>**Das Zertifizierungsprogramm für Adobe Digital Experience wurde in das neue [Adobe-Zertifizierungsportal verschoben](https://certification.adobe.com/){target="_blank"}!** Im Folgenden finden Sie Informationen zu den neuen Funktionen und Anleitungen für die ersten Schritte.
 
-## Was steht auf dem neuen Adobe-Zertifizierungsportal?
+## Was gibt es im neuen Adobe-Zertifizierungsportal?
 
 Alles, was Sie auf dieser Seite gefunden haben und vieles mehr!
 
@@ -36,13 +40,13 @@ Alles, was Sie auf dieser Seite gefunden haben und vieles mehr!
 
 ### Wo fange ich an?
 
-[Melden Sie sich noch heute &#x200B;](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
+[Melden Sie sich noch heute ](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
 
 Dann erkunden Sie unsere [Kurse](https://certification.adobe.com/courses/?/courses){target="_blank"}, [Zertifizierungen](https://certification.adobe.com/certifications){target="_blank"}, [Community](https://certification.adobe.com/community/){target="_blank"} und [anpassbares Dashboard](https://certification.adobe.com/user/dashboard){target="_blank"}.
 
 ### Wie plane ich eine Prüfung?
 
-Sie können jetzt eine Prüfung im Adobe-Zertifizierungsportal planen.
+Sie können jetzt eine Prüfung im Zertifizierungsportal von Adobe planen.
 
 1. Navigieren Sie zum [Zertifizierungskatalog](https://certification.adobe.com/certifications){target="_blank"}.
 2. Finde deine Prüfung
@@ -52,15 +56,15 @@ Sie können jetzt eine Prüfung im Adobe-Zertifizierungsportal planen.
 
 ### Wo finde ich meinen Zertifizierungsverlauf?
 
-Ihre aktiven Zertifizierungen wurden bereits auf [Ihr Konto](https://certification.adobe.com/user/certifications){target="_blank"} im Adobe-Zertifizierungsportal migriert. Einige Aspekte Ihres Kontos sind möglicherweise noch nicht vollständig ausgefüllt, während wir Ihre verbleibenden Benutzerdaten migrieren. Vielen Dank für Ihre Geduld!
+Ihre aktiven Zertifizierungen wurden bereits [Ihr Konto](https://certification.adobe.com/user/certifications){target="_blank"} im Zertifizierungsportal von Adobe migriert. Einige Aspekte Ihres Kontos sind möglicherweise noch nicht vollständig ausgefüllt, während wir Ihre verbleibenden Benutzerdaten migrieren. Vielen Dank für Ihre Geduld!
 
 ### Wo finde ich meine Gutscheine?
 
-Ihre Gutscheine (einschließlich der von Xvoucher übertragenen Gutscheine) werden in [Ihrem Konto](https://certification.adobe.com/user/purchases){target="_blank"} auf dem Adobe-Zertifizierungsportal angezeigt.
+Ihre Gutscheine (einschließlich der von Xvoucher übertragenen Gutscheine) werden in [Ihrem Konto](https://certification.adobe.com/user/purchases){target="_blank"} im Adobe-Zertifizierungsportal angezeigt.
 
 ### Wo ist mein Zertifizierungsabzeichen?
 
-Ihr Abzeichen ist jetzt auf dem Adobe-Zertifizierungsportal verfügbar.
+Ihr Abzeichen ist jetzt im Zertifizierungsportal von Adobe verfügbar.
 
 1. Navigieren Sie **Mein Konto** > [Leistungen](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
 2. Suchen Sie das Widget **Aktive**&quot;.

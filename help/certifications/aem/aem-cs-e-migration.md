@@ -1,20 +1,27 @@
 ---
 title: Zertifizierung durch Fachleute
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe [!DNL Experience Manager] Experte werden.
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe-[!DNL Experience Manager] werden.
 solution: Experience Manager as a Cloud Service, Experience Manager
 product: Experience Manager
 role: Developer
 badge: label="Prüfung AD0-E136" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: a277b79cc26e5c8ae43c2f4388a8cdb21ea0996d
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '386'
 ht-degree: 0%
-
 ---
-
 # Zertifizierungs-Journey für Adobe [!DNL Experience Manager] as a Cloud Service Migrationsexperte
 
 >[!NOTE]
@@ -38,7 +45,7 @@ Alles, was Sie auf dieser Seite gefunden haben und vieles mehr!
 
 ### Wo fange ich an?
 
-[Melden Sie sich noch heute &#x200B;](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
+[Melden Sie sich noch heute ](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
 
 Dann erkunden Sie unsere [Kurse](https://certification.adobe.com/courses/?/courses){target="_blank"}, [Zertifizierungen](https://certification.adobe.com/certifications){target="_blank"}, [Community](https://certification.adobe.com/community/){target="_blank"} und [anpassbares Dashboard](https://certification.adobe.com/user/dashboard){target="_blank"}.
 

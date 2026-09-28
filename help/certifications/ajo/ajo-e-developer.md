@@ -1,19 +1,26 @@
 ---
 title: Zertifizierung durch Fachleute
-description: Erfahren Sie, wie Sie ein zertifizierter Adobe [!DNL Journey Optimizer] Entwickler-Experte werden.
+description: Erfahren Sie, wie Sie ein zertifizierter Adobe [!DNL Journey Optimizer] Developer Expert werden.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="Prüfung AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-hidefromtoc: true
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+hidefromtoc: 'yes'
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '383'
 ht-degree: 0%
-
 ---
-
 # Zertifizierungs-Journey für Adobe [!DNL Journey Optimizer] Developer Expert
 
 >[!NOTE]
@@ -37,7 +44,7 @@ Alles, was Sie auf dieser Seite gefunden haben und vieles mehr!
 
 ### Wo fange ich an?
 
-[Melden Sie sich noch heute &#x200B;](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
+[Melden Sie sich noch heute ](https://certification.adobe.com/){target="_blank"} und überprüfen Sie Ihre Profildaten.
 
 Dann erkunden Sie unsere [Kurse](https://certification.adobe.com/courses/?/courses){target="_blank"}, [Zertifizierungen](https://certification.adobe.com/certifications){target="_blank"}, [Community](https://certification.adobe.com/community/){target="_blank"} und [anpassbares Dashboard](https://certification.adobe.com/user/dashboard){target="_blank"}.
 
@@ -200,7 +207,7 @@ You should have at least one year experience working with various CDP and market
 
 **Section 1: Administration and configuration**
 
-* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
     * Access Control
     * Configuring Messages
@@ -208,12 +215,12 @@ You should have at least one year experience working with various CDP and market
     * Guardrails
     * Journeys
   
-* [Sandboxes overview](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=de){target="_blank"} 
+* [Sandboxes overview](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html){target="_blank"} 
 
 
 **Section 2: AEP Foundation**
 
-* [Adobe [!DNL Experience Platform] Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de){target="_blank"} 
+* [Adobe [!DNL Experience Platform] Documentation](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"} 
 
     * XDM guide
     * Real-time Customer Profile guide
@@ -224,24 +231,24 @@ You should have at least one year experience working with various CDP and market
     * Segmentation Service guide
     * Schemas
 
-* [Introduction to Adobe [!DNL Experience Platform] course](https://experienceleague.adobe.com/?lang=de&recommended=ExperiencePlatform-U-1-2020.1){target="_blank"} 
-* [Getting started with Adobe [!DNL Experience Platform] for Data Engineers course](https://experienceleague.adobe.com/?lang=de&recommended=ExperiencePlatform-D-1-2020.2){target="_blank"} 
-* [Data Ingestion for Data Engineers course](https://experienceleague.adobe.com/?lang=de&recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"} 
-* [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=de){target="_blank"} 
+* [Introduction to Adobe [!DNL Experience Platform] course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"} 
+* [Getting started with Adobe [!DNL Experience Platform] for Data Engineers course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"} 
+* [Data Ingestion for Data Engineers course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"} 
+* [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"} 
 
 **Section 3: Offer Decisioning**
 
-* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
     * Decision management
 
-* [Adobe [!DNL Journey Optimizer] Videos and Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de){target="_blank"} 
+* [Adobe [!DNL Journey Optimizer] Videos and Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"} 
 
     * Create journeys
 
 **Section 4: Content Authoring**
 
-* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"} 
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"} 
 
     * Design content
     * Journeys
@@ -251,7 +258,7 @@ You should have at least one year experience working with various CDP and market
 
 **Section 5: Journey Orchestration**
 
-* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=de){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
     * Journeys
     * Track and monitor
@@ -321,7 +328,7 @@ You should have at least one year experience working with various CDP and market
 
 ## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=de){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com).
 

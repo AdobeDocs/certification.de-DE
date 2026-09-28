@@ -3,16 +3,20 @@ title: Übersicht über die Experience Manager-Zertifizierung
 description: Überblick über die Zertifizierungsoptionen für Adobe Experience Manager
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 716bc7ce8e1b1f3ca5b71056bccac926bf5b8039
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '224'
 ht-degree: 0%
-
 ---
-
 # Übersicht über die Adobe [!DNL Experience Manager]-Zertifizierung
 
-Wählen Sie Ihre Stufe und Ihr Aufgabengebiet aus, um Details zur Zertifizierungsprüfung zu finden, auf Studienressourcen zuzugreifen und Ihre Prüfung zu planen. Sie können auch den [vollständigen Zertifizierungskatalog](https://certification.adobe.com/certifications){target="_blank"} sowie [technische Schulungen) &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}.
+Wählen Sie Ihre Stufe und Ihr Aufgabengebiet aus, um Details zur Zertifizierungsprüfung zu finden, auf Studienressourcen zuzugreifen und Ihre Prüfung zu planen. Sie können auch den [vollständigen Zertifizierungskatalog](https://certification.adobe.com/certifications){target="_blank"} sowie [technische Schulungen) ](https://certification.adobe.com/courses/?/courses){target="_blank"}.
 
 **Professional**
 
