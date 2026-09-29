@@ -4,21 +4,22 @@ description: Erfahren Sie, wie Sie sich bei Adobe zertifizieren lassen. Hier fin
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-hidefromtoc: true
-source-git-commit: a033bd6a57abf06eb6712cf1aca076b39e8a4739
+hidefromtoc: 'yes'
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '391'
 ht-degree: 0%
-
 ---
-
 # So werden Sie zertifiziert{#how}
 
 >[!NOTE]
 >
->**Das Adobe Digital Experience-Zertifizierungsprogramm wurde in das neue [Adobe-Zertifizierungsportal &#x200B;](https://certification.adobe.com/){target="_blank"}!** Im Folgenden finden Sie Informationen zu den neuen Funktionen und Anleitungen für die ersten Schritte.
+>**Das Zertifizierungsprogramm für Adobe Digital Experience wurde in das neue [Adobe-Zertifizierungsportal verschoben](https://certification.adobe.com/){target="_blank"}!** Im Folgenden finden Sie Informationen zu den neuen Funktionen und Anleitungen für die ersten Schritte.
 
-## Was steht auf dem neuen Adobe-Zertifizierungsportal?
+## Was gibt es im neuen Adobe-Zertifizierungsportal?
 
 Alles, was Sie auf dieser Seite gefunden haben und vieles mehr!
 
@@ -41,7 +42,7 @@ Dann erkunden Sie unsere [Kurse](https://certification.adobe.com/courses/?/cours
 
 ### Wie plane ich eine Prüfung?
 
-Sie können jetzt eine Prüfung im Adobe-Zertifizierungsportal planen.
+Sie können jetzt eine Prüfung im Zertifizierungsportal von Adobe planen.
 
 1. Navigieren Sie zum [Zertifizierungskatalog](https://certification.adobe.com/certifications){target="_blank"}.
 2. Finde deine Prüfung
@@ -51,15 +52,15 @@ Sie können jetzt eine Prüfung im Adobe-Zertifizierungsportal planen.
 
 ### Wo finde ich meinen Zertifizierungsverlauf?
 
-Ihre aktiven Zertifizierungen wurden bereits auf [Ihr Konto](https://certification.adobe.com/user/certifications){target="_blank"} im Adobe-Zertifizierungsportal migriert. Einige Aspekte Ihres Kontos sind möglicherweise noch nicht vollständig ausgefüllt, während wir Ihre verbleibenden Benutzerdaten migrieren. Vielen Dank für Ihre Geduld!
+Ihre aktiven Zertifizierungen wurden bereits [Ihr Konto](https://certification.adobe.com/user/certifications){target="_blank"} im Zertifizierungsportal von Adobe migriert. Einige Aspekte Ihres Kontos sind möglicherweise noch nicht vollständig ausgefüllt, während wir Ihre verbleibenden Benutzerdaten migrieren. Vielen Dank für Ihre Geduld!
 
 ### Wo finde ich meine Gutscheine?
 
-Ihre Gutscheine (einschließlich der von Xvoucher übertragenen Gutscheine) werden in [Ihrem Konto](https://certification.adobe.com/user/purchases){target="_blank"} auf dem Adobe-Zertifizierungsportal angezeigt.
+Ihre Gutscheine (einschließlich der von Xvoucher übertragenen Gutscheine) werden in [Ihrem Konto](https://certification.adobe.com/user/purchases){target="_blank"} im Adobe-Zertifizierungsportal angezeigt.
 
 ### Wo ist mein Zertifizierungsabzeichen?
 
-Ihr Abzeichen ist jetzt auf dem Adobe-Zertifizierungsportal verfügbar.
+Ihr Abzeichen ist jetzt im Zertifizierungsportal von Adobe verfügbar.
 
 1. Navigieren Sie **Mein Konto** > [Leistungen](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
 2. Suchen Sie das Widget **Aktive**&quot;.

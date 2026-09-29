@@ -1,20 +1,27 @@
 ---
 title: Zertifizierung für Fachpersonal
-description: Erfahren Sie, wie Sie sich als  [!DNL Adobe Analytics]  zertifizieren lassen.
+description: Erfahren Sie, wie Sie sich als [!DNL Adobe Analytics] Business Practitioner zertifizieren lassen.
 solution: Analytics
 product: Analytics
 role: User
 badge: label="Prüfung AD0-E212" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '387'
 ht-degree: 0%
-
 ---
-
 # Journey für Adobe [!DNL Analytics] Business Practitioner Professional
 
 >[!NOTE]

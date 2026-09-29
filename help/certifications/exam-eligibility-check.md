@@ -1,16 +1,17 @@
 ---
 title: Qualifizierungsprüfer für Zertifizierungsneustart
-description: Erfahren Sie mehr über die Berechtigung zur Prüfung für den Neustart eines Zertifizierungsprogramms auf Adobe.
+description: Erfahren Sie mehr über die Berechtigung zur Prüfung für den Neustart eines Zertifizierungsprogramms bei Adobe.
 recommendations: disable, exclude
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 23d948de-7d3d-4ccf-a55f-51bf117a41c8
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 5%
-
+source-wordcount: '669'
+ht-degree: 3%
 ---
-
 # Qualifizierungsprüfer für Zertifizierungsneustart
 
 In der folgenden Tabelle sehen Sie die Prüfungen, die für das Neustartprogramm geeignet sind.

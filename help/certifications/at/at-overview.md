@@ -3,13 +3,17 @@ title: Target-Zertifizierung - Übersicht
 description: Überblick über die Zertifizierungsoptionen für Adobe Target
 solution: Target
 exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
-source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
+product_v2:
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '108'
 ht-degree: 0%
-
 ---
-
 # [!DNL Adobe Target] Zertifizierungsübersicht
 
 Wählen Sie Ihre Stufe und Ihr Aufgabengebiet aus, um Details zur Zertifizierungsprüfung zu finden, auf Studienressourcen zuzugreifen und Ihre Prüfung zu planen. Sie können auch den [vollständigen Zertifizierungskatalog](https://certification.adobe.com/certifications){target="_blank"} sowie [technische Schulungen) &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}.

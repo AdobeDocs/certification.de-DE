@@ -1,19 +1,20 @@
 ---
 title: Professionelle technische Zertifizierungen
 description: Überblick über Zertifizierungsoptionen für professionelle Benutzer
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '77'
 ht-degree: 16%
-
 ---
-
 # Professionelle technische Zertifizierungen
 
 **Werbung**
 
 * [Geschäftspraktiker (Suche)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
-* [Geschäftspraktiker (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
+* [Business Practitioner (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
 **Analytics**
 
